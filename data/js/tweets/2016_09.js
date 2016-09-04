@@ -1,6 +1,1945 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 20:38:28 +0000 2016",
+		"id": 772171926408077300,
+		"id_str": "772171926408077312",
+		"text": "@GaddieWindage its omitted entirely from the news feed and we all agree never to speak of it.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GaddieWindage",
+					"name": "Ronald Keith Gaddie",
+					"id": 290774297,
+					"id_str": "290774297",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 772159831507476500,
+		"in_reply_to_status_id_str": "772159831507476480",
+		"in_reply_to_user_id": 290774297,
+		"in_reply_to_user_id_str": "290774297",
+		"in_reply_to_screen_name": "GaddieWindage",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 606,
+			"listed_count": 93,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1041,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 03 17:04:31 +0000 2016",
+		"id": 772118083750076400,
+		"id_str": "772118083750076416",
+		"text": "RT @MrsBeck25: @KeeganSLW THIS---&gt; Made me smile! #oklaed #jrcoe #iplzaOU https://t.co/evzsU4YZ4f",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oklaed",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "jrcoe",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "iplzaOU",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrsBeck25",
+					"name": "Anne Beck, M.Ed",
+					"id": 366171446,
+					"id_str": "366171446",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 771863132138451000,
+					"id_str": "771863132138450945",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/CrY1bd5VMAEeUnS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrY1bd5VMAEeUnS.jpg",
+					"url": "https://t.co/evzsU4YZ4f",
+					"display_url": "pic.twitter.com/evzsU4YZ4f",
+					"expanded_url": "https://twitter.com/MrsBeck25/status/771863140774518784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 771863140774518800,
+					"source_status_id_str": "771863140774518784",
+					"source_user_id": 366171446,
+					"source_user_id_str": "366171446"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 771863132138451000,
+					"id_str": "771863132138450945",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/CrY1bd5VMAEeUnS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrY1bd5VMAEeUnS.jpg",
+					"url": "https://t.co/evzsU4YZ4f",
+					"display_url": "pic.twitter.com/evzsU4YZ4f",
+					"expanded_url": "https://twitter.com/MrsBeck25/status/771863140774518784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 771863140774518800,
+					"source_status_id_str": "771863140774518784",
+					"source_user_id": 366171446,
+					"source_user_id_str": "366171446"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 606,
+			"listed_count": 93,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1041,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 03 00:11:27 +0000 2016",
+			"id": 771863140774518800,
+			"id_str": "771863140774518784",
+			"text": "@KeeganSLW THIS---&gt; Made me smile! #oklaed #jrcoe #iplzaOU https://t.co/evzsU4YZ4f",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oklaed",
+						"indices": [
+							38,
+							45
+						]
+					},
+					{
+						"text": "jrcoe",
+						"indices": [
+							46,
+							52
+						]
+					},
+					{
+						"text": "iplzaOU",
+						"indices": [
+							53,
+							61
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KeeganSLW",
+						"name": "Keegan Long-Wheeler",
+						"id": 117573509,
+						"id_str": "117573509",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 771863132138451000,
+						"id_str": "771863132138450945",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/CrY1bd5VMAEeUnS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrY1bd5VMAEeUnS.jpg",
+						"url": "https://t.co/evzsU4YZ4f",
+						"display_url": "pic.twitter.com/evzsU4YZ4f",
+						"expanded_url": "https://twitter.com/MrsBeck25/status/771863140774518784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 771863132138451000,
+						"id_str": "771863132138450945",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/CrY1bd5VMAEeUnS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrY1bd5VMAEeUnS.jpg",
+						"url": "https://t.co/evzsU4YZ4f",
+						"display_url": "pic.twitter.com/evzsU4YZ4f",
+						"expanded_url": "https://twitter.com/MrsBeck25/status/771863140774518784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 117573509,
+			"in_reply_to_user_id_str": "117573509",
+			"in_reply_to_screen_name": "KeeganSLW",
+			"user": {
+				"id": 366171446,
+				"id_str": "366171446",
+				"name": "Anne Beck, M.Ed",
+				"screen_name": "MrsBeck25",
+				"location": "University of Oklahoma ",
+				"description": "Wife, Mom, iPad Enthusiast, & Ed Tech for @oueducation. Using Twitter 2 learn, share, & connect. Co-Founder of #OklaEd chat @EdCampOKC Organizer #BoomerSooner",
+				"url": "https://t.co/QfsZR6Pynr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QfsZR6Pynr",
+								"expanded_url": "http://annebeck.oucreate.com",
+								"display_url": "annebeck.oucreate.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3263,
+				"friends_count": 2258,
+				"listed_count": 213,
+				"created_at": "Thu Sep 01 18:05:01 +0000 2011",
+				"favourites_count": 3804,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15806,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440337985200865280/-oD3nkh8.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440337985200865280/-oD3nkh8.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/732057932230053888/ctBrdIA-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/732057932230053888/ctBrdIA-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/366171446/1456282300",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "27de1a6e27075587",
+				"url": "https://api.twitter.com/1.1/geo/id/27de1a6e27075587.json",
+				"place_type": "city",
+				"name": "Norman",
+				"full_name": "Norman, OK",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-97.51982,
+								35.15327
+							],
+							[
+								-97.370527,
+								35.15327
+							],
+							[
+								-97.370527,
+								35.291332
+							],
+							[
+								-97.51982,
+								35.291332
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 03 12:39:45 +0000 2016",
+		"id": 772051452944539600,
+		"id_str": "772051452944539648",
+		"text": "RT @EmilyVirginOK: Was that one big enough to start a statewide conversation? #earthquake",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "earthquake",
+					"indices": [
+						78,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EmilyVirginOK",
+					"name": "Emily Virgin",
+					"id": 135193670,
+					"id_str": "135193670",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 606,
+			"listed_count": 93,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1041,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 03 12:38:42 +0000 2016",
+			"id": 772051190171340800,
+			"id_str": "772051190171340802",
+			"text": "Was that one big enough to start a statewide conversation? #earthquake",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "earthquake",
+						"indices": [
+							59,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135193670,
+				"id_str": "135193670",
+				"name": "Emily Virgin",
+				"screen_name": "EmilyVirginOK",
+				"location": "Norman, OK",
+				"description": "Oklahoma State Representative from House District 44 in central Norman. Boomer Sooner!",
+				"url": "http://www.emilyvirgin.com/",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://www.emilyvirgin.com/",
+								"expanded_url": null,
+								"indices": [
+									0,
+									27
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4326,
+				"friends_count": 3314,
+				"listed_count": 130,
+				"created_at": "Tue Apr 20 16:04:32 +0000 2010",
+				"favourites_count": 833,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1517,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/94639598/Logo_small.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/94639598/Logo_small.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/758866478057656324/p7wADcLu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/758866478057656324/p7wADcLu_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "27de1a6e27075587",
+				"url": "https://api.twitter.com/1.1/geo/id/27de1a6e27075587.json",
+				"place_type": "city",
+				"name": "Norman",
+				"full_name": "Norman, OK",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-97.51982,
+								35.15327
+							],
+							[
+								-97.370527,
+								35.15327
+							],
+							[
+								-97.370527,
+								35.291332
+							],
+							[
+								-97.51982,
+								35.291332
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 03 12:24:30 +0000 2016",
+		"id": 772047616662089700,
+		"id_str": "772047616662089733",
+		"text": "RT @OUnation: Hearing reports that Samaje Perine just rolled out of bed... that explains the earthquake. Everyone can go back to bed. #Boom…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Boomer",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OUnation",
+					"name": "OU Nation",
+					"id": 237066298,
+					"id_str": "237066298",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 606,
+			"listed_count": 93,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1041,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 03 12:11:08 +0000 2016",
+			"id": 772044255028060200,
+			"id_str": "772044255028060161",
+			"text": "Hearing reports that Samaje Perine just rolled out of bed... that explains the earthquake. Everyone can go back to bed. #Boomer",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Boomer",
+						"indices": [
+							120,
+							127
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 237066298,
+				"id_str": "237066298",
+				"name": "OU Nation",
+				"screen_name": "OUnation",
+				"location": "Oklahoma",
+				"description": "Oklahoma Sports Information in 140 characters or less.\nInstagram: @OUnation\nVine: @OUnation\n #BOOMER",
+				"url": "http://t.co/qF7Qlj2WlN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qF7Qlj2WlN",
+								"expanded_url": "http://www.ounation.com",
+								"display_url": "ounation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34934,
+				"friends_count": 647,
+				"listed_count": 199,
+				"created_at": "Wed Jan 12 00:43:46 +0000 2011",
+				"favourites_count": 62,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25593,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "990000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/320798801/OUnation-Twitter-noCom.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/320798801/OUnation-Twitter-noCom.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2409420968/rrou5xivturmelefqtdl_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2409420968/rrou5xivturmelefqtdl_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/237066298/1348177555",
+				"profile_link_color": "660223",
+				"profile_sidebar_border_color": "990000",
+				"profile_sidebar_fill_color": "CFCFCF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 562,
+			"favorite_count": 529,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 562,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 03 12:24:02 +0000 2016",
+		"id": 772047497535459300,
+		"id_str": "772047497535459328",
+		"text": "RT @NJSooner1: So thankful to hear no damage yet reported at OU!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NJSooner1",
+					"name": "Nick Hathaway",
+					"id": 292735409,
+					"id_str": "292735409",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 606,
+			"listed_count": 93,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1041,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 03 12:14:16 +0000 2016",
+			"id": 772045041216790500,
+			"id_str": "772045041216790530",
+			"text": "So thankful to hear no damage yet reported at OU!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 292735409,
+				"id_str": "292735409",
+				"name": "Nick Hathaway",
+				"screen_name": "NJSooner1",
+				"location": "Norman, OK",
+				"description": "Exec VP of OU, husband, father, foodie, wine enthusiast, press nut, green thumb wanna-be, fan of Downeast Maine, Living the Dream!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 952,
+				"friends_count": 1524,
+				"listed_count": 27,
+				"created_at": "Wed May 04 04:12:42 +0000 2011",
+				"favourites_count": 1067,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1920,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/760645072157151232/RJx6AvzX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/760645072157151232/RJx6AvzX_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 03 12:18:53 +0000 2016",
+		"id": 772046203458498600,
+		"id_str": "772046203458498564",
+		"text": "RT @MikeHamernik: Preliminary info: M5.8 quake centered in northern Oklahoman. Felt as far away as St. Louis &amp; southern IL. #okquake  https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "okquake",
+					"indices": [
+						128,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MikeHamernik",
+					"name": "Mike Hamernik",
+					"id": 44270952,
+					"id_str": "44270952",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NkcdSuY2hJ",
+					"expanded_url": "https://twitter.com/lastquake/status/772043920083746817",
+					"display_url": "twitter.com/lastquake/stat…",
+					"indices": [
+						143,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 606,
+			"listed_count": 93,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1041,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 03 12:12:33 +0000 2016",
+			"id": 772044610881413100,
+			"id_str": "772044610881413120",
+			"text": "Preliminary info: M5.8 quake centered in northern Oklahoman. Felt as far away as St. Louis &amp; southern IL. #okquake  https://t.co/NkcdSuY2hJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "okquake",
+						"indices": [
+							110,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NkcdSuY2hJ",
+						"expanded_url": "https://twitter.com/lastquake/status/772043920083746817",
+						"display_url": "twitter.com/lastquake/stat…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44270952,
+				"id_str": "44270952",
+				"name": "Mike Hamernik",
+				"screen_name": "MikeHamernik",
+				"location": "Chicago, IL",
+				"description": "Born & raised in Chicago on the shores of Lake Michigan. Breaking Weather. Travel. Bears. Bulls. Blackhawks. Meteorologist for WGN-TV, WGN720 & CLTV.",
+				"url": "https://t.co/PTwYN09M0n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PTwYN09M0n",
+								"expanded_url": "https://m.facebook.com/Mike-Hamernik-1417212315182866/",
+								"display_url": "m.facebook.com/Mike-Hamernik-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6250,
+				"friends_count": 1618,
+				"listed_count": 336,
+				"created_at": "Wed Jun 03 02:26:13 +0000 2009",
+				"favourites_count": 7831,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17048,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/103291109/Vorts1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/103291109/Vorts1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1742506222/.meCIMG0284x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1742506222/.meCIMG0284x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44270952/1353421336",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 772043920083746800,
+			"quoted_status_id_str": "772043920083746817",
+			"quoted_status": {
+				"created_at": "Sat Sep 03 12:09:49 +0000 2016",
+				"id": 772043920083746800,
+				"id_str": "772043920083746817",
+				"text": "strong #earthquake shakes #Oklahoma 7 min ago. More info at: https://t.co/DyTQ9cF8d1 https://t.co/IuFo3a4y2a",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "earthquake",
+							"indices": [
+								7,
+								18
+							]
+						},
+						{
+							"text": "Oklahoma",
+							"indices": [
+								26,
+								35
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/DyTQ9cF8d1",
+							"expanded_url": "http://www.emsc-csem.org/Earthquake/earthquake.php?id=528303",
+							"display_url": "emsc-csem.org/Earthquake/ear…",
+							"indices": [
+								61,
+								84
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 772043917156053000,
+							"id_str": "772043917156052992",
+							"indices": [
+								85,
+								108
+							],
+							"media_url": "http://pbs.twimg.com/media/CrbZ2ikWcAAmMDI.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CrbZ2ikWcAAmMDI.jpg",
+							"url": "https://t.co/IuFo3a4y2a",
+							"display_url": "pic.twitter.com/IuFo3a4y2a",
+							"expanded_url": "https://twitter.com/LastQuake/status/772043920083746817/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 667,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 710,
+									"h": 696,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 710,
+									"h": 696,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 772043917156053000,
+							"id_str": "772043917156052992",
+							"indices": [
+								85,
+								108
+							],
+							"media_url": "http://pbs.twimg.com/media/CrbZ2ikWcAAmMDI.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CrbZ2ikWcAAmMDI.jpg",
+							"url": "https://t.co/IuFo3a4y2a",
+							"display_url": "pic.twitter.com/IuFo3a4y2a",
+							"expanded_url": "https://twitter.com/LastQuake/status/772043920083746817/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 667,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 710,
+									"h": 696,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 710,
+									"h": 696,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.emsc-csem.org/\" rel=\"nofollow\">EMSC Felt earthquakes</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 203226820,
+					"id_str": "203226820",
+					"name": "EMSC",
+					"screen_name": "LastQuake",
+					"location": "based in Paris, works globally",
+					"description": "Independant Scientifc Organization and provider of real-time earthquake warning. Share information with us through our app :  https://t.co/AxO8bJddn5",
+					"url": "http://t.co/14PnLw0TGr",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/14PnLw0TGr",
+									"expanded_url": "http://www.emsc-csem.org",
+									"display_url": "emsc-csem.org",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/AxO8bJddn5",
+									"expanded_url": "http://www.emsc-csem.org/service/application/",
+									"display_url": "emsc-csem.org/service/applic…",
+									"indices": [
+										126,
+										149
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 24596,
+					"friends_count": 235,
+					"listed_count": 733,
+					"created_at": "Fri Oct 15 20:25:28 +0000 2010",
+					"favourites_count": 525,
+					"utc_offset": 7200,
+					"time_zone": "Europe/Paris",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 16205,
+					"lang": "fr",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "050505",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441215617631145984/sx1tgjj2.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441215617631145984/sx1tgjj2.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/669532787897147392/hQM844QV_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/669532787897147392/hQM844QV_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/203226820/1458131762",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "030303",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 20,
+				"favorite_count": 18,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 18,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 772043920083746800,
+		"quoted_status_id_str": "772043920083746817",
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 03 02:05:29 +0000 2016",
+		"id": 771891834347921400,
+		"id_str": "771891834347921408",
+		"text": "RT @MarkMorvant: Purdue to dedicate $90 million academic residential college | Campus | https://t.co/RSkIflcGtf https://t.co/iu4pPn0TG8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkMorvant",
+					"name": "Mark Morvant",
+					"id": 2284688232,
+					"id_str": "2284688232",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RSkIflcGtf",
+					"expanded_url": "http://purdueexponent.org",
+					"display_url": "purdueexponent.org",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/iu4pPn0TG8",
+					"expanded_url": "http://www.purdueexponent.org/campus/article_2416b56e-707b-11e6-9314-97246ddf755a.html",
+					"display_url": "purdueexponent.org/campus/article…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 606,
+			"listed_count": 93,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1041,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 02 22:07:03 +0000 2016",
+			"id": 771831832358682600,
+			"id_str": "771831832358682624",
+			"text": "Purdue to dedicate $90 million academic residential college | Campus | https://t.co/RSkIflcGtf https://t.co/iu4pPn0TG8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RSkIflcGtf",
+						"expanded_url": "http://purdueexponent.org",
+						"display_url": "purdueexponent.org",
+						"indices": [
+							71,
+							94
+						]
+					},
+					{
+						"url": "https://t.co/iu4pPn0TG8",
+						"expanded_url": "http://www.purdueexponent.org/campus/article_2416b56e-707b-11e6-9314-97246ddf755a.html",
+						"display_url": "purdueexponent.org/campus/article…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2284688232,
+				"id_str": "2284688232",
+				"name": "Mark Morvant",
+				"screen_name": "MarkMorvant",
+				"location": "University of Oklahoma",
+				"description": "Teacher, Innovator, Educational Visionary, Professor, Executive Director, Associate Provost, Senior Fellow Dunham College https://t.co/rrUnpTqiac",
+				"url": "https://t.co/VGhKeB5ZaD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VGhKeB5ZaD",
+								"expanded_url": "http://markmorvant.com",
+								"display_url": "markmorvant.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rrUnpTqiac",
+								"expanded_url": "http://ou.edu/residentialcolleges",
+								"display_url": "ou.edu/residentialcol…",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1218,
+				"friends_count": 967,
+				"listed_count": 118,
+				"created_at": "Fri Jan 10 07:19:03 +0000 2014",
+				"favourites_count": 18632,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9055,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/422181283402219520/VTpLrcFn_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/422181283402219520/VTpLrcFn_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2284688232/1408561253",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 03 02:03:48 +0000 2016",
+		"id": 771891414707736600,
+		"id_str": "771891414707736577",
+		"text": "Stranger Things used the word \"squelching\" repeatedly in its captions. \"Moist squelching\" has to be the most #DisgustingWords",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DisgustingWords",
+					"indices": [
+						109,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 606,
+			"listed_count": 93,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1041,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4202,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 02 16:39:33 +0000 2016",
 		"id": 771749415530790900,
 		"id_str": "771749415530790912",
