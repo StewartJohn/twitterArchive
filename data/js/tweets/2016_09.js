@@ -1,6 +1,895 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 14:00:01 +0000 2016",
+		"id": 773158818641391600,
+		"id_str": "773158818641391616",
+		"text": "RT @sclayton29: Need to manage some data? We got workshops for that! #ResBaz #ResBazOU @OU_Libraries https://t.co/zCrzEoXORN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ResBaz",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "ResBazOU",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sclayton29",
+					"name": "Sarah Clayton",
+					"id": 139928649,
+					"id_str": "139928649",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "OU_Libraries",
+					"name": "OU Libraries",
+					"id": 25298309,
+					"id_str": "25298309",
+					"indices": [
+						87,
+						100
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 773158648247824400,
+					"id_str": "773158648247824385",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/CrrPsbfVMAEHr1o.png",
+					"media_url_https": "https://pbs.twimg.com/media/CrrPsbfVMAEHr1o.png",
+					"url": "https://t.co/zCrzEoXORN",
+					"display_url": "pic.twitter.com/zCrzEoXORN",
+					"expanded_url": "https://twitter.com/sclayton29/status/773158671995981828/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2007,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 131,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 231,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 773158671995981800,
+					"source_status_id_str": "773158671995981828",
+					"source_user_id": 139928649,
+					"source_user_id_str": "139928649"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 773158648247824400,
+					"id_str": "773158648247824385",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/CrrPsbfVMAEHr1o.png",
+					"media_url_https": "https://pbs.twimg.com/media/CrrPsbfVMAEHr1o.png",
+					"url": "https://t.co/zCrzEoXORN",
+					"display_url": "pic.twitter.com/zCrzEoXORN",
+					"expanded_url": "https://twitter.com/sclayton29/status/773158671995981828/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2007,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 131,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 231,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 773158671995981800,
+					"source_status_id_str": "773158671995981828",
+					"source_user_id": 139928649,
+					"source_user_id_str": "139928649"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 532,
+			"friends_count": 606,
+			"listed_count": 93,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1044,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4206,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 06 13:59:26 +0000 2016",
+			"id": 773158671995981800,
+			"id_str": "773158671995981828",
+			"text": "Need to manage some data? We got workshops for that! #ResBaz #ResBazOU @OU_Libraries https://t.co/zCrzEoXORN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ResBaz",
+						"indices": [
+							53,
+							60
+						]
+					},
+					{
+						"text": "ResBazOU",
+						"indices": [
+							61,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OU_Libraries",
+						"name": "OU Libraries",
+						"id": 25298309,
+						"id_str": "25298309",
+						"indices": [
+							71,
+							84
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 773158648247824400,
+						"id_str": "773158648247824385",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/CrrPsbfVMAEHr1o.png",
+						"media_url_https": "https://pbs.twimg.com/media/CrrPsbfVMAEHr1o.png",
+						"url": "https://t.co/zCrzEoXORN",
+						"display_url": "pic.twitter.com/zCrzEoXORN",
+						"expanded_url": "https://twitter.com/sclayton29/status/773158671995981828/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2007,
+								"h": 387,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 131,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 231,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 773158648247824400,
+						"id_str": "773158648247824385",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/CrrPsbfVMAEHr1o.png",
+						"media_url_https": "https://pbs.twimg.com/media/CrrPsbfVMAEHr1o.png",
+						"url": "https://t.co/zCrzEoXORN",
+						"display_url": "pic.twitter.com/zCrzEoXORN",
+						"expanded_url": "https://twitter.com/sclayton29/status/773158671995981828/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2007,
+								"h": 387,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 131,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 231,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139928649,
+				"id_str": "139928649",
+				"name": "Sarah Clayton",
+				"screen_name": "sclayton29",
+				"location": "Norman, OK",
+				"description": "Digital Scholarship Specialist, University of Oklahoma Libraries",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 110,
+				"friends_count": 212,
+				"listed_count": 1,
+				"created_at": "Tue May 04 02:34:04 +0000 2010",
+				"favourites_count": 44,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 143,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871576629/5213_1073809134736_1511400010_30206301_1764185_n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871576629/5213_1073809134736_1511400010_30206301_1764185_n_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 06 04:36:52 +0000 2016",
+		"id": 773017095470592000,
+		"id_str": "773017095470592001",
+		"text": "RT @BlueCerealEduc: Hey #OklaEd - Meet @LizForOK (D), Running for House District 42 - https://t.co/VRkq37yeuf #oklaed #OKElections16",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OklaEd",
+					"indices": [
+						24,
+						31
+					]
+				},
+				{
+					"text": "oklaed",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "OKElections16",
+					"indices": [
+						118,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlueCerealEduc",
+					"name": "BlueCerealEducation",
+					"id": 2353794660,
+					"id_str": "2353794660",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "LizForOK",
+					"name": "Liz George",
+					"id": 715910068823175200,
+					"id_str": "715910068823175168",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VRkq37yeuf",
+					"expanded_url": "http://bluecerealeducation.com/blog/blue-cereal-candidate-profile-liz-george-d-running-house-district-42-okelections16",
+					"display_url": "bluecerealeducation.com/blog/blue-cere…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 532,
+			"friends_count": 606,
+			"listed_count": 93,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1044,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4206,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 06 03:06:12 +0000 2016",
+			"id": 772994281581654000,
+			"id_str": "772994281581654016",
+			"text": "Hey #OklaEd - Meet @LizForOK (D), Running for House District 42 - https://t.co/VRkq37yeuf #oklaed #OKElections16",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OklaEd",
+						"indices": [
+							4,
+							11
+						]
+					},
+					{
+						"text": "oklaed",
+						"indices": [
+							90,
+							97
+						]
+					},
+					{
+						"text": "OKElections16",
+						"indices": [
+							98,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LizForOK",
+						"name": "Liz George",
+						"id": 715910068823175200,
+						"id_str": "715910068823175168",
+						"indices": [
+							19,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VRkq37yeuf",
+						"expanded_url": "http://bluecerealeducation.com/blog/blue-cereal-candidate-profile-liz-george-d-running-house-district-42-okelections16",
+						"display_url": "bluecerealeducation.com/blog/blue-cere…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2353794660,
+				"id_str": "2353794660",
+				"name": "BlueCerealEducation",
+				"screen_name": "BlueCerealEduc",
+				"location": "Tulsa, OK",
+				"description": "Education Reading Professional Development Thermopylae Documents Ideas Lighting Starfish In Buckets Holding Horses Underwater Teach Like The Wind",
+				"url": "http://t.co/jD0ZTznkQ2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/jD0ZTznkQ2",
+								"expanded_url": "http://bluecerealeducation.com",
+								"display_url": "bluecerealeducation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2144,
+				"friends_count": 1466,
+				"listed_count": 139,
+				"created_at": "Thu Feb 20 21:14:40 +0000 2014",
+				"favourites_count": 23546,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23718,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/765555499659997184/oJLJUAqv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/765555499659997184/oJLJUAqv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2353794660/1457885237",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 06 03:19:13 +0000 2016",
+		"id": 772997555558821900,
+		"id_str": "772997555558821888",
+		"text": "RT @washingtonpost: Phyllis Schlafly, conservative activist who helped move GOP to the right, dies at 92 https://t.co/8SNIdErbHK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "washingtonpost",
+					"name": "Washington Post",
+					"id": 2467791,
+					"id_str": "2467791",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8SNIdErbHK",
+					"expanded_url": "http://wapo.st/2c17VYv",
+					"display_url": "wapo.st/2c17VYv",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 532,
+			"friends_count": 606,
+			"listed_count": 93,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1044,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4206,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 05 23:34:55 +0000 2016",
+			"id": 772941108145950700,
+			"id_str": "772941108145950720",
+			"text": "Phyllis Schlafly, conservative activist who helped move GOP to the right, dies at 92 https://t.co/8SNIdErbHK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8SNIdErbHK",
+						"expanded_url": "http://wapo.st/2c17VYv",
+						"display_url": "wapo.st/2c17VYv",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.washingtonpost.com\" rel=\"nofollow\">MainRevere</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2467791,
+				"id_str": "2467791",
+				"name": "Washington Post",
+				"screen_name": "washingtonpost",
+				"location": "Washington, DC",
+				"description": "Tweet-length breaking news, analysis from around the world. Founded in 1877. Follow our journalists on Twitter: https://t.co/VV0UBAMHg8",
+				"url": "http://t.co/Hq7hTYkOPg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Hq7hTYkOPg",
+								"expanded_url": "http://washingtonpost.com",
+								"display_url": "washingtonpost.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VV0UBAMHg8",
+								"expanded_url": "https://twitter.com/washingtonpost/lists/washington-post-people",
+								"display_url": "twitter.com/washingtonpost…",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7213934,
+				"friends_count": 1292,
+				"listed_count": 71725,
+				"created_at": "Tue Mar 27 11:19:39 +0000 2007",
+				"favourites_count": 4258,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 190501,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "333333",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464437503/wp-capitol.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464437503/wp-capitol.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753656134565785600/iQ1GX-ov_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753656134565785600/iQ1GX-ov_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2467791/1469484132",
+				"profile_link_color": "0057EC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DBDBDB",
+				"profile_text_color": "323232",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 102,
+			"favorite_count": 76,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 05 17:03:36 +0000 2016",
 		"id": 772842630266826800,
 		"id_str": "772842630266826752",
