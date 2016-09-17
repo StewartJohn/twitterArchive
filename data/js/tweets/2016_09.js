@@ -1,6 +1,857 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 17:42:30 +0000 2016",
+		"id": 776838688646893600,
+		"id_str": "776838688646893568",
+		"text": "RT @normanokpd: Heading to Norman to cheer on the #Sooners? Travel info here: https://t.co/FfOj8pxGEn . Plan ahead. Arrive early. https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Sooners",
+					"indices": [
+						50,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "normanokpd",
+					"name": "Norman Police",
+					"id": 1325362297,
+					"id_str": "1325362297",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FfOj8pxGEn",
+					"expanded_url": "http://bit.ly/2cu93tb",
+					"display_url": "bit.ly/2cu93tb",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 776833865272791000,
+					"id_str": "776833865272791040",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CsfeSN0UEAAEfAH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsfeSN0UEAAEfAH.jpg",
+					"url": "https://t.co/ODvpqPdRvF",
+					"display_url": "pic.twitter.com/ODvpqPdRvF",
+					"expanded_url": "https://twitter.com/normanokpd/status/776833894192599040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1100,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776833894192599000,
+					"source_status_id_str": "776833894192599040",
+					"source_user_id": 1325362297,
+					"source_user_id_str": "1325362297"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 776833865272791000,
+					"id_str": "776833865272791040",
+					"indices": [
+						139,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CsfeSN0UEAAEfAH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsfeSN0UEAAEfAH.jpg",
+					"url": "https://t.co/ODvpqPdRvF",
+					"display_url": "pic.twitter.com/ODvpqPdRvF",
+					"expanded_url": "https://twitter.com/normanokpd/status/776833894192599040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1100,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 776833894192599000,
+					"source_status_id_str": "776833894192599040",
+					"source_user_id": 1325362297,
+					"source_user_id_str": "1325362297"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 626,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1104,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4286,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 16 17:23:27 +0000 2016",
+			"id": 776833894192599000,
+			"id_str": "776833894192599040",
+			"text": "Heading to Norman to cheer on the #Sooners? Travel info here: https://t.co/FfOj8pxGEn . Plan ahead. Arrive early. https://t.co/ODvpqPdRvF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Sooners",
+						"indices": [
+							34,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FfOj8pxGEn",
+						"expanded_url": "http://bit.ly/2cu93tb",
+						"display_url": "bit.ly/2cu93tb",
+						"indices": [
+							62,
+							85
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 776833865272791000,
+						"id_str": "776833865272791040",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CsfeSN0UEAAEfAH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsfeSN0UEAAEfAH.jpg",
+						"url": "https://t.co/ODvpqPdRvF",
+						"display_url": "pic.twitter.com/ODvpqPdRvF",
+						"expanded_url": "https://twitter.com/normanokpd/status/776833894192599040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 850,
+								"h": 1100,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 776833865272791000,
+						"id_str": "776833865272791040",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CsfeSN0UEAAEfAH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsfeSN0UEAAEfAH.jpg",
+						"url": "https://t.co/ODvpqPdRvF",
+						"display_url": "pic.twitter.com/ODvpqPdRvF",
+						"expanded_url": "https://twitter.com/normanokpd/status/776833894192599040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 850,
+								"h": 1100,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1325362297,
+				"id_str": "1325362297",
+				"name": "Norman Police",
+				"screen_name": "normanokpd",
+				"location": "Norman, OK",
+				"description": "The Official Twitter of the Norman Police Department. Do not report crime using Twitter. Call 911 for emergencies or 321-1444 for non-emergencies",
+				"url": "http://t.co/OpmrD7j88v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/OpmrD7j88v",
+								"expanded_url": "http://normanpd.normanok.gov/",
+								"display_url": "normanpd.normanok.gov",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4035,
+				"friends_count": 292,
+				"listed_count": 99,
+				"created_at": "Wed Apr 03 20:23:58 +0000 2013",
+				"favourites_count": 525,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2160,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/679067311379120129/ocE8Qrc5_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/679067311379120129/ocE8Qrc5_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1325362297/1465856792",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 13:37:34 +0000 2016",
+		"id": 776777047511175200,
+		"id_str": "776777047511175168",
+		"text": "RT @OurGirlInMoscow: Digital literacy is literacy. Digital citizenship is citizenship. @mshagerman #UOttawaEDU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UOttawaEDU",
+					"indices": [
+						99,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OurGirlInMoscow",
+					"name": "Sandra Miller",
+					"id": 1263987355,
+					"id_str": "1263987355",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "mshagerman",
+					"name": "Michelle S. Hagerman",
+					"id": 28130614,
+					"id_str": "28130614",
+					"indices": [
+						87,
+						98
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 626,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1104,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4286,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 16 13:29:26 +0000 2016",
+			"id": 776775002137976800,
+			"id_str": "776775002137976832",
+			"text": "Digital literacy is literacy. Digital citizenship is citizenship. @mshagerman #UOttawaEDU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UOttawaEDU",
+						"indices": [
+							78,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mshagerman",
+						"name": "Michelle S. Hagerman",
+						"id": 28130614,
+						"id_str": "28130614",
+						"indices": [
+							66,
+							77
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1263987355,
+				"id_str": "1263987355",
+				"name": "Sandra Miller",
+				"screen_name": "OurGirlInMoscow",
+				"location": "Moscow",
+				"description": "",
+				"url": "http://t.co/1SxXFWGnBl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1SxXFWGnBl",
+								"expanded_url": "http://www.iamnotmonday.blogspot.com",
+								"display_url": "iamnotmonday.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21,
+				"friends_count": 34,
+				"listed_count": 1,
+				"created_at": "Wed Mar 13 09:06:46 +0000 2013",
+				"favourites_count": 31,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 75,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3374123657/b2e28ab958e0f958b9cb2d286841132d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3374123657/b2e28ab958e0f958b9cb2d286841132d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1263987355/1363166323",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 16 01:59:45 +0000 2016",
+		"id": 776601435181940700,
+		"id_str": "776601435181940736",
+		"text": "@oudigischolar https://t.co/MTBFtJoW92",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oudigischolar",
+					"name": "Tara Carlisle",
+					"id": 2869114788,
+					"id_str": "2869114788",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MTBFtJoW92",
+					"expanded_url": "https://twitter.com/umd_dsah/status/776455729150590976",
+					"display_url": "twitter.com/umd_dsah/statu…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 2869114788,
+		"in_reply_to_user_id_str": "2869114788",
+		"in_reply_to_screen_name": "oudigischolar",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 626,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1104,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4286,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 776455729150591000,
+		"quoted_status_id_str": "776455729150590976",
+		"quoted_status": {
+			"created_at": "Thu Sep 15 16:20:46 +0000 2016",
+			"id": 776455729150591000,
+			"id_str": "776455729150590976",
+			"text": "We are thrilled to announce the launch of the new Graduate Certificate in Digital Studies at @umd_arhu &amp; @UMD_MITH: https://t.co/seSapX2pY9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "umd_arhu",
+						"name": "UMD ARHU",
+						"id": 185571766,
+						"id_str": "185571766",
+						"indices": [
+							93,
+							102
+						]
+					},
+					{
+						"screen_name": "UMD_MITH",
+						"name": "UMD_MITH",
+						"id": 14086852,
+						"id_str": "14086852",
+						"indices": [
+							109,
+							118
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/seSapX2pY9",
+						"expanded_url": "http://dsah.umd.edu",
+						"display_url": "dsah.umd.edu",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 761586616393576400,
+				"id_str": "761586616393576449",
+				"name": "UMD Digital Studies",
+				"screen_name": "umd_dsah",
+				"location": "College Park, MD",
+				"description": "Graduate Certificate in Digital Studies in the Arts and Humanities at the University of Maryland (tweets from Director Matthew Kirschenbaum)",
+				"url": "https://t.co/pgjIgc10FE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pgjIgc10FE",
+								"expanded_url": "http://dsah.umd.edu",
+								"display_url": "dsah.umd.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38,
+				"friends_count": 77,
+				"listed_count": 1,
+				"created_at": "Fri Aug 05 15:36:13 +0000 2016",
+				"favourites_count": 5,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775399353489952772/_5o2QoC0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775399353489952772/_5o2QoC0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/761586616393576449/1473717743",
+				"profile_link_color": "EC9F05",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Fri Sep 16 00:04:23 +0000 2016",
 		"id": 776572402406871000,
 		"id_str": "776572402406871040",
