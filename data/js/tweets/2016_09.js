@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 23:13:14 +0000 2016",
+		"id": 777284307408662500,
+		"id_str": "777284307408662528",
+		"text": "RT @PeachesAlqaeda: What Oklahoma looks like when Trump visits https://t.co/MBUrmqwIW7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeachesAlqaeda",
+					"name": "Beatriz",
+					"id": 598719833,
+					"id_str": "598719833",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 777277994620457000,
+					"id_str": "777277994620456960",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/CslyN8kUkAA1GMK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CslyN8kUkAA1GMK.jpg",
+					"url": "https://t.co/MBUrmqwIW7",
+					"display_url": "pic.twitter.com/MBUrmqwIW7",
+					"expanded_url": "https://twitter.com/Queen_Bea96/status/777278006435811328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 777278006435811300,
+					"source_status_id_str": "777278006435811328",
+					"source_user_id": 598719833,
+					"source_user_id_str": "598719833"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 777277994620457000,
+					"id_str": "777277994620456960",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/CslyN8kUkAA1GMK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CslyN8kUkAA1GMK.jpg",
+					"url": "https://t.co/MBUrmqwIW7",
+					"display_url": "pic.twitter.com/MBUrmqwIW7",
+					"expanded_url": "https://twitter.com/Queen_Bea96/status/777278006435811328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 777278006435811300,
+					"source_status_id_str": "777278006435811328",
+					"source_user_id": 598719833,
+					"source_user_id_str": "598719833"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544,
+			"friends_count": 627,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1107,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4287,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 17 22:48:12 +0000 2016",
+			"id": 777278006435811300,
+			"id_str": "777278006435811328",
+			"text": "What Oklahoma looks like when Trump visits https://t.co/MBUrmqwIW7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 777277994620457000,
+						"id_str": "777277994620456960",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/CslyN8kUkAA1GMK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CslyN8kUkAA1GMK.jpg",
+						"url": "https://t.co/MBUrmqwIW7",
+						"display_url": "pic.twitter.com/MBUrmqwIW7",
+						"expanded_url": "https://twitter.com/Queen_Bea96/status/777278006435811328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 777277994620457000,
+						"id_str": "777277994620456960",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/CslyN8kUkAA1GMK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CslyN8kUkAA1GMK.jpg",
+						"url": "https://t.co/MBUrmqwIW7",
+						"display_url": "pic.twitter.com/MBUrmqwIW7",
+						"expanded_url": "https://twitter.com/Queen_Bea96/status/777278006435811328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 598719833,
+				"id_str": "598719833",
+				"name": "Beatriz",
+				"screen_name": "PeachesAlqaeda",
+				"location": "",
+				"description": "I'm the B to the E. A-T the R-I-Z. And Can't no other Lady put it down like me • Song of Solomon 4:7 • Boomer Sooner • ΣΛΓ Fall 2014",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 578,
+				"friends_count": 477,
+				"listed_count": 3,
+				"created_at": "Sun Jun 03 22:39:08 +0000 2012",
+				"favourites_count": 6926,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4328,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBB7EA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/656205386/3rk087qsi7yvxxsz7kcy.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/656205386/3rk087qsi7yvxxsz7kcy.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763406303188312065/lB2Qg9Av_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763406303188312065/lB2Qg9Av_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/598719833/1470862367",
+				"profile_link_color": "9167B8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9eca585880000",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9eca585880000.json",
+				"place_type": "poi",
+				"name": "University of Oklahoma",
+				"full_name": "University of Oklahoma",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-97.44530039192283,
+								35.208280475901844
+							],
+							[
+								-97.44530039192283,
+								35.208280475901844
+							],
+							[
+								-97.44530039192283,
+								35.208280475901844
+							],
+							[
+								-97.44530039192283,
+								35.208280475901844
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 16 17:42:30 +0000 2016",
 		"id": 776838688646893600,
 		"id_str": "776838688646893568",
