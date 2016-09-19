@@ -1,6 +1,1147 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 00:08:36 +0000 2016",
+		"id": 777660628378923000,
+		"id_str": "777660628378923008",
+		"text": "RT @Sacrobosco2013: Volvelle in C15 astronomical MS at Conception Abbey. #eclipses https://t.co/pMGt3D60dm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "eclipses",
+					"indices": [
+						73,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sacrobosco2013",
+					"name": "Kathleen Crowther",
+					"id": 1416414104,
+					"id_str": "1416414104",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 777560959560712200,
+					"id_str": "777560959560712193",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/CspzkrHUAAEmW3V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CspzkrHUAAEmW3V.jpg",
+					"url": "https://t.co/pMGt3D60dm",
+					"display_url": "pic.twitter.com/pMGt3D60dm",
+					"expanded_url": "https://twitter.com/Sacrobosco2013/status/777560970386210816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 777560970386210800,
+					"source_status_id_str": "777560970386210816",
+					"source_user_id": 1416414104,
+					"source_user_id_str": "1416414104"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 777560959560712200,
+					"id_str": "777560959560712193",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/CspzkrHUAAEmW3V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CspzkrHUAAEmW3V.jpg",
+					"url": "https://t.co/pMGt3D60dm",
+					"display_url": "pic.twitter.com/pMGt3D60dm",
+					"expanded_url": "https://twitter.com/Sacrobosco2013/status/777560970386210816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 777560970386210800,
+					"source_status_id_str": "777560970386210816",
+					"source_user_id": 1416414104,
+					"source_user_id_str": "1416414104"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 542,
+			"friends_count": 627,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1109,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4290,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 18 17:32:36 +0000 2016",
+			"id": 777560970386210800,
+			"id_str": "777560970386210816",
+			"text": "Volvelle in C15 astronomical MS at Conception Abbey. #eclipses https://t.co/pMGt3D60dm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "eclipses",
+						"indices": [
+							53,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 777560959560712200,
+						"id_str": "777560959560712193",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/CspzkrHUAAEmW3V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CspzkrHUAAEmW3V.jpg",
+						"url": "https://t.co/pMGt3D60dm",
+						"display_url": "pic.twitter.com/pMGt3D60dm",
+						"expanded_url": "https://twitter.com/Sacrobosco2013/status/777560970386210816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 777560959560712200,
+						"id_str": "777560959560712193",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/CspzkrHUAAEmW3V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CspzkrHUAAEmW3V.jpg",
+						"url": "https://t.co/pMGt3D60dm",
+						"display_url": "pic.twitter.com/pMGt3D60dm",
+						"expanded_url": "https://twitter.com/Sacrobosco2013/status/777560970386210816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1416414104,
+				"id_str": "1416414104",
+				"name": "Kathleen Crowther",
+				"screen_name": "Sacrobosco2013",
+				"location": "Norman, OK",
+				"description": "U of Oklahoma prof interested in medieval/early modern history of the book, history of science, history of medicine, digital history",
+				"url": "http://t.co/PaVds9kcS9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PaVds9kcS9",
+								"expanded_url": "http://beforenewton.wordpress.com/",
+								"display_url": "beforenewton.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1000,
+				"friends_count": 1190,
+				"listed_count": 80,
+				"created_at": "Thu May 09 20:37:42 +0000 2013",
+				"favourites_count": 2376,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7436,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/422941980289560576/9C_aTzvl_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/422941980289560576/9C_aTzvl_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1416414104/1390529842",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Sep 19 00:08:27 +0000 2016",
+		"id": 777660590781116400,
+		"id_str": "777660590781116416",
+		"text": "RT @Sacrobosco2013: #MercuryRetrograde https://t.co/BmAfapfXHx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MercuryRetrograde",
+					"indices": [
+						20,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sacrobosco2013",
+					"name": "Kathleen Crowther",
+					"id": 1416414104,
+					"id_str": "1416414104",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 777573170261798900,
+					"id_str": "777573170261798912",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Csp-rbhUMAAMsq_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Csp-rbhUMAAMsq_.jpg",
+					"url": "https://t.co/BmAfapfXHx",
+					"display_url": "pic.twitter.com/BmAfapfXHx",
+					"expanded_url": "https://twitter.com/Sacrobosco2013/status/777573180596637696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 777573180596637700,
+					"source_status_id_str": "777573180596637696",
+					"source_user_id": 1416414104,
+					"source_user_id_str": "1416414104"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 777573170261798900,
+					"id_str": "777573170261798912",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Csp-rbhUMAAMsq_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Csp-rbhUMAAMsq_.jpg",
+					"url": "https://t.co/BmAfapfXHx",
+					"display_url": "pic.twitter.com/BmAfapfXHx",
+					"expanded_url": "https://twitter.com/Sacrobosco2013/status/777573180596637696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 777573180596637700,
+					"source_status_id_str": "777573180596637696",
+					"source_user_id": 1416414104,
+					"source_user_id_str": "1416414104"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 542,
+			"friends_count": 627,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1109,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4290,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 18 18:21:07 +0000 2016",
+			"id": 777573180596637700,
+			"id_str": "777573180596637696",
+			"text": "#MercuryRetrograde https://t.co/BmAfapfXHx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MercuryRetrograde",
+						"indices": [
+							0,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 777573170261798900,
+						"id_str": "777573170261798912",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/Csp-rbhUMAAMsq_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Csp-rbhUMAAMsq_.jpg",
+						"url": "https://t.co/BmAfapfXHx",
+						"display_url": "pic.twitter.com/BmAfapfXHx",
+						"expanded_url": "https://twitter.com/Sacrobosco2013/status/777573180596637696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 777573170261798900,
+						"id_str": "777573170261798912",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/Csp-rbhUMAAMsq_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Csp-rbhUMAAMsq_.jpg",
+						"url": "https://t.co/BmAfapfXHx",
+						"display_url": "pic.twitter.com/BmAfapfXHx",
+						"expanded_url": "https://twitter.com/Sacrobosco2013/status/777573180596637696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1416414104,
+				"id_str": "1416414104",
+				"name": "Kathleen Crowther",
+				"screen_name": "Sacrobosco2013",
+				"location": "Norman, OK",
+				"description": "U of Oklahoma prof interested in medieval/early modern history of the book, history of science, history of medicine, digital history",
+				"url": "http://t.co/PaVds9kcS9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PaVds9kcS9",
+								"expanded_url": "http://beforenewton.wordpress.com/",
+								"display_url": "beforenewton.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1000,
+				"friends_count": 1190,
+				"listed_count": 80,
+				"created_at": "Thu May 09 20:37:42 +0000 2013",
+				"favourites_count": 2376,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7436,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/422941980289560576/9C_aTzvl_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/422941980289560576/9C_aTzvl_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1416414104/1390529842",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Sep 19 00:08:24 +0000 2016",
+		"id": 777660575643934700,
+		"id_str": "777660575643934720",
+		"text": "RT @Sacrobosco2013: Another volvelle from 15th century #astronomy #manuscript #histsci Conception Abbey MO https://t.co/GHdsaNT5Dn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "astronomy",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "manuscript",
+					"indices": [
+						66,
+						77
+					]
+				},
+				{
+					"text": "histsci",
+					"indices": [
+						78,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sacrobosco2013",
+					"name": "Kathleen Crowther",
+					"id": 1416414104,
+					"id_str": "1416414104",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 777589596544639000,
+					"id_str": "777589596544638976",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/CsqNnkMVIAACVCW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsqNnkMVIAACVCW.jpg",
+					"url": "https://t.co/GHdsaNT5Dn",
+					"display_url": "pic.twitter.com/GHdsaNT5Dn",
+					"expanded_url": "https://twitter.com/Sacrobosco2013/status/777589609706364928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 777589609706364900,
+					"source_status_id_str": "777589609706364928",
+					"source_user_id": 1416414104,
+					"source_user_id_str": "1416414104"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 777589596544639000,
+					"id_str": "777589596544638976",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/CsqNnkMVIAACVCW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CsqNnkMVIAACVCW.jpg",
+					"url": "https://t.co/GHdsaNT5Dn",
+					"display_url": "pic.twitter.com/GHdsaNT5Dn",
+					"expanded_url": "https://twitter.com/Sacrobosco2013/status/777589609706364928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 777589609706364900,
+					"source_status_id_str": "777589609706364928",
+					"source_user_id": 1416414104,
+					"source_user_id_str": "1416414104"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 542,
+			"friends_count": 627,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1109,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4290,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 18 19:26:24 +0000 2016",
+			"id": 777589609706364900,
+			"id_str": "777589609706364928",
+			"text": "Another volvelle from 15th century #astronomy #manuscript #histsci Conception Abbey MO https://t.co/GHdsaNT5Dn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "astronomy",
+						"indices": [
+							35,
+							45
+						]
+					},
+					{
+						"text": "manuscript",
+						"indices": [
+							46,
+							57
+						]
+					},
+					{
+						"text": "histsci",
+						"indices": [
+							58,
+							66
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 777589596544639000,
+						"id_str": "777589596544638976",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/CsqNnkMVIAACVCW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsqNnkMVIAACVCW.jpg",
+						"url": "https://t.co/GHdsaNT5Dn",
+						"display_url": "pic.twitter.com/GHdsaNT5Dn",
+						"expanded_url": "https://twitter.com/Sacrobosco2013/status/777589609706364928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 777589596544639000,
+						"id_str": "777589596544638976",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/CsqNnkMVIAACVCW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CsqNnkMVIAACVCW.jpg",
+						"url": "https://t.co/GHdsaNT5Dn",
+						"display_url": "pic.twitter.com/GHdsaNT5Dn",
+						"expanded_url": "https://twitter.com/Sacrobosco2013/status/777589609706364928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1416414104,
+				"id_str": "1416414104",
+				"name": "Kathleen Crowther",
+				"screen_name": "Sacrobosco2013",
+				"location": "Norman, OK",
+				"description": "U of Oklahoma prof interested in medieval/early modern history of the book, history of science, history of medicine, digital history",
+				"url": "http://t.co/PaVds9kcS9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PaVds9kcS9",
+								"expanded_url": "http://beforenewton.wordpress.com/",
+								"display_url": "beforenewton.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1000,
+				"friends_count": 1190,
+				"listed_count": 80,
+				"created_at": "Thu May 09 20:37:42 +0000 2013",
+				"favourites_count": 2376,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7436,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/422941980289560576/9C_aTzvl_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/422941980289560576/9C_aTzvl_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1416414104/1390529842",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Sep 17 23:13:14 +0000 2016",
 		"id": 777284307408662500,
 		"id_str": "777284307408662528",
