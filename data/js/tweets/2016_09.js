@@ -1,6 +1,790 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Tue Sep 27 11:04:18 +0000 2016",
+		"id": 780724743854891000,
+		"id_str": "780724743854891010",
+		"text": "RT @coronium: New version of IsisCB Explore--the open access discovery service for the history of science-- is up #histsci #histSTM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "histsci",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "histSTM",
+					"indices": [
+						123,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coronium",
+					"name": "sylwester ratowt",
+					"id": 17563523,
+					"id_str": "17563523",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 551,
+			"friends_count": 636,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1150,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 26 15:26:22 +0000 2016",
+			"id": 780428304176275500,
+			"id_str": "780428304176275456",
+			"text": "New version of IsisCB Explore--the open access discovery service for the history of science-- is up #histsci #histSTM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "histsci",
+						"indices": [
+							100,
+							108
+						]
+					},
+					{
+						"text": "histSTM",
+						"indices": [
+							109,
+							117
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17563523,
+				"id_str": "17563523",
+				"name": "sylwester ratowt",
+				"screen_name": "coronium",
+				"location": "Gainesville, GA",
+				"description": "Promoting history of science to NE Georgia.",
+				"url": "http://t.co/PJqIjaGDmI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PJqIjaGDmI",
+								"expanded_url": "http://www.sylwesterratowt.com",
+								"display_url": "sylwesterratowt.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 118,
+				"friends_count": 153,
+				"listed_count": 11,
+				"created_at": "Sat Nov 22 21:47:29 +0000 2008",
+				"favourites_count": 207,
+				"utc_offset": -14400,
+				"time_zone": "America/New_York",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 297,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/467015994645303296/iTb2ShrE_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/467015994645303296/iTb2ShrE_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17563523/1400180181",
+				"profile_link_color": "4945C9",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 27 03:18:50 +0000 2016",
+		"id": 780607602539376600,
+		"id_str": "780607602539376641",
+		"text": "RT @corinhoggard: Aww, shimmy shimmy. https://t.co/nphMGSACVR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corinhoggard",
+					"name": "Corin Hoggard",
+					"id": 54071118,
+					"id_str": "54071118",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nphMGSACVR",
+					"expanded_url": "https://twitter.com/gabrielgironda/status/780599538012852224",
+					"display_url": "twitter.com/gabrielgironda…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 551,
+			"friends_count": 636,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1150,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 27 03:09:55 +0000 2016",
+			"id": 780605361216626700,
+			"id_str": "780605361216626689",
+			"text": "Aww, shimmy shimmy. https://t.co/nphMGSACVR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nphMGSACVR",
+						"expanded_url": "https://twitter.com/gabrielgironda/status/780599538012852224",
+						"display_url": "twitter.com/gabrielgironda…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54071118,
+				"id_str": "54071118",
+				"name": "Corin Hoggard",
+				"screen_name": "corinhoggard",
+				"location": "Fresno, CA",
+				"description": "Husband. Father. @ABC30 reporter in Fresno. Investigating right & might. @HonorsCollegeUH graduate. @UHCougarFB fan. https://t.co/YQIV0CyMmt",
+				"url": "https://t.co/YQIV0CQnL3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YQIV0CQnL3",
+								"expanded_url": "https://www.youtube.com/channel/UCtqgkm2FLurUrHjDy3k-QwQ",
+								"display_url": "youtube.com/channel/UCtqgk…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YQIV0CyMmt",
+								"expanded_url": "https://www.youtube.com/channel/UCtqgkm2FLurUrHjDy3k-QwQ",
+								"display_url": "youtube.com/channel/UCtqgk…",
+								"indices": [
+									117,
+									140
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4208,
+				"friends_count": 914,
+				"listed_count": 82,
+				"created_at": "Mon Jul 06 01:39:53 +0000 2009",
+				"favourites_count": 12887,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26055,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000334748524/35bb8377c83a7d831bb0f38112be27f4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000334748524/35bb8377c83a7d831bb0f38112be27f4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54071118/1443954157",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 780599538012852200,
+			"quoted_status_id_str": "780599538012852224",
+			"quoted_status": {
+				"created_at": "Tue Sep 27 02:46:47 +0000 2016",
+				"id": 780599538012852200,
+				"id_str": "780599538012852224",
+				"text": "god bless @thegaw https://t.co/8g6Co98iJX",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "thegaw",
+							"name": "Tyler Gaw",
+							"id": 11044042,
+							"id_str": "11044042",
+							"indices": [
+								10,
+								17
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 780599488205455400,
+							"id_str": "780599488205455360",
+							"indices": [
+								18,
+								41
+							],
+							"media_url": "http://pbs.twimg.com/tweet_video_thumb/CtU_GUZWgAA-FrG.jpg",
+							"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CtU_GUZWgAA-FrG.jpg",
+							"url": "https://t.co/8g6Co98iJX",
+							"display_url": "pic.twitter.com/8g6Co98iJX",
+							"expanded_url": "https://twitter.com/gabrielgironda/status/780599538012852224/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 480,
+									"h": 444,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 480,
+									"h": 444,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 315,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 780599488205455400,
+							"id_str": "780599488205455360",
+							"indices": [
+								18,
+								41
+							],
+							"media_url": "http://pbs.twimg.com/tweet_video_thumb/CtU_GUZWgAA-FrG.jpg",
+							"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CtU_GUZWgAA-FrG.jpg",
+							"url": "https://t.co/8g6Co98iJX",
+							"display_url": "pic.twitter.com/8g6Co98iJX",
+							"expanded_url": "https://twitter.com/gabrielgironda/status/780599538012852224/photo/1",
+							"type": "animated_gif",
+							"sizes": {
+								"medium": {
+									"w": 480,
+									"h": 444,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 480,
+									"h": 444,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 315,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									40,
+									37
+								],
+								"variants": [
+									{
+										"bitrate": 0,
+										"content_type": "video/mp4",
+										"url": "https://pbs.twimg.com/tweet_video/CtU_GUZWgAA-FrG.mp4"
+									}
+								]
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 267895957,
+					"id_str": "267895957",
+					"name": "politics haver",
+					"screen_name": "gabrielgironda",
+					"location": "Brooklyn, NY",
+					"description": "powerful, courageous, independent-minded - as reviewed by https://t.co/SevLQhHc8O / https://t.co/vDOAF1NgJv / https://t.co/zQZZfHNGBE",
+					"url": "https://t.co/vDOAF1NgJv",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/vDOAF1NgJv",
+									"expanded_url": "http://gironda.org",
+									"display_url": "gironda.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/SevLQhHc8O",
+									"expanded_url": "http://what-dog.net",
+									"display_url": "what-dog.net",
+									"indices": [
+										58,
+										81
+									]
+								},
+								{
+									"url": "https://t.co/vDOAF1NgJv",
+									"expanded_url": "http://gironda.org",
+									"display_url": "gironda.org",
+									"indices": [
+										84,
+										107
+									]
+								},
+								{
+									"url": "https://t.co/zQZZfHNGBE",
+									"expanded_url": "http://keybase.io/gabriel",
+									"display_url": "keybase.io/gabriel",
+									"indices": [
+										110,
+										133
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 1293,
+					"friends_count": 666,
+					"listed_count": 75,
+					"created_at": "Thu Mar 17 19:15:26 +0000 2011",
+					"favourites_count": 13499,
+					"utc_offset": -18000,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 25625,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/591011207/pjmlk7pqe1gyylpnswe8.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/591011207/pjmlk7pqe1gyylpnswe8.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/759444826316300289/YVglpU-y_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/759444826316300289/YVglpU-y_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/267895957/1470410712",
+					"profile_link_color": "000080",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2301,
+				"favorite_count": 3177,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 780599538012852200,
+		"quoted_status_id_str": "780599538012852224",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 27 03:13:16 +0000 2016",
+		"id": 780606203428614100,
+		"id_str": "780606203428614144",
+		"text": "@MarkMorvant @holden @jameswest2010 The hermione granger shimmy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkMorvant",
+					"name": "Mark Morvant",
+					"id": 2284688232,
+					"id_str": "2284688232",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "holden",
+					"name": "Mike Caulfield",
+					"id": 1912681,
+					"id_str": "1912681",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"screen_name": "jameswest2010",
+					"name": "James West",
+					"id": 38156420,
+					"id_str": "38156420",
+					"indices": [
+						21,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 780604596578193400,
+		"in_reply_to_status_id_str": "780604596578193408",
+		"in_reply_to_user_id": 2284688232,
+		"in_reply_to_user_id_str": "2284688232",
+		"in_reply_to_screen_name": "MarkMorvant",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 551,
+			"friends_count": 636,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1150,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4378,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 27 00:10:06 +0000 2016",
 		"id": 780560108237434900,
 		"id_str": "780560108237434880",
