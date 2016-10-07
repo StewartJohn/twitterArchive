@@ -1,6 +1,978 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 18:46:19 +0000 2016",
+		"id": 784102505873498100,
+		"id_str": "784102505873498112",
+		"text": "In the latest pod from Innovation Labcast I takes ed, history, and tech with @adesinamedia @Rangerdavie &amp; @bscragg https://t.co/4ZmrqpzJuD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adesinamedia",
+					"name": "Angela Gunder",
+					"id": 111811550,
+					"id_str": "111811550",
+					"indices": [
+						77,
+						90
+					]
+				},
+				{
+					"screen_name": "Rangerdavie",
+					"name": "Dave Goodrich",
+					"id": 14993448,
+					"id_str": "14993448",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"screen_name": "bscragg",
+					"name": "Ben Scragg",
+					"id": 36151771,
+					"id_str": "36151771",
+					"indices": [
+						110,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4ZmrqpzJuD",
+					"expanded_url": "http://innovationlabcast.com/podcast/episode-022-john-stewart-thats-what-the-parrot-said/",
+					"display_url": "innovationlabcast.com/podcast/episod…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 642,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1164,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4398,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 06 17:52:28 +0000 2016",
+		"id": 784088950277189600,
+		"id_str": "784088950277189632",
+		"text": "RT @OUResearch: Innovation Hub's Fab Lab offers place for students to unleash creativity https://t.co/m7pt90eorX via @OUDaily",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OUResearch",
+					"name": "Jana Smith",
+					"id": 21413956,
+					"id_str": "21413956",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "OUDaily",
+					"name": "OU Daily",
+					"id": 16289168,
+					"id_str": "16289168",
+					"indices": [
+						117,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m7pt90eorX",
+					"expanded_url": "http://www.oudaily.com/news/innovation-hub-s-fab-lab-offers-place-for-students-to/article_d7b7cca0-8a8b-11e6-a73d-472cab2877df.html#.V_ZO-ndSRTY.twitter",
+					"display_url": "oudaily.com/news/innovatio…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 642,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1164,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4398,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 06 13:18:07 +0000 2016",
+			"id": 784019909260943400,
+			"id_str": "784019909260943360",
+			"text": "Innovation Hub's Fab Lab offers place for students to unleash creativity https://t.co/m7pt90eorX via @OUDaily",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OUDaily",
+						"name": "OU Daily",
+						"id": 16289168,
+						"id_str": "16289168",
+						"indices": [
+							101,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/m7pt90eorX",
+						"expanded_url": "http://www.oudaily.com/news/innovation-hub-s-fab-lab-offers-place-for-students-to/article_d7b7cca0-8a8b-11e6-a73d-472cab2877df.html#.V_ZO-ndSRTY.twitter",
+						"display_url": "oudaily.com/news/innovatio…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21413956,
+				"id_str": "21413956",
+				"name": "Jana Smith",
+				"screen_name": "OUResearch",
+				"location": "Norman, Oklahoma",
+				"description": "Director, Strategic Communications for R&D",
+				"url": "https://t.co/mlos4Eb2UG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mlos4Eb2UG",
+								"expanded_url": "http://www.ou.edu/research_communications.html",
+								"display_url": "ou.edu/research_commu…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 454,
+				"friends_count": 872,
+				"listed_count": 34,
+				"created_at": "Fri Feb 20 17:14:44 +0000 2009",
+				"favourites_count": 9,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3453,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/344513261574260227/8de7e65cef8f5e44a87e63296f2d2c44_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/344513261574260227/8de7e65cef8f5e44a87e63296f2d2c44_normal.jpeg",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 06 17:50:32 +0000 2016",
+		"id": 784088464652283900,
+		"id_str": "784088464652283904",
+		"text": "@OnlineCrsLady. @KeeganSLW kept saying it like the country in class on Tuesday",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 783352247954477000,
+		"in_reply_to_status_id_str": "783352247954477056",
+		"in_reply_to_user_id": 117573509,
+		"in_reply_to_user_id_str": "117573509",
+		"in_reply_to_screen_name": "KeeganSLW",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 642,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1164,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4398,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 06 17:48:48 +0000 2016",
+		"id": 784088030814449700,
+		"id_str": "784088030814449664",
+		"text": "RT @KeeganSLW: Election Simulator 2016 is now available to download(https://t.co/sqGYkAdNqc). Open html file in @twinethreads to see how it…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "twinethreads",
+					"name": "Twine",
+					"id": 1342166828,
+					"id_str": "1342166828",
+					"indices": [
+						112,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sqGYkAdNqc",
+					"expanded_url": "http://gamejolt.com/games/election-simulator-2016/194816#close",
+					"display_url": "gamejolt.com/games/election…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 642,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1164,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4398,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 03 14:22:38 +0000 2016",
+			"id": 782948983526142000,
+			"id_str": "782948983526141952",
+			"text": "Election Simulator 2016 is now available to download(https://t.co/sqGYkAdNqc). Open html file in @twinethreads to see how it was built. :)",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "twinethreads",
+						"name": "Twine",
+						"id": 1342166828,
+						"id_str": "1342166828",
+						"indices": [
+							97,
+							110
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sqGYkAdNqc",
+						"expanded_url": "http://gamejolt.com/games/election-simulator-2016/194816#close",
+						"display_url": "gamejolt.com/games/election…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 117573509,
+				"id_str": "117573509",
+				"name": "Keegan Long-Wheeler",
+				"screen_name": "KeeganSLW",
+				"location": "",
+				"description": "Ed Technologist @TeachOU. Teacher of teachers. Interests: Ed Tech, GBL, Gamification, STEAM, OER, OpenPed, APIs & learning! #eXperiencePlay #goblinFLC #mbsFLC",
+				"url": "https://t.co/EgzQxuUxuu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EgzQxuUxuu",
+								"expanded_url": "http://keeganslw.com",
+								"display_url": "keeganslw.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 664,
+				"friends_count": 882,
+				"listed_count": 93,
+				"created_at": "Thu Feb 25 23:44:57 +0000 2010",
+				"favourites_count": 3288,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3689,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/613768692216655872/hr77NEM1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/613768692216655872/hr77NEM1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/117573509/1445487160",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 06 04:01:49 +0000 2016",
+		"id": 783879912947982300,
+		"id_str": "783879912947982336",
+		"text": "RT @adesinamedia: Mashups, poison and the history of sci w/ @jstew511 and the #innovationlabcast. Goodness! https://t.co/qcJhb2Kafl @bscrag…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "innovationlabcast",
+					"indices": [
+						78,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adesinamedia",
+					"name": "Angela Gunder",
+					"id": 111811550,
+					"id_str": "111811550",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "jstew511",
+					"name": "John Stewart",
+					"id": 73977188,
+					"id_str": "73977188",
+					"indices": [
+						60,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qcJhb2Kafl",
+					"expanded_url": "http://innovationlabcast.com",
+					"display_url": "innovationlabcast.com",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 642,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1164,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4398,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 06 02:14:47 +0000 2016",
+			"id": 783852975286460400,
+			"id_str": "783852975286460416",
+			"text": "Mashups, poison and the history of sci w/ @jstew511 and the #innovationlabcast. Goodness! https://t.co/qcJhb2Kafl @bscragg @Rangerdavie",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "innovationlabcast",
+						"indices": [
+							60,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jstew511",
+						"name": "John Stewart",
+						"id": 73977188,
+						"id_str": "73977188",
+						"indices": [
+							42,
+							51
+						]
+					},
+					{
+						"screen_name": "bscragg",
+						"name": "Ben Scragg",
+						"id": 36151771,
+						"id_str": "36151771",
+						"indices": [
+							114,
+							122
+						]
+					},
+					{
+						"screen_name": "Rangerdavie",
+						"name": "Dave Goodrich",
+						"id": 14993448,
+						"id_str": "14993448",
+						"indices": [
+							123,
+							135
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qcJhb2Kafl",
+						"expanded_url": "http://innovationlabcast.com",
+						"display_url": "innovationlabcast.com",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 111811550,
+				"id_str": "111811550",
+				"name": "Angela Gunder",
+				"screen_name": "adesinamedia",
+				"location": "Tucson, AZ",
+				"description": "Instructional designer at the University of AZ and ed tech maven seeking sparks of creativity on any channel, medium or outlet. #innovationlabcast",
+				"url": "http://t.co/f5lCRv1hvg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/f5lCRv1hvg",
+								"expanded_url": "http://www.adesinamedia.com",
+								"display_url": "adesinamedia.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 272,
+				"friends_count": 330,
+				"listed_count": 16,
+				"created_at": "Sat Feb 06 06:06:45 +0000 2010",
+				"favourites_count": 504,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 449,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/531904876276494336/b6qo6Iia.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/531904876276494336/b6qo6Iia.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/653951253249069056/23HyaCsN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/653951253249069056/23HyaCsN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/111811550/1467567752",
+				"profile_link_color": "46A2B7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 04 21:38:32 +0000 2016",
 		"id": 783421066630860800,
 		"id_str": "783421066630860805",
