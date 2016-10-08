@@ -1,6 +1,532 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 15:36:32 +0000 2016",
+		"id": 784417129835532300,
+		"id_str": "784417129835532288",
+		"text": "RT @bscragg: This week's Innovation Labcast = a banger (are the kids still saying that?) w/ @jstew511 @Rangerdavie @adesinamedia https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bscragg",
+					"name": "Ben Scragg",
+					"id": 36151771,
+					"id_str": "36151771",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "jstew511",
+					"name": "John Stewart",
+					"id": 73977188,
+					"id_str": "73977188",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"screen_name": "Rangerdavie",
+					"name": "Dave Goodrich",
+					"id": 14993448,
+					"id_str": "14993448",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "adesinamedia",
+					"name": "Angela Gunder",
+					"id": 111811550,
+					"id_str": "111811550",
+					"indices": [
+						115,
+						128
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 553,
+			"friends_count": 643,
+			"listed_count": 97,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1165,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 06 17:57:57 +0000 2016",
+			"id": 784090332107530200,
+			"id_str": "784090332107530240",
+			"text": "This week's Innovation Labcast = a banger (are the kids still saying that?) w/ @jstew511 @Rangerdavie @adesinamedia… https://t.co/WZ9YScJgLu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jstew511",
+						"name": "John Stewart",
+						"id": 73977188,
+						"id_str": "73977188",
+						"indices": [
+							79,
+							88
+						]
+					},
+					{
+						"screen_name": "Rangerdavie",
+						"name": "Dave Goodrich",
+						"id": 14993448,
+						"id_str": "14993448",
+						"indices": [
+							89,
+							101
+						]
+					},
+					{
+						"screen_name": "adesinamedia",
+						"name": "Angela Gunder",
+						"id": 111811550,
+						"id_str": "111811550",
+						"indices": [
+							102,
+							115
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WZ9YScJgLu",
+						"expanded_url": "https://twitter.com/i/web/status/784090332107530240",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36151771,
+				"id_str": "36151771",
+				"name": "Ben Scragg",
+				"screen_name": "bscragg",
+				"location": "Columbus, OH",
+				"description": "Program Manager, College Ready Ohio @ The Ohio State University | Occasional pragmatist | Affinity for public education, cold-brew coffee & @The_iBELIEVE.",
+				"url": "http://t.co/0qrpvDTo5D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0qrpvDTo5D",
+								"expanded_url": "http://collegeready.osu.edu",
+								"display_url": "collegeready.osu.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 536,
+				"friends_count": 959,
+				"listed_count": 31,
+				"created_at": "Tue Apr 28 19:11:41 +0000 2009",
+				"favourites_count": 1145,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1127,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/591254103973441536/1FZCGC_x.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/591254103973441536/1FZCGC_x.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/697293047416164353/0rh1GXu9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/697293047416164353/0rh1GXu9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36151771/1464054682",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C3EBD0",
+				"profile_text_color": "090487",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 07 15:36:23 +0000 2016",
+		"id": 784417094662139900,
+		"id_str": "784417094662139905",
+		"text": "RT @bscragg: For #highered &amp; #K12 educators! @collegereadyOH is hosting its 1st ever #EdCamp on Sat. 10/22! Register at https://t.co/uWVJuV…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "highered",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"text": "K12",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "EdCamp",
+					"indices": [
+						89,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bscragg",
+					"name": "Ben Scragg",
+					"id": 36151771,
+					"id_str": "36151771",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "collegereadyOH",
+					"name": "College Ready Ohio",
+					"id": 2976644981,
+					"id_str": "2976644981",
+					"indices": [
+						49,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 553,
+			"friends_count": 643,
+			"listed_count": 97,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1165,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4400,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 07 15:17:57 +0000 2016",
+			"id": 784412453295849500,
+			"id_str": "784412453295849472",
+			"text": "For #highered &amp; #K12 educators! @collegereadyOH is hosting its 1st ever #EdCamp on Sat. 10/22! Register at… https://t.co/yWdRG60Vtk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "highered",
+						"indices": [
+							4,
+							13
+						]
+					},
+					{
+						"text": "K12",
+						"indices": [
+							20,
+							24
+						]
+					},
+					{
+						"text": "EdCamp",
+						"indices": [
+							76,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "collegereadyOH",
+						"name": "College Ready Ohio",
+						"id": 2976644981,
+						"id_str": "2976644981",
+						"indices": [
+							36,
+							51
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yWdRG60Vtk",
+						"expanded_url": "https://twitter.com/i/web/status/784412453295849472",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36151771,
+				"id_str": "36151771",
+				"name": "Ben Scragg",
+				"screen_name": "bscragg",
+				"location": "Columbus, OH",
+				"description": "Program Manager, College Ready Ohio @ The Ohio State University | Occasional pragmatist | Affinity for public education, cold-brew coffee & @The_iBELIEVE.",
+				"url": "http://t.co/0qrpvDTo5D",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0qrpvDTo5D",
+								"expanded_url": "http://collegeready.osu.edu",
+								"display_url": "collegeready.osu.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 536,
+				"friends_count": 959,
+				"listed_count": 31,
+				"created_at": "Tue Apr 28 19:11:41 +0000 2009",
+				"favourites_count": 1145,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1127,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/591254103973441536/1FZCGC_x.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/591254103973441536/1FZCGC_x.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/697293047416164353/0rh1GXu9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/697293047416164353/0rh1GXu9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36151771/1464054682",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C3EBD0",
+				"profile_text_color": "090487",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 06 18:46:19 +0000 2016",
 		"id": 784102505873498100,
 		"id_str": "784102505873498112",
