@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 18:03:45 +0000 2016",
+		"id": 786266117652176900,
+		"id_str": "786266117652176896",
+		"text": "RT @sheilmcn: example personal tutor dashboard #jiscexperts16 https://t.co/BT20nIOJrS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "jiscexperts16",
+					"indices": [
+						47,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sheilmcn",
+					"name": "Sheila MacNeill",
+					"id": 4013641,
+					"id_str": "4013641",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 786161390008602600,
+					"id_str": "786161390008602624",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/CukBnnOXEAAXg8m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CukBnnOXEAAXg8m.jpg",
+					"url": "https://t.co/BT20nIOJrS",
+					"display_url": "pic.twitter.com/BT20nIOJrS",
+					"expanded_url": "https://twitter.com/sheilmcn/status/786161400448253952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786161400448254000,
+					"source_status_id_str": "786161400448253952",
+					"source_user_id": 4013641,
+					"source_user_id_str": "4013641"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 786161390008602600,
+					"id_str": "786161390008602624",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/CukBnnOXEAAXg8m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CukBnnOXEAAXg8m.jpg",
+					"url": "https://t.co/BT20nIOJrS",
+					"display_url": "pic.twitter.com/BT20nIOJrS",
+					"expanded_url": "https://twitter.com/sheilmcn/status/786161400448253952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786161400448254000,
+					"source_status_id_str": "786161400448253952",
+					"source_user_id": 4013641,
+					"source_user_id_str": "4013641"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 559,
+			"friends_count": 642,
+			"listed_count": 97,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1176,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4415,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 12 11:07:38 +0000 2016",
+			"id": 786161400448254000,
+			"id_str": "786161400448253952",
+			"text": "example personal tutor dashboard #jiscexperts16 https://t.co/BT20nIOJrS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "jiscexperts16",
+						"indices": [
+							33,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 786161390008602600,
+						"id_str": "786161390008602624",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/CukBnnOXEAAXg8m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CukBnnOXEAAXg8m.jpg",
+						"url": "https://t.co/BT20nIOJrS",
+						"display_url": "pic.twitter.com/BT20nIOJrS",
+						"expanded_url": "https://twitter.com/sheilmcn/status/786161400448253952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 786161390008602600,
+						"id_str": "786161390008602624",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/CukBnnOXEAAXg8m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CukBnnOXEAAXg8m.jpg",
+						"url": "https://t.co/BT20nIOJrS",
+						"display_url": "pic.twitter.com/BT20nIOJrS",
+						"expanded_url": "https://twitter.com/sheilmcn/status/786161400448253952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4013641,
+				"id_str": "4013641",
+				"name": "Sheila MacNeill",
+				"screen_name": "sheilmcn",
+				"location": "iPhone: 55.882915,-4.284300",
+				"description": "Chic geek, open practitioner interested in all things to do with learning and technology find out more at http://t.co/6DGfwFlA7G",
+				"url": "https://t.co/FOOrWWR4bk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FOOrWWR4bk",
+								"expanded_url": "https://howsheilaseesit.wordpress.com/",
+								"display_url": "howsheilaseesit.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/6DGfwFlA7G",
+								"expanded_url": "http://about.me/sheilmcn",
+								"display_url": "about.me/sheilmcn",
+								"indices": [
+									106,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3082,
+				"friends_count": 2114,
+				"listed_count": 341,
+				"created_at": "Tue Apr 10 10:55:00 +0000 2007",
+				"favourites_count": 3891,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35854,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/515415746755575808/fbCFyMN0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/515415746755575808/fbCFyMN0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4013641/1429801527",
+				"profile_link_color": "7DB300",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 11 23:53:45 +0000 2016",
 		"id": 785991812670328800,
 		"id_str": "785991812670328832",
