@@ -1,6 +1,729 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 17 01:12:39 +0000 2016",
+		"id": 787823608538071000,
+		"id_str": "787823608538071040",
+		"text": "A1) recognize that digital literacy and information literacy are integral and should be taught at every opportunity #oklaed",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oklaed",
+					"indices": [
+						116,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 642,
+			"listed_count": 97,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1180,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4424,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 17 01:09:44 +0000 2016",
+		"id": 787822872127348700,
+		"id_str": "787822872127348736",
+		"text": "RT @LizForOK: Join Team Liz today! #Liz4OK #OklaEd https://t.co/Eji5sgdPlM https://t.co/t77OJqtLoe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Liz4OK",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "OklaEd",
+					"indices": [
+						43,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LizForOK",
+					"name": "Liz George",
+					"id": 715910068823175200,
+					"id_str": "715910068823175168",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Eji5sgdPlM",
+					"expanded_url": "http://www.lizforoklahoma.com",
+					"display_url": "lizforoklahoma.com",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 783353069966811100,
+					"id_str": "783353069966811137",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Ct8Hd30VYAEFn6V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ct8Hd30VYAEFn6V.jpg",
+					"url": "https://t.co/t77OJqtLoe",
+					"display_url": "pic.twitter.com/t77OJqtLoe",
+					"expanded_url": "https://twitter.com/LizForOK/status/783353078418255872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 665,
+							"h": 826,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 665,
+							"h": 826,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 783353078418255900,
+					"source_status_id_str": "783353078418255872",
+					"source_user_id": 715910068823175200,
+					"source_user_id_str": "715910068823175168"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 783353069966811100,
+					"id_str": "783353069966811137",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Ct8Hd30VYAEFn6V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ct8Hd30VYAEFn6V.jpg",
+					"url": "https://t.co/t77OJqtLoe",
+					"display_url": "pic.twitter.com/t77OJqtLoe",
+					"expanded_url": "https://twitter.com/LizForOK/status/783353078418255872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 665,
+							"h": 826,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 665,
+							"h": 826,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 783353078418255900,
+					"source_status_id_str": "783353078418255872",
+					"source_user_id": 715910068823175200,
+					"source_user_id_str": "715910068823175168"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 642,
+			"listed_count": 97,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1180,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4424,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 04 17:08:22 +0000 2016",
+			"id": 783353078418255900,
+			"id_str": "783353078418255872",
+			"text": "Join Team Liz today! #Liz4OK #OklaEd https://t.co/Eji5sgdPlM https://t.co/t77OJqtLoe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Liz4OK",
+						"indices": [
+							21,
+							28
+						]
+					},
+					{
+						"text": "OklaEd",
+						"indices": [
+							29,
+							36
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Eji5sgdPlM",
+						"expanded_url": "http://www.lizforoklahoma.com",
+						"display_url": "lizforoklahoma.com",
+						"indices": [
+							37,
+							60
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 783353069966811100,
+						"id_str": "783353069966811137",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct8Hd30VYAEFn6V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct8Hd30VYAEFn6V.jpg",
+						"url": "https://t.co/t77OJqtLoe",
+						"display_url": "pic.twitter.com/t77OJqtLoe",
+						"expanded_url": "https://twitter.com/LizForOK/status/783353078418255872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 665,
+								"h": 826,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 665,
+								"h": 826,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 783353069966811100,
+						"id_str": "783353069966811137",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct8Hd30VYAEFn6V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct8Hd30VYAEFn6V.jpg",
+						"url": "https://t.co/t77OJqtLoe",
+						"display_url": "pic.twitter.com/t77OJqtLoe",
+						"expanded_url": "https://twitter.com/LizForOK/status/783353078418255872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 665,
+								"h": 826,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 665,
+								"h": 826,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 715910068823175200,
+				"id_str": "715910068823175168",
+				"name": "Liz George",
+				"screen_name": "LizForOK",
+				"location": "Oklahoma, USA",
+				"description": "I am a fifth generation Oklahoman and resident of Blanchard, Oklahoma and have announced my candidacy for state representative for District 42.",
+				"url": "https://t.co/oXCnYY8vnj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oXCnYY8vnj",
+								"expanded_url": "http://lizforoklahoma.com",
+								"display_url": "lizforoklahoma.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 75,
+				"friends_count": 125,
+				"listed_count": 4,
+				"created_at": "Fri Apr 01 14:33:56 +0000 2016",
+				"favourites_count": 91,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715942102920794112/OHaXbMR6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715942102920794112/OHaXbMR6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/715910068823175168/1459782511",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 17 01:08:51 +0000 2016",
+		"id": 787822650290606100,
+		"id_str": "787822650290606081",
+		"text": "RT @LizForOK: We have to elect legislators who will apply the Oklahoma Standard to education! Please watch our video.  #oklaed https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oklaed",
+					"indices": [
+						119,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LizForOK",
+					"name": "Liz George",
+					"id": 715910068823175200,
+					"id_str": "715910068823175168",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 642,
+			"listed_count": 97,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1180,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4424,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 29 14:30:43 +0000 2016",
+			"id": 781501462958354400,
+			"id_str": "781501462958354432",
+			"text": "We have to elect legislators who will apply the Oklahoma Standard to education! Please watch our video.  #oklaed https://t.co/44CodaKkaG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oklaed",
+						"indices": [
+							105,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/44CodaKkaG",
+						"expanded_url": "https://www.facebook.com/votelizgeorge/videos/1747480528826182/",
+						"display_url": "facebook.com/votelizgeorge/…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 715910068823175200,
+				"id_str": "715910068823175168",
+				"name": "Liz George",
+				"screen_name": "LizForOK",
+				"location": "Oklahoma, USA",
+				"description": "I am a fifth generation Oklahoman and resident of Blanchard, Oklahoma and have announced my candidacy for state representative for District 42.",
+				"url": "https://t.co/oXCnYY8vnj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oXCnYY8vnj",
+								"expanded_url": "http://lizforoklahoma.com",
+								"display_url": "lizforoklahoma.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 75,
+				"friends_count": 125,
+				"listed_count": 4,
+				"created_at": "Fri Apr 01 14:33:56 +0000 2016",
+				"favourites_count": 91,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715942102920794112/OHaXbMR6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715942102920794112/OHaXbMR6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/715910068823175168/1459782511",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 14 16:49:56 +0000 2016",
 		"id": 786972317226115100,
 		"id_str": "786972317226115072",
