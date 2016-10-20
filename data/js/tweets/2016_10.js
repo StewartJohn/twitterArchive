@@ -1,6 +1,1938 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 23:31:33 +0000 2016",
+		"id": 788885327209431000,
+		"id_str": "788885327209431044",
+		"text": "RT @OU_Create: Spent the afternoon at #OUTechFair, helping students sign up for free web domains. Get yours at https://t.co/KlFXt5vQnz http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OUTechFair",
+					"indices": [
+						38,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OU_Create",
+					"name": "Best of OU Create",
+					"id": 4341583755,
+					"id_str": "4341583755",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KlFXt5vQnz",
+					"expanded_url": "http://create.ou.edu",
+					"display_url": "create.ou.edu",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563,
+			"friends_count": 646,
+			"listed_count": 97,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1185,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 20:08:34 +0000 2016",
+			"id": 788834246471233500,
+			"id_str": "788834246471233536",
+			"text": "Spent the afternoon at #OUTechFair, helping students sign up for free web domains. Get yours at… https://t.co/dhIhAJH00b",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OUTechFair",
+						"indices": [
+							23,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dhIhAJH00b",
+						"expanded_url": "https://twitter.com/i/web/status/788834246471233536",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4341583755,
+				"id_str": "4341583755",
+				"name": "Best of OU Create",
+				"screen_name": "OU_Create",
+				"location": "Norman, OK",
+				"description": "A curation of creations posted to https://t.co/VvQ0pShRnE, a domain-of-one's-own project at the University of Oklahoma-Norman | Brought to you by @teachOU",
+				"url": "https://t.co/H2iidKefBk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H2iidKefBk",
+								"expanded_url": "https://thisweekon.oucreate.com",
+								"display_url": "thisweekon.oucreate.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VvQ0pShRnE",
+								"expanded_url": "http://create.ou.edu",
+								"display_url": "create.ou.edu",
+								"indices": [
+									34,
+									57
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 104,
+				"friends_count": 92,
+				"listed_count": 3,
+				"created_at": "Tue Dec 01 16:44:20 +0000 2015",
+				"favourites_count": 98,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 216,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/671777419116740608/0PfL_vzv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/671777419116740608/0PfL_vzv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4341583755/1448998234",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 19 19:46:09 +0000 2016",
+		"id": 788828605459595300,
+		"id_str": "788828605459595264",
+		"text": "RT @NPR: Interactive Redlining Map Zooms In On America's History Of Discrimination https://t.co/P86O5AINWK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NPR",
+					"name": "NPR",
+					"id": 5392522,
+					"id_str": "5392522",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P86O5AINWK",
+					"expanded_url": "http://n.pr/2ehMrLH",
+					"display_url": "n.pr/2ehMrLH",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563,
+			"friends_count": 646,
+			"listed_count": 97,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1185,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 19:26:08 +0000 2016",
+			"id": 788823564648452100,
+			"id_str": "788823564648452096",
+			"text": "Interactive Redlining Map Zooms In On America's History Of Discrimination https://t.co/P86O5AINWK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/P86O5AINWK",
+						"expanded_url": "http://n.pr/2ehMrLH",
+						"display_url": "n.pr/2ehMrLH",
+						"indices": [
+							74,
+							97
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5392522,
+				"id_str": "5392522",
+				"name": "NPR",
+				"screen_name": "NPR",
+				"location": "Washington, DC",
+				"description": "News. Arts & Life. Music. Everything and more from NPR.",
+				"url": "http://t.co/SoL86ga4RI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SoL86ga4RI",
+								"expanded_url": "http://www.npr.org",
+								"display_url": "npr.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6243763,
+				"friends_count": 72964,
+				"listed_count": 61360,
+				"created_at": "Sun Apr 22 05:10:15 +0000 2007",
+				"favourites_count": 1999,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 102517,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414161733/nprnews_background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414161733/nprnews_background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/722199003845304320/s2zwEoao_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1406560384",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 110,
+			"favorite_count": 111,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 110,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 19 18:32:04 +0000 2016",
+		"id": 788809960444559400,
+		"id_str": "788809960444559360",
+		"text": "RT @kthom9988: #outechfair #boomerbuzz @teachOU @Healthy_Sooner https://t.co/TKyFTyoIRL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "outechfair",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"text": "boomerbuzz",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kthom9988",
+					"name": "KimT",
+					"id": 2733353150,
+					"id_str": "2733353150",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "teachOU",
+					"name": "OU CTE",
+					"id": 1006831573,
+					"id_str": "1006831573",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"screen_name": "Healthy_Sooner",
+					"name": "Healthy Sooner",
+					"id": 2749584302,
+					"id_str": "2749584302",
+					"indices": [
+						48,
+						63
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 788801751545634800,
+					"id_str": "788801751545634816",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/CvJjA4cVYAAX6tC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvJjA4cVYAAX6tC.jpg",
+					"url": "https://t.co/TKyFTyoIRL",
+					"display_url": "pic.twitter.com/TKyFTyoIRL",
+					"expanded_url": "https://twitter.com/kthom9988/status/788801771397263360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788801771397263400,
+					"source_status_id_str": "788801771397263360",
+					"source_user_id": 2733353150,
+					"source_user_id_str": "2733353150"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788801751545634800,
+					"id_str": "788801751545634816",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/CvJjA4cVYAAX6tC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvJjA4cVYAAX6tC.jpg",
+					"url": "https://t.co/TKyFTyoIRL",
+					"display_url": "pic.twitter.com/TKyFTyoIRL",
+					"expanded_url": "https://twitter.com/kthom9988/status/788801771397263360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788801771397263400,
+					"source_status_id_str": "788801771397263360",
+					"source_user_id": 2733353150,
+					"source_user_id_str": "2733353150"
+				},
+				{
+					"id": 788801752459911200,
+					"id_str": "788801752459911169",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/CvJjA72UIAEywrE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvJjA72UIAEywrE.jpg",
+					"url": "https://t.co/TKyFTyoIRL",
+					"display_url": "pic.twitter.com/TKyFTyoIRL",
+					"expanded_url": "https://twitter.com/kthom9988/status/788801771397263360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788801771397263400,
+					"source_status_id_str": "788801771397263360",
+					"source_user_id": 2733353150,
+					"source_user_id_str": "2733353150"
+				},
+				{
+					"id": 788801754842341400,
+					"id_str": "788801754842341376",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/CvJjBEuVIAAI-Df.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvJjBEuVIAAI-Df.jpg",
+					"url": "https://t.co/TKyFTyoIRL",
+					"display_url": "pic.twitter.com/TKyFTyoIRL",
+					"expanded_url": "https://twitter.com/kthom9988/status/788801771397263360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788801771397263400,
+					"source_status_id_str": "788801771397263360",
+					"source_user_id": 2733353150,
+					"source_user_id_str": "2733353150"
+				},
+				{
+					"id": 788801756813594600,
+					"id_str": "788801756813594624",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/CvJjBMEUEAA1NJE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvJjBMEUEAA1NJE.jpg",
+					"url": "https://t.co/TKyFTyoIRL",
+					"display_url": "pic.twitter.com/TKyFTyoIRL",
+					"expanded_url": "https://twitter.com/kthom9988/status/788801771397263360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788801771397263400,
+					"source_status_id_str": "788801771397263360",
+					"source_user_id": 2733353150,
+					"source_user_id_str": "2733353150"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563,
+			"friends_count": 646,
+			"listed_count": 97,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1185,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 17:59:32 +0000 2016",
+			"id": 788801771397263400,
+			"id_str": "788801771397263360",
+			"text": "#outechfair #boomerbuzz @teachOU @Healthy_Sooner https://t.co/TKyFTyoIRL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "outechfair",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "boomerbuzz",
+						"indices": [
+							12,
+							23
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "teachOU",
+						"name": "OU CTE",
+						"id": 1006831573,
+						"id_str": "1006831573",
+						"indices": [
+							24,
+							32
+						]
+					},
+					{
+						"screen_name": "Healthy_Sooner",
+						"name": "Healthy Sooner",
+						"id": 2749584302,
+						"id_str": "2749584302",
+						"indices": [
+							33,
+							48
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 788801751545634800,
+						"id_str": "788801751545634816",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/CvJjA4cVYAAX6tC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvJjA4cVYAAX6tC.jpg",
+						"url": "https://t.co/TKyFTyoIRL",
+						"display_url": "pic.twitter.com/TKyFTyoIRL",
+						"expanded_url": "https://twitter.com/kthom9988/status/788801771397263360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 788801751545634800,
+						"id_str": "788801751545634816",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/CvJjA4cVYAAX6tC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvJjA4cVYAAX6tC.jpg",
+						"url": "https://t.co/TKyFTyoIRL",
+						"display_url": "pic.twitter.com/TKyFTyoIRL",
+						"expanded_url": "https://twitter.com/kthom9988/status/788801771397263360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 788801752459911200,
+						"id_str": "788801752459911169",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/CvJjA72UIAEywrE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvJjA72UIAEywrE.jpg",
+						"url": "https://t.co/TKyFTyoIRL",
+						"display_url": "pic.twitter.com/TKyFTyoIRL",
+						"expanded_url": "https://twitter.com/kthom9988/status/788801771397263360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 788801754842341400,
+						"id_str": "788801754842341376",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/CvJjBEuVIAAI-Df.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvJjBEuVIAAI-Df.jpg",
+						"url": "https://t.co/TKyFTyoIRL",
+						"display_url": "pic.twitter.com/TKyFTyoIRL",
+						"expanded_url": "https://twitter.com/kthom9988/status/788801771397263360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 788801756813594600,
+						"id_str": "788801756813594624",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/CvJjBMEUEAA1NJE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvJjBMEUEAA1NJE.jpg",
+						"url": "https://t.co/TKyFTyoIRL",
+						"display_url": "pic.twitter.com/TKyFTyoIRL",
+						"expanded_url": "https://twitter.com/kthom9988/status/788801771397263360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2733353150,
+				"id_str": "2733353150",
+				"name": "KimT",
+				"screen_name": "kthom9988",
+				"location": "Oklahoma, USA",
+				"description": "Turning vision into results and learning something new everyday. Passionate about getting more women & under represented groups in #STEM",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 289,
+				"friends_count": 178,
+				"listed_count": 416,
+				"created_at": "Fri Aug 15 02:03:31 +0000 2014",
+				"favourites_count": 1023,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11358,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/629781114308046848/bjwNNWL8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/629781114308046848/bjwNNWL8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2733353150/1431116603",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Wed Oct 19 16:09:36 +0000 2016",
+		"id": 788774105814184000,
+		"id_str": "788774105814183936",
+		"text": "RT @OUITSolutions: Pssst! Come to the South Oval Wednesday for tacos, tech, games, and fun! #OUTechExpo https://t.co/7ovhHxXxOi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OUTechExpo",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OUITSolutions",
+					"name": "OU IT",
+					"id": 262975527,
+					"id_str": "262975527",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 788106989922422800,
+					"id_str": "788106989922422785",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/Cu_rIbtUEAExqcg.png",
+					"media_url_https": "https://pbs.twimg.com/media/Cu_rIbtUEAExqcg.png",
+					"url": "https://t.co/7ovhHxXxOi",
+					"display_url": "pic.twitter.com/7ovhHxXxOi",
+					"expanded_url": "https://twitter.com/OUITSolutions/status/788108930639466496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 566,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 566,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788108930639466500,
+					"source_status_id_str": "788108930639466496",
+					"source_user_id": 262975527,
+					"source_user_id_str": "262975527"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788106989922422800,
+					"id_str": "788106989922422785",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/Cu_rIbtUEAExqcg.png",
+					"media_url_https": "https://pbs.twimg.com/media/Cu_rIbtUEAExqcg.png",
+					"url": "https://t.co/7ovhHxXxOi",
+					"display_url": "pic.twitter.com/7ovhHxXxOi",
+					"expanded_url": "https://twitter.com/OUITSolutions/status/788108930639466496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 566,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 566,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788108930639466500,
+					"source_status_id_str": "788108930639466496",
+					"source_user_id": 262975527,
+					"source_user_id_str": "262975527"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563,
+			"friends_count": 646,
+			"listed_count": 97,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1185,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 17 20:06:26 +0000 2016",
+			"id": 788108930639466500,
+			"id_str": "788108930639466496",
+			"text": "Pssst! Come to the South Oval Wednesday for tacos, tech, games, and fun! #OUTechExpo https://t.co/7ovhHxXxOi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OUTechExpo",
+						"indices": [
+							73,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 788106989922422800,
+						"id_str": "788106989922422785",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/Cu_rIbtUEAExqcg.png",
+						"media_url_https": "https://pbs.twimg.com/media/Cu_rIbtUEAExqcg.png",
+						"url": "https://t.co/7ovhHxXxOi",
+						"display_url": "pic.twitter.com/7ovhHxXxOi",
+						"expanded_url": "https://twitter.com/OUITSolutions/status/788108930639466496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 566,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 566,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 788106989922422800,
+						"id_str": "788106989922422785",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/Cu_rIbtUEAExqcg.png",
+						"media_url_https": "https://pbs.twimg.com/media/Cu_rIbtUEAExqcg.png",
+						"url": "https://t.co/7ovhHxXxOi",
+						"display_url": "pic.twitter.com/7ovhHxXxOi",
+						"expanded_url": "https://twitter.com/OUITSolutions/status/788108930639466496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 566,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 566,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 262975527,
+				"id_str": "262975527",
+				"name": "OU IT",
+				"screen_name": "OUITSolutions",
+				"location": "Norman, OK",
+				"description": "Tweets will be responded to M-F. If you need assistance on Sat/Sun, please call us at 325-HELP. Outage information can be found at: http://t.co/d4QTVXuRo5.",
+				"url": "http://t.co/IUY5QU6iaU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IUY5QU6iaU",
+								"expanded_url": "http://it.ou.edu",
+								"display_url": "it.ou.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/d4QTVXuRo5",
+								"expanded_url": "http://alerts.ou.edu",
+								"display_url": "alerts.ou.edu",
+								"indices": [
+									132,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2450,
+				"friends_count": 445,
+				"listed_count": 44,
+				"created_at": "Wed Mar 09 03:42:21 +0000 2011",
+				"favourites_count": 1149,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3355,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "992200",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/634917953/8xfvsex8v063y6p6n0o6.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/634917953/8xfvsex8v063y6p6n0o6.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/653785604723859457/Zyo6eCvt_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/653785604723859457/Zyo6eCvt_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/262975527/1444768198",
+				"profile_link_color": "4F94CD",
+				"profile_sidebar_border_color": "A7A9AC",
+				"profile_sidebar_fill_color": "E6E6E6",
+				"profile_text_color": "A7A9AC",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 19 13:31:58 +0000 2016",
+		"id": 788734438326796300,
+		"id_str": "788734438326796288",
+		"text": "RT @kthom9988: #outechfair @kevinbuck9 #boomerbuzz  TODAY 11-2 South Oval https://t.co/hcQfrQ1Hb6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "outechfair",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"text": "boomerbuzz",
+					"indices": [
+						39,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kthom9988",
+					"name": "KimT",
+					"id": 2733353150,
+					"id_str": "2733353150",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "kevinbuck9",
+					"name": "Kevin Buck",
+					"id": 13743022,
+					"id_str": "13743022",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 788719707599757300,
+					"id_str": "788719707599757312",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CvIYZS7VYAAzsul.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CvIYZS7VYAAzsul.jpg",
+					"url": "https://t.co/hcQfrQ1Hb6",
+					"display_url": "pic.twitter.com/hcQfrQ1Hb6",
+					"expanded_url": "https://twitter.com/kthom9988/status/788719718647472128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 106,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 106,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 106,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 106,
+							"h": 106,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 788719718647472100,
+					"source_status_id_str": "788719718647472128",
+					"source_user_id": 2733353150,
+					"source_user_id_str": "2733353150"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788719707599757300,
+					"id_str": "788719707599757312",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CvIYZS7VYAAzsul.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CvIYZS7VYAAzsul.jpg",
+					"url": "https://t.co/hcQfrQ1Hb6",
+					"display_url": "pic.twitter.com/hcQfrQ1Hb6",
+					"expanded_url": "https://twitter.com/kthom9988/status/788719718647472128/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 106,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 106,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 106,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 106,
+							"h": 106,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 788719718647472100,
+					"source_status_id_str": "788719718647472128",
+					"source_user_id": 2733353150,
+					"source_user_id_str": "2733353150",
+					"video_info": {
+						"aspect_ratio": [
+							110,
+							53
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CvIYZS7VYAAzsul.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563,
+			"friends_count": 646,
+			"listed_count": 97,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1185,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 12:33:29 +0000 2016",
+			"id": 788719718647472100,
+			"id_str": "788719718647472128",
+			"text": "#outechfair @kevinbuck9 #boomerbuzz  TODAY 11-2 South Oval https://t.co/hcQfrQ1Hb6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "outechfair",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "boomerbuzz",
+						"indices": [
+							24,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kevinbuck9",
+						"name": "Kevin Buck",
+						"id": 13743022,
+						"id_str": "13743022",
+						"indices": [
+							12,
+							23
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 788719707599757300,
+						"id_str": "788719707599757312",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CvIYZS7VYAAzsul.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CvIYZS7VYAAzsul.jpg",
+						"url": "https://t.co/hcQfrQ1Hb6",
+						"display_url": "pic.twitter.com/hcQfrQ1Hb6",
+						"expanded_url": "https://twitter.com/kthom9988/status/788719718647472128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 220,
+								"h": 106,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 220,
+								"h": 106,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 220,
+								"h": 106,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 106,
+								"h": 106,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 788719707599757300,
+						"id_str": "788719707599757312",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CvIYZS7VYAAzsul.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CvIYZS7VYAAzsul.jpg",
+						"url": "https://t.co/hcQfrQ1Hb6",
+						"display_url": "pic.twitter.com/hcQfrQ1Hb6",
+						"expanded_url": "https://twitter.com/kthom9988/status/788719718647472128/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 220,
+								"h": 106,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 220,
+								"h": 106,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 220,
+								"h": 106,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 106,
+								"h": 106,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								110,
+								53
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/CvIYZS7VYAAzsul.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2733353150,
+				"id_str": "2733353150",
+				"name": "KimT",
+				"screen_name": "kthom9988",
+				"location": "Oklahoma, USA",
+				"description": "Turning vision into results and learning something new everyday. Passionate about getting more women & under represented groups in #STEM",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 289,
+				"friends_count": 178,
+				"listed_count": 416,
+				"created_at": "Fri Aug 15 02:03:31 +0000 2014",
+				"favourites_count": 1023,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11358,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/629781114308046848/bjwNNWL8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/629781114308046848/bjwNNWL8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2733353150/1431116603",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "27de1a6e27075587",
+				"url": "https://api.twitter.com/1.1/geo/id/27de1a6e27075587.json",
+				"place_type": "city",
+				"name": "Norman",
+				"full_name": "Norman, OK",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-97.51982,
+								35.15327
+							],
+							[
+								-97.370527,
+								35.15327
+							],
+							[
+								-97.370527,
+								35.291332
+							],
+							[
+								-97.51982,
+								35.291332
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 18 19:23:26 +0000 2016",
 		"id": 788460500317245400,
 		"id_str": "788460500317245440",
