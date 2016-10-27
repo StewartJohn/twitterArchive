@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 18:56:58 +0000 2016",
+		"id": 791352939306623000,
+		"id_str": "791352939306622976",
+		"text": "RT @OU_Create: Check out @victinev's discussion of his cover of 'The Weekend' by @ModernBaseball, then listen to the track: https://t.co/ad…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OU_Create",
+					"name": "Best of OU Create",
+					"id": 4341583755,
+					"id_str": "4341583755",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "victinev",
+					"name": "victinev",
+					"id": 778327279780896800,
+					"id_str": "778327279780896768",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"screen_name": "ModernBaseball",
+					"name": "Modern Baseball",
+					"id": 436187029,
+					"id_str": "436187029",
+					"indices": [
+						81,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 655,
+			"listed_count": 98,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1223,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4496,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 26 18:19:00 +0000 2016",
+			"id": 791343387748151300,
+			"id_str": "791343387748151296",
+			"text": "Check out @victinev's discussion of his cover of 'The Weekend' by @ModernBaseball, then listen to the track: https://t.co/adoLSnMsG6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "victinev",
+						"name": "victinev",
+						"id": 778327279780896800,
+						"id_str": "778327279780896768",
+						"indices": [
+							10,
+							19
+						]
+					},
+					{
+						"screen_name": "ModernBaseball",
+						"name": "Modern Baseball",
+						"id": 436187029,
+						"id_str": "436187029",
+						"indices": [
+							66,
+							81
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/adoLSnMsG6",
+						"expanded_url": "http://zacharywallar.com/uncategorized/the-weekend/",
+						"display_url": "zacharywallar.com/uncategorized/…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4341583755,
+				"id_str": "4341583755",
+				"name": "Best of OU Create",
+				"screen_name": "OU_Create",
+				"location": "Norman, OK",
+				"description": "A curation of creations posted to https://t.co/VvQ0pShRnE, a domain-of-one's-own project at the University of Oklahoma-Norman | Brought to you by @teachOU",
+				"url": "https://t.co/H2iidKefBk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H2iidKefBk",
+								"expanded_url": "https://thisweekon.oucreate.com",
+								"display_url": "thisweekon.oucreate.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VvQ0pShRnE",
+								"expanded_url": "http://create.ou.edu",
+								"display_url": "create.ou.edu",
+								"indices": [
+									34,
+									57
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 108,
+				"friends_count": 92,
+				"listed_count": 4,
+				"created_at": "Tue Dec 01 16:44:20 +0000 2015",
+				"favourites_count": 102,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 223,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/671777419116740608/0PfL_vzv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/671777419116740608/0PfL_vzv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4341583755/1448998234",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 26 03:47:47 +0000 2016",
+		"id": 791124136529715200,
+		"id_str": "791124136529715201",
+		"text": "RT @ringer: TO: kd\nFR: russ\n\nSUBJ: lol",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ringer",
+					"name": "The Ringer",
+					"id": 4760694445,
+					"id_str": "4760694445",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 655,
+			"listed_count": 98,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1223,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4496,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 26 03:35:16 +0000 2016",
+			"id": 791120989224443900,
+			"id_str": "791120989224443905",
+			"text": "TO: kd\nFR: russ\n\nSUBJ: lol",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4760694445,
+				"id_str": "4760694445",
+				"name": "The Ringer",
+				"screen_name": "ringer",
+				"location": "Los Angeles, CA",
+				"description": "Sports, culture, and tech. Sign up for our newsletter: https://t.co/2nuZMCdTqa",
+				"url": "https://t.co/CIR7zszDmT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CIR7zszDmT",
+								"expanded_url": "http://theringer.com",
+								"display_url": "theringer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2nuZMCdTqa",
+								"expanded_url": "http://eepurl.com/bP89x1",
+								"display_url": "eepurl.com/bP89x1",
+								"indices": [
+									55,
+									78
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 268279,
+				"friends_count": 96,
+				"listed_count": 2459,
+				"created_at": "Fri Jan 15 01:30:52 +0000 2016",
+				"favourites_count": 34,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5739,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789094659691655168/pUMzu334_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789094659691655168/pUMzu334_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4760694445/1476373301",
+				"profile_link_color": "13B143",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 356,
+			"favorite_count": 627,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 356,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 26 03:28:02 +0000 2016",
+		"id": 791119166648442900,
+		"id_str": "791119166648442880",
+		"text": "@AnnaNReser Infomocracy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnnaNReser",
+					"name": "Anna Reser",
+					"id": 452597028,
+					"id_str": "452597028",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 791110407565955100,
+		"in_reply_to_status_id_str": "791110407565955074",
+		"in_reply_to_user_id": 452597028,
+		"in_reply_to_user_id_str": "452597028",
+		"in_reply_to_screen_name": "AnnaNReser",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 655,
+			"listed_count": 98,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1223,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4496,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "pl"
+	},
+	{
 		"created_at": "Tue Oct 25 23:53:13 +0000 2016",
 		"id": 791065108982005800,
 		"id_str": "791065108982005760",
