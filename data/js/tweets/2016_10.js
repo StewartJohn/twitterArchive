@@ -1,6 +1,715 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 31 00:40:52 +0000 2016",
+		"id": 792889038793379800,
+		"id_str": "792889038793379840",
+		"text": "RT @VConnecting: Nov 4 #OpenEd16 w @VivienRolfe @dkernohan @holden @jstew511 @karencang @professorsv \n\nhttps://t.co/kWxwzihJYm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenEd16",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "VivienRolfe",
+					"name": "Viv Rolfe",
+					"id": 214901910,
+					"id_str": "214901910",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "dkernohan",
+					"name": "Deplorable KernⓄhⒶn",
+					"id": 12219232,
+					"id_str": "12219232",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"screen_name": "holden",
+					"name": "Mike Caulfield",
+					"id": 1912681,
+					"id_str": "1912681",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"screen_name": "jstew511",
+					"name": "John Stewart",
+					"id": 73977188,
+					"id_str": "73977188",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"screen_name": "karencang",
+					"name": "Karen Cangialosi",
+					"id": 274739602,
+					"id_str": "274739602",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"screen_name": "professorsv",
+					"name": "Samantha Veneruso",
+					"id": 1255823532,
+					"id_str": "1255823532",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kWxwzihJYm",
+					"expanded_url": "http://virtuallyconnecting.org/announcements/we-are-vconnecting-at-opened16/",
+					"display_url": "virtuallyconnecting.org/announcements/…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 571,
+			"friends_count": 669,
+			"listed_count": 98,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1231,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4511,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 31 00:33:22 +0000 2016",
+			"id": 792887151717384200,
+			"id_str": "792887151717384192",
+			"text": "Nov 4 #OpenEd16 w @VivienRolfe @dkernohan @holden @jstew511 @karencang @professorsv \n\nhttps://t.co/kWxwzihJYm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenEd16",
+						"indices": [
+							6,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "VivienRolfe",
+						"name": "Viv Rolfe",
+						"id": 214901910,
+						"id_str": "214901910",
+						"indices": [
+							18,
+							30
+						]
+					},
+					{
+						"screen_name": "dkernohan",
+						"name": "Deplorable KernⓄhⒶn",
+						"id": 12219232,
+						"id_str": "12219232",
+						"indices": [
+							31,
+							41
+						]
+					},
+					{
+						"screen_name": "holden",
+						"name": "Mike Caulfield",
+						"id": 1912681,
+						"id_str": "1912681",
+						"indices": [
+							42,
+							49
+						]
+					},
+					{
+						"screen_name": "jstew511",
+						"name": "John Stewart",
+						"id": 73977188,
+						"id_str": "73977188",
+						"indices": [
+							50,
+							59
+						]
+					},
+					{
+						"screen_name": "karencang",
+						"name": "Karen Cangialosi",
+						"id": 274739602,
+						"id_str": "274739602",
+						"indices": [
+							60,
+							70
+						]
+					},
+					{
+						"screen_name": "professorsv",
+						"name": "Samantha Veneruso",
+						"id": 1255823532,
+						"id_str": "1255823532",
+						"indices": [
+							71,
+							83
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kWxwzihJYm",
+						"expanded_url": "http://virtuallyconnecting.org/announcements/we-are-vconnecting-at-opened16/",
+						"display_url": "virtuallyconnecting.org/announcements/…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3230962884,
+				"id_str": "3230962884",
+				"name": "Virtually Connecting",
+				"screen_name": "VConnecting",
+				"location": "On the Internet - Virtually",
+				"description": "Enlivening virtual participation in academic conferences (free to participate!). Co-directors @rjhogue @bali_maha @autumm Powered by volunteer buddies",
+				"url": "https://t.co/8KNfhJ5FwL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8KNfhJ5FwL",
+								"expanded_url": "http://virtuallyconnecting.org",
+								"display_url": "virtuallyconnecting.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 847,
+				"friends_count": 840,
+				"listed_count": 64,
+				"created_at": "Sat May 30 20:17:07 +0000 2015",
+				"favourites_count": 3719,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2311,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/649000734860673024/pGX0zcux_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/649000734860673024/pGX0zcux_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3230962884/1443566491",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 31 00:29:10 +0000 2016",
+		"id": 792886095532793900,
+		"id_str": "792886095532793856",
+		"text": "RT @VConnecting: Nov 2 #openEd16 meet @Jessifer @DaniParadis @clhendricksbc @JRDingwall @greeneterry @RMoeJo @econproph \nhttps://t.co/kWxwz…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "openEd16",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VConnecting",
+					"name": "Virtually Connecting",
+					"id": 3230962884,
+					"id_str": "3230962884",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "Jessifer",
+					"name": "Jesse Stommel",
+					"id": 11702102,
+					"id_str": "11702102",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "DaniParadis",
+					"name": "Paradis Lost 🎃",
+					"id": 31343866,
+					"id_str": "31343866",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "clhendricksbc",
+					"name": "Christina Hendricks",
+					"id": 260919324,
+					"id_str": "260919324",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"screen_name": "JRDingwall",
+					"name": "JR Dingwall #openABE",
+					"id": 141806761,
+					"id_str": "141806761",
+					"indices": [
+						76,
+						87
+					]
+				},
+				{
+					"screen_name": "greeneterry",
+					"name": "(((TG)))",
+					"id": 212019344,
+					"id_str": "212019344",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"screen_name": "RMoeJo",
+					"name": "Rolin Moe",
+					"id": 170832237,
+					"id_str": "170832237",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"screen_name": "econproph",
+					"name": "Jim Luke",
+					"id": 26559701,
+					"id_str": "26559701",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 571,
+			"friends_count": 669,
+			"listed_count": 98,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1231,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4511,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 31 00:27:51 +0000 2016",
+			"id": 792885763029471200,
+			"id_str": "792885763029471233",
+			"text": "Nov 2 #openEd16 meet @Jessifer @DaniParadis @clhendricksbc @JRDingwall @greeneterry @RMoeJo @econproph \nhttps://t.co/kWxwzihJYm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "openEd16",
+						"indices": [
+							6,
+							15
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Jessifer",
+						"name": "Jesse Stommel",
+						"id": 11702102,
+						"id_str": "11702102",
+						"indices": [
+							21,
+							30
+						]
+					},
+					{
+						"screen_name": "DaniParadis",
+						"name": "Paradis Lost 🎃",
+						"id": 31343866,
+						"id_str": "31343866",
+						"indices": [
+							31,
+							43
+						]
+					},
+					{
+						"screen_name": "clhendricksbc",
+						"name": "Christina Hendricks",
+						"id": 260919324,
+						"id_str": "260919324",
+						"indices": [
+							44,
+							58
+						]
+					},
+					{
+						"screen_name": "JRDingwall",
+						"name": "JR Dingwall #openABE",
+						"id": 141806761,
+						"id_str": "141806761",
+						"indices": [
+							59,
+							70
+						]
+					},
+					{
+						"screen_name": "greeneterry",
+						"name": "(((TG)))",
+						"id": 212019344,
+						"id_str": "212019344",
+						"indices": [
+							71,
+							83
+						]
+					},
+					{
+						"screen_name": "RMoeJo",
+						"name": "Rolin Moe",
+						"id": 170832237,
+						"id_str": "170832237",
+						"indices": [
+							84,
+							91
+						]
+					},
+					{
+						"screen_name": "econproph",
+						"name": "Jim Luke",
+						"id": 26559701,
+						"id_str": "26559701",
+						"indices": [
+							92,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kWxwzihJYm",
+						"expanded_url": "http://virtuallyconnecting.org/announcements/we-are-vconnecting-at-opened16/",
+						"display_url": "virtuallyconnecting.org/announcements/…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3230962884,
+				"id_str": "3230962884",
+				"name": "Virtually Connecting",
+				"screen_name": "VConnecting",
+				"location": "On the Internet - Virtually",
+				"description": "Enlivening virtual participation in academic conferences (free to participate!). Co-directors @rjhogue @bali_maha @autumm Powered by volunteer buddies",
+				"url": "https://t.co/8KNfhJ5FwL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8KNfhJ5FwL",
+								"expanded_url": "http://virtuallyconnecting.org",
+								"display_url": "virtuallyconnecting.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 847,
+				"friends_count": 840,
+				"listed_count": 64,
+				"created_at": "Sat May 30 20:17:07 +0000 2015",
+				"favourites_count": 3719,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2311,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/649000734860673024/pGX0zcux_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/649000734860673024/pGX0zcux_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3230962884/1443566491",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "et"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "et"
+	},
+	{
 		"created_at": "Fri Oct 28 20:49:24 +0000 2016",
 		"id": 792106009820926000,
 		"id_str": "792106009820925952",
