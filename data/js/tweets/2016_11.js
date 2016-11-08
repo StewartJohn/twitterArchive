@@ -1,6 +1,1135 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 07 14:38:24 +0000 2016",
+		"id": 795636525040025600,
+		"id_str": "795636525040025600",
+		"text": "@bonni208 @ken_bauer the stuff I've done with @KeeganSLW and my blog are also CC 4.0 BY NC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bonni208",
+					"name": "Bonni Stachowiak",
+					"id": 14777884,
+					"id_str": "14777884",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "ken_bauer",
+					"name": "Ken Bauer",
+					"id": 16033586,
+					"id_str": "16033586",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						46,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 795635046472257500,
+		"in_reply_to_status_id_str": "795635046472257536",
+		"in_reply_to_user_id": 14777884,
+		"in_reply_to_user_id_str": "14777884",
+		"in_reply_to_screen_name": "bonni208",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 689,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1455,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4654,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 07 04:32:20 +0000 2016",
+		"id": 795484005038755800,
+		"id_str": "795484005038755841",
+		"text": "RT @MarkMorvant: S/O to @actualham @acroom @KeeganSLW @jstew511 @anrikard and the great minds of EdTech @audreywatters @cogdog @GardnerCamp…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkMorvant",
+					"name": "Mark Morvant",
+					"id": 2284688232,
+					"id_str": "2284688232",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "actualham",
+					"name": "Robin DeRosa",
+					"id": 2182862052,
+					"id_str": "2182862052",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "acroom",
+					"name": "Adam Croom",
+					"id": 19056987,
+					"id_str": "19056987",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"screen_name": "jstew511",
+					"name": "John Stewart",
+					"id": 73977188,
+					"id_str": "73977188",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"screen_name": "anrikard",
+					"name": "Andrew Rikard",
+					"id": 493538250,
+					"id_str": "493538250",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"screen_name": "audreywatters",
+					"name": "Audrey Watters",
+					"id": 25388528,
+					"id_str": "25388528",
+					"indices": [
+						104,
+						118
+					]
+				},
+				{
+					"screen_name": "cogdog",
+					"name": "Alan Levine",
+					"id": 740343,
+					"id_str": "740343",
+					"indices": [
+						119,
+						126
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 689,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1455,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4654,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 07 04:21:35 +0000 2016",
+			"id": 795481299913936900,
+			"id_str": "795481299913936896",
+			"text": "S/O to @actualham @acroom @KeeganSLW @jstew511 @anrikard and the great minds of EdTech @audreywatters @cogdog… https://t.co/XzS2lFnlwm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "actualham",
+						"name": "Robin DeRosa",
+						"id": 2182862052,
+						"id_str": "2182862052",
+						"indices": [
+							7,
+							17
+						]
+					},
+					{
+						"screen_name": "acroom",
+						"name": "Adam Croom",
+						"id": 19056987,
+						"id_str": "19056987",
+						"indices": [
+							18,
+							25
+						]
+					},
+					{
+						"screen_name": "KeeganSLW",
+						"name": "Keegan Long-Wheeler",
+						"id": 117573509,
+						"id_str": "117573509",
+						"indices": [
+							26,
+							36
+						]
+					},
+					{
+						"screen_name": "jstew511",
+						"name": "John Stewart",
+						"id": 73977188,
+						"id_str": "73977188",
+						"indices": [
+							37,
+							46
+						]
+					},
+					{
+						"screen_name": "anrikard",
+						"name": "Andrew Rikard",
+						"id": 493538250,
+						"id_str": "493538250",
+						"indices": [
+							47,
+							56
+						]
+					},
+					{
+						"screen_name": "audreywatters",
+						"name": "Audrey Watters",
+						"id": 25388528,
+						"id_str": "25388528",
+						"indices": [
+							87,
+							101
+						]
+					},
+					{
+						"screen_name": "cogdog",
+						"name": "Alan Levine",
+						"id": 740343,
+						"id_str": "740343",
+						"indices": [
+							102,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XzS2lFnlwm",
+						"expanded_url": "https://twitter.com/i/web/status/795481299913936896",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2284688232,
+				"id_str": "2284688232",
+				"name": "Mark Morvant",
+				"screen_name": "MarkMorvant",
+				"location": "Norman, OK",
+				"description": "Teacher, Innovator, Educational Visionary, Professor, Executive Director, Associate Provost, Senior Fellow Dunham College https://t.co/rrUnpTqiac",
+				"url": "https://t.co/VGhKeB5ZaD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VGhKeB5ZaD",
+								"expanded_url": "http://markmorvant.com",
+								"display_url": "markmorvant.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rrUnpTqiac",
+								"expanded_url": "http://ou.edu/residentialcolleges",
+								"display_url": "ou.edu/residentialcol…",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1309,
+				"friends_count": 1034,
+				"listed_count": 132,
+				"created_at": "Fri Jan 10 07:19:03 +0000 2014",
+				"favourites_count": 22671,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10362,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/422181283402219520/VTpLrcFn_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/422181283402219520/VTpLrcFn_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2284688232/1408561253",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 795258394840014800,
+			"quoted_status_id_str": "795258394840014849",
+			"quoted_status": {
+				"created_at": "Sun Nov 06 13:35:51 +0000 2016",
+				"id": 795258394840014800,
+				"id_str": "795258394840014849",
+				"text": "I sent my thoughts to my fingers and they typed them out into this blog post about my  #OpenEd16 experience https://t.co/0vewFWDqCx",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "OpenEd16",
+							"indices": [
+								87,
+								96
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/0vewFWDqCx",
+							"expanded_url": "https://learningnuggetsblog.wordpress.com/2016/11/06/an-opening-move/",
+							"display_url": "learningnuggetsblog.wordpress.com/2016/11/06/an-…",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 212019344,
+					"id_str": "212019344",
+					"name": "(((TG)))",
+					"screen_name": "greeneterry",
+					"location": "",
+					"description": "Learning Technologist @Flemingcollege",
+					"url": "https://t.co/MghmyArvbp",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/MghmyArvbp",
+									"expanded_url": "https://learningnuggetsblog.wordpress.com/",
+									"display_url": "learningnuggetsblog.wordpress.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 146,
+					"friends_count": 301,
+					"listed_count": 11,
+					"created_at": "Thu Nov 04 22:34:28 +0000 2010",
+					"favourites_count": 1088,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 974,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/694888533237096452/s7LFxyWt_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/694888533237096452/s7LFxyWt_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/212019344/1471982170",
+					"profile_link_color": "89C9FA",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 12,
+				"favorite_count": 23,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 795258394840014800,
+		"quoted_status_id_str": "795258394840014849",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 07 02:30:16 +0000 2016",
+		"id": 795453282831532000,
+		"id_str": "795453282831532032",
+		"text": "RT @RealKevinConroy: Vote! People have fought for years for your right to vote. Honor that and get involved in our future. https://t.co/Zin…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RealKevinConroy",
+					"name": "Kevin Conroy",
+					"id": 1292288262,
+					"id_str": "1292288262",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 689,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1455,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4654,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 06 20:37:26 +0000 2016",
+			"id": 795364491324260400,
+			"id_str": "795364491324260353",
+			"text": "Vote! People have fought for years for your right to vote. Honor that and get involved in our future. https://t.co/ZinkSQtpfk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 795364484583829500,
+						"id_str": "795364484583829504",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/CwmzyOKUsAAD_9_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwmzyOKUsAAD_9_.jpg",
+						"url": "https://t.co/ZinkSQtpfk",
+						"display_url": "pic.twitter.com/ZinkSQtpfk",
+						"expanded_url": "https://twitter.com/RealKevinConroy/status/795364491324260353/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 672,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 711,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 711,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 795364484583829500,
+						"id_str": "795364484583829504",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/CwmzyOKUsAAD_9_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwmzyOKUsAAD_9_.jpg",
+						"url": "https://t.co/ZinkSQtpfk",
+						"display_url": "pic.twitter.com/ZinkSQtpfk",
+						"expanded_url": "https://twitter.com/RealKevinConroy/status/795364491324260353/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 672,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 711,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 711,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1292288262,
+				"id_str": "1292288262",
+				"name": "Kevin Conroy",
+				"screen_name": "RealKevinConroy",
+				"location": "",
+				"description": "Everyone gets knocked down, it's how you get up that defines you...",
+				"url": "https://t.co/xRapcR5Z2g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xRapcR5Z2g",
+								"expanded_url": "http://www.realkevinconroy.com",
+								"display_url": "realkevinconroy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63158,
+				"friends_count": 71,
+				"listed_count": 422,
+				"created_at": "Sat Mar 23 19:34:35 +0000 2013",
+				"favourites_count": 21,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1112,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1D132A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000164976611/pLFPTFP3.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000164976611/pLFPTFP3.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3559874426/89b4600e9d7c7ffafbe5710794fcdeb3_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3559874426/89b4600e9d7c7ffafbe5710794fcdeb3_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1292288262/1364068693",
+				"profile_link_color": "9C1D00",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01a9a39529b27f36",
+				"url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+				"place_type": "city",
+				"name": "Manhattan",
+				"full_name": "Manhattan, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.026675,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.877483
+							],
+							[
+								-74.026675,
+								40.877483
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2856,
+			"favorite_count": 4816,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2856,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 07 02:22:37 +0000 2016",
+		"id": 795451357587185700,
+		"id_str": "795451357587185664",
+		"text": "RT @MarkMorvant: How to Drive a Model T: Hope for Open EdTech | Mark Morvant #OpenEd16 https://t.co/pNeVUhcAO4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenEd16",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkMorvant",
+					"name": "Mark Morvant",
+					"id": 2284688232,
+					"id_str": "2284688232",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pNeVUhcAO4",
+					"expanded_url": "http://markmorvant.com/how-to-drive-a-model-t-hope-for-open-edtech/",
+					"display_url": "markmorvant.com/how-to-drive-a…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 689,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1455,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4654,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 06 20:00:52 +0000 2016",
+			"id": 795355287561633800,
+			"id_str": "795355287561633792",
+			"text": "How to Drive a Model T: Hope for Open EdTech | Mark Morvant #OpenEd16 https://t.co/pNeVUhcAO4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenEd16",
+						"indices": [
+							60,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pNeVUhcAO4",
+						"expanded_url": "http://markmorvant.com/how-to-drive-a-model-t-hope-for-open-edtech/",
+						"display_url": "markmorvant.com/how-to-drive-a…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2284688232,
+				"id_str": "2284688232",
+				"name": "Mark Morvant",
+				"screen_name": "MarkMorvant",
+				"location": "Norman, OK",
+				"description": "Teacher, Innovator, Educational Visionary, Professor, Executive Director, Associate Provost, Senior Fellow Dunham College https://t.co/rrUnpTqiac",
+				"url": "https://t.co/VGhKeB5ZaD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VGhKeB5ZaD",
+								"expanded_url": "http://markmorvant.com",
+								"display_url": "markmorvant.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rrUnpTqiac",
+								"expanded_url": "http://ou.edu/residentialcolleges",
+								"display_url": "ou.edu/residentialcol…",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1309,
+				"friends_count": 1034,
+				"listed_count": 132,
+				"created_at": "Fri Jan 10 07:19:03 +0000 2014",
+				"favourites_count": 22671,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10362,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/422181283402219520/VTpLrcFn_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/422181283402219520/VTpLrcFn_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2284688232/1408561253",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 06 22:31:12 +0000 2016",
 		"id": 795393121509118000,
 		"id_str": "795393121509117952",
