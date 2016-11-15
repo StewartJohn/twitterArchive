@@ -1,6 +1,6023 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 14 23:21:33 +0000 2016",
+		"id": 798304895313080300,
+		"id_str": "798304895313080320",
+		"text": "With his Stephen Bannon pick, Trump is installing white nationalism in the White House: https://t.co/n9tYKA1aen via @slate",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Slate",
+					"name": "Slate",
+					"id": 15164565,
+					"id_str": "15164565",
+					"indices": [
+						116,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n9tYKA1aen",
+					"expanded_url": "http://www.slate.com/articles/news_and_politics/politics/2016/11/donald_trump_s_pick_of_stephen_bannon_means_white_nationalism_is_coming.html?wpsrc=sh_all_dt_tw_top",
+					"display_url": "slate.com/articles/news_…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 22:17:10 +0000 2016",
+		"id": 798288690829213700,
+		"id_str": "798288690829213697",
+		"text": "RT @BoobsRadley: If this is not how you voted, if this is not what you stand for, call your representatives. https://t.co/3rqnXycstl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoobsRadley",
+					"name": "Julieanne Smolinski",
+					"id": 28161405,
+					"id_str": "28161405",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 798261596539613200,
+					"id_str": "798261596539613185",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/CxP-sVOUcAEogXb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxP-sVOUcAEogXb.jpg",
+					"url": "https://t.co/3rqnXycstl",
+					"display_url": "pic.twitter.com/3rqnXycstl",
+					"expanded_url": "https://twitter.com/BoobsRadley/status/798261601438547968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798261601438548000,
+					"source_status_id_str": "798261601438547968",
+					"source_user_id": 28161405,
+					"source_user_id_str": "28161405"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 798261596539613200,
+					"id_str": "798261596539613185",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/CxP-sVOUcAEogXb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxP-sVOUcAEogXb.jpg",
+					"url": "https://t.co/3rqnXycstl",
+					"display_url": "pic.twitter.com/3rqnXycstl",
+					"expanded_url": "https://twitter.com/BoobsRadley/status/798261601438547968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 550,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 550,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798261601438548000,
+					"source_status_id_str": "798261601438547968",
+					"source_user_id": 28161405,
+					"source_user_id_str": "28161405"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 20:29:31 +0000 2016",
+			"id": 798261601438548000,
+			"id_str": "798261601438547968",
+			"text": "If this is not how you voted, if this is not what you stand for, call your representatives. https://t.co/3rqnXycstl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 798261596539613200,
+						"id_str": "798261596539613185",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/CxP-sVOUcAEogXb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxP-sVOUcAEogXb.jpg",
+						"url": "https://t.co/3rqnXycstl",
+						"display_url": "pic.twitter.com/3rqnXycstl",
+						"expanded_url": "https://twitter.com/BoobsRadley/status/798261601438547968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 550,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 550,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798261596539613200,
+						"id_str": "798261596539613185",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/CxP-sVOUcAEogXb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxP-sVOUcAEogXb.jpg",
+						"url": "https://t.co/3rqnXycstl",
+						"display_url": "pic.twitter.com/3rqnXycstl",
+						"expanded_url": "https://twitter.com/BoobsRadley/status/798261601438547968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 550,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 550,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 499,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28161405,
+				"id_str": "28161405",
+				"name": "Julieanne Smolinski",
+				"screen_name": "BoobsRadley",
+				"location": "Los Angeles, CA",
+				"description": "tv writer and gentle midwesterner.",
+				"url": "https://t.co/N3gocqMpnW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N3gocqMpnW",
+								"expanded_url": "http://Instagram.com/boobs.radley",
+								"display_url": "Instagram.com/boobs.radley",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 182862,
+				"friends_count": 2194,
+				"listed_count": 4013,
+				"created_at": "Wed Apr 01 18:26:50 +0000 2009",
+				"favourites_count": 61112,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5437,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/17258684/orson.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/17258684/orson.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/791503032341016576/krf4DqY9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/791503032341016576/krf4DqY9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28161405/1381989238",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2270,
+			"favorite_count": 2334,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2270,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 21:23:13 +0000 2016",
+		"id": 798275116878745600,
+		"id_str": "798275116878745600",
+		"text": "RT @WhatLibrarian: \"I'm Collecting Resources From #OpenEd16 (Sharing Results Here) https://t.co/gQjLZzkqhG \" via @KeeganSLW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenEd16",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WhatLibrarian",
+					"name": "Ro McKernan",
+					"id": 36517549,
+					"id_str": "36517549",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						113,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gQjLZzkqhG",
+					"expanded_url": "http://keeganslw.com/im-collecting-resources-from-opened16-sharing-results-here/",
+					"display_url": "keeganslw.com/im-collecting-…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 20:05:20 +0000 2016",
+			"id": 798255514350075900,
+			"id_str": "798255514350075904",
+			"text": "\"I'm Collecting Resources From #OpenEd16 (Sharing Results Here) https://t.co/gQjLZzkqhG \" via @KeeganSLW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenEd16",
+						"indices": [
+							31,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KeeganSLW",
+						"name": "Keegan Long-Wheeler",
+						"id": 117573509,
+						"id_str": "117573509",
+						"indices": [
+							94,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gQjLZzkqhG",
+						"expanded_url": "http://keeganslw.com/im-collecting-resources-from-opened16-sharing-results-here/",
+						"display_url": "keeganslw.com/im-collecting-…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36517549,
+				"id_str": "36517549",
+				"name": "Ro McKernan",
+				"screen_name": "WhatLibrarian",
+				"location": "Bellingham, WA",
+				"description": "a librarian on the loose in Whatcom county. Researching Open Educational Resources and online information architecture for libraries.",
+				"url": "http://t.co/lKmeISQGtu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/lKmeISQGtu",
+								"expanded_url": "http://www.WhatLibrarian.com",
+								"display_url": "WhatLibrarian.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 322,
+				"friends_count": 571,
+				"listed_count": 24,
+				"created_at": "Wed Apr 29 23:21:04 +0000 2009",
+				"favourites_count": 42,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1270,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/704378174927302657/EpMMYp6c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/704378174927302657/EpMMYp6c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36517549/1365131635",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 21:00:54 +0000 2016",
+		"id": 798269497794850800,
+		"id_str": "798269497794850816",
+		"text": "@jonbecker Yeah, I wish he'd gone ahead and addressed that one. Can't normalize Bannon in particular.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonbecker",
+					"name": "Jon Becker",
+					"id": 12363792,
+					"id_str": "12363792",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 798269303409754100,
+		"in_reply_to_status_id_str": "798269303409754112",
+		"in_reply_to_user_id": 12363792,
+		"in_reply_to_user_id_str": "12363792",
+		"in_reply_to_screen_name": "jonbecker",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 21:00:15 +0000 2016",
+		"id": 798269335961628700,
+		"id_str": "798269335961628678",
+		"text": "RT @jonbecker: Man, I know that POTUS needs to do the work of governing and be the adult in the room, but that \"no comment\" on Bannon...sig…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonbecker",
+					"name": "Jon Becker",
+					"id": 12363792,
+					"id_str": "12363792",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 21:00:07 +0000 2016",
+			"id": 798269303409754100,
+			"id_str": "798269303409754112",
+			"text": "Man, I know that POTUS needs to do the work of governing and be the adult in the room, but that \"no comment\" on Bannon...sigh.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12363792,
+				"id_str": "12363792",
+				"name": "Jon Becker",
+				"screen_name": "jonbecker",
+				"location": "#VCU #RVA",
+				"description": "Director, Learning Innovation & Online Academic Programs. -- I wish I was a little bit taller. I wish I was a baller. I use the word affordances a lot.",
+				"url": "http://t.co/lR9boEoRqP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/lR9boEoRqP",
+								"expanded_url": "http://jonbecker.net",
+								"display_url": "jonbecker.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11610,
+				"friends_count": 2636,
+				"listed_count": 890,
+				"created_at": "Thu Jan 17 16:44:09 +0000 2008",
+				"favourites_count": 1604,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 100667,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/661718534494490625/AkKpRysm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/661718534494490625/AkKpRysm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12363792/1453945872",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 20:50:31 +0000 2016",
+		"id": 798266885376593900,
+		"id_str": "798266885376593920",
+		"text": "RT @Yair_Rosenberg: This is a big deal, especially at this moment: American Jewish Committee and Islamic Society of North America launch Mu…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Yair_Rosenberg",
+					"name": "(((Yair Rosenberg)))",
+					"id": 532779460,
+					"id_str": "532779460",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 15:14:41 +0000 2016",
+			"id": 798182372252401700,
+			"id_str": "798182372252401666",
+			"text": "This is a big deal, especially at this moment: American Jewish Committee and Islamic Society of North America launc… https://t.co/44C1Tr8Io0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/44C1Tr8Io0",
+						"expanded_url": "https://twitter.com/i/web/status/798182372252401666",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 532779460,
+				"id_str": "532779460",
+				"name": "(((Yair Rosenberg)))",
+				"screen_name": "Yair_Rosenberg",
+				"location": "yrosenberg@tabletmag.com",
+				"description": "Senior writer, @tabletmag. Teller of stories, troller of Nazis. Politics, religion, culture. https://t.co/iRbCrbssK3",
+				"url": "http://t.co/a3OcIe9hkr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/a3OcIe9hkr",
+								"expanded_url": "http://www.yairrosenberg.com",
+								"display_url": "yairrosenberg.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iRbCrbssK3",
+								"expanded_url": "http://facebook.com/YairRosenberg1",
+								"display_url": "facebook.com/YairRosenberg1",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 33238,
+				"friends_count": 246,
+				"listed_count": 1040,
+				"created_at": "Thu Mar 22 03:07:00 +0000 2012",
+				"favourites_count": 14389,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 40335,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/750114247116546048/sG29WFfZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/750114247116546048/sG29WFfZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/532779460/1395069393",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5303,
+			"favorite_count": 6781,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5303,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 20:50:02 +0000 2016",
+		"id": 798266765398536200,
+		"id_str": "798266765398536193",
+		"text": "RT @tressiemcphd: Updated:  “Digital Redlining After Trump: Real Names + Fake News on Facebook” https://t.co/wm8J1dnMXM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tressiemcphd",
+					"name": "Tressie Mc",
+					"id": 148593548,
+					"id_str": "148593548",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wm8J1dnMXM",
+					"expanded_url": "https://medium.com/@tressiemcphd/digital-redlining-after-trump-real-names-fake-news-on-facebook-af63bf00bf9e#.fseu8zjcs",
+					"display_url": "medium.com/@tressiemcphd/…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 18:29:32 +0000 2016",
+			"id": 798231405805400000,
+			"id_str": "798231405805400064",
+			"text": "Updated:  “Digital Redlining After Trump: Real Names + Fake News on Facebook” https://t.co/wm8J1dnMXM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wm8J1dnMXM",
+						"expanded_url": "https://medium.com/@tressiemcphd/digital-redlining-after-trump-real-names-fake-news-on-facebook-af63bf00bf9e#.fseu8zjcs",
+						"display_url": "medium.com/@tressiemcphd/…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 148593548,
+				"id_str": "148593548",
+				"name": "Tressie Mc",
+				"screen_name": "tressiemcphd",
+				"location": "RVA ",
+				"description": "sociologist. professor. author. banned on FB #LowerEd #DigitalSociology @berkmancenter @vcu I don't check DMs https://t.co/Mmp8sXkzFO",
+				"url": "https://t.co/EHdiWOoZXn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EHdiWOoZXn",
+								"expanded_url": "http://tressiemc.com/about/",
+								"display_url": "tressiemc.com/about/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Mmp8sXkzFO",
+								"expanded_url": "https://tinyletter.com/TressieMcPhd",
+								"display_url": "tinyletter.com/TressieMcPhd",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 26908,
+				"friends_count": 2582,
+				"listed_count": 1096,
+				"created_at": "Thu May 27 03:06:44 +0000 2010",
+				"favourites_count": 26511,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 178052,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF3300",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/121915417/tressietwitterbackground4.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/121915417/tressietwitterbackground4.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/608377192331005952/-4qqbOp2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/608377192331005952/-4qqbOp2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/148593548/1470711791",
+				"profile_link_color": "AB241D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7900A",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 112,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 20:28:28 +0000 2016",
+		"id": 798261336849391600,
+		"id_str": "798261336849391618",
+		"text": "RT @KFILE: David Duke praised Bannon's hiring. Also said he's starting a 24 hour online news network w/Daily Show-like program\nhttps://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KFILE",
+					"name": "andrew kaczynski",
+					"id": 326255267,
+					"id_str": "326255267",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 18:17:23 +0000 2016",
+			"id": 798228349931966500,
+			"id_str": "798228349931966464",
+			"text": "David Duke praised Bannon's hiring. Also said he's starting a 24 hour online news network w/Daily Show-like program… https://t.co/iMbvqJwRpM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iMbvqJwRpM",
+						"expanded_url": "https://twitter.com/i/web/status/798228349931966464",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 798227820807716900,
+			"in_reply_to_status_id_str": "798227820807716865",
+			"in_reply_to_user_id": 326255267,
+			"in_reply_to_user_id_str": "326255267",
+			"in_reply_to_screen_name": "KFILE",
+			"user": {
+				"id": 326255267,
+				"id_str": "326255267",
+				"name": "andrew kaczynski",
+				"screen_name": "KFILE",
+				"location": "New York, USA",
+				"description": "Senior editor, reporter at CNN's KFILE. Email/G-chat me at Andrew.w.Kaczynski@gmail.com. Once challenged to a duel & called an idiot by Rand Paul. Likes cats.",
+				"url": "https://t.co/7MKO8MrDhL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7MKO8MrDhL",
+								"expanded_url": "http://CNN.com",
+								"display_url": "CNN.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 199503,
+				"friends_count": 3692,
+				"listed_count": 5831,
+				"created_at": "Wed Jun 29 16:44:57 +0000 2011",
+				"favourites_count": 25474,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 121615,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/774267754526470145/6S_9hYNm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/774267754526470145/6S_9hYNm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/326255267/1462030182",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "8173485c72e78ca5",
+				"url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json",
+				"place_type": "city",
+				"name": "Atlanta",
+				"full_name": "Atlanta, GA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-84.576827,
+								33.6475029
+							],
+							[
+								-84.289385,
+								33.6475029
+							],
+							[
+								-84.289385,
+								33.8868859
+							],
+							[
+								-84.576827,
+								33.8868859
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 391,
+			"favorite_count": 160,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 391,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 20:28:20 +0000 2016",
+		"id": 798261303819333600,
+		"id_str": "798261303819333632",
+		"text": "RT @KFILE: Peter Brimelow, of white nationalist VDARE called Bannon's hiring \"amazing.\"\nhttps://t.co/evRSlSX2wy https://t.co/s9VLzCjUgo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KFILE",
+					"name": "andrew kaczynski",
+					"id": 326255267,
+					"id_str": "326255267",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/evRSlSX2wy",
+					"expanded_url": "http://www.cnn.com/2016/11/14/politics/white-nationalists-on-bannon/index.html",
+					"display_url": "cnn.com/2016/11/14/pol…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 798228610477948900,
+					"id_str": "798228610477948928",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/CxPgsSkXgAALOz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxPgsSkXgAALOz0.jpg",
+					"url": "https://t.co/s9VLzCjUgo",
+					"display_url": "pic.twitter.com/s9VLzCjUgo",
+					"expanded_url": "https://twitter.com/KFILE/status/798228652030881792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1204,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 798228652030881800,
+					"source_status_id_str": "798228652030881792",
+					"source_user_id": 326255267,
+					"source_user_id_str": "326255267"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 798228610477948900,
+					"id_str": "798228610477948928",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/CxPgsSkXgAALOz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxPgsSkXgAALOz0.jpg",
+					"url": "https://t.co/s9VLzCjUgo",
+					"display_url": "pic.twitter.com/s9VLzCjUgo",
+					"expanded_url": "https://twitter.com/KFILE/status/798228652030881792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1204,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 798228652030881800,
+					"source_status_id_str": "798228652030881792",
+					"source_user_id": 326255267,
+					"source_user_id_str": "326255267"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 18:18:35 +0000 2016",
+			"id": 798228652030881800,
+			"id_str": "798228652030881792",
+			"text": "Peter Brimelow, of white nationalist VDARE called Bannon's hiring \"amazing.\"\nhttps://t.co/evRSlSX2wy https://t.co/s9VLzCjUgo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/evRSlSX2wy",
+						"expanded_url": "http://www.cnn.com/2016/11/14/politics/white-nationalists-on-bannon/index.html",
+						"display_url": "cnn.com/2016/11/14/pol…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 798228610477948900,
+						"id_str": "798228610477948928",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CxPgsSkXgAALOz0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxPgsSkXgAALOz0.jpg",
+						"url": "https://t.co/s9VLzCjUgo",
+						"display_url": "pic.twitter.com/s9VLzCjUgo",
+						"expanded_url": "https://twitter.com/KFILE/status/798228652030881792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 254,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 449,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1204,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798228610477948900,
+						"id_str": "798228610477948928",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CxPgsSkXgAALOz0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxPgsSkXgAALOz0.jpg",
+						"url": "https://t.co/s9VLzCjUgo",
+						"display_url": "pic.twitter.com/s9VLzCjUgo",
+						"expanded_url": "https://twitter.com/KFILE/status/798228652030881792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 254,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 449,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1204,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 798228349931966500,
+			"in_reply_to_status_id_str": "798228349931966464",
+			"in_reply_to_user_id": 326255267,
+			"in_reply_to_user_id_str": "326255267",
+			"in_reply_to_screen_name": "KFILE",
+			"user": {
+				"id": 326255267,
+				"id_str": "326255267",
+				"name": "andrew kaczynski",
+				"screen_name": "KFILE",
+				"location": "New York, USA",
+				"description": "Senior editor, reporter at CNN's KFILE. Email/G-chat me at Andrew.w.Kaczynski@gmail.com. Once challenged to a duel & called an idiot by Rand Paul. Likes cats.",
+				"url": "https://t.co/7MKO8MrDhL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7MKO8MrDhL",
+								"expanded_url": "http://CNN.com",
+								"display_url": "CNN.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 199503,
+				"friends_count": 3692,
+				"listed_count": 5831,
+				"created_at": "Wed Jun 29 16:44:57 +0000 2011",
+				"favourites_count": 25474,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 121615,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/774267754526470145/6S_9hYNm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/774267754526470145/6S_9hYNm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/326255267/1462030182",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "8173485c72e78ca5",
+				"url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json",
+				"place_type": "city",
+				"name": "Atlanta",
+				"full_name": "Atlanta, GA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-84.576827,
+								33.6475029
+							],
+							[
+								-84.289385,
+								33.6475029
+							],
+							[
+								-84.289385,
+								33.8868859
+							],
+							[
+								-84.576827,
+								33.8868859
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 450,
+			"favorite_count": 228,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 450,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 20:28:17 +0000 2016",
+		"id": 798261292138197000,
+		"id_str": "798261292138196992",
+		"text": "RT @KFILE: American Nazi Party chairman said he saw Bannon hiring as proof Trump might be for real.\nhttps://t.co/evRSlTeDo6 https://t.co/0o…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KFILE",
+					"name": "andrew kaczynski",
+					"id": 326255267,
+					"id_str": "326255267",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/evRSlTeDo6",
+					"expanded_url": "http://www.cnn.com/2016/11/14/politics/white-nationalists-on-bannon/index.html",
+					"display_url": "cnn.com/2016/11/14/pol…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 18:20:12 +0000 2016",
+			"id": 798229057498288100,
+			"id_str": "798229057498288128",
+			"text": "American Nazi Party chairman said he saw Bannon hiring as proof Trump might be for real.\nhttps://t.co/evRSlTeDo6 https://t.co/0oTO0EBeqI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/evRSlTeDo6",
+						"expanded_url": "http://www.cnn.com/2016/11/14/politics/white-nationalists-on-bannon/index.html",
+						"display_url": "cnn.com/2016/11/14/pol…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 798229018919260200,
+						"id_str": "798229018919260160",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/CxPhEEIXUAAMwCt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxPhEEIXUAAMwCt.jpg",
+						"url": "https://t.co/0oTO0EBeqI",
+						"display_url": "pic.twitter.com/0oTO0EBeqI",
+						"expanded_url": "https://twitter.com/KFILE/status/798229057498288128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 216,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1238,
+								"h": 394,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798229018919260200,
+						"id_str": "798229018919260160",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/CxPhEEIXUAAMwCt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxPhEEIXUAAMwCt.jpg",
+						"url": "https://t.co/0oTO0EBeqI",
+						"display_url": "pic.twitter.com/0oTO0EBeqI",
+						"expanded_url": "https://twitter.com/KFILE/status/798229057498288128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 216,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1238,
+								"h": 394,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 798228652030881800,
+			"in_reply_to_status_id_str": "798228652030881792",
+			"in_reply_to_user_id": 326255267,
+			"in_reply_to_user_id_str": "326255267",
+			"in_reply_to_screen_name": "KFILE",
+			"user": {
+				"id": 326255267,
+				"id_str": "326255267",
+				"name": "andrew kaczynski",
+				"screen_name": "KFILE",
+				"location": "New York, USA",
+				"description": "Senior editor, reporter at CNN's KFILE. Email/G-chat me at Andrew.w.Kaczynski@gmail.com. Once challenged to a duel & called an idiot by Rand Paul. Likes cats.",
+				"url": "https://t.co/7MKO8MrDhL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7MKO8MrDhL",
+								"expanded_url": "http://CNN.com",
+								"display_url": "CNN.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 199503,
+				"friends_count": 3692,
+				"listed_count": 5831,
+				"created_at": "Wed Jun 29 16:44:57 +0000 2011",
+				"favourites_count": 25474,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 121615,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/774267754526470145/6S_9hYNm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/774267754526470145/6S_9hYNm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/326255267/1462030182",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "8173485c72e78ca5",
+				"url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json",
+				"place_type": "city",
+				"name": "Atlanta",
+				"full_name": "Atlanta, GA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-84.576827,
+								33.6475029
+							],
+							[
+								-84.289385,
+								33.6475029
+							],
+							[
+								-84.289385,
+								33.8868859
+							],
+							[
+								-84.576827,
+								33.8868859
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2987,
+			"favorite_count": 1503,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2987,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 20:27:01 +0000 2016",
+		"id": 798260972129493000,
+		"id_str": "798260972129492993",
+		"text": "RT @mmfa: Here is Gwen Ifill calling out hate speech, again to a table full of men who all try to speak over her. https://t.co/NKAtFaXVtS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mmfa",
+					"name": "Media Matters",
+					"id": 13493302,
+					"id_str": "13493302",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 798246200449368000,
+					"id_str": "798246200449368070",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/798246200449368070/pu/img/Efa7NdL5gRIqJ6xP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/798246200449368070/pu/img/Efa7NdL5gRIqJ6xP.jpg",
+					"url": "https://t.co/NKAtFaXVtS",
+					"display_url": "pic.twitter.com/NKAtFaXVtS",
+					"expanded_url": "https://twitter.com/mmfa/status/798246565840375808/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798246565840375800,
+					"source_status_id_str": "798246565840375808",
+					"source_user_id": 13493302,
+					"source_user_id_str": "13493302"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 798246200449368000,
+					"id_str": "798246200449368070",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/798246200449368070/pu/img/Efa7NdL5gRIqJ6xP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/798246200449368070/pu/img/Efa7NdL5gRIqJ6xP.jpg",
+					"url": "https://t.co/NKAtFaXVtS",
+					"display_url": "pic.twitter.com/NKAtFaXVtS",
+					"expanded_url": "https://twitter.com/mmfa/status/798246565840375808/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798246565840375800,
+					"source_status_id_str": "798246565840375808",
+					"source_user_id": 13493302,
+					"source_user_id_str": "13493302",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 60008,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/798246200449368070/pu/pl/4DS7PMUHn7EWwbKn.m3u8"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/798246200449368070/pu/pl/4DS7PMUHn7EWwbKn.mpd"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/798246200449368070/pu/vid/240x180/CI9GjTvrDFxFTcSq.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 13493302,
+							"id_str": "13493302",
+							"name": "Media Matters",
+							"screen_name": "mmfa",
+							"location": "Washington, DC",
+							"description": "Media Matters for America is the nation's premier progressive media watchdog, research and information center.",
+							"url": "http://t.co/aWQ7EsTgj6",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/aWQ7EsTgj6",
+											"expanded_url": "http://mediamatters.org/",
+											"display_url": "mediamatters.org",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 240695,
+							"friends_count": 2852,
+							"listed_count": 8939,
+							"created_at": "Thu Feb 14 22:48:21 +0000 2008",
+							"favourites_count": 1835,
+							"utc_offset": -18000,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 59223,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F7F2F7",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/660309504/jywz9f77bmscs5ckmme9.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/660309504/jywz9f77bmscs5ckmme9.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/420922743345782784/Bjk2qDue_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/420922743345782784/Bjk2qDue_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/13493302/1457380545",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 19:29:46 +0000 2016",
+			"id": 798246565840375800,
+			"id_str": "798246565840375808",
+			"text": "Here is Gwen Ifill calling out hate speech, again to a table full of men who all try to speak over her. https://t.co/NKAtFaXVtS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 798246200449368000,
+						"id_str": "798246200449368070",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/798246200449368070/pu/img/Efa7NdL5gRIqJ6xP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/798246200449368070/pu/img/Efa7NdL5gRIqJ6xP.jpg",
+						"url": "https://t.co/NKAtFaXVtS",
+						"display_url": "pic.twitter.com/NKAtFaXVtS",
+						"expanded_url": "https://twitter.com/mmfa/status/798246565840375808/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798246200449368000,
+						"id_str": "798246200449368070",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/798246200449368070/pu/img/Efa7NdL5gRIqJ6xP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/798246200449368070/pu/img/Efa7NdL5gRIqJ6xP.jpg",
+						"url": "https://t.co/NKAtFaXVtS",
+						"display_url": "pic.twitter.com/NKAtFaXVtS",
+						"expanded_url": "https://twitter.com/mmfa/status/798246565840375808/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 240,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 60008,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/798246200449368070/pu/pl/4DS7PMUHn7EWwbKn.m3u8"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/798246200449368070/pu/pl/4DS7PMUHn7EWwbKn.mpd"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/798246200449368070/pu/vid/240x180/CI9GjTvrDFxFTcSq.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13493302,
+				"id_str": "13493302",
+				"name": "Media Matters",
+				"screen_name": "mmfa",
+				"location": "Washington, DC",
+				"description": "Media Matters for America is the nation's premier progressive media watchdog, research and information center.",
+				"url": "http://t.co/aWQ7EsTgj6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/aWQ7EsTgj6",
+								"expanded_url": "http://mediamatters.org/",
+								"display_url": "mediamatters.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 240695,
+				"friends_count": 2852,
+				"listed_count": 8939,
+				"created_at": "Thu Feb 14 22:48:21 +0000 2008",
+				"favourites_count": 1835,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 59223,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F2F7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/660309504/jywz9f77bmscs5ckmme9.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/660309504/jywz9f77bmscs5ckmme9.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/420922743345782784/Bjk2qDue_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/420922743345782784/Bjk2qDue_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13493302/1457380545",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3430,
+			"favorite_count": 4260,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3430,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 18:45:20 +0000 2016",
+		"id": 798235382504706000,
+		"id_str": "798235382504706048",
+		"text": "RT @Sacrobosco2013: Found this white supremacist flyer in PHSC this morning #yOUrbad @yourbadOU https://t.co/ooRdbsKN3d",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yOUrbad",
+					"indices": [
+						76,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sacrobosco2013",
+					"name": "Kathleen Crowther",
+					"id": 1416414104,
+					"id_str": "1416414104",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "yourbadOU",
+					"name": "#yOUrbad",
+					"id": 772906035241594900,
+					"id_str": "772906035241594880",
+					"indices": [
+						85,
+						95
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 798173910424547300,
+					"id_str": "798173910424547329",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/CxOu8U_W8AE6NMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxOu8U_W8AE6NMF.jpg",
+					"url": "https://t.co/ooRdbsKN3d",
+					"display_url": "pic.twitter.com/ooRdbsKN3d",
+					"expanded_url": "https://twitter.com/Sacrobosco2013/status/798173912521703425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 798173912521703400,
+					"source_status_id_str": "798173912521703425",
+					"source_user_id": 1416414104,
+					"source_user_id_str": "1416414104"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 798173910424547300,
+					"id_str": "798173910424547329",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/CxOu8U_W8AE6NMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxOu8U_W8AE6NMF.jpg",
+					"url": "https://t.co/ooRdbsKN3d",
+					"display_url": "pic.twitter.com/ooRdbsKN3d",
+					"expanded_url": "https://twitter.com/Sacrobosco2013/status/798173912521703425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 798173912521703400,
+					"source_status_id_str": "798173912521703425",
+					"source_user_id": 1416414104,
+					"source_user_id_str": "1416414104"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 14:41:04 +0000 2016",
+			"id": 798173912521703400,
+			"id_str": "798173912521703425",
+			"text": "Found this white supremacist flyer in PHSC this morning #yOUrbad @yourbadOU https://t.co/ooRdbsKN3d",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "yOUrbad",
+						"indices": [
+							56,
+							64
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "yourbadOU",
+						"name": "#yOUrbad",
+						"id": 772906035241594900,
+						"id_str": "772906035241594880",
+						"indices": [
+							65,
+							75
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 798173910424547300,
+						"id_str": "798173910424547329",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/CxOu8U_W8AE6NMF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxOu8U_W8AE6NMF.jpg",
+						"url": "https://t.co/ooRdbsKN3d",
+						"display_url": "pic.twitter.com/ooRdbsKN3d",
+						"expanded_url": "https://twitter.com/Sacrobosco2013/status/798173912521703425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798173910424547300,
+						"id_str": "798173910424547329",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/CxOu8U_W8AE6NMF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxOu8U_W8AE6NMF.jpg",
+						"url": "https://t.co/ooRdbsKN3d",
+						"display_url": "pic.twitter.com/ooRdbsKN3d",
+						"expanded_url": "https://twitter.com/Sacrobosco2013/status/798173912521703425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1416414104,
+				"id_str": "1416414104",
+				"name": "Kathleen Crowther",
+				"screen_name": "Sacrobosco2013",
+				"location": "Norman, OK",
+				"description": "U of Oklahoma prof interested in medieval/early modern history of the book, history of science, history of medicine, digital history",
+				"url": "http://t.co/PaVds9kcS9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PaVds9kcS9",
+								"expanded_url": "http://beforenewton.wordpress.com/",
+								"display_url": "beforenewton.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1065,
+				"friends_count": 1257,
+				"listed_count": 95,
+				"created_at": "Thu May 09 20:37:42 +0000 2013",
+				"favourites_count": 2496,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8187,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/422941980289560576/9C_aTzvl_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/422941980289560576/9C_aTzvl_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1416414104/1390529842",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 18:44:41 +0000 2016",
+		"id": 798235220529057800,
+		"id_str": "798235220529057792",
+		"text": "RT @yourbadOU: SOS: If you've been harassed on campus post-election, please share your experience via tweet or anonymous submission https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yourbadOU",
+					"name": "#yOUrbad",
+					"id": 772906035241594900,
+					"id_str": "772906035241594880",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 11 03:19:44 +0000 2016",
+			"id": 796915282933641200,
+			"id_str": "796915282933641216",
+			"text": "SOS: If you've been harassed on campus post-election, please share your experience via tweet or anonymous submission https://t.co/WeuWkGKkUs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WeuWkGKkUs",
+						"expanded_url": "http://surveymonkey.com/r/W2LGVNQ",
+						"display_url": "surveymonkey.com/r/W2LGVNQ",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 772906035241594900,
+				"id_str": "772906035241594880",
+				"name": "#yOUrbad",
+				"screen_name": "yourbadOU",
+				"location": "Norman, OK",
+				"description": "Amplifying the voices of students and employees at the University of Oklahoma. Media inquiries: DM @yourbadOU.",
+				"url": "https://t.co/kAUYTADDhL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kAUYTADDhL",
+								"expanded_url": "https://www.surveymonkey.com/r/W2LGVNQ",
+								"display_url": "surveymonkey.com/r/W2LGVNQ",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 387,
+				"friends_count": 29,
+				"listed_count": 1,
+				"created_at": "Mon Sep 05 21:15:33 +0000 2016",
+				"favourites_count": 342,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 323,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/772908187116642304/_OXK5Sao_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/772908187116642304/_OXK5Sao_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/772906035241594880/1473111042",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 17:40:37 +0000 2016",
+		"id": 798219097922146300,
+		"id_str": "798219097922146306",
+		"text": "Research and Support Sites in @OU_Create https://t.co/LsiDQl8ihH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OU_Create",
+					"name": "Best of OU Create",
+					"id": 4341583755,
+					"id_str": "4341583755",
+					"indices": [
+						30,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LsiDQl8ihH",
+					"expanded_url": "http://www.johnastewart.org/consultations/research-and-support-sites-in-ou-create/",
+					"display_url": "johnastewart.org/consultations/…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 17:04:27 +0000 2016",
+		"id": 798209994545983500,
+		"id_str": "798209994545983488",
+		"text": "RT @MotherJonesWire: The White Nationalist Propogandist Who Will Advise President Trump https://t.co/3SrToQykGM https://t.co/OFCasoo3t8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MotherJonesWire",
+					"name": "Mother Jones",
+					"id": 1979460547,
+					"id_str": "1979460547",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3SrToQykGM",
+					"expanded_url": "http://mojo.ly/2eTrYcp",
+					"display_url": "mojo.ly/2eTrYcp",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 798208491655602200,
+					"id_str": "798208491655602176",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/CxPOZOHVIAA_EAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxPOZOHVIAA_EAu.jpg",
+					"url": "https://t.co/OFCasoo3t8",
+					"display_url": "pic.twitter.com/OFCasoo3t8",
+					"expanded_url": "https://twitter.com/MotherJonesWire/status/798208494759514112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1125,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798208494759514100,
+					"source_status_id_str": "798208494759514112",
+					"source_user_id": 1979460547,
+					"source_user_id_str": "1979460547"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 798208491655602200,
+					"id_str": "798208491655602176",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/CxPOZOHVIAA_EAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxPOZOHVIAA_EAu.jpg",
+					"url": "https://t.co/OFCasoo3t8",
+					"display_url": "pic.twitter.com/OFCasoo3t8",
+					"expanded_url": "https://twitter.com/MotherJonesWire/status/798208494759514112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1125,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798208494759514100,
+					"source_status_id_str": "798208494759514112",
+					"source_user_id": 1979460547,
+					"source_user_id_str": "1979460547"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 16:58:29 +0000 2016",
+			"id": 798208494759514100,
+			"id_str": "798208494759514112",
+			"text": "The White Nationalist Propogandist Who Will Advise President Trump https://t.co/3SrToQykGM https://t.co/OFCasoo3t8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3SrToQykGM",
+						"expanded_url": "http://mojo.ly/2eTrYcp",
+						"display_url": "mojo.ly/2eTrYcp",
+						"indices": [
+							67,
+							90
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 798208491655602200,
+						"id_str": "798208491655602176",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/CxPOZOHVIAA_EAu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxPOZOHVIAA_EAu.jpg",
+						"url": "https://t.co/OFCasoo3t8",
+						"display_url": "pic.twitter.com/OFCasoo3t8",
+						"expanded_url": "https://twitter.com/MotherJonesWire/status/798208494759514112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1125,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798208491655602200,
+						"id_str": "798208491655602176",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/CxPOZOHVIAA_EAu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxPOZOHVIAA_EAu.jpg",
+						"url": "https://t.co/OFCasoo3t8",
+						"display_url": "pic.twitter.com/OFCasoo3t8",
+						"expanded_url": "https://twitter.com/MotherJonesWire/status/798208494759514112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1125,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twibble.io\" rel=\"nofollow\">Twibble.io</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1979460547,
+				"id_str": "1979460547",
+				"name": "Mother Jones",
+				"screen_name": "MotherJonesWire",
+				"location": "SF/DC/NY",
+				"description": "An automated feed of all Mother Jones content. For a more personal feel follow @MotherJones",
+				"url": "http://t.co/VRgUHRGGSh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VRgUHRGGSh",
+								"expanded_url": "http://motherjones.com",
+								"display_url": "motherjones.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 544,
+				"friends_count": 0,
+				"listed_count": 26,
+				"created_at": "Mon Oct 21 17:23:25 +0000 2013",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14302,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/732042404505735169/SyEawjlx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/732042404505735169/SyEawjlx_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 15:44:24 +0000 2016",
+		"id": 798189848653926400,
+		"id_str": "798189848653926400",
+		"text": "@davechensky. I recommend @ReclaimHosting. It's what we recommend to students at OU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davechensky",
+					"name": "David Chen",
+					"id": 14290222,
+					"id_str": "14290222",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ReclaimHosting",
+					"name": "Reclaim Hosting",
+					"id": 1602053274,
+					"id_str": "1602053274",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 798184113643475000,
+		"in_reply_to_status_id_str": "798184113643474944",
+		"in_reply_to_user_id": 14290222,
+		"in_reply_to_user_id_str": "14290222",
+		"in_reply_to_screen_name": "davechensky",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 05:15:28 +0000 2016",
+		"id": 798031572699988000,
+		"id_str": "798031572699987968",
+		"text": "RT @fmanjoo: Update: Breitbart, published by the senior advisor to the president elect, still has a category called Black Crime: https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fmanjoo",
+					"name": "Farhad Manjoo",
+					"id": 2195241,
+					"id_str": "2195241",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 13 22:42:18 +0000 2016",
+			"id": 797932631258120200,
+			"id_str": "797932631258120192",
+			"text": "Update: Breitbart, published by the senior advisor to the president elect, still has a category called Black Crime:… https://t.co/DLr07dLFrY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DLr07dLFrY",
+						"expanded_url": "https://twitter.com/i/web/status/797932631258120192",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2195241,
+				"id_str": "2195241",
+				"name": "Farhad Manjoo",
+				"screen_name": "fmanjoo",
+				"location": "West Covina, CA",
+				"description": "I write about tech for the New York Times. Send pitches to farhad.manjoo+pitch@nytimes.com Instagram/Snapchat: fmanjoo",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 143493,
+				"friends_count": 3332,
+				"listed_count": 5361,
+				"created_at": "Sun Mar 25 18:25:04 +0000 2007",
+				"favourites_count": 42324,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 105973,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/761337669943070720/uxexxywN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/761337669943070720/uxexxywN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2195241/1396969823",
+				"profile_link_color": "FF5900",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 766753697925857300,
+			"quoted_status_id_str": "766753697925857282",
+			"quoted_status": {
+				"created_at": "Fri Aug 19 21:48:21 +0000 2016",
+				"id": 766753697925857300,
+				"id_str": "766753697925857282",
+				"text": "Donald Trump is reaching out to African-Americans. His campaign CEO’s site has a category called Black Crime. https://t.co/0IJV9TfTMA",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/0IJV9TfTMA",
+							"expanded_url": "http://www.breitbart.com/tag/black-crime/",
+							"display_url": "breitbart.com/tag/black-crim…",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2195241,
+					"id_str": "2195241",
+					"name": "Farhad Manjoo",
+					"screen_name": "fmanjoo",
+					"location": "West Covina, CA",
+					"description": "I write about tech for the New York Times. Send pitches to farhad.manjoo+pitch@nytimes.com Instagram/Snapchat: fmanjoo",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 143493,
+					"friends_count": 3332,
+					"listed_count": 5361,
+					"created_at": "Sun Mar 25 18:25:04 +0000 2007",
+					"favourites_count": 42324,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 105973,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "9AE4E8",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/761337669943070720/uxexxywN_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/761337669943070720/uxexxywN_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2195241/1396969823",
+					"profile_link_color": "FF5900",
+					"profile_sidebar_border_color": "87BC44",
+					"profile_sidebar_fill_color": "E0FF92",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2198,
+				"favorite_count": 1845,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1697,
+			"favorite_count": 1301,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 766753697925857300,
+		"quoted_status_id_str": "766753697925857282",
+		"retweet_count": 1697,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 05:12:22 +0000 2016",
+		"id": 798030792093933600,
+		"id_str": "798030792093933568",
+		"text": "RT @AmandaBecker: For those at home, Stormfront = white nationalist website https://t.co/bYl7tpRBrn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmandaBecker",
+					"name": "Amanda Becker",
+					"id": 233985354,
+					"id_str": "233985354",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bYl7tpRBrn",
+					"expanded_url": "https://twitter.com/macklamoureux/status/797963906320859136",
+					"display_url": "twitter.com/macklamoureux/…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 04:05:21 +0000 2016",
+			"id": 798013929251373000,
+			"id_str": "798013929251373056",
+			"text": "For those at home, Stormfront = white nationalist website https://t.co/bYl7tpRBrn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bYl7tpRBrn",
+						"expanded_url": "https://twitter.com/macklamoureux/status/797963906320859136",
+						"display_url": "twitter.com/macklamoureux/…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 233985354,
+				"id_str": "233985354",
+				"name": "Amanda Becker",
+				"screen_name": "AmandaBecker",
+				"location": "Washington, DC",
+				"description": "@Reuters correspondent. Native of Ohio. Heart in LA. Address in DC. Lover of the 1st Amendment. Proud member of the Fourth Estate. amanda.becker@tr.com",
+				"url": "https://t.co/9tUN9lH7t6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9tUN9lH7t6",
+								"expanded_url": "http://www.reuters.com",
+								"display_url": "reuters.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4694,
+				"friends_count": 1083,
+				"listed_count": 368,
+				"created_at": "Tue Jan 04 15:47:24 +0000 2011",
+				"favourites_count": 2967,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20162,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/682083017771347969/GVvR5xZl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/682083017771347969/GVvR5xZl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/233985354/1400170479",
+				"profile_link_color": "6412E0",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 797963906320859100,
+			"quoted_status_id_str": "797963906320859136",
+			"quoted_status": {
+				"created_at": "Mon Nov 14 00:46:35 +0000 2016",
+				"id": 797963906320859100,
+				"id_str": "797963906320859136",
+				"text": "So... the folks on Stormfront are pretty darn happy with Bannon's appointment. https://t.co/YJVF7As3Wc",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 797963421689921500,
+							"id_str": "797963421689921536",
+							"indices": [
+								79,
+								102
+							],
+							"media_url": "http://pbs.twimg.com/media/CxLvgRWVQAAb46T.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxLvgRWVQAAb46T.jpg",
+							"url": "https://t.co/YJVF7As3Wc",
+							"display_url": "pic.twitter.com/YJVF7As3Wc",
+							"expanded_url": "https://twitter.com/MackLamoureux/status/797963906320859136/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1301,
+									"h": 292,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 153,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 269,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 797963421689921500,
+							"id_str": "797963421689921536",
+							"indices": [
+								79,
+								102
+							],
+							"media_url": "http://pbs.twimg.com/media/CxLvgRWVQAAb46T.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxLvgRWVQAAb46T.jpg",
+							"url": "https://t.co/YJVF7As3Wc",
+							"display_url": "pic.twitter.com/YJVF7As3Wc",
+							"expanded_url": "https://twitter.com/MackLamoureux/status/797963906320859136/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1301,
+									"h": 292,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 153,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 269,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 797963472172527600,
+							"id_str": "797963472172527616",
+							"indices": [
+								79,
+								102
+							],
+							"media_url": "http://pbs.twimg.com/media/CxLvjNaUsAA6ruw.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxLvjNaUsAA6ruw.jpg",
+							"url": "https://t.co/YJVF7As3Wc",
+							"display_url": "pic.twitter.com/YJVF7As3Wc",
+							"expanded_url": "https://twitter.com/MackLamoureux/status/797963906320859136/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1319,
+									"h": 285,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 259,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 147,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 797963507786338300,
+							"id_str": "797963507786338305",
+							"indices": [
+								79,
+								102
+							],
+							"media_url": "http://pbs.twimg.com/media/CxLvlSFUUAEpXWb.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxLvlSFUUAEpXWb.jpg",
+							"url": "https://t.co/YJVF7As3Wc",
+							"display_url": "pic.twitter.com/YJVF7As3Wc",
+							"expanded_url": "https://twitter.com/MackLamoureux/status/797963906320859136/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 214,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 121,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1306,
+									"h": 233,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 897886992,
+					"id_str": "897886992",
+					"name": "Mack Lamoureux",
+					"screen_name": "MackLamoureux",
+					"location": "Toronto, Ontario",
+					"description": "Recovering redneck with a penchant for the English language. Former CBCer. Alberta boy. Night editor @VICECanada Have a story? mack.lamoureux@vice.com",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2463,
+					"friends_count": 1523,
+					"listed_count": 43,
+					"created_at": "Mon Oct 22 16:10:42 +0000 2012",
+					"favourites_count": 2968,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 5650,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/657273771854659584/9V9e01KH_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/657273771854659584/9V9e01KH_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/897886992/1476339832",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 269,
+				"favorite_count": 135,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 161,
+			"favorite_count": 92,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 797963906320859100,
+		"quoted_status_id_str": "797963906320859136",
+		"retweet_count": 161,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 03:45:17 +0000 2016",
+		"id": 798008876436066300,
+		"id_str": "798008876436066304",
+		"text": "RT @danpfeiffer: If you had any hopes the media would hold a Trump administration accountable, the coverage of Bannon should disabuse you o…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danpfeiffer",
+					"name": "Dan Pfeiffer",
+					"id": 2922928743,
+					"id_str": "2922928743",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 03:01:02 +0000 2016",
+			"id": 797997743964684300,
+			"id_str": "797997743964684288",
+			"text": "If you had any hopes the media would hold a Trump administration accountable, the coverage of Bannon should disabus… https://t.co/On66K9dnrm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/On66K9dnrm",
+						"expanded_url": "https://twitter.com/i/web/status/797997743964684288",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2922928743,
+				"id_str": "2922928743",
+				"name": "Dan Pfeiffer",
+				"screen_name": "danpfeiffer",
+				"location": "",
+				"description": "VP of Communications and Policy for @GoFundMe. Former Senior Advisor to President Obama, current @CNN contributor, co-host of Keepin' it 1600 podcast",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 104380,
+				"friends_count": 2520,
+				"listed_count": 2001,
+				"created_at": "Mon Dec 15 14:38:28 +0000 2014",
+				"favourites_count": 6106,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7527,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/573096048744218625/nCJ9BAx6_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/573096048744218625/nCJ9BAx6_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2922928743/1425471745",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 797975208476966900,
+			"quoted_status_id_str": "797975208476966918",
+			"quoted_status": {
+				"created_at": "Mon Nov 14 01:31:30 +0000 2016",
+				"id": 797975208476966900,
+				"id_str": "797975208476966918",
+				"text": "None of the major newspapers consider Trump naming a white nationalist as chief strategist to be headline news, fyi https://t.co/DyhJGv6KQd",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 797975168257769500,
+							"id_str": "797975168257769472",
+							"indices": [
+								116,
+								139
+							],
+							"media_url": "http://pbs.twimg.com/media/CxL6MAuWQAAyYNs.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxL6MAuWQAAyYNs.jpg",
+							"url": "https://t.co/DyhJGv6KQd",
+							"display_url": "pic.twitter.com/DyhJGv6KQd",
+							"expanded_url": "https://twitter.com/igorvolsky/status/797975208476966918/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1208,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 797975168257769500,
+							"id_str": "797975168257769472",
+							"indices": [
+								116,
+								139
+							],
+							"media_url": "http://pbs.twimg.com/media/CxL6MAuWQAAyYNs.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxL6MAuWQAAyYNs.jpg",
+							"url": "https://t.co/DyhJGv6KQd",
+							"display_url": "pic.twitter.com/DyhJGv6KQd",
+							"expanded_url": "https://twitter.com/igorvolsky/status/797975208476966918/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1208,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 797975168257814500,
+							"id_str": "797975168257814528",
+							"indices": [
+								116,
+								139
+							],
+							"media_url": "http://pbs.twimg.com/media/CxL6MAuW8AAw9fi.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxL6MAuW8AAw9fi.jpg",
+							"url": "https://t.co/DyhJGv6KQd",
+							"display_url": "pic.twitter.com/DyhJGv6KQd",
+							"expanded_url": "https://twitter.com/igorvolsky/status/797975208476966918/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 477,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 849,
+									"h": 596,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 849,
+									"h": 596,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 797975168274591700,
+							"id_str": "797975168274591747",
+							"indices": [
+								116,
+								139
+							],
+							"media_url": "http://pbs.twimg.com/media/CxL6MAyW8AMSfV1.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxL6MAyW8AMSfV1.jpg",
+							"url": "https://t.co/DyhJGv6KQd",
+							"display_url": "pic.twitter.com/DyhJGv6KQd",
+							"expanded_url": "https://twitter.com/igorvolsky/status/797975208476966918/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 922,
+									"h": 642,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 473,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 922,
+									"h": 642,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 797975168274595800,
+							"id_str": "797975168274595840",
+							"indices": [
+								116,
+								139
+							],
+							"media_url": "http://pbs.twimg.com/media/CxL6MAyXAAAtm35.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxL6MAyXAAAtm35.jpg",
+							"url": "https://t.co/DyhJGv6KQd",
+							"display_url": "pic.twitter.com/DyhJGv6KQd",
+							"expanded_url": "https://twitter.com/igorvolsky/status/797975208476966918/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 398,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 966,
+									"h": 565,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 966,
+									"h": 565,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 16002085,
+					"id_str": "16002085",
+					"name": "igorvolsky",
+					"screen_name": "igorvolsky",
+					"location": "Washington, DC",
+					"description": "Deputy Director, Center for American Progress Action Fund. Director, @gunsdownamerica. Opinions, my own. E-mail: igorvolsky@gmail.com",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 145054,
+					"friends_count": 2281,
+					"listed_count": 2310,
+					"created_at": "Tue Aug 26 20:17:23 +0000 2008",
+					"favourites_count": 986,
+					"utc_offset": -18000,
+					"time_zone": "Quito",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 34133,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C6E2EE",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/796358847527026688/tD8NKJli_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/796358847527026688/tD8NKJli_normal.jpg",
+					"profile_link_color": "1F98C7",
+					"profile_sidebar_border_color": "C6E2EE",
+					"profile_sidebar_fill_color": "DAECF4",
+					"profile_text_color": "663B12",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 10106,
+				"favorite_count": 8436,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3934,
+			"favorite_count": 3564,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 797975208476966900,
+		"quoted_status_id_str": "797975208476966918",
+		"retweet_count": 3934,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 03:34:25 +0000 2016",
+		"id": 798006143075291100,
+		"id_str": "798006143075291137",
+		"text": "RT @saragoldrickrab: ATTN Study higher ed policy w quant methods, graduating in Dec, &amp; want to start a postdoc immediately in WI or PHL? Co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saragoldrickrab",
+					"name": "Sara Goldrick-Rab",
+					"id": 32608975,
+					"id_str": "32608975",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 13 22:51:26 +0000 2016",
+			"id": 797934928323313700,
+			"id_str": "797934928323313664",
+			"text": "ATTN Study higher ed policy w quant methods, graduating in Dec, &amp; want to start a postdoc immediately in WI or PHL? Contact me ASAP.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 32608975,
+				"id_str": "32608975",
+				"name": "Sara Goldrick-Rab",
+				"screen_name": "saragoldrickrab",
+				"location": "Philadelphia, PA",
+				"description": "*I am no longer accepting the things I cannot change; I am changing the things I cannot accept.* Prof of Higher Ed Policy & Sociology @TempleUniv",
+				"url": "https://t.co/SshwsYYYyk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SshwsYYYyk",
+								"expanded_url": "http://saragoldrickrab.com",
+								"display_url": "saragoldrickrab.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17647,
+				"friends_count": 7318,
+				"listed_count": 747,
+				"created_at": "Fri Apr 17 21:49:59 +0000 2009",
+				"favourites_count": 23566,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 122373,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/779062085212930050/81XFM0YK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/779062085212930050/81XFM0YK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/32608975/1471353719",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 03:31:29 +0000 2016",
+		"id": 798005404202598400,
+		"id_str": "798005404202598405",
+		"text": "RT @igorvolsky: None of the major newspapers consider Trump naming a white nationalist as chief strategist to be headline news, fyi https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "igorvolsky",
+					"name": "igorvolsky",
+					"id": 16002085,
+					"id_str": "16002085",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 01:31:30 +0000 2016",
+			"id": 797975208476966900,
+			"id_str": "797975208476966918",
+			"text": "None of the major newspapers consider Trump naming a white nationalist as chief strategist to be headline news, fyi https://t.co/DyhJGv6KQd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 797975168257769500,
+						"id_str": "797975168257769472",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CxL6MAuWQAAyYNs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxL6MAuWQAAyYNs.jpg",
+						"url": "https://t.co/DyhJGv6KQd",
+						"display_url": "pic.twitter.com/DyhJGv6KQd",
+						"expanded_url": "https://twitter.com/igorvolsky/status/797975208476966918/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1208,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 797975168257769500,
+						"id_str": "797975168257769472",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CxL6MAuWQAAyYNs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxL6MAuWQAAyYNs.jpg",
+						"url": "https://t.co/DyhJGv6KQd",
+						"display_url": "pic.twitter.com/DyhJGv6KQd",
+						"expanded_url": "https://twitter.com/igorvolsky/status/797975208476966918/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1208,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 797975168257814500,
+						"id_str": "797975168257814528",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CxL6MAuW8AAw9fi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxL6MAuW8AAw9fi.jpg",
+						"url": "https://t.co/DyhJGv6KQd",
+						"display_url": "pic.twitter.com/DyhJGv6KQd",
+						"expanded_url": "https://twitter.com/igorvolsky/status/797975208476966918/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 477,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 849,
+								"h": 596,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 849,
+								"h": 596,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 797975168274591700,
+						"id_str": "797975168274591747",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CxL6MAyW8AMSfV1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxL6MAyW8AMSfV1.jpg",
+						"url": "https://t.co/DyhJGv6KQd",
+						"display_url": "pic.twitter.com/DyhJGv6KQd",
+						"expanded_url": "https://twitter.com/igorvolsky/status/797975208476966918/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 922,
+								"h": 642,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 473,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 922,
+								"h": 642,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 797975168274595800,
+						"id_str": "797975168274595840",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/CxL6MAyXAAAtm35.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxL6MAyXAAAtm35.jpg",
+						"url": "https://t.co/DyhJGv6KQd",
+						"display_url": "pic.twitter.com/DyhJGv6KQd",
+						"expanded_url": "https://twitter.com/igorvolsky/status/797975208476966918/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 398,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 966,
+								"h": 565,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 966,
+								"h": 565,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16002085,
+				"id_str": "16002085",
+				"name": "igorvolsky",
+				"screen_name": "igorvolsky",
+				"location": "Washington, DC",
+				"description": "Deputy Director, Center for American Progress Action Fund. Director, @gunsdownamerica. Opinions, my own. E-mail: igorvolsky@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 145054,
+				"friends_count": 2281,
+				"listed_count": 2310,
+				"created_at": "Tue Aug 26 20:17:23 +0000 2008",
+				"favourites_count": 986,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34133,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796358847527026688/tD8NKJli_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796358847527026688/tD8NKJli_normal.jpg",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10106,
+			"favorite_count": 8436,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10106,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 14 02:48:39 +0000 2016",
+		"id": 797994626929999900,
+		"id_str": "797994626929999873",
+		"text": "RT @saladinahmed: Trump's chief transition adviser is one of the country's most dedicated disseminators of anti-Muslim hate propaganda http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saladinahmed",
+					"name": "Saladin Ahmed",
+					"id": 29995782,
+					"id_str": "29995782",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 708,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1603,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4880,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 00:41:41 +0000 2016",
+			"id": 797962672868302800,
+			"id_str": "797962672868302848",
+			"text": "Trump's chief transition adviser is one of the country's most dedicated disseminators of anti-Muslim hate propaganda https://t.co/FZoqSWlCLV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FZoqSWlCLV",
+						"expanded_url": "http://www.motherjones.com/politics/2016/09/stephen-bannon-donald-trump-muslims-fear-loathing",
+						"display_url": "motherjones.com/politics/2016/…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29995782,
+				"id_str": "29995782",
+				"name": "Saladin Ahmed",
+				"screen_name": "saladinahmed",
+				"location": "near Detroit",
+				"description": "Hugo & Nebula nominated writer. George RR Martin says my novel's 'a rollicking swashbuckler.' Bylines: Salon, BuzzFeed, NYT. Mostly I chase my twin 6-year-olds.",
+				"url": "https://t.co/dlqCD9MDuf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dlqCD9MDuf",
+								"expanded_url": "http://www.amazon.com/Throne-Crescent-Moon-Kingdoms/dp/0756407788/",
+								"display_url": "amazon.com/Throne-Crescen…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54857,
+				"friends_count": 988,
+				"listed_count": 1837,
+				"created_at": "Thu Apr 09 14:39:18 +0000 2009",
+				"favourites_count": 32111,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 66451,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784413705895153665/1uu0CmXR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784413705895153665/1uu0CmXR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29995782/1479142883",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1341,
+			"favorite_count": 1031,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1341,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Nov 14 01:16:50 +0000 2016",
 		"id": 797971520245076000,
 		"id_str": "797971520245075969",
