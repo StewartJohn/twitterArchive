@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Thu Dec 08 16:40:14 +0000 2016",
+		"id": 806901209856704500,
+		"id_str": "806901209856704514",
+		"text": "@ken_bauer @HrvojePMoric @TecCampusGDL @KeeganSLW Thanks Ken and hi all",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ken_bauer",
+					"name": "Ken Bauer",
+					"id": 16033586,
+					"id_str": "16033586",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "HrvojePMoric",
+					"name": "Hrvoje Morić",
+					"id": 2616063847,
+					"id_str": "2616063847",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "TecCampusGDL",
+					"name": "Tec de Monterrey",
+					"id": 239454930,
+					"id_str": "239454930",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 806895222978269200,
+		"in_reply_to_status_id_str": "806895222978269184",
+		"in_reply_to_user_id": 16033586,
+		"in_reply_to_user_id_str": "16033586",
+		"in_reply_to_screen_name": "ken_bauer",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 659,
+			"friends_count": 739,
+			"listed_count": 1,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1801,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 08 02:35:45 +0000 2016",
+		"id": 806688688696651800,
+		"id_str": "806688688696651777",
+		"text": "RT @summerbrennan: Thread on treatment of women in media and online. https://t.co/QZRQJTQnyj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "summerbrennan",
+					"name": "Summer Brennan",
+					"id": 24881388,
+					"id_str": "24881388",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QZRQJTQnyj",
+					"expanded_url": "https://twitter.com/Chris__Richards/status/806611671871606784",
+					"display_url": "twitter.com/Chris__Richard…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 659,
+			"friends_count": 739,
+			"listed_count": 1,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1801,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 07 23:05:33 +0000 2016",
+			"id": 806635787831967700,
+			"id_str": "806635787831967745",
+			"text": "Thread on treatment of women in media and online. https://t.co/QZRQJTQnyj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QZRQJTQnyj",
+						"expanded_url": "https://twitter.com/Chris__Richards/status/806611671871606784",
+						"display_url": "twitter.com/Chris__Richard…",
+						"indices": [
+							50,
+							73
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24881388,
+				"id_str": "24881388",
+				"name": "Summer Brennan",
+				"screen_name": "summerbrennan",
+				"location": "Brooklyn, NY. Californian.",
+				"description": "Author, journalist. Formerly @UN disarmament & international security. Visiting scholar @nyu_journalism. Livetweeting the resistance apparently #StillWIthHer",
+				"url": "https://t.co/JscBBH8Z8W",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JscBBH8Z8W",
+								"expanded_url": "http://www.summer-brennan.com/",
+								"display_url": "summer-brennan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28665,
+				"friends_count": 5804,
+				"listed_count": 724,
+				"created_at": "Tue Mar 17 13:34:38 +0000 2009",
+				"favourites_count": 74116,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31689,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DED8C3",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000031222926/f11882eb5f034350e83da77674c77583.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000031222926/f11882eb5f034350e83da77674c77583.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804680609553588224/RxYt5gSP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804680609553588224/RxYt5gSP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24881388/1455119564",
+				"profile_link_color": "5C5A5A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 806611671871606800,
+			"quoted_status_id_str": "806611671871606784",
+			"quoted_status": {
+				"created_at": "Wed Dec 07 21:29:43 +0000 2016",
+				"id": 806611671871606800,
+				"id_str": "806611671871606784",
+				"text": "1. My wife and I both work at the Washington Post. Today we had stories that ran on the same page. Not uncommon, but always cool.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 98201767,
+					"id_str": "98201767",
+					"name": "Chris _ _ Richards",
+					"screen_name": "Chris__Richards",
+					"location": "Washington, D.C. ",
+					"description": "Chris Richards. Pop music critic at The Washington Post.  Big on dark social. Email me at chris dot richards at washpost dot com.",
+					"url": "https://t.co/cpMbJ2iX6C",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/cpMbJ2iX6C",
+									"expanded_url": "https://www.washingtonpost.com/people/chris-richards",
+									"display_url": "washingtonpost.com/people/chris-r…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 8865,
+					"friends_count": 810,
+					"listed_count": 335,
+					"created_at": "Sun Dec 20 20:50:00 +0000 2009",
+					"favourites_count": 6816,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 10173,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/60970066/Picture_14.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/60970066/Picture_14.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/727541366163673089/N67nso6H_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/727541366163673089/N67nso6H_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/98201767/1355434334",
+					"profile_link_color": "167772",
+					"profile_sidebar_border_color": "A8C7F7",
+					"profile_sidebar_fill_color": "D4E6C8",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3219,
+				"favorite_count": 5849,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 187,
+			"favorite_count": 196,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 806611671871606800,
+		"quoted_status_id_str": "806611671871606784",
+		"retweet_count": 187,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 07 18:58:45 +0000 2016",
 		"id": 806573681300406300,
 		"id_str": "806573681300406272",
