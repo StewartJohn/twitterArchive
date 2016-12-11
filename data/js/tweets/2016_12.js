@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 10 18:35:52 +0000 2016",
+		"id": 807655084997877800,
+		"id_str": "807655084997877760",
+		"text": "RT @QUEcified: BREAKING: Teen Vogue has the real journalists. https://t.co/5p68J1R0IN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "QUEcified",
+					"name": "Fuzzy UMPHkins",
+					"id": 89386105,
+					"id_str": "89386105",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5p68J1R0IN",
+					"expanded_url": "https://twitter.com/TeenVogue/status/807634334903635969",
+					"display_url": "twitter.com/TeenVogue/stat…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 661,
+			"friends_count": 739,
+			"listed_count": 98,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1805,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5092,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 10 17:29:21 +0000 2016",
+			"id": 807638345551638500,
+			"id_str": "807638345551638528",
+			"text": "BREAKING: Teen Vogue has the real journalists. https://t.co/5p68J1R0IN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5p68J1R0IN",
+						"expanded_url": "https://twitter.com/TeenVogue/status/807634334903635969",
+						"display_url": "twitter.com/TeenVogue/stat…",
+						"indices": [
+							47,
+							70
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89386105,
+				"id_str": "89386105",
+				"name": "Fuzzy UMPHkins",
+				"screen_name": "QUEcified",
+				"location": "Ask @Aphrothighty",
+				"description": "Real is God, nigga. \n\nWhosoever tweets from this account, if he be worthy, shall possess the power of Thor.  \n\nOAS AAS! LLS!\n\n@VsTheNerdWorld  @whereishillman",
+				"url": "https://t.co/6jvwlG8ofq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6jvwlG8ofq",
+								"expanded_url": "https://itunes.apple.com/us/podcast/us-vs-the-nerd-world/id987725653?mt=2",
+								"display_url": "itunes.apple.com/us/podcast/us-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4451,
+				"friends_count": 965,
+				"listed_count": 136,
+				"created_at": "Thu Nov 12 06:03:40 +0000 2009",
+				"favourites_count": 3185,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 327026,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8E0DE3",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/80448185/OmegaPsiPhiSS.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/80448185/OmegaPsiPhiSS.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778984316231622656/uWucgmDq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778984316231622656/uWucgmDq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89386105/1468106067",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "0D0D0D",
+				"profile_sidebar_fill_color": "C704C7",
+				"profile_text_color": "080808",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 807634334903636000,
+			"quoted_status_id_str": "807634334903635969",
+			"quoted_status": {
+				"created_at": "Sat Dec 10 17:13:25 +0000 2016",
+				"id": 807634334903636000,
+				"id_str": "807634334903635969",
+				"text": "Donald Trump is gas lighting America and deliberately undermining the very foundation of our freedom… https://t.co/w6CTTdsrWw",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/w6CTTdsrWw",
+							"expanded_url": "https://twitter.com/i/web/status/807634334903635969",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 24190981,
+					"id_str": "24190981",
+					"name": "Teen Vogue",
+					"screen_name": "TeenVogue",
+					"location": "",
+					"description": "Future tastemakers start here. Snapchat: teenvogue",
+					"url": "https://t.co/a2t00nlW7h",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/a2t00nlW7h",
+									"expanded_url": "http://teenvogue.com",
+									"display_url": "teenvogue.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2700086,
+					"friends_count": 3003,
+					"listed_count": 9857,
+					"created_at": "Fri Mar 13 15:38:45 +0000 2009",
+					"favourites_count": 7059,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 74061,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "FFFFFE",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/330672967/Twitter_Background_FINAL_L.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/330672967/Twitter_Background_FINAL_L.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/751013321504088064/76M5_Yi__normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/751013321504088064/76M5_Yi__normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/24190981/1478870319",
+					"profile_link_color": "C50000",
+					"profile_sidebar_border_color": "C50000",
+					"profile_sidebar_fill_color": "FFFFFE",
+					"profile_text_color": "242323",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 12740,
+				"favorite_count": 19654,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 70,
+			"favorite_count": 80,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 807634334903636000,
+		"quoted_status_id_str": "807634334903635969",
+		"retweet_count": 70,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Dec 09 16:56:19 +0000 2016",
 		"id": 807267645884141600,
 		"id_str": "807267645884141568",
