@@ -1,6 +1,537 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 13 18:20:16 +0000 2016",
+		"id": 808738321975410700,
+		"id_str": "808738321975410689",
+		"text": "RT @daniellambach: A pen-and-paper RPG to teach core concepts of Teaching &amp; Learning? Found my personal Venn diagram. https://t.co/Zz6bILrJ…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daniellambach",
+					"name": "Daniel Lambach",
+					"id": 2800937225,
+					"id_str": "2800937225",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 659,
+			"friends_count": 739,
+			"listed_count": 98,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1811,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5096,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 12 21:00:33 +0000 2016",
+			"id": 808416271553482800,
+			"id_str": "808416271553482752",
+			"text": "A pen-and-paper RPG to teach core concepts of Teaching &amp; Learning? Found my personal Venn diagram. https://t.co/Zz6bILrJl1 via @KeeganSLW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KeeganSLW",
+						"name": "Keegan Long-Wheeler",
+						"id": 117573509,
+						"id_str": "117573509",
+						"indices": [
+							131,
+							141
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Zz6bILrJl1",
+						"expanded_url": "http://keeganslw.com/anatomy-of-slaying-goblins-opened16-presentation/",
+						"display_url": "keeganslw.com/anatomy-of-sla…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2800937225,
+				"id_str": "2800937225",
+				"name": "Daniel Lambach",
+				"screen_name": "daniellambach",
+				"location": "Duisburg, Germany",
+				"description": "Teaches International Relations, Conflict Research, Dev. Studies at University of Duisburg-Essen, Germany. Tweets in German/English.",
+				"url": "https://t.co/eQVDBoxWsv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eQVDBoxWsv",
+								"expanded_url": "https://www.uni-due.de/politik/lambach_aktuell_en.php",
+								"display_url": "uni-due.de/politik/lambac…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 495,
+				"friends_count": 349,
+				"listed_count": 37,
+				"created_at": "Thu Oct 02 22:10:21 +0000 2014",
+				"favourites_count": 647,
+				"utc_offset": 3600,
+				"time_zone": "Europe/Berlin",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2665,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/517805926238023680/_oY8KEet_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/517805926238023680/_oY8KEet_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2800937225/1412289705",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 13 13:09:14 +0000 2016",
+		"id": 808660050608853000,
+		"id_str": "808660050608852992",
+		"text": "RT @liamstack: The UN says government forces are shooting women and children dead on sight. https://t.co/pP5t0k9Th6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liamstack",
+					"name": "Liam Stack",
+					"id": 133929829,
+					"id_str": "133929829",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pP5t0k9Th6",
+					"expanded_url": "https://twitter.com/bbcbreaking/status/808612963674365952",
+					"display_url": "twitter.com/bbcbreaking/st…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 659,
+			"friends_count": 739,
+			"listed_count": 98,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1811,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5096,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 13 12:38:03 +0000 2016",
+			"id": 808652202638278700,
+			"id_str": "808652202638278656",
+			"text": "The UN says government forces are shooting women and children dead on sight. https://t.co/pP5t0k9Th6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pP5t0k9Th6",
+						"expanded_url": "https://twitter.com/bbcbreaking/status/808612963674365952",
+						"display_url": "twitter.com/bbcbreaking/st…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 133929829,
+				"id_str": "133929829",
+				"name": "Liam Stack",
+				"screen_name": "liamstack",
+				"location": "NYC",
+				"description": "@nytimes reporter. Cairo correspondent (2005-2012) now in NYC. @opcofamerica board. Khawaga-at-large. liam.stack@nytimes.com",
+				"url": "https://t.co/UmqCI5AhUx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UmqCI5AhUx",
+								"expanded_url": "http://www.nytimes.com",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28666,
+				"friends_count": 5988,
+				"listed_count": 1196,
+				"created_at": "Sat Apr 17 01:13:13 +0000 2010",
+				"favourites_count": 17075,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 78683,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000386257924/b3e4c3a03ea7942d58c4eaef67250592_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000386257924/b3e4c3a03ea7942d58c4eaef67250592_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/133929829/1371426125",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 808612963674366000,
+			"quoted_status_id_str": "808612963674365952",
+			"quoted_status": {
+				"created_at": "Tue Dec 13 10:02:08 +0000 2016",
+				"id": 808612963674366000,
+				"id_str": "808612963674365952",
+				"text": "Syria pro-government forces enter Aleppo homes, kill 82 civilians on the spot - UN https://t.co/fRjGBycV18",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/fRjGBycV18",
+							"expanded_url": "http://bbc.in/2hpqLf7",
+							"display_url": "bbc.in/2hpqLf7",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 5402612,
+					"id_str": "5402612",
+					"name": "BBC Breaking News",
+					"screen_name": "BBCBreaking",
+					"location": "London, UK",
+					"description": "Breaking news alerts and updates from the BBC. For news, features, analysis follow @BBCWorld (international) or @BBCNews (UK). Latest sport news @BBCSport.",
+					"url": "http://t.co/vBzl7LOaso",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/vBzl7LOaso",
+									"expanded_url": "http://www.bbc.co.uk/news",
+									"display_url": "bbc.co.uk/news",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 27418703,
+					"friends_count": 3,
+					"listed_count": 123888,
+					"created_at": "Sun Apr 22 14:42:37 +0000 2007",
+					"favourites_count": 0,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 30605,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459283928017149952/IMgcIyBE.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459283928017149952/IMgcIyBE.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/460740982498013184/wIPwMwru_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/460740982498013184/wIPwMwru_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/5402612/1398336837",
+					"profile_link_color": "1F527B",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "5A5A5A",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4782,
+				"favorite_count": 1552,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 410,
+			"favorite_count": 95,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 808612963674366000,
+		"quoted_status_id_str": "808612963674365952",
+		"retweet_count": 410,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Dec 11 22:07:48 +0000 2016",
 		"id": 808070808367169500,
 		"id_str": "808070808367169537",
