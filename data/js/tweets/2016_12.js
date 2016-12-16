@@ -1,6 +1,575 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Fri Dec 16 00:52:43 +0000 2016",
+		"id": 809561861280645100,
+		"id_str": "809561861280645121",
+		"text": "RT @AGU_H3S: Reasons why editing wikipedia &gt; writing term paper: 1. people read it 2. encourages critical thinking 3. fosters balanced appr…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AGU_H3S",
+					"name": "AGU Water Students",
+					"id": 3303046132,
+					"id_str": "3303046132",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 658,
+			"friends_count": 739,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1815,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5100,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 15 21:33:38 +0000 2016",
+			"id": 809511760608645100,
+			"id_str": "809511760608645120",
+			"text": "Reasons why editing wikipedia &gt; writing term paper: 1. people read it 2. encourages critical thinking 3. fosters ba… https://t.co/xe82lOv6lW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xe82lOv6lW",
+						"expanded_url": "https://twitter.com/i/web/status/809511760608645120",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3303046132,
+				"id_str": "3303046132",
+				"name": "AGU Water Students",
+				"screen_name": "AGU_H3S",
+				"location": "",
+				"description": "The AGU Hydrology Section Student Subcommittee serves and represents all student members whose research interests contain a hydrological component.",
+				"url": "https://t.co/UPCil6a7nb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UPCil6a7nb",
+								"expanded_url": "http://hydrology.agu.org/student/hydrology-student-subcommittee",
+								"display_url": "hydrology.agu.org/student/hydrol…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 468,
+				"friends_count": 219,
+				"listed_count": 13,
+				"created_at": "Fri May 29 17:37:47 +0000 2015",
+				"favourites_count": 223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 527,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/611338217988558848/mMYXKsIW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/611338217988558848/mMYXKsIW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3303046132/1481498751",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 808747674019082200,
+			"quoted_status_id_str": "808747674019082240",
+			"quoted_status": {
+				"created_at": "Tue Dec 13 18:57:25 +0000 2016",
+				"id": 808747674019082200,
+				"id_str": "808747674019082240",
+				"text": "So many undergrads at #AGU16 have told us they'd love to write Wikipedia articles for a classroom assignment. Assign them to do it! #aguwiki",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "AGU16",
+							"indices": [
+								22,
+								28
+							]
+						},
+						{
+							"text": "aguwiki",
+							"indices": [
+								132,
+								140
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2181109652,
+					"id_str": "2181109652",
+					"name": "Wiki Education",
+					"screen_name": "WikiEducation",
+					"location": "San Francisco, CA",
+					"description": "The Wiki Education Foundation (Wiki Ed) supports innovative uses of Wikipedia and related projects in higher education throughout the USA and Canada.",
+					"url": "http://t.co/DYb4eSXwui",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/DYb4eSXwui",
+									"expanded_url": "http://wikiedu.org",
+									"display_url": "wikiedu.org",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1729,
+					"friends_count": 1141,
+					"listed_count": 98,
+					"created_at": "Fri Nov 08 00:02:47 +0000 2013",
+					"favourites_count": 1283,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1254,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "ABB8C2",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/470667691968061441/rQpQvQ_Q_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/470667691968061441/rQpQvQ_Q_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2181109652/1415818906",
+					"profile_link_color": "1F98C7",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DAECF4",
+					"profile_text_color": "663B12",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 8,
+				"favorite_count": 13,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 808747674019082200,
+		"quoted_status_id_str": "808747674019082240",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Dec 16 00:50:49 +0000 2016",
+		"id": 809561382219874300,
+		"id_str": "809561382219874305",
+		"text": "RT @hypothes_is: Search AND user/group profiles for #annotation now in @hypothes_is. Read more from product manager @ajpeddakotla https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "annotation",
+					"indices": [
+						52,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothes.is",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothes.is",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "ajpeddakotla",
+					"name": "Stay Nasty and GSD",
+					"id": 3379237066,
+					"id_str": "3379237066",
+					"indices": [
+						116,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 658,
+			"friends_count": 739,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1815,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5100,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 15 17:53:04 +0000 2016",
+			"id": 809456255580241900,
+			"id_str": "809456255580241920",
+			"text": "Search AND user/group profiles for #annotation now in @hypothes_is. Read more from product manager @ajpeddakotla https://t.co/b1qfkqJ1Kt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "annotation",
+						"indices": [
+							35,
+							46
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hypothes_is",
+						"name": "Hypothes.is",
+						"id": 325100970,
+						"id_str": "325100970",
+						"indices": [
+							54,
+							66
+						]
+					},
+					{
+						"screen_name": "ajpeddakotla",
+						"name": "Stay Nasty and GSD",
+						"id": 3379237066,
+						"id_str": "3379237066",
+						"indices": [
+							99,
+							112
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/b1qfkqJ1Kt",
+						"expanded_url": "https://hypothes.is/blog/introducing-search-and-profiles/",
+						"display_url": "hypothes.is/blog/introduci…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 325100970,
+				"id_str": "325100970",
+				"name": "Hypothes.is",
+				"screen_name": "hypothes_is",
+				"location": "San Francisco, CA USA",
+				"description": "All knowledge, annotated.",
+				"url": "http://t.co/vNZZ2YDTUa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/vNZZ2YDTUa",
+								"expanded_url": "http://hypothes.is",
+								"display_url": "hypothes.is",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4976,
+				"friends_count": 1396,
+				"listed_count": 317,
+				"created_at": "Mon Jun 27 18:52:36 +0000 2011",
+				"favourites_count": 718,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1675,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/741717371333705728/7iUlfzBp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/741717371333705728/7iUlfzBp_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 20,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 14 15:31:48 +0000 2016",
 		"id": 809058315275763700,
 		"id_str": "809058315275763712",
