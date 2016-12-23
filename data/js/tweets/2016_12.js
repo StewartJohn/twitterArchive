@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Thu Dec 22 17:04:19 +0000 2016",
+		"id": 811980700714958800,
+		"id_str": "811980700714958848",
+		"text": "RT @OU_Create: This Week on OU Create, students and faculty reflected on lessons learned and started preparing for 2017. #DoOO https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DoOO",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OU_Create",
+					"name": "Best of OU Create",
+					"id": 4341583755,
+					"id_str": "4341583755",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 659,
+			"friends_count": 738,
+			"listed_count": 96,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1821,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5105,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 22 17:04:05 +0000 2016",
+			"id": 811980639952138200,
+			"id_str": "811980639952138240",
+			"text": "This Week on OU Create, students and faculty reflected on lessons learned and started preparing for 2017. #DoOO https://t.co/vkJ4htHM1C",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DoOO",
+						"indices": [
+							106,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vkJ4htHM1C",
+						"expanded_url": "http://thisweekon.oucreate.com/the-week-from-1216-1222-on-ou-create/",
+						"display_url": "thisweekon.oucreate.com/the-week-from-…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4341583755,
+				"id_str": "4341583755",
+				"name": "Best of OU Create",
+				"screen_name": "OU_Create",
+				"location": "Norman, OK",
+				"description": "A curation of creations posted to https://t.co/VvQ0pShRnE, a domain-of-one's-own project at the University of Oklahoma-Norman | Brought to you by @teachOU",
+				"url": "https://t.co/H2iidKefBk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H2iidKefBk",
+								"expanded_url": "https://thisweekon.oucreate.com",
+								"display_url": "thisweekon.oucreate.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VvQ0pShRnE",
+								"expanded_url": "http://create.ou.edu",
+								"display_url": "create.ou.edu",
+								"indices": [
+									34,
+									57
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 115,
+				"friends_count": 94,
+				"listed_count": 5,
+				"created_at": "Tue Dec 01 16:44:20 +0000 2015",
+				"favourites_count": 129,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 252,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/671777419116740608/0PfL_vzv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/671777419116740608/0PfL_vzv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4341583755/1448998234",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 20 20:05:59 +0000 2016",
 		"id": 811301641785905200,
 		"id_str": "811301641785905152",
