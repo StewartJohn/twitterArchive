@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Wed Dec 28 03:17:05 +0000 2016",
+		"id": 813946848503353300,
+		"id_str": "813946848503353346",
+		"text": "RT @LydiaPyne: I loved working with @ladyxscience!  https://t.co/3DgZaeW1DE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LydiaPyne",
+					"name": "Lydia Pyne",
+					"id": 392355134,
+					"id_str": "392355134",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "ladyxscience",
+					"name": "Lady Science",
+					"id": 4598033713,
+					"id_str": "4598033713",
+					"indices": [
+						36,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3DgZaeW1DE",
+					"expanded_url": "https://twitter.com/ladyxscience/status/813759892221726720",
+					"display_url": "twitter.com/ladyxscience/s…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 661,
+			"friends_count": 739,
+			"listed_count": 95,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1833,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5115,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 28 01:21:06 +0000 2016",
+			"id": 813917658160701400,
+			"id_str": "813917658160701440",
+			"text": "I loved working with @ladyxscience!  https://t.co/3DgZaeW1DE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ladyxscience",
+						"name": "Lady Science",
+						"id": 4598033713,
+						"id_str": "4598033713",
+						"indices": [
+							21,
+							34
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3DgZaeW1DE",
+						"expanded_url": "https://twitter.com/ladyxscience/status/813759892221726720",
+						"display_url": "twitter.com/ladyxscience/s…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": 813759892221726700,
+			"in_reply_to_status_id_str": "813759892221726720",
+			"in_reply_to_user_id": 4598033713,
+			"in_reply_to_user_id_str": "4598033713",
+			"in_reply_to_screen_name": "ladyxscience",
+			"user": {
+				"id": 392355134,
+				"id_str": "392355134",
+				"name": "Lydia Pyne",
+				"screen_name": "LydiaPyne",
+				"location": "",
+				"description": "Writer, Historian, Tortoise Enthusiast.  Author of BOOKSHELF (Bloomsbury 2016) SEVEN SKELETONS (Viking Aug 2016)",
+				"url": "https://t.co/lZEbbG9ozJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lZEbbG9ozJ",
+								"expanded_url": "http://pynecone.org",
+								"display_url": "pynecone.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 764,
+				"friends_count": 530,
+				"listed_count": 58,
+				"created_at": "Sun Oct 16 22:22:49 +0000 2011",
+				"favourites_count": 2402,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2675,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/710210701634080768/4RFNjHW9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/710210701634080768/4RFNjHW9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/392355134/1458161221",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 813759892221726700,
+			"quoted_status_id_str": "813759892221726720",
+			"quoted_status": {
+				"created_at": "Tue Dec 27 14:54:11 +0000 2016",
+				"id": 813759892221726700,
+				"id_str": "813759892221726720",
+				"text": "Editor's picks for the best of Lady Science in 2016! Revisit some of our favorites by @TheVirtuosoBlog &amp; @LydiaPyne \nhttps://t.co/9VXMREQX4E",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "TheVirtuosoBlog",
+							"name": "The Virtuoso",
+							"id": 3335571609,
+							"id_str": "3335571609",
+							"indices": [
+								86,
+								102
+							]
+						},
+						{
+							"screen_name": "LydiaPyne",
+							"name": "Lydia Pyne",
+							"id": 392355134,
+							"id_str": "392355134",
+							"indices": [
+								109,
+								119
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/9VXMREQX4E",
+							"expanded_url": "http://www.ladyscience.com/blog/editorpicks2016",
+							"display_url": "ladyscience.com/blog/editorpic…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4598033713,
+					"id_str": "4598033713",
+					"name": "Lady Science",
+					"screen_name": "ladyxscience",
+					"location": "",
+					"description": "Independent magazine focused on women in science, technology, and medicine in history & pop culture. Edited by @leilasedai & @annanreser",
+					"url": "https://t.co/6Vt28YB2FY",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/6Vt28YB2FY",
+									"expanded_url": "http://ladyscience.com",
+									"display_url": "ladyscience.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 932,
+					"friends_count": 192,
+					"listed_count": 42,
+					"created_at": "Fri Dec 18 23:34:00 +0000 2015",
+					"favourites_count": 159,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 730,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/786923467295850497/Ler9RnUh_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/786923467295850497/Ler9RnUh_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4598033713/1476452110",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 4,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 813759892221726700,
+		"quoted_status_id_str": "813759892221726720",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 27 21:47:50 +0000 2016",
 		"id": 813863986982748200,
 		"id_str": "813863986982748160",
