@@ -1,6 +1,936 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 12 15:45:19 +0000 2017",
+		"id": 819570962484129800,
+		"id_str": "819570962484129795",
+		"text": "The Agricultural Enlightenment: A review of Peter Jones' new contribution to Enlightenment historiography https://t.co/vVERyxgE7W",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vVERyxgE7W",
+					"expanded_url": "http://www.johnastewart.org/reading/the-agricultural-enlightenment-a-review-of-peter-jones-new-contribution-to-enlightenment-historiography/",
+					"display_url": "johnastewart.org/reading/the-ag…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 753,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1884,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5191,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 12 05:16:31 +0000 2017",
+		"id": 819412721309548500,
+		"id_str": "819412721309548546",
+		"text": "RT @MarkMorvant: Students Creating and Sharing Online Annotations through Hypothesis #OUTechExpo @Hypothes_is @jstew511 https://t.co/QtSptm…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OUTechExpo",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkMorvant",
+					"name": "Mark Morvant",
+					"id": 2284688232,
+					"id_str": "2284688232",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothes.is",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"screen_name": "jstew511",
+					"name": "John Stewart",
+					"id": 73977188,
+					"id_str": "73977188",
+					"indices": [
+						110,
+						119
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 753,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1884,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5191,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 11 20:18:28 +0000 2017",
+			"id": 819277316127948800,
+			"id_str": "819277316127948801",
+			"text": "Students Creating and Sharing Online Annotations through Hypothesis #OUTechExpo @Hypothes_is @jstew511 https://t.co/QtSptm2xYW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OUTechExpo",
+						"indices": [
+							68,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hypothes_is",
+						"name": "Hypothes.is",
+						"id": 325100970,
+						"id_str": "325100970",
+						"indices": [
+							80,
+							92
+						]
+					},
+					{
+						"screen_name": "jstew511",
+						"name": "John Stewart",
+						"id": 73977188,
+						"id_str": "73977188",
+						"indices": [
+							93,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QtSptm2xYW",
+						"expanded_url": "https://eventmobi.com/ate2017/agenda/208653/1092116",
+						"display_url": "eventmobi.com/ate2017/agenda…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2284688232,
+				"id_str": "2284688232",
+				"name": "Mark Morvant",
+				"screen_name": "MarkMorvant",
+				"location": "Norman, OK",
+				"description": "Teacher, Innovator, Educational Visionary, Professor, Executive Director, Associate Provost, Senior Fellow Dunham College https://t.co/rrUnpTqiac",
+				"url": "https://t.co/VGhKeB5ZaD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VGhKeB5ZaD",
+								"expanded_url": "http://markmorvant.com",
+								"display_url": "markmorvant.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rrUnpTqiac",
+								"expanded_url": "http://ou.edu/residentialcolleges",
+								"display_url": "ou.edu/residentialcol…",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1349,
+				"friends_count": 1061,
+				"listed_count": 139,
+				"created_at": "Fri Jan 10 07:19:03 +0000 2014",
+				"favourites_count": 25501,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11122,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/818464213140049925/K8WmRBOR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/818464213140049925/K8WmRBOR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2284688232/1408561253",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 12 05:15:55 +0000 2017",
+		"id": 819412572583718900,
+		"id_str": "819412572583718912",
+		"text": "RT @MarkMorvant: Students as Makers of Educational Games @keeganSLW @LaurenHornGriff @theJulieAWard #OUTechExpo https://t.co/UPoz2FSHsI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OUTechExpo",
+					"indices": [
+						100,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkMorvant",
+					"name": "Mark Morvant",
+					"id": 2284688232,
+					"id_str": "2284688232",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						57,
+						67
+					]
+				},
+				{
+					"screen_name": "LaurenHornGriff",
+					"name": "Lauren Horn Griffin",
+					"id": 702101762,
+					"id_str": "702101762",
+					"indices": [
+						68,
+						84
+					]
+				},
+				{
+					"screen_name": "theJulieAWard",
+					"name": "Julie Ann Ward",
+					"id": 2542098944,
+					"id_str": "2542098944",
+					"indices": [
+						85,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UPoz2FSHsI",
+					"expanded_url": "https://eventmobi.com/ate2017/agenda/208653/1092137",
+					"display_url": "eventmobi.com/ate2017/agenda…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 753,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1884,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5191,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 11 20:27:53 +0000 2017",
+			"id": 819279686970867700,
+			"id_str": "819279686970867713",
+			"text": "Students as Makers of Educational Games @keeganSLW @LaurenHornGriff @theJulieAWard #OUTechExpo https://t.co/UPoz2FSHsI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OUTechExpo",
+						"indices": [
+							83,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KeeganSLW",
+						"name": "Keegan Long-Wheeler",
+						"id": 117573509,
+						"id_str": "117573509",
+						"indices": [
+							40,
+							50
+						]
+					},
+					{
+						"screen_name": "LaurenHornGriff",
+						"name": "Lauren Horn Griffin",
+						"id": 702101762,
+						"id_str": "702101762",
+						"indices": [
+							51,
+							67
+						]
+					},
+					{
+						"screen_name": "theJulieAWard",
+						"name": "Julie Ann Ward",
+						"id": 2542098944,
+						"id_str": "2542098944",
+						"indices": [
+							68,
+							82
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UPoz2FSHsI",
+						"expanded_url": "https://eventmobi.com/ate2017/agenda/208653/1092137",
+						"display_url": "eventmobi.com/ate2017/agenda…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2284688232,
+				"id_str": "2284688232",
+				"name": "Mark Morvant",
+				"screen_name": "MarkMorvant",
+				"location": "Norman, OK",
+				"description": "Teacher, Innovator, Educational Visionary, Professor, Executive Director, Associate Provost, Senior Fellow Dunham College https://t.co/rrUnpTqiac",
+				"url": "https://t.co/VGhKeB5ZaD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VGhKeB5ZaD",
+								"expanded_url": "http://markmorvant.com",
+								"display_url": "markmorvant.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rrUnpTqiac",
+								"expanded_url": "http://ou.edu/residentialcolleges",
+								"display_url": "ou.edu/residentialcol…",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1349,
+				"friends_count": 1061,
+				"listed_count": 139,
+				"created_at": "Fri Jan 10 07:19:03 +0000 2014",
+				"favourites_count": 25501,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11122,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/818464213140049925/K8WmRBOR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/818464213140049925/K8WmRBOR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2284688232/1408561253",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jan 12 05:15:29 +0000 2017",
+		"id": 819412463036887000,
+		"id_str": "819412463036887040",
+		"text": "RT @Sacrobosco2013: Come here me talk about #Drupal as a Collaborative Classroom Tool on Fri #OUTechExpo #histmed #digitalhumanities  https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Drupal",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"text": "OUTechExpo",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "histmed",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "digitalhumanities",
+					"indices": [
+						114,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sacrobosco2013",
+					"name": "Kathleen Crowther",
+					"id": 1416414104,
+					"id_str": "1416414104",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 753,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 1884,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5191,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 12 02:22:10 +0000 2017",
+			"id": 819368846641479700,
+			"id_str": "819368846641479680",
+			"text": "Come here me talk about #Drupal as a Collaborative Classroom Tool on Fri #OUTechExpo #histmed #digitalhumanities  https://t.co/ToY5sRH5OZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Drupal",
+						"indices": [
+							24,
+							31
+						]
+					},
+					{
+						"text": "OUTechExpo",
+						"indices": [
+							73,
+							84
+						]
+					},
+					{
+						"text": "histmed",
+						"indices": [
+							85,
+							93
+						]
+					},
+					{
+						"text": "digitalhumanities",
+						"indices": [
+							94,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ToY5sRH5OZ",
+						"expanded_url": "https://eventmobi.com/ate2017/agenda/208653/1092113",
+						"display_url": "eventmobi.com/ate2017/agenda…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1416414104,
+				"id_str": "1416414104",
+				"name": "Kathleen Crowther",
+				"screen_name": "Sacrobosco2013",
+				"location": "Norman, OK",
+				"description": "U of Oklahoma prof interested in medieval/early modern history of the book, history of science, history of medicine, digital history #historyteacher",
+				"url": "https://t.co/PaVds9kcS9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PaVds9kcS9",
+								"expanded_url": "http://beforenewton.wordpress.com/",
+								"display_url": "beforenewton.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1168,
+				"friends_count": 1317,
+				"listed_count": 107,
+				"created_at": "Thu May 09 20:37:42 +0000 2013",
+				"favourites_count": 2725,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9029,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/422941980289560576/9C_aTzvl_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/422941980289560576/9C_aTzvl_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1416414104/1390529842",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 11 17:21:16 +0000 2017",
 		"id": 819232723399299100,
 		"id_str": "819232723399299072",
@@ -876,7 +1806,7 @@ Grailbird.data.tweets_2017_01 =
 			"user_mentions": [
 				{
 					"screen_name": "MikeTufekci",
-					"name": "MikeTufekci 👨‍💻",
+					"name": "MikeTufekci 👨💻",
 					"id": 832360964,
 					"id_str": "832360964",
 					"indices": [
