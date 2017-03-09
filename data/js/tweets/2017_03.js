@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 08 17:12:56 +0000 2017",
+		"id": 839524345823309800,
+		"id_str": "839524345823309827",
+		"text": "RT @meldalgleish: Heads up #altac #postac #withaPhD folks! Want to know more about working for a think tank? \n👇 https://t.co/v0I43Llwm1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altac",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "postac",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "withaPhD",
+					"indices": [
+						42,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "meldalgleish",
+					"name": "Melissa Dalgleish",
+					"id": 153618201,
+					"id_str": "153618201",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v0I43Llwm1",
+					"expanded_url": "https://twitter.com/mygradskills/status/839236787155447808",
+					"display_url": "twitter.com/mygradskills/s…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 715,
+			"friends_count": 797,
+			"listed_count": 99,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2251,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5879,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 07 22:14:24 +0000 2017",
+			"id": 839237825543405600,
+			"id_str": "839237825543405569",
+			"text": "Heads up #altac #postac #withaPhD folks! Want to know more about working for a think tank? \n👇 https://t.co/v0I43Llwm1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altac",
+						"indices": [
+							9,
+							15
+						]
+					},
+					{
+						"text": "postac",
+						"indices": [
+							16,
+							23
+						]
+					},
+					{
+						"text": "withaPhD",
+						"indices": [
+							24,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/v0I43Llwm1",
+						"expanded_url": "https://twitter.com/mygradskills/status/839236787155447808",
+						"display_url": "twitter.com/mygradskills/s…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 153618201,
+				"id_str": "153618201",
+				"name": "Melissa Dalgleish",
+				"screen_name": "meldalgleish",
+				"location": "Toronto, Ontario",
+				"description": "#PhD #postdoc #altac #postac career & professional development + grants specialist. English PhD. Co-editor @fishhookopeneye & @grad_train21c. All opinions mine.",
+				"url": "https://t.co/kXlNgfh96G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kXlNgfh96G",
+								"expanded_url": "http://www.melissadalgleish.com",
+								"display_url": "melissadalgleish.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1427,
+				"friends_count": 1521,
+				"listed_count": 67,
+				"created_at": "Wed Jun 09 01:07:56 +0000 2010",
+				"favourites_count": 1927,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3937,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/458757759542915072/GwA4HwPJ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/458757759542915072/GwA4HwPJ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/153618201/1466714630",
+				"profile_link_color": "42CCC8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 839236787155447800,
+			"quoted_status_id_str": "839236787155447808",
+			"quoted_status": {
+				"created_at": "Tue Mar 07 22:10:16 +0000 2017",
+				"id": 839236787155447800,
+				"id_str": "839236787155447808",
+				"text": "#PhDs in Think Tanks. Free discussion on @VersatilePhD NOW thru Friday https://t.co/z63wZBRXgV https://t.co/9pbHWMoivQ",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "PhDs",
+							"indices": [
+								0,
+								5
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "VersatilePhD",
+							"name": "Versatile PhD",
+							"id": 471504594,
+							"id_str": "471504594",
+							"indices": [
+								41,
+								54
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/z63wZBRXgV",
+							"expanded_url": "http://ow.ly/uvVJ303LFlf",
+							"display_url": "ow.ly/uvVJ303LFlf",
+							"indices": [
+								71,
+								94
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 839236784286548000,
+							"id_str": "839236784286547968",
+							"indices": [
+								95,
+								118
+							],
+							"media_url": "http://pbs.twimg.com/media/C6WRaKnXQAATk9O.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C6WRaKnXQAATk9O.jpg",
+							"url": "https://t.co/9pbHWMoivQ",
+							"display_url": "pic.twitter.com/9pbHWMoivQ",
+							"expanded_url": "https://twitter.com/mygradskills/status/839236787155447808/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 500,
+									"h": 613,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 500,
+									"h": 613,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 500,
+									"h": 613,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 839236784286548000,
+							"id_str": "839236784286547968",
+							"indices": [
+								95,
+								118
+							],
+							"media_url": "http://pbs.twimg.com/media/C6WRaKnXQAATk9O.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C6WRaKnXQAATk9O.jpg",
+							"url": "https://t.co/9pbHWMoivQ",
+							"display_url": "pic.twitter.com/9pbHWMoivQ",
+							"expanded_url": "https://twitter.com/mygradskills/status/839236787155447808/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 500,
+									"h": 613,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 500,
+									"h": 613,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 500,
+									"h": 613,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 989233129,
+					"id_str": "989233129",
+					"name": "My GradSkills",
+					"screen_name": "mygradskills",
+					"location": "University of Calgary, Canada",
+					"description": "My GradSkills is a professional development resource for all University of Calgary graduate students, established 2012.",
+					"url": "http://t.co/1aXSjpG2UJ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/1aXSjpG2UJ",
+									"expanded_url": "http://ucalgary.ca/mygradskills",
+									"display_url": "ucalgary.ca/mygradskills",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 881,
+					"friends_count": 401,
+					"listed_count": 54,
+					"created_at": "Tue Dec 04 17:39:24 +0000 2012",
+					"favourites_count": 1369,
+					"utc_offset": -25200,
+					"time_zone": "Mountain Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 4079,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/809892397932888064/DIEi0qmQ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/809892397932888064/DIEi0qmQ_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/989233129/1467739410",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 5,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 12,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 839236787155447800,
+		"quoted_status_id_str": "839236787155447808",
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 07 22:29:57 +0000 2017",
 		"id": 839241739034579000,
 		"id_str": "839241739034578944",
