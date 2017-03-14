@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Mon Mar 13 20:28:12 +0000 2017",
+		"id": 841385425826635800,
+		"id_str": "841385425826635776",
+		"text": "RT @acroom: Check out the full schedule for @DomainsConf here: https://t.co/lBD7MATThH #domains17",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "domains17",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "acroom",
+					"name": "Adam Croom",
+					"id": 19056987,
+					"id_str": "19056987",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "DomainsConf",
+					"name": "Domains",
+					"id": 808349016157257700,
+					"id_str": "808349016157257728",
+					"indices": [
+						44,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lBD7MATThH",
+					"expanded_url": "http://domains.reclaimhosting.com/itinerary/",
+					"display_url": "domains.reclaimhosting.com/itinerary/",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 718,
+			"friends_count": 800,
+			"listed_count": 98,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2268,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5885,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 13 19:51:49 +0000 2017",
+			"id": 841376269531000800,
+			"id_str": "841376269531000833",
+			"text": "Check out the full schedule for @DomainsConf here: https://t.co/lBD7MATThH #domains17",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "domains17",
+						"indices": [
+							75,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DomainsConf",
+						"name": "Domains",
+						"id": 808349016157257700,
+						"id_str": "808349016157257728",
+						"indices": [
+							32,
+							44
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/lBD7MATThH",
+						"expanded_url": "http://domains.reclaimhosting.com/itinerary/",
+						"display_url": "domains.reclaimhosting.com/itinerary/",
+						"indices": [
+							51,
+							74
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19056987,
+				"id_str": "19056987",
+				"name": "Adam Croom",
+				"screen_name": "acroom",
+				"location": "Norman, OK",
+				"description": "OU Director of Digital Learning. Raising two daughters alongside @katiecroom. Vinyl-inist.",
+				"url": "https://t.co/nhzHEK98QK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nhzHEK98QK",
+								"expanded_url": "http://adamcroom.com",
+								"display_url": "adamcroom.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1543,
+				"friends_count": 864,
+				"listed_count": 92,
+				"created_at": "Fri Jan 16 05:59:28 +0000 2009",
+				"favourites_count": 3239,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7450,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450559726/Safari_Desktop_Picture.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450559726/Safari_Desktop_Picture.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/712015046679748610/JONXIIu1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/712015046679748610/JONXIIu1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19056987/1468941800",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "FFD79C",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 13 15:47:14 +0000 2017",
+		"id": 841314718274969600,
+		"id_str": "841314718274969600",
+		"text": "RT @ProfHacker: New post by @GeorgeOnline: \"Use WAVE Tool to Test Web Pages for Accessibility\" https://t.co/mdnXIFPhs5 #a11y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "a11y",
+					"indices": [
+						119,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfHacker",
+					"name": "ProfHacker",
+					"id": 60462205,
+					"id_str": "60462205",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "GeorgeOnline",
+					"name": "George H. Williams",
+					"id": 6667212,
+					"id_str": "6667212",
+					"indices": [
+						28,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mdnXIFPhs5",
+					"expanded_url": "http://ow.ly/TIlN309QVAM",
+					"display_url": "ow.ly/TIlN309QVAM",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 718,
+			"friends_count": 800,
+			"listed_count": 98,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2268,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5885,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 13 14:25:28 +0000 2017",
+			"id": 841294140138770400,
+			"id_str": "841294140138770433",
+			"text": "New post by @GeorgeOnline: \"Use WAVE Tool to Test Web Pages for Accessibility\" https://t.co/mdnXIFPhs5 #a11y",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "a11y",
+						"indices": [
+							103,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GeorgeOnline",
+						"name": "George H. Williams",
+						"id": 6667212,
+						"id_str": "6667212",
+						"indices": [
+							12,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mdnXIFPhs5",
+						"expanded_url": "http://ow.ly/TIlN309QVAM",
+						"display_url": "ow.ly/TIlN309QVAM",
+						"indices": [
+							79,
+							102
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60462205,
+				"id_str": "60462205",
+				"name": "ProfHacker",
+				"screen_name": "ProfHacker",
+				"location": "On Campus",
+				"description": "http://t.co/kuppVHsEt9: Tips, tutorials, and commentary on pedagogy, productivity, and technology in higher education.",
+				"url": "http://t.co/kuppVHsEt9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kuppVHsEt9",
+								"expanded_url": "http://ProfHacker.com",
+								"display_url": "ProfHacker.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/kuppVHsEt9",
+								"expanded_url": "http://ProfHacker.com",
+								"display_url": "ProfHacker.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22802,
+				"friends_count": 558,
+				"listed_count": 1517,
+				"created_at": "Mon Jul 27 02:25:17 +0000 2009",
+				"favourites_count": 60,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3772,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/35456858/profhacker_background.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/35456858/profhacker_background.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/405601290/logo2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/405601290/logo2_normal.jpg",
+				"profile_link_color": "382EC2",
+				"profile_sidebar_border_color": "F0F0F0",
+				"profile_sidebar_fill_color": "F0F0F0",
+				"profile_text_color": "595859",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 11 21:01:47 +0000 2017",
 		"id": 840669103069233200,
 		"id_str": "840669103069233152",
