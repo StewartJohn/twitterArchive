@@ -1,6 +1,604 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 15 13:58:34 +0000 2017",
+		"id": 842012146028421100,
+		"id_str": "842012146028421122",
+		"text": "RT @lienhart85: Expeditions &amp; Discoveries; an online collection from Harvard University https://t.co/5mG363BRmp https://t.co/7vfi3MzqJU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lienhart85",
+					"name": "Century Past History",
+					"id": 2161582903,
+					"id_str": "2161582903",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5mG363BRmp",
+					"expanded_url": "http://ocp.hul.harvard.edu/expeditions/",
+					"display_url": "ocp.hul.harvard.edu/expeditions/",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 841972590453370900,
+					"id_str": "841972590453370880",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/C69JnCyWsAA1W1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C69JnCyWsAA1W1E.jpg",
+					"url": "https://t.co/7vfi3MzqJU",
+					"display_url": "pic.twitter.com/7vfi3MzqJU",
+					"expanded_url": "https://twitter.com/lienhart85/status/841981306238058496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 571,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 323,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1285,
+							"h": 611,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841981306238058500,
+					"source_status_id_str": "841981306238058496",
+					"source_user_id": 2161582903,
+					"source_user_id_str": "2161582903"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 841972590453370900,
+					"id_str": "841972590453370880",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/C69JnCyWsAA1W1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C69JnCyWsAA1W1E.jpg",
+					"url": "https://t.co/7vfi3MzqJU",
+					"display_url": "pic.twitter.com/7vfi3MzqJU",
+					"expanded_url": "https://twitter.com/lienhart85/status/841981306238058496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 571,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 323,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1285,
+							"h": 611,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841981306238058500,
+					"source_status_id_str": "841981306238058496",
+					"source_user_id": 2161582903,
+					"source_user_id_str": "2161582903"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 717,
+			"friends_count": 801,
+			"listed_count": 98,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2279,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5909,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 15 11:56:01 +0000 2017",
+			"id": 841981306238058500,
+			"id_str": "841981306238058496",
+			"text": "Expeditions &amp; Discoveries; an online collection from Harvard University https://t.co/5mG363BRmp https://t.co/7vfi3MzqJU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5mG363BRmp",
+						"expanded_url": "http://ocp.hul.harvard.edu/expeditions/",
+						"display_url": "ocp.hul.harvard.edu/expeditions/",
+						"indices": [
+							76,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 841972590453370900,
+						"id_str": "841972590453370880",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/C69JnCyWsAA1W1E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C69JnCyWsAA1W1E.jpg",
+						"url": "https://t.co/7vfi3MzqJU",
+						"display_url": "pic.twitter.com/7vfi3MzqJU",
+						"expanded_url": "https://twitter.com/lienhart85/status/841981306238058496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 571,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 323,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1285,
+								"h": 611,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 841972590453370900,
+						"id_str": "841972590453370880",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/C69JnCyWsAA1W1E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C69JnCyWsAA1W1E.jpg",
+						"url": "https://t.co/7vfi3MzqJU",
+						"display_url": "pic.twitter.com/7vfi3MzqJU",
+						"expanded_url": "https://twitter.com/lienhart85/status/841981306238058496/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 571,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 323,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1285,
+								"h": 611,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2161582903,
+				"id_str": "2161582903",
+				"name": "Century Past History",
+				"screen_name": "lienhart85",
+				"location": "USA",
+				"description": "Sharing links to free #online #history  articles & resources. 1,000s of free #ebooks at website.  #historybuff  #historians #libraries #archives",
+				"url": "https://t.co/J5CL6JlVf0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J5CL6JlVf0",
+								"expanded_url": "http://www.envisionthepast.com",
+								"display_url": "envisionthepast.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19188,
+				"friends_count": 17250,
+				"listed_count": 498,
+				"created_at": "Mon Oct 28 20:47:08 +0000 2013",
+				"favourites_count": 9196,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30931,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "59472F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456573036238352384/h5ZPLV3Y.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456573036238352384/h5ZPLV3Y.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/456001943031123968/RNWP5dsi_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/456001943031123968/RNWP5dsi_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2161582903/1472401560",
+				"profile_link_color": "AD614F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "061127",
+				"profile_text_color": "827972",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Mar 15 02:09:11 +0000 2017",
+		"id": 841833625318510600,
+		"id_str": "841833625318510593",
+		"text": "RT @ezraklein: Folks complaining that the tax returns are distracting from health care should share this piece. Be the change!  https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ezraklein",
+					"name": "Ezra Klein",
+					"id": 18622869,
+					"id_str": "18622869",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 717,
+			"friends_count": 801,
+			"listed_count": 98,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2279,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5909,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 15 01:53:39 +0000 2017",
+			"id": 841829714931122200,
+			"id_str": "841829714931122176",
+			"text": "Folks complaining that the tax returns are distracting from health care should share this piece. Be the change!  https://t.co/mHQSAmqzhg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mHQSAmqzhg",
+						"expanded_url": "http://www.vox.com/policy-and-politics/2017/3/14/14921962/ahca-mortality-gun-homicides",
+						"display_url": "vox.com/policy-and-pol…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18622869,
+				"id_str": "18622869",
+				"name": "Ezra Klein",
+				"screen_name": "ezraklein",
+				"location": "DC",
+				"description": "Founder, https://t.co/5gESirnht7. Come work with us! https://t.co/VhALOhLXm2",
+				"url": "http://t.co/8X2hDCPnDl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8X2hDCPnDl",
+								"expanded_url": "http://www.vox.com",
+								"display_url": "vox.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5gESirnht7",
+								"expanded_url": "http://Vox.com",
+								"display_url": "Vox.com",
+								"indices": [
+									9,
+									32
+								]
+							},
+							{
+								"url": "https://t.co/VhALOhLXm2",
+								"expanded_url": "http://bit.ly/1ToAmQ8",
+								"display_url": "bit.ly/1ToAmQ8",
+								"indices": [
+									53,
+									76
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1630040,
+				"friends_count": 996,
+				"listed_count": 20571,
+				"created_at": "Mon Jan 05 04:02:29 +0000 2009",
+				"favourites_count": 1058,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40286,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/430528937022595072/ivuRfUNj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/430528937022595072/ivuRfUNj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18622869/1386449293",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1105,
+			"favorite_count": 926,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1105,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 14 21:25:45 +0000 2017",
 		"id": 841762298939211800,
 		"id_str": "841762298939211777",
