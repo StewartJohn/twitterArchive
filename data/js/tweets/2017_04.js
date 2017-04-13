@@ -1,6 +1,780 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 19:44:32 +0000 2017",
+		"id": 852246073108299800,
+		"id_str": "852246073108299782",
+		"text": "RT @roxannriskin: Digital Annotation-  A Skill set for this Century Thanks @hypothes_is  #highereducation  #digitalliteracyskills https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "highereducation",
+					"indices": [
+						89,
+						105
+					]
+				},
+				{
+					"text": "digitalliteracyskills",
+					"indices": [
+						107,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roxannriskin",
+					"name": "Roxann Riskin",
+					"id": 24868946,
+					"id_str": "24868946",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothesis",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						75,
+						87
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 743,
+			"friends_count": 831,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2489,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 12 19:02:36 +0000 2017",
+			"id": 852235519215927300,
+			"id_str": "852235519215927296",
+			"text": "Digital Annotation-  A Skill set for this Century Thanks @hypothes_is  #highereducation  #digitalliteracyskills https://t.co/TtQ0YPd9Xq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "highereducation",
+						"indices": [
+							71,
+							87
+						]
+					},
+					{
+						"text": "digitalliteracyskills",
+						"indices": [
+							89,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hypothes_is",
+						"name": "Hypothesis",
+						"id": 325100970,
+						"id_str": "325100970",
+						"indices": [
+							57,
+							69
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TtQ0YPd9Xq",
+						"expanded_url": "https://twitter.com/roxannriskin/status/852161285840130048",
+						"display_url": "twitter.com/roxannriskin/s…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24868946,
+				"id_str": "24868946",
+				"name": "Roxann Riskin",
+				"screen_name": "roxannriskin",
+				"location": "https://goo.gl/2O4u9G",
+				"description": "Innovative Teacher, Univ Tech Specialist, Official GOOGLE Glass Explorer, UDL, Accessibility Advocate, Mixed Reality Experience Educator, LOVE My Followers!",
+				"url": "https://t.co/QfPuakbDpH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QfPuakbDpH",
+								"expanded_url": "http://about.me/RoxannRiskin",
+								"display_url": "about.me/RoxannRiskin",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1101,
+				"friends_count": 2731,
+				"listed_count": 91,
+				"created_at": "Tue Mar 17 11:32:07 +0000 2009",
+				"favourites_count": 6882,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3808,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454659901147455488/1btscX7J.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454659901147455488/1btscX7J.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/485961764262400000/XyQbEqC2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/485961764262400000/XyQbEqC2_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24868946/1396704119",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "FF0000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 852161285840130000,
+			"quoted_status_id_str": "852161285840130048",
+			"quoted_status": {
+				"created_at": "Wed Apr 12 14:07:37 +0000 2017",
+				"id": 852161285840130000,
+				"id_str": "852161285840130048",
+				"text": "Why Should I Annotate?  https://t.co/HB4JE34EOq",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/HB4JE34EOq",
+							"expanded_url": "https://zoom.us/webinar/register/586146792/success?user_id=tqnRF9CBQReTlcBjFjn3dQ",
+							"display_url": "zoom.us/webinar/regist…",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 24868946,
+					"id_str": "24868946",
+					"name": "Roxann Riskin",
+					"screen_name": "roxannriskin",
+					"location": "https://goo.gl/2O4u9G",
+					"description": "Innovative Teacher, Univ Tech Specialist, Official GOOGLE Glass Explorer, UDL, Accessibility Advocate, Mixed Reality Experience Educator, LOVE My Followers!",
+					"url": "https://t.co/QfPuakbDpH",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/QfPuakbDpH",
+									"expanded_url": "http://about.me/RoxannRiskin",
+									"display_url": "about.me/RoxannRiskin",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1101,
+					"friends_count": 2731,
+					"listed_count": 91,
+					"created_at": "Tue Mar 17 11:32:07 +0000 2009",
+					"favourites_count": 6882,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 3808,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "642D8B",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454659901147455488/1btscX7J.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454659901147455488/1btscX7J.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/485961764262400000/XyQbEqC2_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/485961764262400000/XyQbEqC2_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/24868946/1396704119",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "7AC3EE",
+					"profile_text_color": "FF0000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "7b62343e287fb7c0",
+					"url": "https://api.twitter.com/1.1/geo/id/7b62343e287fb7c0.json",
+					"place_type": "city",
+					"name": "Orange",
+					"full_name": "Orange, CT",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-73.085611,
+									41.245045
+								],
+								[
+									-72.979996,
+									41.245045
+								],
+								[
+									-72.979996,
+									41.31407
+								],
+								[
+									-73.085611,
+									41.31407
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 852161285840130000,
+		"quoted_status_id_str": "852161285840130048",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Apr 12 14:54:47 +0000 2017",
+		"id": 852173157180076000,
+		"id_str": "852173157180076040",
+		"text": "RT @kenvogel: Trump remembers details of cake he was eating while launching missiles, but not which country he was attacking. https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kenvogel",
+					"name": "Kenneth P. Vogel",
+					"id": 112526560,
+					"id_str": "112526560",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 743,
+			"friends_count": 831,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2489,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 12 13:41:42 +0000 2017",
+			"id": 852154762904653800,
+			"id_str": "852154762904653825",
+			"text": "Trump remembers details of cake he was eating while launching missiles, but not which country he was attacking. https://t.co/TYfqXXDeCZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 852135470666403800,
+						"id_str": "852135470666403841",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/852135470666403841/img/D0QCYFT2CWJGwpQi.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/852135470666403841/img/D0QCYFT2CWJGwpQi.jpg",
+						"url": "https://t.co/TYfqXXDeCZ",
+						"display_url": "pic.twitter.com/TYfqXXDeCZ",
+						"expanded_url": "https://twitter.com/FoxBusiness/status/852135930831843329/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 852135930831843300,
+						"source_status_id_str": "852135930831843329",
+						"source_user_id": 56413858,
+						"source_user_id_str": "56413858"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 852135470666403800,
+						"id_str": "852135470666403841",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/852135470666403841/img/D0QCYFT2CWJGwpQi.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/852135470666403841/img/D0QCYFT2CWJGwpQi.jpg",
+						"url": "https://t.co/TYfqXXDeCZ",
+						"display_url": "pic.twitter.com/TYfqXXDeCZ",
+						"expanded_url": "https://twitter.com/FoxBusiness/status/852135930831843329/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 852135930831843300,
+						"source_status_id_str": "852135930831843329",
+						"source_user_id": 56413858,
+						"source_user_id_str": "56413858",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 150317,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/852135470666403841/vid/1280x720/De5MwFPzC9fc3ppi.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/852135470666403841/vid/640x360/UTcolY-S2ipo0EIp.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/852135470666403841/vid/320x180/SRe0oKLDZfFPj0Tf.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/852135470666403841/pl/LWG5euVdBv3aHbGD.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 56413858,
+								"id_str": "56413858",
+								"name": "FOX Business",
+								"screen_name": "FoxBusiness",
+								"location": "New York, NY",
+								"description": "The official Twitter page of FOX Business Network: Capitalism lives here. Ask your cable provider for FOX Business in your neighborhood.",
+								"url": "http://t.co/bfM3iji7VB",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/bfM3iji7VB",
+												"expanded_url": "http://www.foxbusiness.com",
+												"display_url": "foxbusiness.com",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 667598,
+								"friends_count": 417,
+								"listed_count": 6776,
+								"created_at": "Mon Jul 13 16:18:27 +0000 2009",
+								"favourites_count": 0,
+								"utc_offset": -14400,
+								"time_zone": "Eastern Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": true,
+								"statuses_count": 119829,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "A87528",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/414491063/fb-twitter-bg.jpg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/414491063/fb-twitter-bg.jpg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/699974743751929856/nf8OCM2A_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/699974743751929856/nf8OCM2A_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/56413858/1467210895",
+								"profile_link_color": "004E76",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "D9A050",
+								"profile_text_color": "000000",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 112526560,
+				"id_str": "112526560",
+				"name": "Kenneth P. Vogel",
+				"screen_name": "kenvogel",
+				"location": "Washington, DC",
+				"description": "@politico. @GlensGardenMkt. philly sports. Big Money: $2.5B, 1 Suspicious Vehicle & a Pimp: https://t.co/hLkpfYc7Bq",
+				"url": "https://t.co/UnlJhLY8xT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UnlJhLY8xT",
+								"expanded_url": "http://www.politico.com/reporters/KennethPVogel.html",
+								"display_url": "politico.com/reporters/Kenn…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hLkpfYc7Bq",
+								"expanded_url": "http://amzn.to/1oxfeao",
+								"display_url": "amzn.to/1oxfeao",
+								"indices": [
+									92,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 45682,
+				"friends_count": 1107,
+				"listed_count": 1669,
+				"created_at": "Mon Feb 08 20:39:32 +0000 2010",
+				"favourites_count": 1205,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 25161,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/491694146210373632/17Abqxbo_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/491694146210373632/17Abqxbo_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/112526560/1401326291",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19526,
+			"favorite_count": 23660,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19526,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 11 17:58:35 +0000 2017",
 		"id": 851857023075528700,
 		"id_str": "851857023075528705",
