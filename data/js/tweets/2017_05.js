@@ -1,6 +1,516 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Mon May 08 15:06:56 +0000 2017",
+		"id": 861598299245162500,
+		"id_str": "861598299245162498",
+		"text": "@OnlineCrsLady mini-recap of the Creaties for you and our other Creators abroad https://t.co/fpkuC9Haac",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OnlineCrsLady",
+					"name": "Laura Gibbs",
+					"id": 7044082,
+					"id_str": "7044082",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fpkuC9Haac",
+					"expanded_url": "https://twitter.com/jstew511/status/861597737069928448",
+					"display_url": "twitter.com/jstew511/statu…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 7044082,
+		"in_reply_to_user_id_str": "7044082",
+		"in_reply_to_screen_name": "OnlineCrsLady",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 738,
+			"friends_count": 838,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2599,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 861597737069928400,
+		"quoted_status_id_str": "861597737069928448",
+		"quoted_status": {
+			"created_at": "Mon May 08 15:04:42 +0000 2017",
+			"id": 861597737069928400,
+			"id_str": "861597737069928448",
+			"text": "Recap of the 2017 Creaties. #DoOO @OU_Create https://t.co/Dx8h5e47LK https://t.co/Qax17yXgKu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DoOO",
+						"indices": [
+							28,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OU_Create",
+						"name": "Best of OU Create",
+						"id": 4341583755,
+						"id_str": "4341583755",
+						"indices": [
+							34,
+							44
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Dx8h5e47LK",
+						"expanded_url": "http://www.johnastewart.org/week-in-review/2017-creaties/",
+						"display_url": "johnastewart.org/week-in-review…",
+						"indices": [
+							45,
+							68
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 861597734041563100,
+						"id_str": "861597734041563136",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C_UCkvzUMAAsc9M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_UCkvzUMAAsc9M.jpg",
+						"url": "https://t.co/Qax17yXgKu",
+						"display_url": "pic.twitter.com/Qax17yXgKu",
+						"expanded_url": "https://twitter.com/jstew511/status/861597737069928448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 861597734041563100,
+						"id_str": "861597734041563136",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C_UCkvzUMAAsc9M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_UCkvzUMAAsc9M.jpg",
+						"url": "https://t.co/Qax17yXgKu",
+						"display_url": "pic.twitter.com/Qax17yXgKu",
+						"expanded_url": "https://twitter.com/jstew511/status/861597737069928448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 73977188,
+				"id_str": "73977188",
+				"name": "John Stewart",
+				"screen_name": "jstew511",
+				"location": "Norman, OK",
+				"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+				"url": "http://t.co/iCl6AAUPBN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/iCl6AAUPBN",
+								"expanded_url": "http://johnastewart.org",
+								"display_url": "johnastewart.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 738,
+				"friends_count": 838,
+				"listed_count": 100,
+				"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+				"favourites_count": 2599,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6262,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon May 08 15:04:42 +0000 2017",
+		"id": 861597737069928400,
+		"id_str": "861597737069928448",
+		"text": "Recap of the 2017 Creaties. #DoOO @OU_Create https://t.co/Dx8h5e47LK https://t.co/Qax17yXgKu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DoOO",
+					"indices": [
+						28,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OU_Create",
+					"name": "Best of OU Create",
+					"id": 4341583755,
+					"id_str": "4341583755",
+					"indices": [
+						34,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Dx8h5e47LK",
+					"expanded_url": "http://www.johnastewart.org/week-in-review/2017-creaties/",
+					"display_url": "johnastewart.org/week-in-review…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 861597734041563100,
+					"id_str": "861597734041563136",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/C_UCkvzUMAAsc9M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_UCkvzUMAAsc9M.jpg",
+					"url": "https://t.co/Qax17yXgKu",
+					"display_url": "pic.twitter.com/Qax17yXgKu",
+					"expanded_url": "https://twitter.com/jstew511/status/861597737069928448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 861597734041563100,
+					"id_str": "861597734041563136",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/C_UCkvzUMAAsc9M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_UCkvzUMAAsc9M.jpg",
+					"url": "https://t.co/Qax17yXgKu",
+					"display_url": "pic.twitter.com/Qax17yXgKu",
+					"expanded_url": "https://twitter.com/jstew511/status/861597737069928448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 738,
+			"friends_count": 838,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2599,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 07 03:35:23 +0000 2017",
 		"id": 861061877287309300,
 		"id_str": "861061877287309312",
