@@ -1,6 +1,604 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 10 00:23:34 +0000 2017",
+		"id": 862100766399619100,
+		"id_str": "862100766399619072",
+		"text": "RT @flippable_org: We've said it before - one of the most important results of flipping the House would be Cummings as chair of House Overs…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flippable_org",
+					"name": "flippable",
+					"id": 798729566126829600,
+					"id_str": "798729566126829568",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 738,
+			"friends_count": 838,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2603,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6264,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 10 00:14:45 +0000 2017",
+			"id": 862098546492817400,
+			"id_str": "862098546492817408",
+			"text": "We've said it before - one of the most important results of flipping the House would be Cummings as chair of House… https://t.co/OFRqze45Ka",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OFRqze45Ka",
+						"expanded_url": "https://twitter.com/i/web/status/862098546492817408",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 798729566126829600,
+				"id_str": "798729566126829568",
+				"name": "flippable",
+				"screen_name": "flippable_org",
+				"location": "",
+				"description": "Let's turn our country blue by flipping seats in state legislatures, the House, and the Senate. Join our movement:",
+				"url": "https://t.co/IdOQNhM3PG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IdOQNhM3PG",
+								"expanded_url": "http://commit.flippable.org",
+								"display_url": "commit.flippable.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31661,
+				"friends_count": 1060,
+				"listed_count": 420,
+				"created_at": "Wed Nov 16 03:29:03 +0000 2016",
+				"favourites_count": 3804,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5090,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799651422321184768/JUVIOdJn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799651422321184768/JUVIOdJn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/798729566126829568/1485979454",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 862077856792404000,
+			"quoted_status_id_str": "862077856792403968",
+			"quoted_status": {
+				"created_at": "Tue May 09 22:52:32 +0000 2017",
+				"id": 862077856792404000,
+				"id_str": "862077856792403968",
+				"text": "Elijah Cummings is calling for \"immediate emergency hearings\". https://t.co/iMsNmdPmHi",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 862077850215751700,
+							"id_str": "862077850215751685",
+							"indices": [
+								63,
+								86
+							],
+							"media_url": "http://pbs.twimg.com/media/C_a3PL7XoAUBBIN.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C_a3PL7XoAUBBIN.jpg",
+							"url": "https://t.co/iMsNmdPmHi",
+							"display_url": "pic.twitter.com/iMsNmdPmHi",
+							"expanded_url": "https://twitter.com/kylegriffin1/status/862077856792403968/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 691,
+									"h": 1092,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 430,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 691,
+									"h": 1092,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 862077850215751700,
+							"id_str": "862077850215751685",
+							"indices": [
+								63,
+								86
+							],
+							"media_url": "http://pbs.twimg.com/media/C_a3PL7XoAUBBIN.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C_a3PL7XoAUBBIN.jpg",
+							"url": "https://t.co/iMsNmdPmHi",
+							"display_url": "pic.twitter.com/iMsNmdPmHi",
+							"expanded_url": "https://twitter.com/kylegriffin1/status/862077856792403968/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 691,
+									"h": 1092,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 430,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 691,
+									"h": 1092,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 32871086,
+					"id_str": "32871086",
+					"name": "Kyle Griffin",
+					"screen_name": "kylegriffin1",
+					"location": "Manhattan, NY",
+					"description": "Producer. MSNBC's @TheLastWord. Honorary Aussie. Opinions mine. Please clap.",
+					"url": "https://t.co/a3chkjZj4w",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/a3chkjZj4w",
+									"expanded_url": "http://www.msnbc.com/the-last-word",
+									"display_url": "msnbc.com/the-last-word",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 120220,
+					"friends_count": 1216,
+					"listed_count": 2081,
+					"created_at": "Sat Apr 18 12:45:48 +0000 2009",
+					"favourites_count": 38050,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 28376,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238292858/Twitter_background.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238292858/Twitter_background.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/658832379130200064/YUk99vQB_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/658832379130200064/YUk99vQB_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/32871086/1455243585",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4786,
+				"favorite_count": 6065,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 113,
+			"favorite_count": 183,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 862077856792404000,
+		"quoted_status_id_str": "862077856792403968",
+		"retweet_count": 113,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 09 18:49:28 +0000 2017",
+		"id": 862016688367296500,
+		"id_str": "862016688367296513",
+		"text": "RT @shannonrwatts: 1) @NRA says Rhode Island shouldn't pass domestic gun violence bill because women may make false accusations https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shannonrwatts",
+					"name": "Shannon Watts",
+					"id": 246939630,
+					"id_str": "246939630",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "NRA",
+					"name": "NRA",
+					"id": 21829541,
+					"id_str": "21829541",
+					"indices": [
+						22,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 738,
+			"friends_count": 838,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2603,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6264,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 09 18:35:25 +0000 2017",
+			"id": 862013153017815000,
+			"id_str": "862013153017815074",
+			"text": "1) @NRA says Rhode Island shouldn't pass domestic gun violence bill because women may make false accusations https://t.co/6g1BTQYcNc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NRA",
+						"name": "NRA",
+						"id": 21829541,
+						"id_str": "21829541",
+						"indices": [
+							3,
+							7
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6g1BTQYcNc",
+						"expanded_url": "https://www.nraila.org/articles/20170508/rhode-island-house-judiciary-committee-preparing-for-gun-control-round-two",
+						"display_url": "nraila.org/articles/20170…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 246939630,
+				"id_str": "246939630",
+				"name": "Shannon Watts",
+				"screen_name": "shannonrwatts",
+				"location": "",
+				"description": "Founder of @MomsDemand, the grassroots army working to end gun violence in America. @EmergeAmerica Board member. Mother of five. Coloradan.",
+				"url": "https://t.co/gD9sLfMy5X",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gD9sLfMy5X",
+								"expanded_url": "http://www.momsdemandaction.org",
+								"display_url": "momsdemandaction.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38097,
+				"friends_count": 2203,
+				"listed_count": 778,
+				"created_at": "Thu Feb 03 19:32:59 +0000 2011",
+				"favourites_count": 52579,
+				"utc_offset": -14400,
+				"time_zone": "Indiana (East)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 52959,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456254558541336576/HxS2s-it.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456254558541336576/HxS2s-it.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857720201378484225/ymb6fuE7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857720201378484225/ymb6fuE7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/246939630/1485218743",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 69,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 08 15:06:56 +0000 2017",
 		"id": 861598299245162500,
 		"id_str": "861598299245162498",
