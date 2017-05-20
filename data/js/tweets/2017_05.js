@@ -1,6 +1,582 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 19 05:28:25 +0000 2017",
+		"id": 865438973593763800,
+		"id_str": "865438973593763840",
+		"text": "Re your question earlier @KeeganSLW https://t.co/3yqRRh46Cn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						25,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3yqRRh46Cn",
+					"expanded_url": "https://twitter.com/tomsteyer/status/865411541469769728",
+					"display_url": "twitter.com/tomsteyer/stat…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 761,
+			"friends_count": 850,
+			"listed_count": 99,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2711,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6381,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 865411541469769700,
+		"quoted_status_id_str": "865411541469769728",
+		"quoted_status": {
+			"created_at": "Fri May 19 03:39:24 +0000 2017",
+			"id": 865411541469769700,
+			"id_str": "865411541469769728",
+			"text": "Great story here from @NYTimes on Antarctica. Very real chance of catastrophic outcome. Urgent need for leadership. https://t.co/jzvfSKyuY7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nytimes",
+						"name": "The New York Times",
+						"id": 807095,
+						"id_str": "807095",
+						"indices": [
+							22,
+							30
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jzvfSKyuY7",
+						"expanded_url": "https://www.nytimes.com/interactive/2017/05/18/climate/antarctica-ice-melt-climate-change.html?smid=tw-nytimes&smtyp=cur",
+						"display_url": "nytimes.com/interactive/20…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 949934436,
+				"id_str": "949934436",
+				"name": "Tom Steyer",
+				"screen_name": "TomSteyer",
+				"location": "San Francisco, CA",
+				"description": "California business leader. Philanthropist. Advanced energy advocate. Tartan tie enthusiast.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31741,
+				"friends_count": 734,
+				"listed_count": 879,
+				"created_at": "Thu Nov 15 15:28:50 +0000 2012",
+				"favourites_count": 1111,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2987,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "666666",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000042702636/9cbf11072e0c1b67ce7a23ed35c7e292.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000042702636/9cbf11072e0c1b67ce7a23ed35c7e292.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/664497069839659008/2UpZKtrn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/664497069839659008/2UpZKtrn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/949934436/1447263434",
+				"profile_link_color": "2802A3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFEBD6",
+				"profile_text_color": "605CBA",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 108,
+			"favorite_count": 117,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 19 03:20:48 +0000 2017",
+		"id": 865406860416892900,
+		"id_str": "865406860416892928",
+		"text": "RT @OKCody_: Congratulations @jenniferwaller and @theJulieAWard! Looking forward to presenting with you! https://t.co/Hyw4ZrZTtU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKCody_",
+					"name": "Cody Taylor",
+					"id": 2209380025,
+					"id_str": "2209380025",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "jenniferwaller",
+					"name": "Jen Waller",
+					"id": 12470582,
+					"id_str": "12470582",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "theJulieAWard",
+					"name": "Julie Ann Ward",
+					"id": 2542098944,
+					"id_str": "2542098944",
+					"indices": [
+						49,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hyw4ZrZTtU",
+					"expanded_url": "https://twitter.com/opencontent/status/865210014859788294",
+					"display_url": "twitter.com/opencontent/st…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 761,
+			"friends_count": 850,
+			"listed_count": 99,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2711,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6381,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 19 02:28:22 +0000 2017",
+			"id": 865393665446821900,
+			"id_str": "865393665446821888",
+			"text": "Congratulations @jenniferwaller and @theJulieAWard! Looking forward to presenting with you! https://t.co/Hyw4ZrZTtU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jenniferwaller",
+						"name": "Jen Waller",
+						"id": 12470582,
+						"id_str": "12470582",
+						"indices": [
+							16,
+							31
+						]
+					},
+					{
+						"screen_name": "theJulieAWard",
+						"name": "Julie Ann Ward",
+						"id": 2542098944,
+						"id_str": "2542098944",
+						"indices": [
+							36,
+							50
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Hyw4ZrZTtU",
+						"expanded_url": "https://twitter.com/opencontent/status/865210014859788294",
+						"display_url": "twitter.com/opencontent/st…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2209380025,
+				"id_str": "2209380025",
+				"name": "Cody Taylor",
+				"screen_name": "OKCody_",
+				"location": "Norman, Oklahoma",
+				"description": "EE, librarian",
+				"url": "https://t.co/M7fUvms9H9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/M7fUvms9H9",
+								"expanded_url": "http://codytaylor.cc",
+								"display_url": "codytaylor.cc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 112,
+				"friends_count": 186,
+				"listed_count": 10,
+				"created_at": "Fri Nov 22 18:27:45 +0000 2013",
+				"favourites_count": 445,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 381,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/487355678973886464/izXi_5mI.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/487355678973886464/izXi_5mI.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/487237595433156608/vk4V86Lz_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/487237595433156608/vk4V86Lz_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2209380025/1405002838",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 865210014859788300,
+			"quoted_status_id_str": "865210014859788294",
+			"quoted_status": {
+				"created_at": "Thu May 18 14:18:37 +0000 2017",
+				"id": 865210014859788300,
+				"id_str": "865210014859788294",
+				"text": "And… they’re out! Check your inboxes for #OpenEd17 decision emails. I’m overwhelmed by the amazing work happening in our community. #BestYet",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "OpenEd17",
+							"indices": [
+								41,
+								50
+							]
+						},
+						{
+							"text": "BestYet",
+							"indices": [
+								132,
+								140
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4514361,
+					"id_str": "4514361",
+					"name": "David Wiley",
+					"screen_name": "opencontent",
+					"location": "UT, USA",
+					"description": "Using open educational resources (OER) to dramatically reduce the cost and improve the quality of education. Lumen Learning / Creative Commons / BYU.",
+					"url": "https://t.co/cAhKaObC6x",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/cAhKaObC6x",
+									"expanded_url": "http://davidwiley.org/",
+									"display_url": "davidwiley.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 11539,
+					"friends_count": 405,
+					"listed_count": 824,
+					"created_at": "Fri Apr 13 16:07:05 +0000 2007",
+					"favourites_count": 2106,
+					"utc_offset": -21600,
+					"time_zone": "America/Denver",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 5230,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/781256117884030976/m0ZvHf4j_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/781256117884030976/m0ZvHf4j_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4514361/1475161664",
+					"profile_link_color": "3B94D9",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 25,
+				"favorited": false,
+				"retweeted": true,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 865210014859788300,
+		"quoted_status_id_str": "865210014859788294",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu May 18 23:16:47 +0000 2017",
 		"id": 865345450232213500,
 		"id_str": "865345450232213504",
