@@ -1,6 +1,622 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 11 22:26:05 +0000 2017",
+		"id": 874030001452175400,
+		"id_str": "874030001452175362",
+		"text": "RT @writingproject: Visit the many worlds of networked storytelling and digital creation with the alchemists of #NetNarr: https://t.co/VSBP…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NetNarr",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "writingproject",
+					"name": "Writing Project",
+					"id": 20011163,
+					"id_str": "20011163",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 787,
+			"friends_count": 876,
+			"listed_count": 103,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2902,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6625,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 11 21:45:10 +0000 2017",
+			"id": 874019702795841500,
+			"id_str": "874019702795841541",
+			"text": "Visit the many worlds of networked storytelling and digital creation with the alchemists of #NetNarr: https://t.co/VSBPYacygG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NetNarr",
+						"indices": [
+							92,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VSBPYacygG",
+						"expanded_url": "http://bit.ly/2rQNPLt",
+						"display_url": "bit.ly/2rQNPLt",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20011163,
+				"id_str": "20011163",
+				"name": "Writing Project",
+				"screen_name": "writingproject",
+				"location": "Berkeley, CA",
+				"description": "The National Writing Project focuses the  knowledge, expertise, and leadership of our nation's educators on sustained efforts to improve writing and learning.",
+				"url": "http://t.co/W3r6YgdiGU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/W3r6YgdiGU",
+								"expanded_url": "http://www.nwp.org/",
+								"display_url": "nwp.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44854,
+				"friends_count": 1365,
+				"listed_count": 967,
+				"created_at": "Tue Feb 03 22:50:24 +0000 2009",
+				"favourites_count": 1999,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10700,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6F6F6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/808994513/15a85f04c4bbe671f73067372c27e18b.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/808994513/15a85f04c4bbe671f73067372c27e18b.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/666310073384243200/lE-mscT-_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/666310073384243200/lE-mscT-_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20011163/1412569192",
+				"profile_link_color": "2497FD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3ECD5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jun 11 13:30:56 +0000 2017",
+		"id": 873895325492273200,
+		"id_str": "873895325492273152",
+		"text": "RT @wvualphasoldier: I was at the woman's march, and I'm a 3 tour combat veteran. I fight so people can hold marches in democratic societie…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wvualphasoldier",
+					"name": "Jonathan Nichols",
+					"id": 257255706,
+					"id_str": "257255706",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 787,
+			"friends_count": 876,
+			"listed_count": 103,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2902,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6625,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 10 23:34:00 +0000 2017",
+			"id": 873684704393875500,
+			"id_str": "873684704393875456",
+			"text": "I was at the woman's march, and I'm a 3 tour combat veteran. I fight so people can hold marches in democratic socie… https://t.co/89ODPCX6Qi",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/89ODPCX6Qi",
+						"expanded_url": "https://twitter.com/i/web/status/873684704393875456",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 257255706,
+				"id_str": "257255706",
+				"name": "Jonathan Nichols",
+				"screen_name": "wvualphasoldier",
+				"location": "Washington, DC",
+				"description": "Old PSYOP guy. Current Cyber guy. This account is USUALLY for InfoSec related matters. If you need a Cyber Security guy, I'm on the market!",
+				"url": "https://t.co/YllAjcEeuB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YllAjcEeuB",
+								"expanded_url": "https://www.linkedin.com/in/jonathanmnichols",
+								"display_url": "linkedin.com/in/jonathanmni…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5778,
+				"friends_count": 3220,
+				"listed_count": 249,
+				"created_at": "Fri Feb 25 01:45:31 +0000 2011",
+				"favourites_count": 33715,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1047,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "380D02",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/445976952873050112/Itfwj2cW.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/445976952873050112/Itfwj2cW.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/873701945533497344/gLCne3fA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/873701945533497344/gLCne3fA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/257255706/1490816164",
+				"profile_link_color": "8B0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 873572500176855000,
+			"quoted_status_id_str": "873572500176855041",
+			"quoted_status": {
+				"created_at": "Sat Jun 10 16:08:08 +0000 2017",
+				"id": 873572500176855000,
+				"id_str": "873572500176855041",
+				"text": "One demands safe spaces when they get offended. \n\nThe other risks life and limb to keep those spaces safe. https://t.co/TvYbMjQBXK",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 873572491926454300,
+							"id_str": "873572491926454272",
+							"indices": [
+								107,
+								130
+							],
+							"media_url": "http://pbs.twimg.com/media/DB-NjZLUQAA22Pb.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DB-NjZLUQAA22Pb.jpg",
+							"url": "https://t.co/TvYbMjQBXK",
+							"display_url": "pic.twitter.com/TvYbMjQBXK",
+							"expanded_url": "https://twitter.com/SarrahHuckabee/status/873572500176855041/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 250,
+									"h": 242,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 250,
+									"h": 242,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 250,
+									"h": 242,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 873572491926454300,
+							"id_str": "873572491926454272",
+							"indices": [
+								107,
+								130
+							],
+							"media_url": "http://pbs.twimg.com/media/DB-NjZLUQAA22Pb.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DB-NjZLUQAA22Pb.jpg",
+							"url": "https://t.co/TvYbMjQBXK",
+							"display_url": "pic.twitter.com/TvYbMjQBXK",
+							"expanded_url": "https://twitter.com/SarrahHuckabee/status/873572500176855041/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 250,
+									"h": 242,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 250,
+									"h": 242,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 250,
+									"h": 242,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 873572491934933000,
+							"id_str": "873572491934932992",
+							"indices": [
+								107,
+								130
+							],
+							"media_url": "http://pbs.twimg.com/media/DB-NjZNVoAAMuoB.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DB-NjZNVoAAMuoB.jpg",
+							"url": "https://t.co/TvYbMjQBXK",
+							"display_url": "pic.twitter.com/TvYbMjQBXK",
+							"expanded_url": "https://twitter.com/SarrahHuckabee/status/873572500176855041/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 275,
+									"h": 183,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 275,
+									"h": 183,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 275,
+									"h": 183,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 870376557461872600,
+					"id_str": "870376557461872640",
+					"name": "Sarah Huckabee",
+					"screen_name": "SarrahHuckabee",
+					"location": "Flavor town",
+					"description": "Dpty. US Press Sec. Follow my boss @sean_spicier- and me too. Salty to #FakeNews, sweet to #deplorables. Let's #MAGA #covfefe #WomenForTrump || Parody acct",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4599,
+					"friends_count": 220,
+					"listed_count": 24,
+					"created_at": "Thu Jun 01 20:28:36 +0000 2017",
+					"favourites_count": 911,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 363,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/872922566603747330/OXhRybAc_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/872922566603747330/OXhRybAc_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/870376557461872640/1496544771",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 328,
+				"favorite_count": 778,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 27299,
+			"favorite_count": 81157,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 873572500176855000,
+		"quoted_status_id_str": "873572500176855041",
+		"retweet_count": 27299,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 10 20:59:26 +0000 2017",
 		"id": 873645805508448300,
 		"id_str": "873645805508448256",
