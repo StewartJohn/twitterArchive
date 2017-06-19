@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Sun Jun 18 22:05:58 +0000 2017",
+		"id": 876561654993039400,
+		"id_str": "876561654993039363",
+		"text": "RT @UMichiganAI: Teachers! Summer is here and it's time to \"Go #Gameful.\" Join us July 24-25. #gogameful17 @gradecraft https://t.co/MzNe7dq…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Gameful",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "gogameful17",
+					"indices": [
+						94,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UMichiganAI",
+					"name": "Academic Innovation",
+					"id": 2828086644,
+					"id_str": "2828086644",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "gradecraft",
+					"name": "Gradecraft",
+					"id": 915082062,
+					"id_str": "915082062",
+					"indices": [
+						107,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 793,
+			"friends_count": 886,
+			"listed_count": 103,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2947,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6661,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 18 19:00:50 +0000 2017",
+			"id": 876515061153615900,
+			"id_str": "876515061153615872",
+			"text": "Teachers! Summer is here and it's time to \"Go #Gameful.\" Join us July 24-25. #gogameful17 @gradecraft https://t.co/MzNe7dqvUn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Gameful",
+						"indices": [
+							46,
+							54
+						]
+					},
+					{
+						"text": "gogameful17",
+						"indices": [
+							77,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gradecraft",
+						"name": "Gradecraft",
+						"id": 915082062,
+						"id_str": "915082062",
+						"indices": [
+							90,
+							101
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MzNe7dqvUn",
+						"expanded_url": "http://ai.umich.edu/event/going-gameful-level-up-your-teaching/?utm_source=social-media&utm_medium=twitter&utm_campaign=gll-conference-2017",
+						"display_url": "ai.umich.edu/event/going-ga…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2828086644,
+				"id_str": "2828086644",
+				"name": "Academic Innovation",
+				"screen_name": "UMichiganAI",
+				"location": "",
+				"description": "Academic Innovation aims to shape the future of learning by enabling personalized, engaged & lifelong learning for the U-M community & learners around the world",
+				"url": "https://t.co/zvDZovjw5w",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zvDZovjw5w",
+								"expanded_url": "http://ai.umich.edu",
+								"display_url": "ai.umich.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3146,
+				"friends_count": 2575,
+				"listed_count": 245,
+				"created_at": "Tue Sep 23 14:11:07 +0000 2014",
+				"favourites_count": 1206,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7201,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/661975600446308352/YccHANYI.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/661975600446308352/YccHANYI.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/765245074494124032/QYx5w9Ow_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/765245074494124032/QYx5w9Ow_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2828086644/1477078330",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 17 12:30:41 +0000 2017",
 		"id": 876054491182792700,
 		"id_str": "876054491182792704",
