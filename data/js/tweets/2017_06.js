@@ -1,6 +1,3315 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 26 23:49:25 +0000 2017",
+		"id": 879486790931025900,
+		"id_str": "879486790931025923",
+		"text": "RT @Taniel: Well, the CBO attributes 2/3rds of the 22-million coverage loss to Medicaid cuts, per https://t.co/MZZqZP2ztP https://t.co/FOUW…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Taniel",
+					"name": "Taniel",
+					"id": 15537302,
+					"id_str": "15537302",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MZZqZP2ztP",
+					"expanded_url": "https://twitter.com/johncassidy/status/879442935871406080",
+					"display_url": "twitter.com/johncassidy/st…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 890,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2979,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 23:45:14 +0000 2017",
+			"id": 879485737686716400,
+			"id_str": "879485737686716418",
+			"text": "Well, the CBO attributes 2/3rds of the 22-million coverage loss to Medicaid cuts, per https://t.co/MZZqZP2ztP https://t.co/FOUW4t7NPx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MZZqZP2ztP",
+						"expanded_url": "https://twitter.com/johncassidy/status/879442935871406080",
+						"display_url": "twitter.com/johncassidy/st…",
+						"indices": [
+							86,
+							109
+						]
+					},
+					{
+						"url": "https://t.co/FOUW4t7NPx",
+						"expanded_url": "https://twitter.com/brithume/status/879451951385194496",
+						"display_url": "twitter.com/brithume/statu…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15537302,
+				"id_str": "15537302",
+				"name": "Taniel",
+				"screen_name": "Taniel",
+				"location": "",
+				"description": "Daniel Nichanian. Postdoc at U of Chicago by day (& night), tweeterer of all things political rest of time. Political theory.",
+				"url": "https://t.co/0rOFSK19es",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0rOFSK19es",
+								"expanded_url": "https://chicago.academia.edu/DanielNichanian",
+								"display_url": "chicago.academia.edu/DanielNichanian",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34612,
+				"friends_count": 293,
+				"listed_count": 1252,
+				"created_at": "Tue Jul 22 21:06:43 +0000 2008",
+				"favourites_count": 1930,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 44253,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/68172088/background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/68172088/background.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/538548703527575552/9v70-cFQ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/538548703527575552/9v70-cFQ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15537302/1452364637",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 879451951385194500,
+			"quoted_status_id_str": "879451951385194496",
+			"quoted_status": {
+				"created_at": "Mon Jun 26 21:30:59 +0000 2017",
+				"id": 879451951385194500,
+				"id_str": "879451951385194496",
+				"text": "When you hear 22 million will \"lose\" coverage under Senate health bill, ask how many will go without by choice, since penalty is repealed.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 112047805,
+					"id_str": "112047805",
+					"name": "Brit Hume",
+					"screen_name": "brithume",
+					"location": "Washington, D.C.",
+					"description": "Sr. Political Analyst, Fox News Channel. Arguments welcome. Name callers & verbal abusers blocked.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 728499,
+					"friends_count": 611,
+					"listed_count": 5232,
+					"created_at": "Sun Feb 07 02:55:13 +0000 2010",
+					"favourites_count": 395,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 12720,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/722915873753665536/yHWzhy8k_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/722915873753665536/yHWzhy8k_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/112047805/1354042583",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2585,
+				"favorite_count": 5530,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 256,
+			"favorite_count": 458,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 879451951385194500,
+		"quoted_status_id_str": "879451951385194496",
+		"retweet_count": 256,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 23:44:37 +0000 2017",
+		"id": 879485580303769600,
+		"id_str": "879485580303769601",
+		"text": "RT @rickzim88: @SenatorCollins I wish more in the @GOP would take that attitude. No one ever said the #ACA was perfect. Everyone agreed it…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ACA",
+					"indices": [
+						102,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rickzim88",
+					"name": "WatchDog for America",
+					"id": 31007913,
+					"id_str": "31007913",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "SenatorCollins",
+					"name": "Sen. Susan Collins",
+					"id": 19726613,
+					"id_str": "19726613",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "GOP",
+					"name": "GOP",
+					"id": 11134252,
+					"id_str": "11134252",
+					"indices": [
+						50,
+						54
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 890,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2979,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 23:29:33 +0000 2017",
+			"id": 879481788451704800,
+			"id_str": "879481788451704837",
+			"text": "@SenatorCollins I wish more in the @GOP would take that attitude. No one ever said the #ACA was perfect. Everyone a… https://t.co/eknctWjYgP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ACA",
+						"indices": [
+							87,
+							91
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SenatorCollins",
+						"name": "Sen. Susan Collins",
+						"id": 19726613,
+						"id_str": "19726613",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "GOP",
+						"name": "GOP",
+						"id": 11134252,
+						"id_str": "11134252",
+						"indices": [
+							35,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eknctWjYgP",
+						"expanded_url": "https://twitter.com/i/web/status/879481788451704837",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 879471862694256600,
+			"in_reply_to_status_id_str": "879471862694256641",
+			"in_reply_to_user_id": 19726613,
+			"in_reply_to_user_id_str": "19726613",
+			"in_reply_to_screen_name": "SenatorCollins",
+			"user": {
+				"id": 31007913,
+				"id_str": "31007913",
+				"name": "WatchDog for America",
+				"screen_name": "rickzim88",
+				"location": "Blue State, USA",
+				"description": "Proud Union Member, Navy Vet & Catholic. Former Republican, Now an Enlightened Democrat & Anti-Russian. #TaxReturns #ClimateChange #Resistance #ShareBlue",
+				"url": "https://t.co/0tsBXnnAks",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0tsBXnnAks",
+								"expanded_url": "http://PeoplePower.org",
+								"display_url": "PeoplePower.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1785,
+				"friends_count": 2958,
+				"listed_count": 46,
+				"created_at": "Tue Apr 14 00:41:53 +0000 2009",
+				"favourites_count": 2952,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15916,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000088454817/05a87c2b5b837df7620a277dfd5fe0df.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000088454817/05a87c2b5b837df7620a277dfd5fe0df.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824858990349725700/y9aefppp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824858990349725700/y9aefppp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31007913/1485496570",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 23:42:58 +0000 2017",
+		"id": 879485166917386200,
+		"id_str": "879485166917386240",
+		"text": "RT @becky_k_r: #ACA #ProtectOurCare #healthcarenow #LetUsLive\n@PromisetheChild https://t.co/a72E3LIkb9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ACA",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "ProtectOurCare",
+					"indices": [
+						20,
+						35
+					]
+				},
+				{
+					"text": "healthcarenow",
+					"indices": [
+						36,
+						50
+					]
+				},
+				{
+					"text": "LetUsLive",
+					"indices": [
+						51,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "becky_k_r",
+					"name": "Becky Richardson",
+					"id": 2609718769,
+					"id_str": "2609718769",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "PromisetheChild",
+					"name": "Promise the Children",
+					"id": 539118922,
+					"id_str": "539118922",
+					"indices": [
+						62,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a72E3LIkb9",
+					"expanded_url": "https://twitter.com/ChildDefender/status/879452986988220416",
+					"display_url": "twitter.com/ChildDefender/…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 890,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2979,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 23:30:56 +0000 2017",
+			"id": 879482139468804100,
+			"id_str": "879482139468804097",
+			"text": "#ACA #ProtectOurCare #healthcarenow #LetUsLive\n@PromisetheChild https://t.co/a72E3LIkb9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ACA",
+						"indices": [
+							0,
+							4
+						]
+					},
+					{
+						"text": "ProtectOurCare",
+						"indices": [
+							5,
+							20
+						]
+					},
+					{
+						"text": "healthcarenow",
+						"indices": [
+							21,
+							35
+						]
+					},
+					{
+						"text": "LetUsLive",
+						"indices": [
+							36,
+							46
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PromisetheChild",
+						"name": "Promise the Children",
+						"id": 539118922,
+						"id_str": "539118922",
+						"indices": [
+							47,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/a72E3LIkb9",
+						"expanded_url": "https://twitter.com/ChildDefender/status/879452986988220416",
+						"display_url": "twitter.com/ChildDefender/…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2609718769,
+				"id_str": "2609718769",
+				"name": "Becky Richardson",
+				"screen_name": "becky_k_r",
+				"location": "Nahant, MA",
+				"description": "President of Promise the Children UU. Works as a volunteer for literacy in after school programs. Recruits volunteer advocates. @promisethechild",
+				"url": "https://t.co/DZVSgZy1rK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DZVSgZy1rK",
+								"expanded_url": "http://www.promisethechildrenuu.org",
+								"display_url": "promisethechildrenuu.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50,
+				"friends_count": 120,
+				"listed_count": 3,
+				"created_at": "Mon Jul 07 14:15:35 +0000 2014",
+				"favourites_count": 373,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 217,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/486153786511982593/ee1Z7Ozw_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/486153786511982593/ee1Z7Ozw_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 879452986988220400,
+			"quoted_status_id_str": "879452986988220416",
+			"quoted_status": {
+				"created_at": "Mon Jun 26 21:35:06 +0000 2017",
+				"id": 879452986988220400,
+				"id_str": "879452986988220416",
+				"text": "For 37 million children, Medicaid isn’t just a budget item, it’s a lifeline. Tell your Senators to #ProtectMedicaid… https://t.co/NLrk6ED9ow",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "ProtectMedicaid",
+							"indices": [
+								99,
+								115
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/NLrk6ED9ow",
+							"expanded_url": "https://twitter.com/i/web/status/879452986988220416",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 21337440,
+					"id_str": "21337440",
+					"name": "ChildrensDefenseFund",
+					"screen_name": "ChildDefender",
+					"location": "United States",
+					"description": "Leading our nation since 1973 to ensure a level playing field for all children",
+					"url": "http://t.co/wjm31OqBcA",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/wjm31OqBcA",
+									"expanded_url": "http://www.childrensdefense.org",
+									"display_url": "childrensdefense.org",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 40284,
+					"friends_count": 10835,
+					"listed_count": 1212,
+					"created_at": "Thu Feb 19 20:49:50 +0000 2009",
+					"favourites_count": 1676,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 16416,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "0084B4",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344918034409299082/9bc4f00af9950ee789bde6762a80ddee.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344918034409299082/9bc4f00af9950ee789bde6762a80ddee.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/738712572820623360/Wk_vVEut_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/738712572820623360/Wk_vVEut_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/21337440/1497450790",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "D9D5D2",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 5,
+				"favorite_count": 5,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 879452986988220400,
+		"quoted_status_id_str": "879452986988220416",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Jun 26 23:40:52 +0000 2017",
+		"id": 879484637512433700,
+		"id_str": "879484637512433668",
+		"text": "RT @TheDasKaput: @mcall i work for a local business w/too few employees to form a group health plan, so i'm on #ACA now. but w/senate plan,…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ACA",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheDasKaput",
+					"name": "The Das Kaput",
+					"id": 767869023057014800,
+					"id_str": "767869023057014784",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "mcall",
+					"name": "The Morning Call",
+					"id": 15431914,
+					"id_str": "15431914",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 890,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2979,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 23:33:29 +0000 2017",
+			"id": 879482782065582100,
+			"id_str": "879482782065582080",
+			"text": "@mcall i work for a local business w/too few employees to form a group health plan, so i'm on #ACA now. but w/senat… https://t.co/HX3fxiWKla",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ACA",
+						"indices": [
+							94,
+							98
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mcall",
+						"name": "The Morning Call",
+						"id": 15431914,
+						"id_str": "15431914",
+						"indices": [
+							0,
+							6
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HX3fxiWKla",
+						"expanded_url": "https://twitter.com/i/web/status/879482782065582080",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 879450176796201000,
+			"in_reply_to_status_id_str": "879450176796200960",
+			"in_reply_to_user_id": 15431914,
+			"in_reply_to_user_id_str": "15431914",
+			"in_reply_to_screen_name": "mcall",
+			"user": {
+				"id": 767869023057014800,
+				"id_str": "767869023057014784",
+				"name": "The Das Kaput",
+				"screen_name": "TheDasKaput",
+				"location": "Bethlehem, PA",
+				"description": "an Electro-based act from Bethlehem, PA.  \nnew EP: Puts It All Out There \nis out now & it's free and HOT",
+				"url": "https://t.co/DqjrBmEjEA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DqjrBmEjEA",
+								"expanded_url": "https://soundcloud.com/the-das-kaput",
+								"display_url": "soundcloud.com/the-das-kaput",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 319,
+				"friends_count": 796,
+				"listed_count": 12,
+				"created_at": "Mon Aug 22 23:40:16 +0000 2016",
+				"favourites_count": 10454,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2596,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/840589322055225344/5q_QLblE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/840589322055225344/5q_QLblE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/767869023057014784/1489246953",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 23:34:11 +0000 2017",
+		"id": 879482955378380800,
+		"id_str": "879482955378380800",
+		"text": "RT @nytimes: 4 key takeaways from the Senate health care bill https://t.co/8R67hqwtQH https://t.co/hCnDpstGc7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8R67hqwtQH",
+					"expanded_url": "http://nyti.ms/2tfLJGo",
+					"display_url": "nyti.ms/2tfLJGo",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 879476130755039200,
+					"id_str": "879476130755039234",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DDSG4ZoW0AIEF9C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDSG4ZoW0AIEF9C.jpg",
+					"url": "https://t.co/hCnDpstGc7",
+					"display_url": "pic.twitter.com/hCnDpstGc7",
+					"expanded_url": "https://twitter.com/nytimes/status/879476133099655168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1530,
+							"h": 879,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 689,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 391,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 879476133099655200,
+					"source_status_id_str": "879476133099655168",
+					"source_user_id": 807095,
+					"source_user_id_str": "807095"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 879476130755039200,
+					"id_str": "879476130755039234",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DDSG4ZoW0AIEF9C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDSG4ZoW0AIEF9C.jpg",
+					"url": "https://t.co/hCnDpstGc7",
+					"display_url": "pic.twitter.com/hCnDpstGc7",
+					"expanded_url": "https://twitter.com/nytimes/status/879476133099655168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1530,
+							"h": 879,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 689,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 391,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 879476133099655200,
+					"source_status_id_str": "879476133099655168",
+					"source_user_id": 807095,
+					"source_user_id_str": "807095"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 890,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2979,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 23:07:04 +0000 2017",
+			"id": 879476133099655200,
+			"id_str": "879476133099655168",
+			"text": "4 key takeaways from the Senate health care bill https://t.co/8R67hqwtQH https://t.co/hCnDpstGc7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8R67hqwtQH",
+						"expanded_url": "http://nyti.ms/2tfLJGo",
+						"display_url": "nyti.ms/2tfLJGo",
+						"indices": [
+							49,
+							72
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 879476130755039200,
+						"id_str": "879476130755039234",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DDSG4ZoW0AIEF9C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDSG4ZoW0AIEF9C.jpg",
+						"url": "https://t.co/hCnDpstGc7",
+						"display_url": "pic.twitter.com/hCnDpstGc7",
+						"expanded_url": "https://twitter.com/nytimes/status/879476133099655168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1530,
+								"h": 879,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 689,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 391,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 879476130755039200,
+						"id_str": "879476130755039234",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/DDSG4ZoW0AIEF9C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDSG4ZoW0AIEF9C.jpg",
+						"url": "https://t.co/hCnDpstGc7",
+						"display_url": "pic.twitter.com/hCnDpstGc7",
+						"expanded_url": "https://twitter.com/nytimes/status/879476133099655168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1530,
+								"h": 879,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 689,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 391,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807095,
+				"id_str": "807095",
+				"name": "The New York Times",
+				"screen_name": "nytimes",
+				"location": "New York City",
+				"description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more from https://t.co/YapuoqX0HS.",
+				"url": "http://t.co/ahvuWqicF9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ahvuWqicF9",
+								"expanded_url": "http://www.nytimes.com/",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YapuoqX0HS",
+								"expanded_url": "http://NYTimes.com",
+								"display_url": "NYTimes.com",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 38536823,
+				"friends_count": 895,
+				"listed_count": 189766,
+				"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+				"favourites_count": 15047,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 282344,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856562742563663872/cl1sRx2G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856562742563663872/cl1sRx2G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1488301156",
+				"profile_link_color": "607696",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 207,
+			"favorite_count": 159,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 207,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 23:33:06 +0000 2017",
+		"id": 879482684648587300,
+		"id_str": "879482684648587265",
+		"text": "RT @KamalaHarris: Massive cuts to Medicaid hits America’s children, our elderly, and those with substance abuse the hardest. https://t.co/O…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KamalaHarris",
+					"name": "Kamala Harris",
+					"id": 30354991,
+					"id_str": "30354991",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 890,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2979,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 23:28:02 +0000 2017",
+			"id": 879481410700144600,
+			"id_str": "879481410700144650",
+			"text": "Massive cuts to Medicaid hits America’s children, our elderly, and those with substance abuse the hardest. https://t.co/OWkBrdGCY1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 879481408149831700,
+						"id_str": "879481408149831680",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DDSLrldUwAANqxt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDSLrldUwAANqxt.jpg",
+						"url": "https://t.co/OWkBrdGCY1",
+						"display_url": "pic.twitter.com/OWkBrdGCY1",
+						"expanded_url": "https://twitter.com/KamalaHarris/status/879481410700144650/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 669,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1180,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1186,
+								"h": 1206,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 879481408149831700,
+						"id_str": "879481408149831680",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DDSLrldUwAANqxt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDSLrldUwAANqxt.jpg",
+						"url": "https://t.co/OWkBrdGCY1",
+						"display_url": "pic.twitter.com/OWkBrdGCY1",
+						"expanded_url": "https://twitter.com/KamalaHarris/status/879481410700144650/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 669,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1180,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1186,
+								"h": 1206,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30354991,
+				"id_str": "30354991",
+				"name": "Kamala Harris",
+				"screen_name": "KamalaHarris",
+				"location": "California",
+				"description": "Senator for California. Former CA Attorney General. Dedicated to fighting for justice & giving voice to the voiceless. Wife, s-mom, sister, aunt. Aspiring chef.",
+				"url": "http://t.co/IbL01p7pYJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IbL01p7pYJ",
+								"expanded_url": "http://KamalaHarris.org",
+								"display_url": "KamalaHarris.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 544774,
+				"friends_count": 714,
+				"listed_count": 5087,
+				"created_at": "Sat Apr 11 00:42:07 +0000 2009",
+				"favourites_count": 210,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5682,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/688156932/fb90b2e73377f4603feedb04df168d29.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/688156932/fb90b2e73377f4603feedb04df168d29.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877902898889412608/6Vfu5kVd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877902898889412608/6Vfu5kVd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30354991/1485113375",
+				"profile_link_color": "4468A6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 563,
+			"favorite_count": 769,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 563,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 23:29:24 +0000 2017",
+		"id": 879481754213593100,
+		"id_str": "879481754213593091",
+		"text": "RT @Cuda1297: My son with Autism and a heart condition has health coverage. Without the ACA I wouldn't be able to afford it.  #HowTheACASav…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cuda1297",
+					"name": "Cassie",
+					"id": 818479036196409300,
+					"id_str": "818479036196409345",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 890,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2979,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 23:17:36 +0000 2017",
+			"id": 879478785212645400,
+			"id_str": "879478785212645377",
+			"text": "My son with Autism and a heart condition has health coverage. Without the ACA I wouldn't be able to afford it.  #HowTheACASavedMyLife",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HowTheACASavedMyLife",
+						"indices": [
+							112,
+							133
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 818479036196409300,
+				"id_str": "818479036196409345",
+				"name": "Cassie",
+				"screen_name": "Cuda1297",
+				"location": "New Hampshire, USA",
+				"description": "Proud Autism Mom, special education teacher, fighter and voice for those that need it.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 205,
+				"friends_count": 368,
+				"listed_count": 0,
+				"created_at": "Mon Jan 09 15:26:23 +0000 2017",
+				"favourites_count": 5191,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1594,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878995584048386048/ye_Kso6x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878995584048386048/ye_Kso6x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/818479036196409345/1495214656",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 72,
+			"favorite_count": 160,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 23:28:05 +0000 2017",
+		"id": 879481419604668400,
+		"id_str": "879481419604668416",
+		"text": "RT @IndivisibleWI03: Wisconsin voters: @clairmc is bringing it right here, live tweeting @SenRonJohnson tele-townhall. \n\n@townhallproject @…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IndivisibleWI03",
+					"name": "Indivisible WI-03",
+					"id": 828359601456300000,
+					"id_str": "828359601456300032",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "clairmc",
+					"name": "clairmc",
+					"id": 15762886,
+					"id_str": "15762886",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"screen_name": "SenRonJohnson",
+					"name": "Senator Ron Johnson",
+					"id": 233737858,
+					"id_str": "233737858",
+					"indices": [
+						89,
+						103
+					]
+				},
+				{
+					"screen_name": "townhallproject",
+					"name": "Town Hall Project",
+					"id": 826472694426255400,
+					"id_str": "826472694426255361",
+					"indices": [
+						121,
+						137
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 890,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2979,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 23:00:22 +0000 2017",
+			"id": 879474445668286500,
+			"id_str": "879474445668286468",
+			"text": "Wisconsin voters: @clairmc is bringing it right here, live tweeting @SenRonJohnson tele-townhall.… https://t.co/DP1a9dyUnW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "clairmc",
+						"name": "clairmc",
+						"id": 15762886,
+						"id_str": "15762886",
+						"indices": [
+							18,
+							26
+						]
+					},
+					{
+						"screen_name": "SenRonJohnson",
+						"name": "Senator Ron Johnson",
+						"id": 233737858,
+						"id_str": "233737858",
+						"indices": [
+							68,
+							82
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/DP1a9dyUnW",
+						"expanded_url": "https://twitter.com/i/web/status/879474445668286468",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 828359601456300000,
+				"id_str": "828359601456300032",
+				"name": "Indivisible WI-03",
+				"screen_name": "IndivisibleWI03",
+				"location": "Wisconsin, USA",
+				"description": "Wisconsin's 3rd District. Working together for voting rights, the environment, healthcare. https://t.co/UYlmHtD8ge",
+				"url": "https://t.co/N7wU8X8A9S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N7wU8X8A9S",
+								"expanded_url": "https://www.facebook.com/groups/1446312275379623/",
+								"display_url": "facebook.com/groups/1446312…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UYlmHtD8ge",
+								"expanded_url": "https://actionnetwork.org/groups/indivisible-wi-03",
+								"display_url": "actionnetwork.org/groups/indivis…",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1349,
+				"friends_count": 931,
+				"listed_count": 34,
+				"created_at": "Sun Feb 05 21:48:14 +0000 2017",
+				"favourites_count": 8169,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5329,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848057326695219202/bc8CF7L__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848057326695219202/bc8CF7L__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/828359601456300032/1496629557",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 879469711746101200,
+			"quoted_status_id_str": "879469711746101248",
+			"quoted_status": {
+				"created_at": "Mon Jun 26 22:41:33 +0000 2017",
+				"id": 879469711746101200,
+				"id_str": "879469711746101248",
+				"text": "On telecall with Senator Ron Johnson. First question, do you find it unacceptable that essential health benefits are removed? His answer: no",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 15762886,
+					"id_str": "15762886",
+					"name": "clairmc",
+					"screen_name": "clairmc",
+					"location": "",
+					"description": "I live in Wisconsin; consider this tweets from the GOP dystopian future. Vote while you still can.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 399,
+					"friends_count": 1027,
+					"listed_count": 6,
+					"created_at": "Thu Aug 07 13:01:03 +0000 2008",
+					"favourites_count": 14480,
+					"utc_offset": -36000,
+					"time_zone": "Hawaii",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 10215,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "1A1B1F",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/840336641273257984/nERpvcfI_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/840336641273257984/nERpvcfI_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/15762886/1496809019",
+					"profile_link_color": "2FC2EF",
+					"profile_sidebar_border_color": "181A1E",
+					"profile_sidebar_fill_color": "252429",
+					"profile_text_color": "666666",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 19,
+				"favorite_count": 20,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 78,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 879469711746101200,
+		"quoted_status_id_str": "879469711746101248",
+		"retweet_count": 78,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 23:21:47 +0000 2017",
+		"id": 879479835537682400,
+		"id_str": "879479835537682434",
+		"text": "RT @agolis: It's really simple: the GOP thinks rich people paying the taxes they do is a bigger problem than poor people not getting health…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "agolis",
+					"name": "Andrew Golis",
+					"id": 15084970,
+					"id_str": "15084970",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 890,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2979,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 22:54:05 +0000 2017",
+			"id": 879472864143048700,
+			"id_str": "879472864143048712",
+			"text": "It's really simple: the GOP thinks rich people paying the taxes they do is a bigger problem than poor people not getting health care.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15084970,
+				"id_str": "15084970",
+				"name": "Andrew Golis",
+				"screen_name": "agolis",
+				"location": "Brooklyn",
+				"description": "I make media on the internet. GM @voxdotcom. Previously founder @thisdotcm & building things @theatlantic @frontlinepbs + more. My 6-year-old thinks I'm funny.",
+				"url": "https://t.co/RFM0N2d8MN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RFM0N2d8MN",
+								"expanded_url": "http://andrewgolis.com",
+								"display_url": "andrewgolis.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11873,
+				"friends_count": 1002,
+				"listed_count": 752,
+				"created_at": "Wed Jun 11 14:09:44 +0000 2008",
+				"favourites_count": 5084,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4389,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D9D5D9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439876492399362048/3_0Rz5-P.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439876492399362048/3_0Rz5-P.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/647846288231395328/_xRzHInB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/647846288231395328/_xRzHInB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15084970/1491692882",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E8E8E8",
+				"profile_text_color": "4A4A4A",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 360,
+			"favorite_count": 584,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 360,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 17:38:07 +0000 2017",
+		"id": 879393351124103200,
+		"id_str": "879393351124103173",
+		"text": "RT @rkniemer: Our goal is to find those who think gameful instruction is a positive evolution of their practice aligned with their beliefs.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rkniemer",
+					"name": "Rachel Niemer",
+					"id": 20741141,
+					"id_str": "20741141",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 890,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2979,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 15:21:10 +0000 2017",
+			"id": 879358883202043900,
+			"id_str": "879358883202043904",
+			"text": "Our goal is to find those who think gameful instruction is a positive evolution of their practice aligned with their beliefs. -@BarryFishman",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BarryFishman",
+						"name": "Barry Fishman",
+						"id": 14791317,
+						"id_str": "14791317",
+						"indices": [
+							127,
+							140
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20741141,
+				"id_str": "20741141",
+				"name": "Rachel Niemer",
+				"screen_name": "rkniemer",
+				"location": "Ann Arbor, MI",
+				"description": "Director of the Gameful Learning Lab, Pedagogy & digital ed geek, techie, Mom, Bowdoin & Caltech Alum, chemist in a different life, life-long learner",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1058,
+				"friends_count": 2454,
+				"listed_count": 62,
+				"created_at": "Fri Feb 13 02:21:15 +0000 2009",
+				"favourites_count": 446,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2182,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CDC4BB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/629951521/xfa961f7e04e30ea1e4776591b5aab6d.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/629951521/xfa961f7e04e30ea1e4776591b5aab6d.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878301091070439424/xDjOwf6H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878301091070439424/xDjOwf6H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20741141/1498238274",
+				"profile_link_color": "B99B99",
+				"profile_sidebar_border_color": "FEE1D3",
+				"profile_sidebar_fill_color": "F6BEBD",
+				"profile_text_color": "CFAAA1",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 17:37:46 +0000 2017",
+		"id": 879393260346781700,
+		"id_str": "879393260346781696",
+		"text": "Part of the Senate's #TrumpCare takes healthcare from &gt;8mil people to finance a 3.8% cut in capital gains tax for people earnings &gt;$200k",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TrumpCare",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 890,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2979,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 13:42:34 +0000 2017",
+		"id": 879334069930254300,
+		"id_str": "879334069930254336",
+		"text": "@jenniferwaller This online roundtable might be interesting. I'm probably going to join if my schedule allows: https://t.co/cAnj3w4oyO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jenniferwaller",
+					"name": "Jen Waller",
+					"id": 12470582,
+					"id_str": "12470582",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cAnj3w4oyO",
+					"expanded_url": "http://laurientaylor.org/2017/06/21/lpc-online-roundtable-discussion-digital-scholarship-and-library-publishing-july-20-3-4pm-edt/",
+					"display_url": "laurientaylor.org/2017/06/21/lpc…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 12470582,
+		"in_reply_to_user_id_str": "12470582",
+		"in_reply_to_screen_name": "jenniferwaller",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 890,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2979,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 26 02:30:41 +0000 2017",
+		"id": 879164987427704800,
+		"id_str": "879164987427704834",
+		"text": "RT @emayfarris: Want to teach anything on Obergefell/marriage equality? @ericibid wrote you an awesome syllabus. https://t.co/lRYYeuiD9y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emayfarris",
+					"name": "Emily Farris",
+					"id": 306491708,
+					"id_str": "306491708",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "ericibid",
+					"name": "Eric van der Vort",
+					"id": 1702651291,
+					"id_str": "1702651291",
+					"indices": [
+						72,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lRYYeuiD9y",
+					"expanded_url": "https://twitter.com/ericibid/status/877591859459010564",
+					"display_url": "twitter.com/ericibid/statu…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 890,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 2979,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6701,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 02:30:05 +0000 2017",
+			"id": 879164835627401200,
+			"id_str": "879164835627401216",
+			"text": "Want to teach anything on Obergefell/marriage equality? @ericibid wrote you an awesome syllabus. https://t.co/lRYYeuiD9y",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ericibid",
+						"name": "Eric van der Vort",
+						"id": 1702651291,
+						"id_str": "1702651291",
+						"indices": [
+							56,
+							65
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/lRYYeuiD9y",
+						"expanded_url": "https://twitter.com/ericibid/status/877591859459010564",
+						"display_url": "twitter.com/ericibid/statu…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 306491708,
+				"id_str": "306491708",
+				"name": "Emily Farris",
+				"screen_name": "emayfarris",
+				"location": "Fort Worth, TX",
+				"description": "I have a PhD in Political Science & a master's in snark. Interested in cities, race, & ethnicity, and sheriffs. Tweets my own opinions & not peer reviewed.",
+				"url": "https://t.co/6BNfZKg77x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6BNfZKg77x",
+								"expanded_url": "http://www.pol.tcu.edu/faculty-and-staff-emily-farris.asp",
+								"display_url": "pol.tcu.edu/faculty-and-st…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3703,
+				"friends_count": 482,
+				"listed_count": 148,
+				"created_at": "Sat May 28 00:01:15 +0000 2011",
+				"favourites_count": 3056,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5121,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/599338657166692352/7NAECLwE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/599338657166692352/7NAECLwE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/306491708/1494167739",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 877591859459010600,
+			"quoted_status_id_str": "877591859459010564",
+			"quoted_status": {
+				"created_at": "Wed Jun 21 18:19:38 +0000 2017",
+				"id": 877591859459010600,
+				"id_str": "877591859459010564",
+				"text": "As we near the 2 year anniversary of Obergefell, I’ll try to highlight some relevant writing about its impact, legacies, and complexity.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1702651291,
+					"id_str": "1702651291",
+					"name": "Eric van der Vort",
+					"screen_name": "ericibid",
+					"location": "Syracuse, NY",
+					"description": "Political scientist (law, LGBTQ politics, social movements). Organizer. Improviser. RTs = spells cast on my enemies. Views mine, and maybe yours.",
+					"url": "https://t.co/FBvV1e5Zpk",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/FBvV1e5Zpk",
+									"expanded_url": "http://emvander.expressions.syr.edu",
+									"display_url": "emvander.expressions.syr.edu",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 652,
+					"friends_count": 1647,
+					"listed_count": 23,
+					"created_at": "Mon Aug 26 18:30:27 +0000 2013",
+					"favourites_count": 3066,
+					"utc_offset": -10800,
+					"time_zone": "Atlantic Time (Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 14865,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000060141809/40b7926061ecd770ea69d79de72fa936.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000060141809/40b7926061ecd770ea69d79de72fa936.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/796922106411937793/6CyFz_Z4_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/796922106411937793/6CyFz_Z4_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1702651291/1451048936",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 14,
+				"favorite_count": 22,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 7,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 877591859459010600,
+		"quoted_status_id_str": "877591859459010564",
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 25 21:24:14 +0000 2017",
 		"id": 879087866462310400,
 		"id_str": "879087866462310400",
