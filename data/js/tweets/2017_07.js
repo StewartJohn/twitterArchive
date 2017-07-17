@@ -1,6 +1,634 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 16 04:39:28 +0000 2017",
+		"id": 886445151262044200,
+		"id_str": "886445151262044160",
+		"text": "RT @kinlane: When You Publish A Google Sheet To The Web It Also Becomes An API - https://t.co/w3cmNgr7Fz https://t.co/3nhoyrWgq1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kinlane",
+					"name": "Kin Lane",
+					"id": 5954192,
+					"id_str": "5954192",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/w3cmNgr7Fz",
+					"expanded_url": "https://apievangelist.com/2017/07/11/when-you-publish-a-google-sheet-to-the-web-it-als-becomes-an-api/",
+					"display_url": "apievangelist.com/2017/07/11/whe…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 886368549714841600,
+					"id_str": "886368549714841600",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DE0Df_HU0AAUxzd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DE0Df_HU0AAUxzd.jpg",
+					"url": "https://t.co/3nhoyrWgq1",
+					"display_url": "pic.twitter.com/3nhoyrWgq1",
+					"expanded_url": "https://twitter.com/kinlane/status/886368553414402053/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 643,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1027,
+							"h": 971,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1027,
+							"h": 971,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 886368553414402000,
+					"source_status_id_str": "886368553414402053",
+					"source_user_id": 5954192,
+					"source_user_id_str": "5954192"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 886368549714841600,
+					"id_str": "886368549714841600",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/DE0Df_HU0AAUxzd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DE0Df_HU0AAUxzd.jpg",
+					"url": "https://t.co/3nhoyrWgq1",
+					"display_url": "pic.twitter.com/3nhoyrWgq1",
+					"expanded_url": "https://twitter.com/kinlane/status/886368553414402053/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 643,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1027,
+							"h": 971,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1027,
+							"h": 971,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 886368553414402000,
+					"source_status_id_str": "886368553414402053",
+					"source_user_id": 5954192,
+					"source_user_id_str": "5954192"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 798,
+			"friends_count": 892,
+			"listed_count": 101,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3050,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6786,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 15 23:35:05 +0000 2017",
+			"id": 886368553414402000,
+			"id_str": "886368553414402053",
+			"text": "When You Publish A Google Sheet To The Web It Also Becomes An API - https://t.co/w3cmNgr7Fz https://t.co/3nhoyrWgq1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/w3cmNgr7Fz",
+						"expanded_url": "https://apievangelist.com/2017/07/11/when-you-publish-a-google-sheet-to-the-web-it-als-becomes-an-api/",
+						"display_url": "apievangelist.com/2017/07/11/whe…",
+						"indices": [
+							68,
+							91
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 886368549714841600,
+						"id_str": "886368549714841600",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DE0Df_HU0AAUxzd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DE0Df_HU0AAUxzd.jpg",
+						"url": "https://t.co/3nhoyrWgq1",
+						"display_url": "pic.twitter.com/3nhoyrWgq1",
+						"expanded_url": "https://twitter.com/kinlane/status/886368553414402053/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 643,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1027,
+								"h": 971,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1027,
+								"h": 971,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 886368549714841600,
+						"id_str": "886368549714841600",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DE0Df_HU0AAUxzd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DE0Df_HU0AAUxzd.jpg",
+						"url": "https://t.co/3nhoyrWgq1",
+						"display_url": "pic.twitter.com/3nhoyrWgq1",
+						"expanded_url": "https://twitter.com/kinlane/status/886368553414402053/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 643,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1027,
+								"h": 971,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1027,
+								"h": 971,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5954192,
+				"id_str": "5954192",
+				"name": "Kin Lane",
+				"screen_name": "kinlane",
+				"location": "California, USA",
+				"description": "I am the @APIEvangelist paying attention to the technology, business, and politics of APIs.",
+				"url": "https://t.co/6FSPL2MHmt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6FSPL2MHmt",
+								"expanded_url": "http://apievangelist.com",
+								"display_url": "apievangelist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13367,
+				"friends_count": 11623,
+				"listed_count": 652,
+				"created_at": "Fri May 11 08:17:59 +0000 2007",
+				"favourites_count": 8930,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 764,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/455537537449091073/EnHC9-0v.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/455537537449091073/EnHC9-0v.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/840636915665653760/mkxtqcRc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/840636915665653760/mkxtqcRc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5954192/1489258522",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 12,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 16 04:39:10 +0000 2017",
+		"id": 886445077723263000,
+		"id_str": "886445077723262978",
+		"text": "RT @UnsetSciStories: If you like classic science fiction, one of the genre’s best magazines can now be found FREE online #ImaginedFutures h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ImaginedFutures",
+					"indices": [
+						121,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UnsetSciStories",
+					"name": "Unsettling Science",
+					"id": 4795698023,
+					"id_str": "4795698023",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 798,
+			"friends_count": 892,
+			"listed_count": 101,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3050,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6786,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 15 20:25:57 +0000 2017",
+			"id": 886320954984591400,
+			"id_str": "886320954984591360",
+			"text": "If you like classic science fiction, one of the genre’s best magazines can now be found FREE online #ImaginedFutures https://t.co/FJ6nQBZp4t",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ImaginedFutures",
+						"indices": [
+							100,
+							116
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FJ6nQBZp4t",
+						"expanded_url": "https://www.theverge.com/2017/7/14/15970710/galaxy-science-fiction-magazine-online-free-reading-archive",
+						"display_url": "theverge.com/2017/7/14/1597…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4795698023,
+				"id_str": "4795698023",
+				"name": "Unsettling Science",
+				"screen_name": "UnsetSciStories",
+				"location": "United Kingdom",
+				"description": "Unsettling Scientific Stories | @ahrcpress @UniOfYork @AberUni @UniOfNewcastle | Exploring historical science futures #ImaginedFutures  \n[tweets: @AmyCChambers]",
+				"url": "https://t.co/i6zPNTG9RM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i6zPNTG9RM",
+								"expanded_url": "http://unsettlingscientificstories.co.uk/",
+								"display_url": "unsettlingscientificstories.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 402,
+				"friends_count": 179,
+				"listed_count": 38,
+				"created_at": "Wed Jan 13 16:22:04 +0000 2016",
+				"favourites_count": 555,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1641,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/687311359218954241/m_VpDV5J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/687311359218954241/m_VpDV5J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4795698023/1466607371",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "315b740b108481f6",
+				"url": "https://api.twitter.com/1.1/geo/id/315b740b108481f6.json",
+				"place_type": "city",
+				"name": "Manchester",
+				"full_name": "Manchester, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-2.319934,
+								53.343623
+							],
+							[
+								-2.147026,
+								53.343623
+							],
+							[
+								-2.147026,
+								53.5702824
+							],
+							[
+								-2.319934,
+								53.5702824
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 15 18:53:35 +0000 2017",
 		"id": 886297708901871600,
 		"id_str": "886297708901871617",
