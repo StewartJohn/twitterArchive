@@ -1,6 +1,591 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 20 11:47:16 +0000 2017",
+		"id": 888002363113574400,
+		"id_str": "888002363113574400",
+		"text": "@podehaye Yeah, both the linking of accounts and the deep data collection of gps coordinated correlated with time patterns are alarming.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "podehaye",
+					"name": "Paul-Olivier Dehaye",
+					"id": 2219841242,
+					"id_str": "2219841242",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 888000871233187800,
+		"in_reply_to_status_id_str": "888000871233187840",
+		"in_reply_to_user_id": 73977188,
+		"in_reply_to_user_id_str": "73977188",
+		"in_reply_to_screen_name": "jstew511",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 912,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3056,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 20 11:41:20 +0000 2017",
+		"id": 888000871233187800,
+		"id_str": "888000871233187840",
+		"text": "@podehaye Yeah my wife had googled the hours for the pool from her phone. We've also gone to the pool a couple times on Wednesday evenings.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "podehaye",
+					"name": "Paul-Olivier Dehaye",
+					"id": 2219841242,
+					"id_str": "2219841242",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 887959454582526000,
+		"in_reply_to_status_id_str": "887959454582525953",
+		"in_reply_to_user_id": 2219841242,
+		"in_reply_to_user_id_str": "2219841242",
+		"in_reply_to_screen_name": "podehaye",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 912,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3056,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 20 03:45:15 +0000 2017",
+		"id": 887881059454603300,
+		"id_str": "887881059454603264",
+		"text": "RT @PeppyZestyTeach: Teachers love coffee and technology so let's explain SAMR on our level ;) #edtech https://t.co/HHdzQ289pM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						95,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeppyZestyTeach",
+					"name": "Amber Calderon",
+					"id": 216904673,
+					"id_str": "216904673",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 887155304848388100,
+					"id_str": "887155304848388096",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DE_PDKYXcAAwUJN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DE_PDKYXcAAwUJN.jpg",
+					"url": "https://t.co/HHdzQ289pM",
+					"display_url": "pic.twitter.com/HHdzQ289pM",
+					"expanded_url": "https://twitter.com/PeppyZestyTeach/status/887155313362731009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 953,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 921,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 887155313362731000,
+					"source_status_id_str": "887155313362731009",
+					"source_user_id": 216904673,
+					"source_user_id_str": "216904673"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 887155304848388100,
+					"id_str": "887155304848388096",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DE_PDKYXcAAwUJN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DE_PDKYXcAAwUJN.jpg",
+					"url": "https://t.co/HHdzQ289pM",
+					"display_url": "pic.twitter.com/HHdzQ289pM",
+					"expanded_url": "https://twitter.com/PeppyZestyTeach/status/887155313362731009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 953,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 921,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 887155313362731000,
+					"source_status_id_str": "887155313362731009",
+					"source_user_id": 216904673,
+					"source_user_id_str": "216904673"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, sports fanatic, historian of chemistry, Center for Teaching Excellence at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 802,
+			"friends_count": 912,
+			"listed_count": 100,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3056,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6799,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 18 03:41:23 +0000 2017",
+			"id": 887155313362731000,
+			"id_str": "887155313362731009",
+			"text": "Teachers love coffee and technology so let's explain SAMR on our level ;) #edtech https://t.co/HHdzQ289pM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edtech",
+						"indices": [
+							74,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 887155304848388100,
+						"id_str": "887155304848388096",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DE_PDKYXcAAwUJN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DE_PDKYXcAAwUJN.jpg",
+						"url": "https://t.co/HHdzQ289pM",
+						"display_url": "pic.twitter.com/HHdzQ289pM",
+						"expanded_url": "https://twitter.com/PeppyZestyTeach/status/887155313362731009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 522,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 953,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 921,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 887155304848388100,
+						"id_str": "887155304848388096",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DE_PDKYXcAAwUJN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DE_PDKYXcAAwUJN.jpg",
+						"url": "https://t.co/HHdzQ289pM",
+						"display_url": "pic.twitter.com/HHdzQ289pM",
+						"expanded_url": "https://twitter.com/PeppyZestyTeach/status/887155313362731009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 522,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 953,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 921,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 216904673,
+				"id_str": "216904673",
+				"name": "Amber Calderon",
+				"screen_name": "PeppyZestyTeach",
+				"location": "Fort Lauderdale, FL",
+				"description": "Specializing in helping teachers integrate technology into their lessons. @Nearpod Teacher Support Specialist https://t.co/YwrnCqI7tq",
+				"url": "https://t.co/Mekur4BvLk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mekur4BvLk",
+								"expanded_url": "https://about.me/amber.calderon",
+								"display_url": "about.me/amber.calderon",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YwrnCqI7tq",
+								"expanded_url": "http://PeppyZestyTeacherista.com",
+								"display_url": "PeppyZestyTeacherista.com",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1885,
+				"friends_count": 778,
+				"listed_count": 45,
+				"created_at": "Thu Nov 18 01:21:11 +0000 2010",
+				"favourites_count": 2441,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1800,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DB8FA4",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452261769881198592/gX-AxDwY.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452261769881198592/gX-AxDwY.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861280386143354882/Pdfl-Kal_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861280386143354882/Pdfl-Kal_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/216904673/1465430252",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 58,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 20 01:05:12 +0000 2017",
 		"id": 887840780857036800,
 		"id_str": "887840780857036800",
