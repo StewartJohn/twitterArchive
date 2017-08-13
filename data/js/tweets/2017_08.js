@@ -1,6 +1,2930 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 13 00:44:46 +0000 2017",
+		"id": 896532947217633300,
+		"id_str": "896532947217633280",
+		"text": "RT @nowviskie: Thank you, @UVa Graduate Student Coalition for Liberation, for this #CharlottesvilleSyllabus.  #defendcville  https://t.co/S…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CharlottesvilleSyllabus",
+					"indices": [
+						83,
+						107
+					]
+				},
+				{
+					"text": "defendcville",
+					"indices": [
+						110,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nowviskie",
+					"name": "Bethany Nowviskie",
+					"id": 14221013,
+					"id_str": "14221013",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "UVA",
+					"name": "UVA",
+					"id": 1910771,
+					"id_str": "1910771",
+					"indices": [
+						26,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 931,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3207,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 12 17:24:46 +0000 2017",
+			"id": 896422217864663000,
+			"id_str": "896422217864663040",
+			"text": "Thank you, @UVa Graduate Student Coalition for Liberation, for this #CharlottesvilleSyllabus.  #defendcville  https://t.co/SVjdodchYg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CharlottesvilleSyllabus",
+						"indices": [
+							68,
+							92
+						]
+					},
+					{
+						"text": "defendcville",
+						"indices": [
+							95,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UVA",
+						"name": "UVA",
+						"id": 1910771,
+						"id_str": "1910771",
+						"indices": [
+							11,
+							15
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SVjdodchYg",
+						"expanded_url": "https://medium.com/@UVAGSC/the-charlottesville-syllabus-9e01573419d0",
+						"display_url": "medium.com/@UVAGSC/the-ch…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14221013,
+				"id_str": "14221013",
+				"name": "Bethany Nowviskie",
+				"screen_name": "nowviskie",
+				"location": "Virginia, USA",
+				"description": "Director, Digital Library Federation (@CLIRDLF) at @CLIRnews + Research Assoc Professor of Digital Humanities, @UVa. Personal account: opinions are just mine.",
+				"url": "https://t.co/KVeHGy6z1t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KVeHGy6z1t",
+								"expanded_url": "http://nowviskie.org",
+								"display_url": "nowviskie.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11225,
+				"friends_count": 1767,
+				"listed_count": 724,
+				"created_at": "Tue Mar 25 23:56:00 +0000 2008",
+				"favourites_count": 17311,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24082,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453894238552350720/YMq-p_IR.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453894238552350720/YMq-p_IR.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/811742603158913025/dgCoWNlX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/811742603158913025/dgCoWNlX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14221013/1483323572",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E4E6CF",
+				"profile_text_color": "40403F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 23:15:45 +0000 2017",
+		"id": 896510548250177500,
+		"id_str": "896510548250177540",
+		"text": "Minions Party tonight. Daughter brought out her collection to watch @Minions &amp; the first two @DespicableMe movies. https://t.co/RjxzJDWTRL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Minions",
+					"name": "#Minions",
+					"id": 2255460432,
+					"id_str": "2255460432",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"screen_name": "DespicableMe",
+					"name": "Despicable Me",
+					"id": 25592034,
+					"id_str": "25592034",
+					"indices": [
+						97,
+						110
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 896510546404663300,
+					"id_str": "896510546404663297",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/DHELl4_XYAErzZ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHELl4_XYAErzZ4.jpg",
+					"url": "https://t.co/RjxzJDWTRL",
+					"display_url": "pic.twitter.com/RjxzJDWTRL",
+					"expanded_url": "https://twitter.com/jstew511/status/896510548250177540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 896510546404663300,
+					"id_str": "896510546404663297",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/DHELl4_XYAErzZ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHELl4_XYAErzZ4.jpg",
+					"url": "https://t.co/RjxzJDWTRL",
+					"display_url": "pic.twitter.com/RjxzJDWTRL",
+					"expanded_url": "https://twitter.com/jstew511/status/896510548250177540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 931,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3207,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 22:40:28 +0000 2017",
+		"id": 896501668497326100,
+		"id_str": "896501668497326083",
+		"text": "RT @soledadobrien: In case you're wondering if President Trump inspires neo-nazis--this is from their publication The Daily Stormer: https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soledadobrien",
+					"name": "Soledad O'Brien",
+					"id": 26548315,
+					"id_str": "26548315",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 931,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3207,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 12 22:02:33 +0000 2017",
+			"id": 896492127911149600,
+			"id_str": "896492127911149568",
+			"text": "In case you're wondering if President Trump inspires neo-nazis--this is from their publication The Daily Stormer: https://t.co/cT4OZv7VMP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 896492122114670600,
+						"id_str": "896492122114670592",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DHD61dKUwAAOOak.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHD61dKUwAAOOak.jpg",
+						"url": "https://t.co/cT4OZv7VMP",
+						"display_url": "pic.twitter.com/cT4OZv7VMP",
+						"expanded_url": "https://twitter.com/soledadobrien/status/896492127911149568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896492122114670600,
+						"id_str": "896492122114670592",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DHD61dKUwAAOOak.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHD61dKUwAAOOak.jpg",
+						"url": "https://t.co/cT4OZv7VMP",
+						"display_url": "pic.twitter.com/cT4OZv7VMP",
+						"expanded_url": "https://twitter.com/soledadobrien/status/896492127911149568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26548315,
+				"id_str": "26548315",
+				"name": "Soledad O'Brien",
+				"screen_name": "soledadobrien",
+				"location": " New York",
+				"description": "CEO StarfishMedia. Host: @MatterofFacttv this weekend! https://t.co/XSrdri9kN9 Producer of many things including 4 kids. I ❤️wine and horses.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XSrdri9kN9",
+								"expanded_url": "http://matteroffact.tv/on-tv/",
+								"display_url": "matteroffact.tv/on-tv/",
+								"indices": [
+									55,
+									78
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 689172,
+				"friends_count": 359950,
+				"listed_count": 8636,
+				"created_at": "Wed Mar 25 17:50:59 +0000 2009",
+				"favourites_count": 4420,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 49988,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "080E1C",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/155505432/Soledad_Cover_2.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/155505432/Soledad_Cover_2.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/807332626449068033/PZizLFnd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/807332626449068033/PZizLFnd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26548315/1481318074",
+				"profile_link_color": "092B9C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D0DBDB",
+				"profile_text_color": "0A010A",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36373,
+			"favorite_count": 30870,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 36373,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 22:24:03 +0000 2017",
+		"id": 896497536990675000,
+		"id_str": "896497536990674944",
+		"text": "RT @CvilleDSA: .@CoreyStewartVA, who almost won the GOP nomination for governor in June, also met with Kessler and attended a press confere…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CvilleDSA",
+					"name": "Charlottesville DSA",
+					"id": 802242895122198500,
+					"id_str": "802242895122198529",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "CoreyStewartVA",
+					"name": "Corey Stewart",
+					"id": 259045004,
+					"id_str": "259045004",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 931,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3207,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 12 03:12:13 +0000 2017",
+			"id": 896207667877863400,
+			"id_str": "896207667877863424",
+			"text": ".@CoreyStewartVA, who almost won the GOP nomination for governor in June, also met with Kessler and attended a pres… https://t.co/zWqwa7MOdf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CoreyStewartVA",
+						"name": "Corey Stewart",
+						"id": 259045004,
+						"id_str": "259045004",
+						"indices": [
+							1,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zWqwa7MOdf",
+						"expanded_url": "https://twitter.com/i/web/status/896207667877863424",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 896207053735301100,
+			"in_reply_to_status_id_str": "896207053735301120",
+			"in_reply_to_user_id": 802242895122198500,
+			"in_reply_to_user_id_str": "802242895122198529",
+			"in_reply_to_screen_name": "CvilleDSA",
+			"user": {
+				"id": 802242895122198500,
+				"id_str": "802242895122198529",
+				"name": "Charlottesville DSA",
+				"screen_name": "CvilleDSA",
+				"location": "Charlottesville, VA",
+				"description": "Charlottesville area chapter of the Democratic Socialists of America #1u #OrganizeTheSouth",
+				"url": "https://t.co/RdJzRWIAEE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RdJzRWIAEE",
+								"expanded_url": "http://facebook.com/CvilleDSA",
+								"display_url": "facebook.com/CvilleDSA",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2597,
+				"friends_count": 1399,
+				"listed_count": 37,
+				"created_at": "Fri Nov 25 20:09:45 +0000 2016",
+				"favourites_count": 3527,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2217,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880913124349681665/NWZjHrHU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880913124349681665/NWZjHrHU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/802242895122198529/1480104941",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 855,
+			"favorite_count": 614,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 855,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 22:23:59 +0000 2017",
+		"id": 896497521173856300,
+		"id_str": "896497521173856256",
+		"text": "RT @CvilleDSA: Congressman @RepTomGarrett met with Jason Kessler, the white supremacist who organized the event that led to tonight's Nazi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CvilleDSA",
+					"name": "Charlottesville DSA",
+					"id": 802242895122198500,
+					"id_str": "802242895122198529",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "RepTomGarrett",
+					"name": "Tom Garrett",
+					"id": 818460870573441000,
+					"id_str": "818460870573441028",
+					"indices": [
+						27,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 931,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3207,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 12 03:09:46 +0000 2017",
+			"id": 896207053735301100,
+			"id_str": "896207053735301120",
+			"text": "Congressman @RepTomGarrett met with Jason Kessler, the white supremacist who organized the event that led to tonigh… https://t.co/tufXUMZuXl",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RepTomGarrett",
+						"name": "Tom Garrett",
+						"id": 818460870573441000,
+						"id_str": "818460870573441028",
+						"indices": [
+							12,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tufXUMZuXl",
+						"expanded_url": "https://twitter.com/i/web/status/896207053735301120",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 802242895122198500,
+				"id_str": "802242895122198529",
+				"name": "Charlottesville DSA",
+				"screen_name": "CvilleDSA",
+				"location": "Charlottesville, VA",
+				"description": "Charlottesville area chapter of the Democratic Socialists of America #1u #OrganizeTheSouth",
+				"url": "https://t.co/RdJzRWIAEE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RdJzRWIAEE",
+								"expanded_url": "http://facebook.com/CvilleDSA",
+								"display_url": "facebook.com/CvilleDSA",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2597,
+				"friends_count": 1399,
+				"listed_count": 37,
+				"created_at": "Fri Nov 25 20:09:45 +0000 2016",
+				"favourites_count": 3527,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2217,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880913124349681665/NWZjHrHU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880913124349681665/NWZjHrHU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/802242895122198529/1480104941",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8758,
+			"favorite_count": 5851,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8758,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 22:22:57 +0000 2017",
+		"id": 896497261307461600,
+		"id_str": "896497261307461633",
+		"text": "RT @ezralevin: A Nazi terrorist rammed a car into a crowd, killing &amp; wounding Americans. \nAnd this is how the President of the United State…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ezralevin",
+					"name": "Ezra Levin",
+					"id": 248482567,
+					"id_str": "248482567",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 931,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3207,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 12 19:44:00 +0000 2017",
+			"id": 896457260226019300,
+			"id_str": "896457260226019328",
+			"text": "A Nazi terrorist rammed a car into a crowd, killing &amp; wounding Americans. \nAnd this is how the President of the Uni… https://t.co/nGh28GBM3n",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nGh28GBM3n",
+						"expanded_url": "https://twitter.com/i/web/status/896457260226019328",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 248482567,
+				"id_str": "248482567",
+				"name": "Ezra Levin",
+				"screen_name": "ezralevin",
+				"location": "D.C.",
+				"description": "Wonk resisting Trump's agenda. Recovering congressional staffer. @IndivisibleTeam Co-Executive Director along with partner in all things @leahgreenb.",
+				"url": "https://t.co/hK9yDSSRsp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hK9yDSSRsp",
+								"expanded_url": "https://www.indivisibleguide.com/",
+								"display_url": "indivisibleguide.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34103,
+				"friends_count": 1027,
+				"listed_count": 450,
+				"created_at": "Mon Feb 07 02:53:18 +0000 2011",
+				"favourites_count": 3706,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4414,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880582547654275072/NXZrbz3b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880582547654275072/NXZrbz3b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/248482567/1483754316",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 896455151757783000,
+			"quoted_status_id_str": "896455151757783040",
+			"quoted_status": {
+				"created_at": "Sat Aug 12 19:35:38 +0000 2017",
+				"id": 896455151757783000,
+				"id_str": "896455151757783040",
+				"text": "\"We condemn in the strongest possible terms this egregious display of hatred, bigotry, and violence on many sides. On many sides.\" -@POTUS",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "POTUS",
+							"name": "President Trump",
+							"id": 822215679726100500,
+							"id_str": "822215679726100480",
+							"indices": [
+								132,
+								138
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 37590426,
+					"id_str": "37590426",
+					"name": "Hallie Jackson",
+					"screen_name": "HallieJackson",
+					"location": "",
+					"description": "Chief White House Correspondent / @NBCNews / @MSNBC Anchor / 10aET / snap: hallienbc. insta: hallie_gram / Send coffee.",
+					"url": "https://t.co/8xx8pxDeCQ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/8xx8pxDeCQ",
+									"expanded_url": "http://www.nbcnews.com",
+									"display_url": "nbcnews.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 193883,
+					"friends_count": 1799,
+					"listed_count": 2556,
+					"created_at": "Mon May 04 04:04:21 +0000 2009",
+					"favourites_count": 8008,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 11763,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "89C9FA",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/517441357904756736/pyjUSAWX.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/517441357904756736/pyjUSAWX.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/747106252434587648/-7tzZPY8_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/747106252434587648/-7tzZPY8_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/37590426/1484586156",
+					"profile_link_color": "2FC2EF",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "01fbe706f872cb32",
+					"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+					"place_type": "city",
+					"name": "Washington",
+					"full_name": "Washington, DC",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-77.119401,
+									38.801826
+								],
+								[
+									-76.909396,
+									38.801826
+								],
+								[
+									-76.909396,
+									38.9953797
+								],
+								[
+									-77.119401,
+									38.9953797
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 544,
+				"favorite_count": 790,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 980,
+			"favorite_count": 1201,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 896455151757783000,
+		"quoted_status_id_str": "896455151757783040",
+		"retweet_count": 980,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 14:27:50 +0000 2017",
+		"id": 896377692374917100,
+		"id_str": "896377692374917122",
+		"text": "RT @jnsanchez: The Nazis in #Charlottesville were literally beating people w/ torches, yet no police in riot gear. Hmm, wonder why. https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Charlottesville",
+					"indices": [
+						28,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jnsanchez",
+					"name": "Josh Sánchez",
+					"id": 24755012,
+					"id_str": "24755012",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 931,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3207,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 12 12:42:25 +0000 2017",
+			"id": 896351164756840400,
+			"id_str": "896351164756840448",
+			"text": "The Nazis in #Charlottesville were literally beating people w/ torches, yet no police in riot gear. Hmm, wonder why. https://t.co/wxuGGBEuML",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Charlottesville",
+						"indices": [
+							13,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 896245157086994400,
+						"id_str": "896245157086994432",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/896245157086994432/pu/img/arOr7lZqJqWuG_w_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/896245157086994432/pu/img/arOr7lZqJqWuG_w_.jpg",
+						"url": "https://t.co/wxuGGBEuML",
+						"display_url": "pic.twitter.com/wxuGGBEuML",
+						"expanded_url": "https://twitter.com/tariqnasheed/status/896245781014888448/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 896245781014888400,
+						"source_status_id_str": "896245781014888448",
+						"source_user_id": 16948493,
+						"source_user_id_str": "16948493"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896245157086994400,
+						"id_str": "896245157086994432",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/896245157086994432/pu/img/arOr7lZqJqWuG_w_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/896245157086994432/pu/img/arOr7lZqJqWuG_w_.jpg",
+						"url": "https://t.co/wxuGGBEuML",
+						"display_url": "pic.twitter.com/wxuGGBEuML",
+						"expanded_url": "https://twitter.com/tariqnasheed/status/896245781014888448/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 896245781014888400,
+						"source_status_id_str": "896245781014888448",
+						"source_user_id": 16948493,
+						"source_user_id_str": "16948493",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 24908,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/896245157086994432/pu/vid/320x180/bY6i2wMTKtGfySu7.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/896245157086994432/pu/vid/640x360/BkpYWkpae-q2u5uE.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/896245157086994432/pu/pl/yTkexAlJJMWgBLvw.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 16948493,
+								"id_str": "16948493",
+								"name": "Tariq Nasheed",
+								"screen_name": "tariqnasheed",
+								"location": "Los Angeles",
+								"description": "Free backpack giveaway https://t.co/1WCVfW4iqt -- #NABJ Anti-Racism Strategist- Constitution Advocate- Email me info@tariqelite.com",
+								"url": "https://t.co/9AmHOdXulT",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/9AmHOdXulT",
+												"expanded_url": "http://www.tariqradio.com",
+												"display_url": "tariqradio.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/1WCVfW4iqt",
+												"expanded_url": "https://www.gofundme.com/free-backpack-giveaway",
+												"display_url": "gofundme.com/free-backpack-…",
+												"indices": [
+													23,
+													46
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 190877,
+								"friends_count": 420,
+								"listed_count": 1322,
+								"created_at": "Fri Oct 24 12:49:50 +0000 2008",
+								"favourites_count": 7404,
+								"utc_offset": -25200,
+								"time_zone": "Pacific Time (US & Canada)",
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 52753,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "131516",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/767625377/d5ee8742c20262a12b962d24ebbe5f4c.jpeg",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/767625377/d5ee8742c20262a12b962d24ebbe5f4c.jpeg",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/740078368628965376/fNcogLRu_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/740078368628965376/fNcogLRu_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/16948493/1438371718",
+								"profile_link_color": "009999",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "666666",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24755012,
+				"id_str": "24755012",
+				"name": "Josh Sánchez",
+				"screen_name": "jnsanchez",
+				"location": "Manhattan, NY",
+				"description": "EIC @CampusSportsNet | All things #MMA #CFB, #NFLDraft | FWAA/USBWA member | SC/Insta: joshnsanchez | Email: joshsanchez at gmail dot com | #Resist",
+				"url": "https://t.co/cEx8bdAHvE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cEx8bdAHvE",
+								"expanded_url": "http://CampusSports.net",
+								"display_url": "CampusSports.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9892,
+				"friends_count": 920,
+				"listed_count": 387,
+				"created_at": "Mon Mar 16 19:48:12 +0000 2009",
+				"favourites_count": 25141,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 31393,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857919374459641856/LbrEfI68_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857919374459641856/LbrEfI68_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24755012/1417250504",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32424,
+			"favorite_count": 32128,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 32424,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 14:27:18 +0000 2017",
+		"id": 896377556932472800,
+		"id_str": "896377556932472832",
+		"text": "RT @SaraJBenincasa: THREAD: I think it would be cool if tons of folks donated to good Charlottesville-based nonprofits those Nazi jerks wou…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaraJBenincasa",
+					"name": "Sara Benincasa",
+					"id": 15194242,
+					"id_str": "15194242",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 931,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3207,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 12 06:42:23 +0000 2017",
+			"id": 896260558214897700,
+			"id_str": "896260558214897664",
+			"text": "THREAD: I think it would be cool if tons of folks donated to good Charlottesville-based nonprofits those Nazi jerks would really hate. So...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15194242,
+				"id_str": "15194242",
+				"name": "Sara Benincasa",
+				"screen_name": "SaraJBenincasa",
+				"location": "Los Angeles, CA",
+				"description": "I write books and scripts and I wear a lot of sunscreen. NJ to MA to NJ to NC to NM to NY to CA to NY to CA.",
+				"url": "https://t.co/DGveuaS36H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DGveuaS36H",
+								"expanded_url": "http://SaraBenincasa.com/Books",
+								"display_url": "SaraBenincasa.com/Books",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57258,
+				"friends_count": 21360,
+				"listed_count": 1719,
+				"created_at": "Sun Jun 22 02:00:30 +0000 2008",
+				"favourites_count": 178141,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 195725,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/638232483465699328/hPWFV0zK.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/638232483465699328/hPWFV0zK.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/891801027938181120/uslPvQV3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/891801027938181120/uslPvQV3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15194242/1500577942",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28532,
+			"favorite_count": 44308,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28532,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 14:23:50 +0000 2017",
+		"id": 896376684487856100,
+		"id_str": "896376684487856129",
+		"text": "RT @briancroxall: .@alanyliu: If you offer your undergrads an opportunity for research, they jump at it. They want to work WITH faculty. #d…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "briancroxall",
+					"name": "Brian Croxall",
+					"id": 12043242,
+					"id_str": "12043242",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "alanyliu",
+					"name": "Alan Liu",
+					"id": 568474353,
+					"id_str": "568474353",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 931,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3207,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 11 13:13:35 +0000 2017",
+			"id": 895996617966407700,
+			"id_str": "895996617966407681",
+			"text": ".@alanyliu: If you offer your undergrads an opportunity for research, they jump at it. They want to work WITH faculty. #dh2017",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dh2017",
+						"indices": [
+							119,
+							126
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "alanyliu",
+						"name": "Alan Liu",
+						"id": 568474353,
+						"id_str": "568474353",
+						"indices": [
+							1,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12043242,
+				"id_str": "12043242",
+				"name": "Brian Croxall",
+				"screen_name": "briancroxall",
+				"location": "Provo, UT",
+				"description": "Asst. Prof of Digital Humanities at @BYU. I read 20th-/21st-century American fiction. I'm a @ProfHacker.",
+				"url": "http://t.co/Ias70lcqJw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Ias70lcqJw",
+								"expanded_url": "http://briancroxall.net",
+								"display_url": "briancroxall.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7908,
+				"friends_count": 1689,
+				"listed_count": 535,
+				"created_at": "Wed Jan 09 20:39:55 +0000 2008",
+				"favourites_count": 7771,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60830,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "592323",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000007584450/7554110f10fe09e573edf422ee0a373c.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000007584450/7554110f10fe09e573edf422ee0a373c.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2160095725/avatar_squared_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2160095725/avatar_squared_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12043242/1372173801",
+				"profile_link_color": "A67051",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BFAA69",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 14:16:40 +0000 2017",
+		"id": 896374883382329300,
+		"id_str": "896374883382329344",
+		"text": "RT @melissaterras: Our paper on Father Busa's female punch card operatives, presented by @juliannenyhan #dh2017: they are ignored in the ac…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dh2017",
+					"indices": [
+						104,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melissaterras",
+					"name": "melissa terras",
+					"id": 50122046,
+					"id_str": "50122046",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "juliannenyhan",
+					"name": "Julianne Nyhan",
+					"id": 77436748,
+					"id_str": "77436748",
+					"indices": [
+						89,
+						103
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 931,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3207,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 11 12:36:48 +0000 2017",
+			"id": 895987360554524700,
+			"id_str": "895987360554524672",
+			"text": "Our paper on Father Busa's female punch card operatives, presented by @juliannenyhan #dh2017: they are ignored in t… https://t.co/StLJnLSQqv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dh2017",
+						"indices": [
+							85,
+							92
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "juliannenyhan",
+						"name": "Julianne Nyhan",
+						"id": 77436748,
+						"id_str": "77436748",
+						"indices": [
+							70,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/StLJnLSQqv",
+						"expanded_url": "https://twitter.com/i/web/status/895987360554524672",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50122046,
+				"id_str": "50122046",
+				"name": "melissa terras",
+				"screen_name": "melissaterras",
+				"location": "London",
+				"description": "Director, UCL Centre for Digital Humanities | Professor of Digital Humanities | Vice Dean | computer science vs cultural heritage | personal capacity, etc etc",
+				"url": "http://t.co/hJAFiEHwc1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/hJAFiEHwc1",
+								"expanded_url": "http://melissaterras.org/",
+								"display_url": "melissaterras.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13356,
+				"friends_count": 3238,
+				"listed_count": 730,
+				"created_at": "Tue Jun 23 22:21:08 +0000 2009",
+				"favourites_count": 2261,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 30745,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/620607139489447936/RQ-Bpx24.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/620607139489447936/RQ-Bpx24.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/817707301285097473/TbqzeIpE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/817707301285097473/TbqzeIpE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50122046/1436798997",
+				"profile_link_color": "1B7878",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 05:12:40 +0000 2017",
+		"id": 896237980897169400,
+		"id_str": "896237980897169408",
+		"text": "RT @readywriting: I'd love to know, how many of us doing DH at underfunded institutions pay for our own hosting? #DH2017",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DH2017",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "readywriting",
+					"name": "Lee Skallerup",
+					"id": 124920374,
+					"id_str": "124920374",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 931,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3207,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 11 18:04:40 +0000 2017",
+			"id": 896069872395853800,
+			"id_str": "896069872395853824",
+			"text": "I'd love to know, how many of us doing DH at underfunded institutions pay for our own hosting? #DH2017",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DH2017",
+						"indices": [
+							95,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124920374,
+				"id_str": "124920374",
+				"name": "Lee Skallerup",
+				"screen_name": "readywriting",
+				"location": "",
+				"description": "Instructional Technology Specialist, @umwdtlt, U Mary Washington. Lover of Literature. Canadian living in Virginia. Nevertheless, she persisted.",
+				"url": "https://t.co/Jcf2vgL00u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Jcf2vgL00u",
+								"expanded_url": "http://readywriting.org",
+								"display_url": "readywriting.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9308,
+				"friends_count": 8644,
+				"listed_count": 739,
+				"created_at": "Sun Mar 21 02:00:28 +0000 2010",
+				"favourites_count": 5957,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 147343,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844295013643304960/TB4_nUoU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844295013643304960/TB4_nUoU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124920374/1471532804",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 02:16:29 +0000 2017",
+		"id": 896193640493707300,
+		"id_str": "896193640493707264",
+		"text": "Nice night for a walk around @UofOklahoma with my loves. https://t.co/r85GPEHr1T",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UofOklahoma",
+					"name": "OU Sooners",
+					"id": 25116168,
+					"id_str": "25116168",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 896193637733851100,
+					"id_str": "896193637733851136",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DG_rXYMXYAAXJBN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DG_rXYMXYAAXJBN.jpg",
+					"url": "https://t.co/r85GPEHr1T",
+					"display_url": "pic.twitter.com/r85GPEHr1T",
+					"expanded_url": "https://twitter.com/jstew511/status/896193640493707264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 896193637733851100,
+					"id_str": "896193637733851136",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/DG_rXYMXYAAXJBN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DG_rXYMXYAAXJBN.jpg",
+					"url": "https://t.co/r85GPEHr1T",
+					"display_url": "pic.twitter.com/r85GPEHr1T",
+					"expanded_url": "https://twitter.com/jstew511/status/896193640493707264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 931,
+			"listed_count": 102,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3207,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7023,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 11 20:08:26 +0000 2017",
 		"id": 896101019389644800,
 		"id_str": "896101019389644800",
