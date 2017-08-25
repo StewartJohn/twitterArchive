@@ -1,6 +1,690 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 24 18:55:17 +0000 2017",
+		"id": 900793652208955400,
+		"id_str": "900793652208955392",
+		"text": "RT @ellesep: Just found out that if a Husky and a Pug mix, it's called a Hug. You're welcome. https://t.co/BG8OZnQ2ST",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ellesep",
+					"name": "Danielle Sepulveres",
+					"id": 62683017,
+					"id_str": "62683017",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 900109729304727600,
+					"id_str": "900109729304727552",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DH3VB6IU0AARW99.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DH3VB6IU0AARW99.jpg",
+					"url": "https://t.co/BG8OZnQ2ST",
+					"display_url": "pic.twitter.com/BG8OZnQ2ST",
+					"expanded_url": "https://twitter.com/ellesep/status/900109735353044996/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 599,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 634,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 634,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 900109735353045000,
+					"source_status_id_str": "900109735353044996",
+					"source_user_id": 62683017,
+					"source_user_id_str": "62683017"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 900109729304727600,
+					"id_str": "900109729304727552",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DH3VB6IU0AARW99.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DH3VB6IU0AARW99.jpg",
+					"url": "https://t.co/BG8OZnQ2ST",
+					"display_url": "pic.twitter.com/BG8OZnQ2ST",
+					"expanded_url": "https://twitter.com/ellesep/status/900109735353044996/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 599,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 634,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 634,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 900109735353045000,
+					"source_status_id_str": "900109735353044996",
+					"source_user_id": 62683017,
+					"source_user_id_str": "62683017"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 840,
+			"friends_count": 913,
+			"listed_count": 103,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3271,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 22 21:37:38 +0000 2017",
+			"id": 900109735353045000,
+			"id_str": "900109735353044996",
+			"text": "Just found out that if a Husky and a Pug mix, it's called a Hug. You're welcome. https://t.co/BG8OZnQ2ST",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 900109729304727600,
+						"id_str": "900109729304727552",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DH3VB6IU0AARW99.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH3VB6IU0AARW99.jpg",
+						"url": "https://t.co/BG8OZnQ2ST",
+						"display_url": "pic.twitter.com/BG8OZnQ2ST",
+						"expanded_url": "https://twitter.com/ellesep/status/900109735353044996/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 599,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 634,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 634,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 900109729304727600,
+						"id_str": "900109729304727552",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DH3VB6IU0AARW99.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DH3VB6IU0AARW99.jpg",
+						"url": "https://t.co/BG8OZnQ2ST",
+						"display_url": "pic.twitter.com/BG8OZnQ2ST",
+						"expanded_url": "https://twitter.com/ellesep/status/900109735353044996/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 599,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 634,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 634,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62683017,
+				"id_str": "62683017",
+				"name": "Danielle Sepulveres",
+				"screen_name": "ellesep",
+				"location": "New York",
+				"description": "My mom is cooler. 📝for @pacificstand, @brooklynmag, @latimes, @washingtonpost, @smrtgirls, @racked et al. Followed in Alicia Florrick's footsteps. Literally",
+				"url": "https://t.co/3nGewmnbAb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3nGewmnbAb",
+								"expanded_url": "http://daniellesepulveres.com",
+								"display_url": "daniellesepulveres.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5668,
+				"friends_count": 965,
+				"listed_count": 7,
+				"created_at": "Tue Aug 04 01:41:59 +0000 2009",
+				"favourites_count": 42298,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 68891,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/833113567561969666/Zj1a49-R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/833113567561969666/Zj1a49-R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62683017/1497296878",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16000,
+			"favorite_count": 51864,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16000,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Aug 24 11:56:23 +0000 2017",
+		"id": 900688233574662100,
+		"id_str": "900688233574662144",
+		"text": "RT @JasonLeopold: WH issues guidelines to direct Pentagon to stop admitting transgender people, gives Mattis power to remove those serving…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JasonLeopold",
+					"name": "Jason Leopold",
+					"id": 17094311,
+					"id_str": "17094311",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 840,
+			"friends_count": 913,
+			"listed_count": 103,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3271,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 24 00:41:21 +0000 2017",
+			"id": 900518357429911600,
+			"id_str": "900518357429911553",
+			"text": "WH issues guidelines to direct Pentagon to stop admitting transgender people, gives Mattis power to remove those se… https://t.co/F2FFlVioIf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/F2FFlVioIf",
+						"expanded_url": "https://twitter.com/i/web/status/900518357429911553",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17094311,
+				"id_str": "17094311",
+				"name": "Jason Leopold",
+				"screen_name": "JasonLeopold",
+				"location": "Los Angeles",
+				"description": "Sr investigative reporter @BuzzFeedNews investigations team. 'FOIA terrorist.' Band Tshirt hoarder. Punk. Send docs, tips, anonymously, securely https://t.co/C4z8VjsH5O",
+				"url": "https://t.co/xpbsLMbN2L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xpbsLMbN2L",
+								"expanded_url": "https://www.buzzfeed.com/jasonleopold",
+								"display_url": "buzzfeed.com/jasonleopold",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/C4z8VjsH5O",
+								"expanded_url": "http://bzfd.it/2i8q3mn",
+								"display_url": "bzfd.it/2i8q3mn",
+								"indices": [
+									145,
+									168
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 48595,
+				"friends_count": 3887,
+				"listed_count": 1996,
+				"created_at": "Fri Oct 31 23:36:20 +0000 2008",
+				"favourites_count": 6716,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 86980,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "080202",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/627271459119828992/kJDjJdhA.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/627271459119828992/kJDjJdhA.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/684412755512696833/hC9yuMF2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/684412755512696833/hC9yuMF2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17094311/1451153551",
+				"profile_link_color": "050202",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FCEEEE",
+				"profile_text_color": "475366",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 900516788345098200,
+			"quoted_status_id_str": "900516788345098240",
+			"quoted_status": {
+				"created_at": "Thu Aug 24 00:35:07 +0000 2017",
+				"id": 900516788345098200,
+				"id_str": "900516788345098240",
+				"text": "White House Sets Rules for Military Transgender Ban https://t.co/d3gEltL4MY",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/d3gEltL4MY",
+							"expanded_url": "https://www.wsj.com/articles/white-house-sets-rules-for-military-transgender-ban-1503534757",
+							"display_url": "wsj.com/articles/white…",
+							"indices": [
+								52,
+								75
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 17094311,
+					"id_str": "17094311",
+					"name": "Jason Leopold",
+					"screen_name": "JasonLeopold",
+					"location": "Los Angeles",
+					"description": "Sr investigative reporter @BuzzFeedNews investigations team. 'FOIA terrorist.' Band Tshirt hoarder. Punk. Send docs, tips, anonymously, securely https://t.co/C4z8VjsH5O",
+					"url": "https://t.co/xpbsLMbN2L",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/xpbsLMbN2L",
+									"expanded_url": "https://www.buzzfeed.com/jasonleopold",
+									"display_url": "buzzfeed.com/jasonleopold",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/C4z8VjsH5O",
+									"expanded_url": "http://bzfd.it/2i8q3mn",
+									"display_url": "bzfd.it/2i8q3mn",
+									"indices": [
+										145,
+										168
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 48595,
+					"friends_count": 3887,
+					"listed_count": 1996,
+					"created_at": "Fri Oct 31 23:36:20 +0000 2008",
+					"favourites_count": 6716,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 86980,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "080202",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/627271459119828992/kJDjJdhA.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/627271459119828992/kJDjJdhA.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/684412755512696833/hC9yuMF2_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/684412755512696833/hC9yuMF2_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/17094311/1451153551",
+					"profile_link_color": "050202",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "FCEEEE",
+					"profile_text_color": "475366",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 84,
+				"favorite_count": 37,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 268,
+			"favorite_count": 158,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 900516788345098200,
+		"quoted_status_id_str": "900516788345098240",
+		"retweet_count": 268,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Aug 23 22:13:50 +0000 2017",
 		"id": 900481230914940900,
 		"id_str": "900481230914940928",
