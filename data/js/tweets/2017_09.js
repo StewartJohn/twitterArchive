@@ -1,6 +1,887 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 02 12:36:25 +0000 2017",
+		"id": 903959800739975200,
+		"id_str": "903959800739975169",
+		"text": "RT @sjjphd: This tweet and the replies. Once again, the internet wins :)\nhttps://t.co/r2XsZ9pUE7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sjjphd",
+					"name": "Sarah J. Jackson",
+					"id": 237119773,
+					"id_str": "237119773",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r2XsZ9pUE7",
+					"expanded_url": "https://twitter.com/manwhohasitall/status/903713613550153729",
+					"display_url": "twitter.com/manwhohasitall…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 920,
+			"listed_count": 104,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3314,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7150,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 01 21:35:13 +0000 2017",
+			"id": 903733003414888400,
+			"id_str": "903733003414888448",
+			"text": "This tweet and the replies. Once again, the internet wins :)\nhttps://t.co/r2XsZ9pUE7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/r2XsZ9pUE7",
+						"expanded_url": "https://twitter.com/manwhohasitall/status/903713613550153729",
+						"display_url": "twitter.com/manwhohasitall…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 237119773,
+				"id_str": "237119773",
+				"name": "Sarah J. Jackson",
+				"screen_name": "sjjphd",
+				"location": "Boston",
+				"description": "Professor of Media, Activism, Race, Feminism. 1st book on Black Celebrity Protest. Current book project #HashtagActivism. Also a human with a life and stuff.",
+				"url": "https://t.co/JQg9fu4Bo3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JQg9fu4Bo3",
+								"expanded_url": "https://camd.northeastern.edu/commstudies/people/sarah-jackson/",
+								"display_url": "camd.northeastern.edu/commstudies/pe…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6462,
+				"friends_count": 1152,
+				"listed_count": 292,
+				"created_at": "Wed Jan 12 03:37:18 +0000 2011",
+				"favourites_count": 3012,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14220,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/193307106/gorg.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/193307106/gorg.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/723339963979296769/tfd-E602_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/723339963979296769/tfd-E602_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/237119773/1353942808",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 903713613550153700,
+			"quoted_status_id_str": "903713613550153729",
+			"quoted_status": {
+				"created_at": "Fri Sep 01 20:18:10 +0000 2017",
+				"id": 903713613550153700,
+				"id_str": "903713613550153729",
+				"text": "My friend is a history teacher. She's compiling a list of great historical figures and she needs a male to add to the list. Suggestions?",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3266848870,
+					"id_str": "3266848870",
+					"name": "manwhohasitall",
+					"screen_name": "manwhohasitall",
+					"location": "",
+					"description": "Male author and man writer. Agent: Sarah Ballard https://t.co/eNxb2QXxdY",
+					"url": "https://t.co/U9wGdhGskv",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/U9wGdhGskv",
+									"expanded_url": "https://www.amazon.co.uk/Frazzled-Fabulous-fatherhood-successful-looking/dp/0593077865",
+									"display_url": "amazon.co.uk/Frazzled-Fabul…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/eNxb2QXxdY",
+									"expanded_url": "http://www.unitedagents.co.uk/sballardunitedagentscouk",
+									"display_url": "unitedagents.co.uk/sballardunited…",
+									"indices": [
+										49,
+										72
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 166316,
+					"friends_count": 655,
+					"listed_count": 1019,
+					"created_at": "Sun May 17 10:53:39 +0000 2015",
+					"favourites_count": 20556,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 6738,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/655681829794639872/RKDR0xqV_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/655681829794639872/RKDR0xqV_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3266848870/1476952518",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7420,
+				"favorite_count": 24463,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 5273,
+			"favorite_count": 9039,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 903713613550153700,
+		"quoted_status_id_str": "903713613550153729",
+		"retweet_count": 5273,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 02 12:32:54 +0000 2017",
+		"id": 903958914093469700,
+		"id_str": "903958914093469696",
+		"text": "@manwhohasitall Has anyone mentioned Mary Wollstonecraft's husband/Mary Shelley's dad. His novels are kind of cute.… https://t.co/W3474TnP9b",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "manwhohasitall",
+					"name": "manwhohasitall",
+					"id": 3266848870,
+					"id_str": "3266848870",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/W3474TnP9b",
+					"expanded_url": "https://twitter.com/i/web/status/903958914093469696",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 903713613550153700,
+		"in_reply_to_status_id_str": "903713613550153729",
+		"in_reply_to_user_id": 3266848870,
+		"in_reply_to_user_id_str": "3266848870",
+		"in_reply_to_screen_name": "manwhohasitall",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 920,
+			"listed_count": 104,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3314,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7150,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 02 02:33:32 +0000 2017",
+		"id": 903808077501214700,
+		"id_str": "903808077501214721",
+		"text": "RT @rachelshelden: Looking forward to this conversation with @thinking4achang @DanDrdan80 and Janet Ward! https://t.co/LbpOizAQ4R",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rachelshelden",
+					"name": "Rachel Shelden",
+					"id": 148368603,
+					"id_str": "148368603",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "thinking4achang",
+					"name": "Dr. Karlos K. Hill",
+					"id": 1024183224,
+					"id_str": "1024183224",
+					"indices": [
+						61,
+						77
+					]
+				},
+				{
+					"screen_name": "DanDrdan80",
+					"name": "Dan Snell",
+					"id": 766460300,
+					"id_str": "766460300",
+					"indices": [
+						78,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LbpOizAQ4R",
+					"expanded_url": "https://twitter.com/OUHistDept/status/903644735495122945",
+					"display_url": "twitter.com/OUHistDept/sta…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844,
+			"friends_count": 920,
+			"listed_count": 104,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3314,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7150,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 01 16:25:34 +0000 2017",
+			"id": 903655079223459800,
+			"id_str": "903655079223459844",
+			"text": "Looking forward to this conversation with @thinking4achang @DanDrdan80 and Janet Ward! https://t.co/LbpOizAQ4R",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thinking4achang",
+						"name": "Dr. Karlos K. Hill",
+						"id": 1024183224,
+						"id_str": "1024183224",
+						"indices": [
+							42,
+							58
+						]
+					},
+					{
+						"screen_name": "DanDrdan80",
+						"name": "Dan Snell",
+						"id": 766460300,
+						"id_str": "766460300",
+						"indices": [
+							59,
+							70
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LbpOizAQ4R",
+						"expanded_url": "https://twitter.com/OUHistDept/status/903644735495122945",
+						"display_url": "twitter.com/OUHistDept/sta…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 148368603,
+				"id_str": "148368603",
+				"name": "Rachel Shelden",
+				"screen_name": "rachelshelden",
+				"location": "Norman, OK",
+				"description": "Historian of 19th-century American politics, slavery, & law at Univ of Oklahoma. Book Review Ed @JCWE1 Author of Washington Brotherhood: http://t.co/j7PRkQbxyT",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/j7PRkQbxyT",
+								"expanded_url": "http://uncpress.unc.edu/books/12094.html",
+								"display_url": "uncpress.unc.edu/books/12094.ht…",
+								"indices": [
+									137,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3074,
+				"friends_count": 1124,
+				"listed_count": 83,
+				"created_at": "Wed May 26 14:36:17 +0000 2010",
+				"favourites_count": 4365,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3265,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3560211118/c0de7f131314e5a36dc93e64d4051f39_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3560211118/c0de7f131314e5a36dc93e64d4051f39_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/148368603/1373064108",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 903644735495123000,
+			"quoted_status_id_str": "903644735495122945",
+			"quoted_status": {
+				"created_at": "Fri Sep 01 15:44:28 +0000 2017",
+				"id": 903644735495123000,
+				"id_str": "903644735495122945",
+				"text": "Make plans to join us for a panel discussion on #RobertELee and #monuments on Sept. 12! #CivilWar #twitterstorians https://t.co/E1foAJJSoI",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "RobertELee",
+							"indices": [
+								48,
+								59
+							]
+						},
+						{
+							"text": "monuments",
+							"indices": [
+								64,
+								74
+							]
+						},
+						{
+							"text": "CivilWar",
+							"indices": [
+								88,
+								97
+							]
+						},
+						{
+							"text": "twitterstorians",
+							"indices": [
+								98,
+								114
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 903644720097722400,
+							"id_str": "903644720097722368",
+							"indices": [
+								115,
+								138
+							],
+							"media_url": "http://pbs.twimg.com/media/DIpkFdCVAAABZoq.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DIpkFdCVAAABZoq.jpg",
+							"url": "https://t.co/E1foAJJSoI",
+							"display_url": "pic.twitter.com/E1foAJJSoI",
+							"expanded_url": "https://twitter.com/OUHistDept/status/903644735495122945/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 515,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 771,
+									"h": 1019,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 771,
+									"h": 1019,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 903644720097722400,
+							"id_str": "903644720097722368",
+							"indices": [
+								115,
+								138
+							],
+							"media_url": "http://pbs.twimg.com/media/DIpkFdCVAAABZoq.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DIpkFdCVAAABZoq.jpg",
+							"url": "https://t.co/E1foAJJSoI",
+							"display_url": "pic.twitter.com/E1foAJJSoI",
+							"expanded_url": "https://twitter.com/OUHistDept/status/903644735495122945/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 515,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 771,
+									"h": 1019,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 771,
+									"h": 1019,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 770293085771210800,
+					"id_str": "770293085771210752",
+					"name": "OU History Dept.",
+					"screen_name": "OUHistDept",
+					"location": "Norman, OK",
+					"description": "We offer premier programs in History of the American West, Native American History, Latin American History, and Environmental History.",
+					"url": "https://t.co/acBbQnRM6m",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/acBbQnRM6m",
+									"expanded_url": "http://history.ou.edu/",
+									"display_url": "history.ou.edu",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 378,
+					"friends_count": 346,
+					"listed_count": 8,
+					"created_at": "Mon Aug 29 16:12:37 +0000 2016",
+					"favourites_count": 1732,
+					"utc_offset": -18000,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 683,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/770299458911252480/yKTa6eJU_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/770299458911252480/yKTa6eJU_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/770293085771210752/1490795237",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 11,
+				"favorite_count": 8,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 6,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 903644735495123000,
+		"quoted_status_id_str": "903644735495122945",
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Sep 01 23:41:05 +0000 2017",
 		"id": 903764679750770700,
 		"id_str": "903764679750770688",
