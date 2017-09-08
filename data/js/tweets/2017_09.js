@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 07 04:29:34 +0000 2017",
+		"id": 905649217103900700,
+		"id_str": "905649217103900672",
+		"text": "RT @upulie: Bad take. Not teaching scientists + community abt history of eugenics, racism &amp; experimentation on PoC is whitewashing, not rem…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "upulie",
+					"name": "Tetraquark Meson",
+					"id": 187518287,
+					"id_str": "187518287",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 923,
+			"listed_count": 105,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3332,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7187,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 06 22:11:53 +0000 2017",
+			"id": 905554171851452400,
+			"id_str": "905554171851452416",
+			"text": "Bad take. Not teaching scientists + community abt history of eugenics, racism &amp; experimentation on PoC is whitewash… https://t.co/KmNXzq1c9Z",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KmNXzq1c9Z",
+						"expanded_url": "https://twitter.com/i/web/status/905554171851452416",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 187518287,
+				"id_str": "187518287",
+				"name": "Tetraquark Meson 🌈",
+				"screen_name": "upulie",
+				"location": "Naarm",
+				"description": "Scientist | Space | Astropalaeontology | Co-founder, @realscientists | Dinosaur Evangelist | Science poetry and feelings |",
+				"url": "https://t.co/InhGZnRGV5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/InhGZnRGV5",
+								"expanded_url": "http://tinyletter.com/upulie",
+								"display_url": "tinyletter.com/upulie",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22152,
+				"friends_count": 4472,
+				"listed_count": 843,
+				"created_at": "Mon Sep 06 13:20:04 +0000 2010",
+				"favourites_count": 127546,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 332435,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433806762672521216/FQG-SoUE.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433806762672521216/FQG-SoUE.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874771431724261377/tDmFs3qk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874771431724261377/tDmFs3qk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/187518287/1431328660",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 905385137302536200,
+			"quoted_status_id_str": "905385137302536193",
+			"quoted_status": {
+				"created_at": "Wed Sep 06 11:00:12 +0000 2017",
+				"id": 905385137302536200,
+				"id_str": "905385137302536193",
+				"text": "Removing statues of historical figures risks whitewashing history: https://t.co/bfjPlIW9ck #NaturesTake https://t.co/WW2KOrS1Ai",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "NaturesTake",
+							"indices": [
+								91,
+								103
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/bfjPlIW9ck",
+							"expanded_url": "http://go.nature.com/2w6g2fG",
+							"display_url": "go.nature.com/2w6g2fG",
+							"indices": [
+								67,
+								90
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 905385134873952300,
+							"id_str": "905385134873952256",
+							"indices": [
+								104,
+								127
+							],
+							"media_url": "http://pbs.twimg.com/media/DJCS-7UUwAAdNyu.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DJCS-7UUwAAdNyu.jpg",
+							"url": "https://t.co/WW2KOrS1Ai",
+							"display_url": "pic.twitter.com/WW2KOrS1Ai",
+							"expanded_url": "https://twitter.com/NatureNews/status/905385137302536193/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1066,
+									"h": 600,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1066,
+									"h": 600,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 905385134873952300,
+							"id_str": "905385134873952256",
+							"indices": [
+								104,
+								127
+							],
+							"media_url": "http://pbs.twimg.com/media/DJCS-7UUwAAdNyu.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DJCS-7UUwAAdNyu.jpg",
+							"url": "https://t.co/WW2KOrS1Ai",
+							"display_url": "pic.twitter.com/WW2KOrS1Ai",
+							"expanded_url": "https://twitter.com/NatureNews/status/905385137302536193/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1066,
+									"h": 600,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1066,
+									"h": 600,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://www.spredfast.com\" rel=\"nofollow\">Spredfast app</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 15862891,
+					"id_str": "15862891",
+					"name": "Nature News&Comment",
+					"screen_name": "NatureNews",
+					"location": "Worldwide",
+					"description": "Science news & opinion from the news team at Nature, the international journal of #science. Get our daily newsletter: https://t.co/NEbCVCZW5O",
+					"url": "https://t.co/SE3ZUng5ut",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/SE3ZUng5ut",
+									"expanded_url": "http://www.nature.com/news",
+									"display_url": "nature.com/news",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/NEbCVCZW5O",
+									"expanded_url": "http://go.nature.com/dailynews",
+									"display_url": "go.nature.com/dailynews",
+									"indices": [
+										118,
+										141
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 1826176,
+					"friends_count": 3687,
+					"listed_count": 18994,
+					"created_at": "Fri Aug 15 13:39:58 +0000 2008",
+					"favourites_count": 1167,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 45803,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "A61919",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/39594489/nn_twitter_bg2.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/39594489/nn_twitter_bg2.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1158019862/nature-header.ed_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158019862/nature-header.ed_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/15862891/1416999309",
+					"profile_link_color": "DF1F1F",
+					"profile_sidebar_border_color": "D1D1D1",
+					"profile_sidebar_fill_color": "F0F0F0",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 21,
+				"favorite_count": 58,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 297,
+			"favorite_count": 617,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 905385137302536200,
+		"quoted_status_id_str": "905385137302536193",
+		"retweet_count": 297,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 06 15:52:19 +0000 2017",
 		"id": 905458651556663300,
 		"id_str": "905458651556663298",
