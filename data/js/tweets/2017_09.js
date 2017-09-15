@@ -1,6 +1,1326 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 14 21:28:34 +0000 2017",
+		"id": 908442374157869000,
+		"id_str": "908442374157869057",
+		"text": "RT @ReggieMillerTNT: I'm on Team @jemelehill...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReggieMillerTNT",
+					"name": "Reggie Miller",
+					"id": 198560066,
+					"id_str": "198560066",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "jemelehill",
+					"name": "Jemele Hill",
+					"id": 35586563,
+					"id_str": "35586563",
+					"indices": [
+						33,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 925,
+			"listed_count": 107,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3353,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 13 06:24:53 +0000 2017",
+			"id": 907852567950102500,
+			"id_str": "907852567950102528",
+			"text": "I'm on Team @jemelehill...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jemelehill",
+						"name": "Jemele Hill",
+						"id": 35586563,
+						"id_str": "35586563",
+						"indices": [
+							12,
+							23
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 198560066,
+				"id_str": "198560066",
+				"name": "Reggie Miller",
+				"screen_name": "ReggieMillerTNT",
+				"location": "",
+				"description": "18-year NBA vet, best known for 3-pointers and trash talking. Currently a game analyst for TNT's Thurs. night doubleheaders. HOF 2012. IG: @ReggieMillerTNT",
+				"url": "https://t.co/REifv4SpwS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/REifv4SpwS",
+								"expanded_url": "https://store.castelli-us.com/collections/all",
+								"display_url": "store.castelli-us.com/collections/all",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 815702,
+				"friends_count": 258,
+				"listed_count": 4203,
+				"created_at": "Mon Oct 04 16:52:03 +0000 2010",
+				"favourites_count": 35,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5131,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/697245562/72e69ae384827a36310625e34635390b.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/697245562/72e69ae384827a36310625e34635390b.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3336677293/4282e7607066e3f19649eee5e7e7f506_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3336677293/4282e7607066e3f19649eee5e7e7f506_normal.jpeg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6556,
+			"favorite_count": 14318,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6556,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 14 17:06:02 +0000 2017",
+		"id": 908376304696877000,
+		"id_str": "908376304696877056",
+		"text": "RT @bhgross144: Today's lunch #histSTM read: @FiveThirtyEight presents another ode to @CassiniSaturn from the inimitable @rboyle31! https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "histSTM",
+					"indices": [
+						30,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bhgross144",
+					"name": "Ben Gross",
+					"id": 2419565479,
+					"id_str": "2419565479",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "FiveThirtyEight",
+					"name": "FiveThirtyEight",
+					"id": 2303751216,
+					"id_str": "2303751216",
+					"indices": [
+						45,
+						61
+					]
+				},
+				{
+					"screen_name": "CassiniSaturn",
+					"name": "CassiniSaturn",
+					"id": 15165493,
+					"id_str": "15165493",
+					"indices": [
+						86,
+						100
+					]
+				},
+				{
+					"screen_name": "rboyle31",
+					"name": "Rebecca Boyle",
+					"id": 17093768,
+					"id_str": "17093768",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 925,
+			"listed_count": 107,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3353,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 14 17:05:50 +0000 2017",
+			"id": 908376254151356400,
+			"id_str": "908376254151356416",
+			"text": "Today's lunch #histSTM read: @FiveThirtyEight presents another ode to @CassiniSaturn from the inimitable @rboyle31! https://t.co/58qRfvnnop",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "histSTM",
+						"indices": [
+							14,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FiveThirtyEight",
+						"name": "FiveThirtyEight",
+						"id": 2303751216,
+						"id_str": "2303751216",
+						"indices": [
+							29,
+							45
+						]
+					},
+					{
+						"screen_name": "CassiniSaturn",
+						"name": "CassiniSaturn",
+						"id": 15165493,
+						"id_str": "15165493",
+						"indices": [
+							70,
+							84
+						]
+					},
+					{
+						"screen_name": "rboyle31",
+						"name": "Rebecca Boyle",
+						"id": 17093768,
+						"id_str": "17093768",
+						"indices": [
+							105,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/58qRfvnnop",
+						"expanded_url": "https://fivethirtyeight.com/features/goodbye-saturn-it-was-nice-seeing-you/",
+						"display_url": "fivethirtyeight.com/features/goodb…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2419565479,
+				"id_str": "2419565479",
+				"name": "Ben Gross",
+				"screen_name": "bhgross144",
+				"location": "Kansas City, MO",
+				"description": "Associate VP for Collections @LindaHall_org (Formerly of @ChemHeritage & @TCNJSarnoff); All tweets my own.\n\n[#histSTM=History of science, technology & medicine]",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2377,
+				"friends_count": 2063,
+				"listed_count": 309,
+				"created_at": "Sun Mar 30 21:42:00 +0000 2014",
+				"favourites_count": 14028,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23390,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/450388981193003008/J0BEaoYc_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/450388981193003008/J0BEaoYc_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2419565479/1396216463",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 14 17:02:05 +0000 2017",
+		"id": 908375311049519100,
+		"id_str": "908375311049519104",
+		"text": "Journalist from Mexico denied entry to U.S. for a conference on journalism across borders https://t.co/afNT6Ltpqo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/afNT6Ltpqo",
+					"expanded_url": "https://www.cbsnews.com/news/martin-mendez-pineda-mexican-journalist-denied-entry-united-states-press-event/",
+					"display_url": "cbsnews.com/news/martin-me…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 925,
+			"listed_count": 107,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3353,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 14 15:12:36 +0000 2017",
+		"id": 908347757286576100,
+		"id_str": "908347757286576129",
+		"text": "RT @smkybentley: Incredibly fun #scifi @twinethreads game. Corrupt Information Age democracy on planet Bounty. #seedshipgame https://t.co/X…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "scifi",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "seedshipgame",
+					"indices": [
+						111,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "smkybentley",
+					"name": "Andrew C. Bentley",
+					"id": 906593638658035700,
+					"id_str": "906593638658035713",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "twinethreads",
+					"name": "Twine",
+					"id": 1342166828,
+					"id_str": "1342166828",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 925,
+			"listed_count": 107,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3353,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 14 15:12:22 +0000 2017",
+			"id": 908347700474794000,
+			"id_str": "908347700474793986",
+			"text": "Incredibly fun #scifi @twinethreads game. Corrupt Information Age democracy on planet Bounty. #seedshipgame https://t.co/XHe2DB3CDU",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "scifi",
+						"indices": [
+							15,
+							21
+						]
+					},
+					{
+						"text": "seedshipgame",
+						"indices": [
+							94,
+							107
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "twinethreads",
+						"name": "Twine",
+						"id": 1342166828,
+						"id_str": "1342166828",
+						"indices": [
+							22,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XHe2DB3CDU",
+						"expanded_url": "https://www.johnayliff.com/games/seedship/index.html?mmcOrj.0.Bounty.690.658.-1.9.14.1000.980",
+						"display_url": "johnayliff.com/games/seedship…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906593638658035700,
+				"id_str": "906593638658035713",
+				"name": "Andrew C. Bentley",
+				"screen_name": "smkybentley",
+				"location": "Oklahoma, USA",
+				"description": "#SocialWorker, #Queer #Scientist & #Seeker. Interests: Social Systems, communities, Sex Workers, #LGBTQ, & #HigherEd. They/Them Pronouns. Opinions are my own.",
+				"url": "https://t.co/pIODXKMl3U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pIODXKMl3U",
+								"expanded_url": "http://andrewcbentley.org",
+								"display_url": "andrewcbentley.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22,
+				"friends_count": 111,
+				"listed_count": 1,
+				"created_at": "Sat Sep 09 19:02:21 +0000 2017",
+				"favourites_count": 49,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906607426656284672/dzODMklu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906607426656284672/dzODMklu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/906593638658035713/1504987205",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 14 14:19:30 +0000 2017",
+		"id": 908334395873996800,
+		"id_str": "908334395873996801",
+		"text": "RT @RyanLizza: Everyone is confused https://t.co/xr0s6sshzL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RyanLizza",
+					"name": "Ryan Lizza",
+					"id": 80617430,
+					"id_str": "80617430",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 908319356957970400,
+					"id_str": "908319356957970433",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DJr_pIYXUAE-8g3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJr_pIYXUAE-8g3.jpg",
+					"url": "https://t.co/xr0s6sshzL",
+					"display_url": "pic.twitter.com/xr0s6sshzL",
+					"expanded_url": "https://twitter.com/RyanLizza/status/908319360808353793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 1006,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 1006,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908319360808353800,
+					"source_status_id_str": "908319360808353793",
+					"source_user_id": 80617430,
+					"source_user_id_str": "80617430"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 908319356957970400,
+					"id_str": "908319356957970433",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DJr_pIYXUAE-8g3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJr_pIYXUAE-8g3.jpg",
+					"url": "https://t.co/xr0s6sshzL",
+					"display_url": "pic.twitter.com/xr0s6sshzL",
+					"expanded_url": "https://twitter.com/RyanLizza/status/908319360808353793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 1006,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 1006,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908319360808353800,
+					"source_status_id_str": "908319360808353793",
+					"source_user_id": 80617430,
+					"source_user_id_str": "80617430"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 925,
+			"listed_count": 107,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3353,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 14 13:19:46 +0000 2017",
+			"id": 908319360808353800,
+			"id_str": "908319360808353793",
+			"text": "Everyone is confused https://t.co/xr0s6sshzL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 908319356957970400,
+						"id_str": "908319356957970433",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/DJr_pIYXUAE-8g3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJr_pIYXUAE-8g3.jpg",
+						"url": "https://t.co/xr0s6sshzL",
+						"display_url": "pic.twitter.com/xr0s6sshzL",
+						"expanded_url": "https://twitter.com/RyanLizza/status/908319360808353793/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 497,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 736,
+								"h": 1006,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 1006,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 908319356957970400,
+						"id_str": "908319356957970433",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/DJr_pIYXUAE-8g3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJr_pIYXUAE-8g3.jpg",
+						"url": "https://t.co/xr0s6sshzL",
+						"display_url": "pic.twitter.com/xr0s6sshzL",
+						"expanded_url": "https://twitter.com/RyanLizza/status/908319360808353793/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 497,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 736,
+								"h": 1006,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 1006,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80617430,
+				"id_str": "80617430",
+				"name": "Ryan Lizza",
+				"screen_name": "RyanLizza",
+				"location": "D.C.",
+				"description": "write for @newyorker, talk on @cnn, teach at @georgetown",
+				"url": "https://t.co/oiHE5jS1Ta",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oiHE5jS1Ta",
+								"expanded_url": "http://nyr.kr/1Czqn26",
+								"display_url": "nyr.kr/1Czqn26",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 203853,
+				"friends_count": 2553,
+				"listed_count": 4436,
+				"created_at": "Wed Oct 07 16:37:10 +0000 2009",
+				"favourites_count": 1263,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16417,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/797240355792056320/ptqZOOgj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/797240355792056320/ptqZOOgj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80617430/1479688592",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 563,
+			"favorite_count": 1756,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 563,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 14 14:07:56 +0000 2017",
+		"id": 908331483139641300,
+		"id_str": "908331483139641351",
+		"text": "@Bali_Maha @KeeganSLW @WikiEducation I will send you an email in a bit. In the meantime, here are 2 blog posts:… https://t.co/6s6ObfBhHp",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi مها بالي",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "WikiEducation",
+					"name": "Wiki Education",
+					"id": 2181109652,
+					"id_str": "2181109652",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6s6ObfBhHp",
+					"expanded_url": "https://twitter.com/i/web/status/908331483139641351",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 908207201147289600,
+		"in_reply_to_status_id_str": "908207201147289600",
+		"in_reply_to_user_id": 1535273520,
+		"in_reply_to_user_id_str": "1535273520",
+		"in_reply_to_screen_name": "Bali_Maha",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 925,
+			"listed_count": 107,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3353,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7220,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 13 19:45:07 +0000 2017",
 		"id": 908053952494755800,
 		"id_str": "908053952494755842",
