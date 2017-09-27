@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Tue Sep 26 01:40:06 +0000 2017",
+		"id": 912491939043430400,
+		"id_str": "912491939043430401",
+		"text": "RT @kumailn: One of the most talented people to ever walk the earth is reduced to \"ungrateful black.\" https://t.co/HPJRB3aqRX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kumailn",
+					"name": "Kumail Nanjiani",
+					"id": 28406270,
+					"id_str": "28406270",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HPJRB3aqRX",
+					"expanded_url": "https://twitter.com/walshfreedom/status/911791417919508480",
+					"display_url": "twitter.com/walshfreedom/s…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 853,
+			"friends_count": 929,
+			"listed_count": 108,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3397,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7263,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 24 16:31:31 +0000 2017",
+			"id": 911991497687478300,
+			"id_str": "911991497687478272",
+			"text": "One of the most talented people to ever walk the earth is reduced to \"ungrateful black.\" https://t.co/HPJRB3aqRX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HPJRB3aqRX",
+						"expanded_url": "https://twitter.com/walshfreedom/status/911791417919508480",
+						"display_url": "twitter.com/walshfreedom/s…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28406270,
+				"id_str": "28406270",
+				"name": "Kumail Nanjiani",
+				"screen_name": "kumailn",
+				"location": "Los Angeles",
+				"description": "My new movie The Big Sick is out NOW! Check pinned tweet for show times/ticket link.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1822340,
+				"friends_count": 2631,
+				"listed_count": 7548,
+				"created_at": "Thu Apr 02 19:56:22 +0000 2009",
+				"favourites_count": 21924,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7870,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/889993263632990208/yztDY-U6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/889993263632990208/yztDY-U6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28406270/1506275487",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 911791417919508500,
+			"quoted_status_id_str": "911791417919508480",
+			"quoted_status": {
+				"created_at": "Sun Sep 24 03:16:28 +0000 2017",
+				"id": 911791417919508500,
+				"id_str": "911791417919508480",
+				"text": "Stevie Wonder takes a knee for the Anthem during a concert.\n\nAnother ungrateful black multi millionaire. https://t.co/bpvuGJXLd7",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/bpvuGJXLd7",
+							"expanded_url": "https://www.mediaite.com/tv/stevie-wonder-takes-a-knee-for-america-during-performance/",
+							"display_url": "mediaite.com/tv/stevie-wond…",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 236487888,
+					"id_str": "236487888",
+					"name": "Joe Walsh",
+					"screen_name": "WalshFreedom",
+					"location": "Chicago ",
+					"description": "Fmr. Congressman. Nationally Syndicated Radio Host. Listen to The Joe Walsh Program: https://t.co/FkESD3vq9h Founding Father of #NoChillFriday",
+					"url": "https://t.co/EAHqpVprrJ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/EAHqpVprrJ",
+									"expanded_url": "http://WalshFreedom.com",
+									"display_url": "WalshFreedom.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/FkESD3vq9h",
+									"expanded_url": "http://walshfreedom.com/listen",
+									"display_url": "walshfreedom.com/listen",
+									"indices": [
+										85,
+										108
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 110524,
+					"friends_count": 19229,
+					"listed_count": 2032,
+					"created_at": "Mon Jan 10 18:11:53 +0000 2011",
+					"favourites_count": 4230,
+					"utc_offset": -18000,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 42180,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000165574064/zQcCOfoU.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000165574064/zQcCOfoU.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/740684176072925184/i3NUKuQN_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/740684176072925184/i3NUKuQN_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/236487888/1465427808",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "F5F8FA",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1330,
+				"favorite_count": 2478,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 24626,
+			"favorite_count": 76796,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 911791417919508500,
+		"quoted_status_id_str": "911791417919508480",
+		"retweet_count": 24626,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Sep 26 01:20:08 +0000 2017",
+		"id": 912486914342735900,
+		"id_str": "912486914342735873",
+		"text": "RT @oudigischolar: Thank you @elotroalex for bringing this to our attention. https://t.co/ipKIyLV36u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oudigischolar",
+					"name": "OU DSL",
+					"id": 2869114788,
+					"id_str": "2869114788",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "elotroalex",
+					"name": "Alex Gil",
+					"id": 91438333,
+					"id_str": "91438333",
+					"indices": [
+						29,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ipKIyLV36u",
+					"expanded_url": "http://tasks.hotosm.org/project/3633",
+					"display_url": "tasks.hotosm.org/project/3633",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 853,
+			"friends_count": 929,
+			"listed_count": 108,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3397,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7263,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 25 16:29:34 +0000 2017",
+			"id": 912353396019142700,
+			"id_str": "912353396019142658",
+			"text": "Thank you @elotroalex for bringing this to our attention. https://t.co/ipKIyLV36u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "elotroalex",
+						"name": "Alex Gil",
+						"id": 91438333,
+						"id_str": "91438333",
+						"indices": [
+							10,
+							21
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ipKIyLV36u",
+						"expanded_url": "http://tasks.hotosm.org/project/3633",
+						"display_url": "tasks.hotosm.org/project/3633",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2869114788,
+				"id_str": "2869114788",
+				"name": "OU DSL",
+				"screen_name": "oudigischolar",
+				"location": "Norman, Oklahoma",
+				"description": "OU Libraries' Digital Scholarship Lab supports innovative research using open source digital tools.",
+				"url": "https://t.co/O3TWPCXVlv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O3TWPCXVlv",
+								"expanded_url": "https://libraries.ou.edu/dsl",
+								"display_url": "libraries.ou.edu/dsl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 125,
+				"friends_count": 95,
+				"listed_count": 5,
+				"created_at": "Tue Oct 21 17:48:23 +0000 2014",
+				"favourites_count": 198,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 348,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844249580380200960/HsCU1pgN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844249580380200960/HsCU1pgN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2869114788/1487699085",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 26 01:17:35 +0000 2017",
 		"id": 912486273880936400,
 		"id_str": "912486273880936449",
