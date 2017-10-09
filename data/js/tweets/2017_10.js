@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sun Oct 08 03:56:12 +0000 2017",
+		"id": 916874847250276400,
+		"id_str": "916874847250276353",
+		"text": "RT @AndreaEger: Teachers who leave Oklahoma make $19,000 more on average, OU researcher finds https://t.co/7CrKt7iKWt via @samhardiman #okl…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AndreaEger",
+					"name": "Andrea Eger",
+					"id": 370793289,
+					"id_str": "370793289",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "samhardiman",
+					"name": "Sam Hardiman",
+					"id": 259331854,
+					"id_str": "259331854",
+					"indices": [
+						122,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7CrKt7iKWt",
+					"expanded_url": "http://www.tulsaworld.com/news/education/teachers-who-leave-oklahoma-make-more-on-average-ou-researcher/article_922ac5ac-842a-5cbd-b313-dfacfb77c4c0.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+					"display_url": "tulsaworld.com/news/education…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 861,
+			"friends_count": 941,
+			"listed_count": 109,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3477,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 08 03:11:32 +0000 2017",
+			"id": 916863606469349400,
+			"id_str": "916863606469349377",
+			"text": "Teachers who leave Oklahoma make $19,000 more on average, OU researcher finds https://t.co/7CrKt7iKWt via… https://t.co/vDaelaUVmY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7CrKt7iKWt",
+						"expanded_url": "http://www.tulsaworld.com/news/education/teachers-who-leave-oklahoma-make-more-on-average-ou-researcher/article_922ac5ac-842a-5cbd-b313-dfacfb77c4c0.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+						"display_url": "tulsaworld.com/news/education…",
+						"indices": [
+							78,
+							101
+						]
+					},
+					{
+						"url": "https://t.co/vDaelaUVmY",
+						"expanded_url": "https://twitter.com/i/web/status/916863606469349377",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 370793289,
+				"id_str": "370793289",
+				"name": "Andrea Eger",
+				"screen_name": "AndreaEger",
+				"location": "Tulsa, OK",
+				"description": "Projects reporter @TulsaWorld Media Company, examining key education topics and other local and state issues.",
+				"url": "http://t.co/AY09efTXLO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AY09efTXLO",
+								"expanded_url": "http://tulsaworld.com/andreaeger",
+								"display_url": "tulsaworld.com/andreaeger",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1897,
+				"friends_count": 988,
+				"listed_count": 58,
+				"created_at": "Fri Sep 09 16:54:57 +0000 2011",
+				"favourites_count": 1169,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3125,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/623997258824990720/Lc0R8qOI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/623997258824990720/Lc0R8qOI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/370793289/1391573458",
+				"profile_link_color": "B30000",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "cb74aaf709812e0f",
+				"url": "https://api.twitter.com/1.1/geo/id/cb74aaf709812e0f.json",
+				"place_type": "city",
+				"name": "Tulsa",
+				"full_name": "Tulsa, OK",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-96.0656278,
+								35.968624
+							],
+							[
+								-95.761656,
+								35.968624
+							],
+							[
+								-95.761656,
+								36.250159
+							],
+							[
+								-96.0656278,
+								36.250159
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 08 03:33:31 +0000 2017",
+		"id": 916869135816065000,
+		"id_str": "916869135816065024",
+		"text": "RT @sullivanamy: More access to contraception hasn't increased teen sexual activity at all over 20 years.\n\nWhat it has done is cut teen pre…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sullivanamy",
+					"name": "Amy Sullivan",
+					"id": 26402448,
+					"id_str": "26402448",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 861,
+			"friends_count": 941,
+			"listed_count": 109,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3477,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 06 15:26:36 +0000 2017",
+			"id": 916323814841122800,
+			"id_str": "916323814841122816",
+			"text": "More access to contraception hasn't increased teen sexual activity at all over 20 years.\n\nWhat it has done is cut t… https://t.co/stspI4tekD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/stspI4tekD",
+						"expanded_url": "https://twitter.com/i/web/status/916323814841122816",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 26402448,
+				"id_str": "26402448",
+				"name": "Amy Sullivan",
+				"screen_name": "sullivanamy",
+				"location": "Chicago, IL",
+				"description": "Alum @YahooNews @TIME @WashMonthly @UMich. Pop, not soda (obviously). Expect politics with a helping of religion and a side of sports.",
+				"url": "https://t.co/NqCNk0S5FQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NqCNk0S5FQ",
+								"expanded_url": "http://sullivanamy.tumblr.com",
+								"display_url": "sullivanamy.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10625,
+				"friends_count": 680,
+				"listed_count": 459,
+				"created_at": "Wed Mar 25 02:19:32 +0000 2009",
+				"favourites_count": 8576,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 26008,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837702238445285376/_koYRqfm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837702238445285376/_koYRqfm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/26402448/1474868067",
+				"profile_link_color": "2987BA",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 916291669301088300,
+			"quoted_status_id_str": "916291669301088256",
+			"quoted_status": {
+				"created_at": "Fri Oct 06 13:18:52 +0000 2017",
+				"id": 916291669301088300,
+				"id_str": "916291669301088256",
+				"text": "The Trump administration's reasoning for ending the birth control mandate is some serious old-school bullshit… https://t.co/ttnG0yb28L",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/ttnG0yb28L",
+							"expanded_url": "https://twitter.com/i/web/status/916291669301088256",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4099171,
+					"id_str": "4099171",
+					"name": "Jessica Valenti",
+					"screen_name": "JessicaValenti",
+					"location": "Brooklyn, NY",
+					"description": "Feminist author, @GuardianUS columnist, @MarieClaire contributing editor. My bitch face never rests.",
+					"url": "https://t.co/HHFmh15izp",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/HHFmh15izp",
+									"expanded_url": "http://jessicavalenti.com",
+									"display_url": "jessicavalenti.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 191324,
+					"friends_count": 1205,
+					"listed_count": 4279,
+					"created_at": "Wed Apr 11 00:45:08 +0000 2007",
+					"favourites_count": 20373,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 33936,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "B0A6B0",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000022435908/a436eab8d2c072ea0bcc8b92ac00257c.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000022435908/a436eab8d2c072ea0bcc8b92ac00257c.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/913512069487501312/vUPlIAho_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/913512069487501312/vUPlIAho_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4099171/1488302594",
+					"profile_link_color": "FF006E",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F0FDF9",
+					"profile_text_color": "735DB9",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1566,
+				"favorite_count": 2251,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 18540,
+			"favorite_count": 35646,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 916291669301088300,
+		"quoted_status_id_str": "916291669301088256",
+		"retweet_count": 18540,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 07 16:45:49 +0000 2017",
 		"id": 916706137571037200,
 		"id_str": "916706137571037185",
