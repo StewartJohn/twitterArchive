@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sat Oct 14 21:52:35 +0000 2017",
+		"id": 919320053245296600,
+		"id_str": "919320053245296640",
+		"text": "This horrible bigot is a bigot on many fronts. Who’d have guessed? #intersectionality https://t.co/cpVcQOXrbv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "intersectionality",
+					"indices": [
+						67,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cpVcQOXrbv",
+					"expanded_url": "https://twitter.com/hypervocal/status/919307125729447942",
+					"display_url": "twitter.com/hypervocal/sta…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 871,
+			"friends_count": 944,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3499,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7407,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 919307125729448000,
+		"quoted_status_id_str": "919307125729447942",
+		"quoted_status": {
+			"created_at": "Sat Oct 14 21:01:13 +0000 2017",
+			"id": 919307125729448000,
+			"id_str": "919307125729447942",
+			"text": "Alt-Right leader Richard Spencer isnt sure if women should be allowed to vote https://t.co/6KqHRoHrHt https://t.co/7ESk1Zn2Yc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6KqHRoHrHt",
+						"expanded_url": "http://bit.ly/2zoiLUA",
+						"display_url": "bit.ly/2zoiLUA",
+						"indices": [
+							78,
+							101
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 919307123237855200,
+						"id_str": "919307123237855232",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DMII9TgUIAA3AtM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMII9TgUIAA3AtM.jpg",
+						"url": "https://t.co/7ESk1Zn2Yc",
+						"display_url": "pic.twitter.com/7ESk1Zn2Yc",
+						"expanded_url": "https://twitter.com/hypervocal/status/919307125729447942/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 919307123237855200,
+						"id_str": "919307123237855232",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DMII9TgUIAA3AtM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMII9TgUIAA3AtM.jpg",
+						"url": "https://t.co/7ESk1Zn2Yc",
+						"display_url": "pic.twitter.com/7ESk1Zn2Yc",
+						"expanded_url": "https://twitter.com/hypervocal/status/919307125729447942/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twibble.io\" rel=\"nofollow\">Twibble.io</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135676285,
+				"id_str": "135676285",
+				"name": "hypervocal",
+				"screen_name": "hypervocal",
+				"location": "",
+				"description": "Trending Internet News. Purveyors of the vital & the viral. Tweets are automated based on the headlines/links that are trending among category-based influencers",
+				"url": "http://t.co/xvIZJxhAPF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xvIZJxhAPF",
+								"expanded_url": "http://www.hypervocal.com",
+								"display_url": "hypervocal.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4732,
+				"friends_count": 860,
+				"listed_count": 282,
+				"created_at": "Thu Apr 22 00:12:52 +0000 2010",
+				"favourites_count": 424,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 133858,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "676873",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/689521214/8b7adbb414957f914ccbf87d55b24cf8.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/689521214/8b7adbb414957f914ccbf87d55b24cf8.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/901389723545063424/ty5YwerL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/901389723545063424/ty5YwerL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/135676285/1503743007",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Oct 14 04:21:30 +0000 2017",
+		"id": 919055540524793900,
+		"id_str": "919055540524793857",
+		"text": "@dr_jdean @KeeganSLW Thanks for the shout out. Was there a context for this or just a passing thought?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dr_jdean",
+					"name": "(((Dr. Dean)))",
+					"id": 739521654,
+					"id_str": "739521654",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 918936376673935400,
+		"in_reply_to_status_id_str": "918936376673935360",
+		"in_reply_to_user_id": 739521654,
+		"in_reply_to_user_id_str": "739521654",
+		"in_reply_to_screen_name": "dr_jdean",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 871,
+			"friends_count": 944,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3499,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7407,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 13 23:32:11 +0000 2017",
 		"id": 918982729332428800,
 		"id_str": "918982729332428800",
