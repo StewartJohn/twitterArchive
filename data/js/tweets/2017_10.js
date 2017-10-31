@@ -1,6 +1,598 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 30 23:04:32 +0000 2017",
+		"id": 925136368031977500,
+		"id_str": "925136368031977473",
+		"text": "RT @ProgHist: Create an @omeka exhibit using your content with this tutorial from @miriamkp and @magpie - https://t.co/O3flV20pKV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProgHist",
+					"name": "ProgrammingHistorian",
+					"id": 607602141,
+					"id_str": "607602141",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "omeka",
+					"name": "Omeka",
+					"id": 9785862,
+					"id_str": "9785862",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"screen_name": "miriamkp",
+					"name": "Miriam Posner",
+					"id": 56812711,
+					"id_str": "56812711",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"screen_name": "magpie",
+					"name": "Megan Brett",
+					"id": 2953551,
+					"id_str": "2953551",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O3flV20pKV",
+					"expanded_url": "http://programminghistorian.org/lessons/creating-an-omeka-exhibit",
+					"display_url": "programminghistorian.org/lessons/creati…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 875,
+			"friends_count": 950,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3570,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7535,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 30 16:00:46 +0000 2017",
+			"id": 925029721510961200,
+			"id_str": "925029721510961153",
+			"text": "Create an @omeka exhibit using your content with this tutorial from @miriamkp and @magpie - https://t.co/O3flV20pKV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "omeka",
+						"name": "Omeka",
+						"id": 9785862,
+						"id_str": "9785862",
+						"indices": [
+							10,
+							16
+						]
+					},
+					{
+						"screen_name": "miriamkp",
+						"name": "Miriam Posner",
+						"id": 56812711,
+						"id_str": "56812711",
+						"indices": [
+							68,
+							77
+						]
+					},
+					{
+						"screen_name": "magpie",
+						"name": "Megan Brett",
+						"id": 2953551,
+						"id_str": "2953551",
+						"indices": [
+							82,
+							89
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/O3flV20pKV",
+						"expanded_url": "http://programminghistorian.org/lessons/creating-an-omeka-exhibit",
+						"display_url": "programminghistorian.org/lessons/creati…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://programminghistorian.org\" rel=\"nofollow\">proghistbot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 607602141,
+				"id_str": "607602141",
+				"name": "ProgrammingHistorian",
+				"screen_name": "ProgHist",
+				"location": "",
+				"description": "The Programming Historian is the world's flagship source for learning and teaching digital research methods \n| Open Access | Peer Reviewed | Submissions Welcome",
+				"url": "http://t.co/HmEAYfR4MY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HmEAYfR4MY",
+								"expanded_url": "http://programminghistorian.org/",
+								"display_url": "programminghistorian.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3672,
+				"friends_count": 294,
+				"listed_count": 155,
+				"created_at": "Wed Jun 13 20:22:56 +0000 2012",
+				"favourites_count": 263,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 812,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/499241887421587456/g_RD-Nnt_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/499241887421587456/g_RD-Nnt_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 30 22:27:31 +0000 2017",
+		"id": 925127048653430800,
+		"id_str": "925127048653430786",
+		"text": "RT @sclayton29: Love that you can sort by format, topic, and level! https://t.co/kuOmRS5tEN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sclayton29",
+					"name": "Sarah Clayton",
+					"id": 139928649,
+					"id_str": "139928649",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kuOmRS5tEN",
+					"expanded_url": "https://twitter.com/WomenWhoCode/status/925112670688366592",
+					"display_url": "twitter.com/WomenWhoCode/s…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 875,
+			"friends_count": 950,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3570,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7535,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 30 21:44:10 +0000 2017",
+			"id": 925116139511967700,
+			"id_str": "925116139511967749",
+			"text": "Love that you can sort by format, topic, and level! https://t.co/kuOmRS5tEN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kuOmRS5tEN",
+						"expanded_url": "https://twitter.com/WomenWhoCode/status/925112670688366592",
+						"display_url": "twitter.com/WomenWhoCode/s…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139928649,
+				"id_str": "139928649",
+				"name": "Sarah Clayton",
+				"screen_name": "sclayton29",
+				"location": "Norman, OK",
+				"description": "Digital Scholarship Specialist @OU_Libraries \nthoughts/views/opinions are my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 210,
+				"friends_count": 315,
+				"listed_count": 5,
+				"created_at": "Tue May 04 02:34:04 +0000 2010",
+				"favourites_count": 189,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 278,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/842380966446342145/5l_7Gu9d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/842380966446342145/5l_7Gu9d_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 925112670688366600,
+			"quoted_status_id_str": "925112670688366592",
+			"quoted_status": {
+				"created_at": "Mon Oct 30 21:30:23 +0000 2017",
+				"id": 925112670688366600,
+				"id_str": "925112670688366592",
+				"text": "Explore our list of resources for learning new programming languages https://t.co/kdYwpVkPDP #javascript #node and more.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "javascript",
+							"indices": [
+								93,
+								104
+							]
+						},
+						{
+							"text": "node",
+							"indices": [
+								105,
+								110
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/kdYwpVkPDP",
+							"expanded_url": "https://www.womenwhocode.com/resources",
+							"display_url": "womenwhocode.com/resources",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 345673106,
+					"id_str": "345673106",
+					"name": "Women Who Code",
+					"screen_name": "WomenWhoCode",
+					"location": "San Francisco, CA",
+					"description": "We are a 501(c)(3) non-profit dedicated to inspiring women to excel in technology careers. 100,000 members strong in 60 cities spanning 20 countries & counting",
+					"url": "http://t.co/A4EDlUjaNW",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/A4EDlUjaNW",
+									"expanded_url": "http://womenwhocode.com",
+									"display_url": "womenwhocode.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 151942,
+					"friends_count": 2506,
+					"listed_count": 2731,
+					"created_at": "Sun Jul 31 00:22:03 +0000 2011",
+					"favourites_count": 6766,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 7259,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "99E1DD",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000040863316/d88aa796b7c9451ab8b3a406ab97c7fb.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000040863316/d88aa796b7c9451ab8b3a406ab97c7fb.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/673931225111769088/ucgFhSLs_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/673931225111769088/ucgFhSLs_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/345673106/1421726508",
+					"profile_link_color": "00B6AA",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 25,
+				"favorite_count": 56,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 925112670688366600,
+		"quoted_status_id_str": "925112670688366592",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 30 00:15:09 +0000 2017",
 		"id": 924791751323287600,
 		"id_str": "924791751323287556",
