@@ -1,6 +1,468 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 03 00:10:14 +0000 2017",
+		"id": 926240064140607500,
+		"id_str": "926240064140607488",
+		"text": "RT @Melli75: PhD students Eric Sourie, Sara Doolittle, Jennifer Johnson presenting on early history of education in Oklahoma. @oueducation…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Melli75",
+					"name": "Melli Velazquez",
+					"id": 29346675,
+					"id_str": "29346675",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "oueducation",
+					"name": "oueducation",
+					"id": 15946481,
+					"id_str": "15946481",
+					"indices": [
+						126,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 876,
+			"friends_count": 950,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3583,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7559,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 02 19:54:22 +0000 2017",
+			"id": 926175670706884600,
+			"id_str": "926175670706884611",
+			"text": "PhD students Eric Sourie, Sara Doolittle, Jennifer Johnson presenting on early history of education in Oklahoma.… https://t.co/jzx9ANXzUS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jzx9ANXzUS",
+						"expanded_url": "https://twitter.com/i/web/status/926175670706884611",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29346675,
+				"id_str": "29346675",
+				"name": "Melli Velazquez",
+				"screen_name": "Melli75",
+				"location": "Midwest.",
+				"description": "La Maestra Cachetona. Profesora Boricua. Somewhere. History of Education, Latina/o Studies, Puerto Rican Studies.  #histed #wmnhist",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 461,
+				"friends_count": 804,
+				"listed_count": 12,
+				"created_at": "Tue Apr 07 01:34:57 +0000 2009",
+				"favourites_count": 6335,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4962,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767768441667276800/8Gyj_hQu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767768441667276800/8Gyj_hQu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29346675/1472063171",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 02 13:28:39 +0000 2017",
+		"id": 926078602961195000,
+		"id_str": "926078602961195009",
+		"text": "RT @DanicaSavonick: Working on digital pedagogy? Submit to the @JITPedagogy general issue by November 15 @HASTAC @HASTACscholars https://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DanicaSavonick",
+					"name": "Danica Savonick",
+					"id": 2225301985,
+					"id_str": "2225301985",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "JITPedagogy",
+					"name": "JITP",
+					"id": 510505124,
+					"id_str": "510505124",
+					"indices": [
+						63,
+						75
+					]
+				},
+				{
+					"screen_name": "HASTAC",
+					"name": "HASTAC",
+					"id": 34607715,
+					"id_str": "34607715",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"screen_name": "HASTACscholars",
+					"name": "HASTAC Scholars",
+					"id": 91616458,
+					"id_str": "91616458",
+					"indices": [
+						113,
+						128
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 876,
+			"friends_count": 950,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3583,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7559,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 30 21:03:14 +0000 2017",
+			"id": 925105841203810300,
+			"id_str": "925105841203810304",
+			"text": "Working on digital pedagogy? Submit to the @JITPedagogy general issue by November 15 @HASTAC @HASTACscholars https://t.co/NqlgVBcIJX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JITPedagogy",
+						"name": "JITP",
+						"id": 510505124,
+						"id_str": "510505124",
+						"indices": [
+							43,
+							55
+						]
+					},
+					{
+						"screen_name": "HASTAC",
+						"name": "HASTAC",
+						"id": 34607715,
+						"id_str": "34607715",
+						"indices": [
+							85,
+							92
+						]
+					},
+					{
+						"screen_name": "HASTACscholars",
+						"name": "HASTAC Scholars",
+						"id": 91616458,
+						"id_str": "91616458",
+						"indices": [
+							93,
+							108
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/NqlgVBcIJX",
+						"expanded_url": "https://jitp.commons.gc.cuny.edu/call-for-submissions/",
+						"display_url": "jitp.commons.gc.cuny.edu/call-for-submi…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2225301985,
+				"id_str": "2225301985",
+				"name": "Danica Savonick",
+				"screen_name": "DanicaSavonick",
+				"location": "",
+				"description": "Ph.D. candidate in English at The Graduate Center, CUNY. Educator at Queens College & Research Fellow w/ Futures Initiative.",
+				"url": "https://t.co/YGbJC9DG3f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YGbJC9DG3f",
+								"expanded_url": "http://danicasavonick.com",
+								"display_url": "danicasavonick.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 631,
+				"friends_count": 734,
+				"listed_count": 25,
+				"created_at": "Sun Dec 01 17:19:11 +0000 2013",
+				"favourites_count": 3388,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3351,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/822114468150865920/AA1KjaN5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/822114468150865920/AA1KjaN5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2225301985/1385920052",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 01 21:49:31 +0000 2017",
 		"id": 925842262713618400,
 		"id_str": "925842262713618435",
