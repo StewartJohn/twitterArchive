@@ -1,6 +1,1106 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Mon Nov 06 01:01:57 +0000 2017",
+		"id": 927340243354902500,
+		"id_str": "927340243354902528",
+		"text": "RT @oufyc: Grad Senate food drive for the @OUFoodPantry - pls donate! I'll put the box by Cate 2 elevator (w/ Brenda's permission!) @Oklaho…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oufyc",
+					"name": "OU First-Year Comp.",
+					"id": 773222940728975400,
+					"id_str": "773222940728975360",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "OUFoodPantry",
+					"name": "OU Food Pantry",
+					"id": 822091945245864000,
+					"id_str": "822091945245863937",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 874,
+			"friends_count": 950,
+			"listed_count": 109,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3596,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 06 00:52:01 +0000 2017",
+			"id": 927337743520235500,
+			"id_str": "927337743520235520",
+			"text": "Grad Senate food drive for the @OUFoodPantry - pls donate! I'll put the box by Cate 2 elevator (w/ Brenda's permiss… https://t.co/5EMFcNUcxT",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OUFoodPantry",
+						"name": "OU Food Pantry",
+						"id": 822091945245864000,
+						"id_str": "822091945245863937",
+						"indices": [
+							31,
+							44
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5EMFcNUcxT",
+						"expanded_url": "https://twitter.com/i/web/status/927337743520235520",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 773222940728975400,
+				"id_str": "773222940728975360",
+				"name": "OU First-Year Comp.",
+				"screen_name": "oufyc",
+				"location": "Norman, OK",
+				"description": "Official Twitter of the Office of First-Year Composition at the @UofOklahoma.",
+				"url": "https://t.co/HIu64a6kwE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HIu64a6kwE",
+								"expanded_url": "http://cas.ou.edu/fyc",
+								"display_url": "cas.ou.edu/fyc",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 123,
+				"friends_count": 201,
+				"listed_count": 3,
+				"created_at": "Tue Sep 06 18:14:49 +0000 2016",
+				"favourites_count": 1023,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 408,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783745334187089921/6RmfQRH6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783745334187089921/6RmfQRH6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/773222940728975360/1477508612",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Nov 06 00:27:12 +0000 2017",
+		"id": 927331497065009200,
+		"id_str": "927331497065009153",
+		"text": "RT @sydnerain: Meanwhile in Oklahoma, it's hard for things to get much worse than this\nhttps://t.co/fTRMj2aTBE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sydnerain",
+					"name": "hokte",
+					"id": 110890615,
+					"id_str": "110890615",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fTRMj2aTBE",
+					"expanded_url": "http://www.kjrh.com/news/local-news/about-200-seniors-prepare-for-eviction-as-oklahoma-legislature-cuts-advantage-program",
+					"display_url": "kjrh.com/news/local-new…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 874,
+			"friends_count": 950,
+			"listed_count": 109,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3596,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 06 00:01:16 +0000 2017",
+			"id": 927324969926824000,
+			"id_str": "927324969926823936",
+			"text": "Meanwhile in Oklahoma, it's hard for things to get much worse than this\nhttps://t.co/fTRMj2aTBE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fTRMj2aTBE",
+						"expanded_url": "http://www.kjrh.com/news/local-news/about-200-seniors-prepare-for-eviction-as-oklahoma-legislature-cuts-advantage-program",
+						"display_url": "kjrh.com/news/local-new…",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110890615,
+				"id_str": "110890615",
+				"name": "hokte",
+				"screen_name": "sydnerain",
+				"location": "Indian Territory",
+				"description": "Mvskoke. Oklahoma history and indigenous liberation. @IndigenizeOU co-founder. Philosophy student at the University of Oklahoma. https://t.co/Snl0YsakAr",
+				"url": "https://t.co/zEkxiI6Mbk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zEkxiI6Mbk",
+								"expanded_url": "http://Instagram.com/sydnerain",
+								"display_url": "Instagram.com/sydnerain",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Snl0YsakAr",
+								"expanded_url": "https://www.paypal.me/sydnerain",
+								"display_url": "paypal.me/sydnerain",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12820,
+				"friends_count": 558,
+				"listed_count": 110,
+				"created_at": "Wed Feb 03 03:17:32 +0000 2010",
+				"favourites_count": 14435,
+				"utc_offset": -25200,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24257,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CFC3E0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181179248/ICqRB_jU.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181179248/ICqRB_jU.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/903728134935257088/vX9ORdSL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/903728134935257088/vX9ORdSL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110890615/1450661721",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DACFE3",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 05 22:13:15 +0000 2017",
+		"id": 927297788160995300,
+		"id_str": "927297788160995329",
+		"text": "Just completed a 3.01 mi run with @Runkeeper. Check it out! https://t.co/PVKKMyHXjF #Runkeeper",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Runkeeper",
+					"indices": [
+						84,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Runkeeper",
+					"name": "Runkeeper",
+					"id": 15445811,
+					"id_str": "15445811",
+					"indices": [
+						34,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PVKKMyHXjF",
+					"expanded_url": "http://rnkpr.com/ahvxvda",
+					"display_url": "rnkpr.com/ahvxvda",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://runkeeper.com\" rel=\"nofollow\">Runkeeper</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 874,
+			"friends_count": 950,
+			"listed_count": 109,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3596,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 05 16:28:31 +0000 2017",
+		"id": 927211030408777700,
+		"id_str": "927211030408777729",
+		"text": "RT @MatthewFarber: Wait.. u can embed Digital @breakoutEDU games from the new platform! Just added it onto a Canvas LMS module, and it work…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MatthewFarber",
+					"name": "Matthew Farber, EdD",
+					"id": 16165288,
+					"id_str": "16165288",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "breakoutEDU",
+					"name": "Breakout EDU",
+					"id": 3077264557,
+					"id_str": "3077264557",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 874,
+			"friends_count": 950,
+			"listed_count": 109,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3596,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 04 21:43:24 +0000 2017",
+			"id": 926927887080472600,
+			"id_str": "926927887080472577",
+			"text": "Wait.. u can embed Digital @breakoutEDU games from the new platform! Just added it onto a Canvas LMS module, and it worked! #XPLAP #games4ed",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "XPLAP",
+						"indices": [
+							124,
+							130
+						]
+					},
+					{
+						"text": "games4ed",
+						"indices": [
+							131,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "breakoutEDU",
+						"name": "Breakout EDU",
+						"id": 3077264557,
+						"id_str": "3077264557",
+						"indices": [
+							27,
+							39
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16165288,
+				"id_str": "16165288",
+				"name": "Matthew Farber, EdD",
+				"screen_name": "MatthewFarber",
+				"location": "Fort Collins, CO",
+				"description": "Asst Professor @UNC_Colorado |  Gamify Your Classroom: https://t.co/xaPynKi5iY Game Jam Guide: https://t.co/e8LgXf3HRu GBL in Action: https://t.co/tQkoOozMZ3",
+				"url": "https://t.co/pNlCPkVvfY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pNlCPkVvfY",
+								"expanded_url": "http://matthewfarber.com",
+								"display_url": "matthewfarber.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xaPynKi5iY",
+								"expanded_url": "http://a.co/6jKzxVn",
+								"display_url": "a.co/6jKzxVn",
+								"indices": [
+									55,
+									78
+								]
+							},
+							{
+								"url": "https://t.co/e8LgXf3HRu",
+								"expanded_url": "http://bit.ly/2z0DuBa",
+								"display_url": "bit.ly/2z0DuBa",
+								"indices": [
+									95,
+									118
+								]
+							},
+							{
+								"url": "https://t.co/tQkoOozMZ3",
+								"expanded_url": "http://a.co/24rxlYr",
+								"display_url": "a.co/24rxlYr",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5285,
+				"friends_count": 4146,
+				"listed_count": 537,
+				"created_at": "Sun Sep 07 03:10:03 +0000 2008",
+				"favourites_count": 20636,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/926537603192561664/eeI_H09p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/926537603192561664/eeI_H09p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16165288/1509738717",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "b2e4e65d7b80d2c1",
+				"url": "https://api.twitter.com/1.1/geo/id/b2e4e65d7b80d2c1.json",
+				"place_type": "city",
+				"name": "Fort Collins",
+				"full_name": "Fort Collins, CO",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-105.148074,
+								40.47168
+							],
+							[
+								-104.979811,
+								40.47168
+							],
+							[
+								-104.979811,
+								40.656701
+							],
+							[
+								-105.148074,
+								40.656701
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 05 16:07:51 +0000 2017",
+		"id": 927205831397052400,
+		"id_str": "927205831397052418",
+		"text": "RT @BUDatOU: A year after SQ779, Oklahoma teachers still without statewide pay increase https://t.co/U1Nwj5Bxx3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BUDatOU",
+					"name": "Buddy Wiedemann",
+					"id": 17196977,
+					"id_str": "17196977",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U1Nwj5Bxx3",
+					"expanded_url": "http://newsok.com/article/5570669?utm_source=NewsOK.com&utm_medium=Social&utm_campaign=ShareBar-Twitter",
+					"display_url": "newsok.com/article/557066…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 874,
+			"friends_count": 950,
+			"listed_count": 109,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3596,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7586,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 05 16:00:42 +0000 2017",
+			"id": 927204034003505200,
+			"id_str": "927204034003505152",
+			"text": "A year after SQ779, Oklahoma teachers still without statewide pay increase https://t.co/U1Nwj5Bxx3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/U1Nwj5Bxx3",
+						"expanded_url": "http://newsok.com/article/5570669?utm_source=NewsOK.com&utm_medium=Social&utm_campaign=ShareBar-Twitter",
+						"display_url": "newsok.com/article/557066…",
+						"indices": [
+							75,
+							98
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17196977,
+				"id_str": "17196977",
+				"name": "Buddy Wiedemann",
+				"screen_name": "BUDatOU",
+				"location": "Norman, OK 73019-4201",
+				"description": "IT Director, Gaylord College of Journalism, The University of Oklahoma",
+				"url": "http://t.co/eUAEhjjNNH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/eUAEhjjNNH",
+								"expanded_url": "http://www.facebook.com/BUDatOU",
+								"display_url": "facebook.com/BUDatOU",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 773,
+				"friends_count": 1043,
+				"listed_count": 59,
+				"created_at": "Wed Nov 05 20:36:45 +0000 2008",
+				"favourites_count": 2437,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8702,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/525322302842368000/sArmfMJw_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/525322302842368000/sArmfMJw_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17196977/1414081505",
+				"profile_link_color": "001499",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "27de1a6e27075587",
+				"url": "https://api.twitter.com/1.1/geo/id/27de1a6e27075587.json",
+				"place_type": "city",
+				"name": "Norman",
+				"full_name": "Norman, OK",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-97.51982,
+								35.15327
+							],
+							[
+								-97.370527,
+								35.15327
+							],
+							[
+								-97.370527,
+								35.291332
+							],
+							[
+								-97.51982,
+								35.291332
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 04 17:53:29 +0000 2017",
 		"id": 926870027655090200,
 		"id_str": "926870027655090176",
