@@ -1,6 +1,1205 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 17 23:40:37 +0000 2017",
+		"id": 931668430134108200,
+		"id_str": "931668430134108163",
+		"text": "@KeeganSLW @twinethreads @OUDunhamCollege Currently cranking out #SNES game soundtracks in the room to get amped up.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SNES",
+					"indices": [
+						65,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan🦔Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "twinethreads",
+					"name": "Twine",
+					"id": 1342166828,
+					"id_str": "1342166828",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "OUDunhamCollege",
+					"name": "OU Dunham College",
+					"id": 4858690145,
+					"id_str": "4858690145",
+					"indices": [
+						25,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 931580869592182800,
+		"in_reply_to_status_id_str": "931580869592182787",
+		"in_reply_to_user_id": 117573509,
+		"in_reply_to_user_id_str": "117573509",
+		"in_reply_to_screen_name": "KeeganSLW",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893,
+			"friends_count": 966,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3664,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7706,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 17 21:32:23 +0000 2017",
+		"id": 931636156181237800,
+		"id_str": "931636156181237760",
+		"text": "This might be a good book and interview for a future episode of your podcast. @acroom @ralphbeliveau https://t.co/zIToT1ADPx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "acroom",
+					"name": "Adam Croom",
+					"id": 19056987,
+					"id_str": "19056987",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"screen_name": "ralphbeliveau",
+					"name": "ralphbeliveau",
+					"id": 18724968,
+					"id_str": "18724968",
+					"indices": [
+						86,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zIToT1ADPx",
+					"expanded_url": "https://twitter.com/anasalter/status/931594746035953665",
+					"display_url": "twitter.com/anasalter/stat…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893,
+			"friends_count": 966,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3664,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7706,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 931594746035953700,
+		"quoted_status_id_str": "931594746035953665",
+		"quoted_status": {
+			"created_at": "Fri Nov 17 18:47:50 +0000 2017",
+			"id": 931594746035953700,
+			"id_str": "931594746035953665",
+			"text": "It's here! :-D https://t.co/1xZ0427o30",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1xZ0427o30",
+						"expanded_url": "https://twitter.com/PalgraveCultMed/status/931589000371978241",
+						"display_url": "twitter.com/PalgraveCultMe…",
+						"indices": [
+							15,
+							38
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14172854,
+				"id_str": "14172854",
+				"name": "Anastasia Salter",
+				"screen_name": "AnaSalter",
+				"location": "Florida",
+				"description": "Ass't prof at UCF. Author of upcoming Toxic Geek Masculinity (w/ @bblodgett), Jane Jensen, Flash (MIT Platform Studies w/ @lucidbard), and What is Your Quest?.",
+				"url": "https://t.co/i3RVwaKs3k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i3RVwaKs3k",
+								"expanded_url": "http://www.anastasiasalter.net",
+								"display_url": "anastasiasalter.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3365,
+				"friends_count": 3157,
+				"listed_count": 246,
+				"created_at": "Tue Mar 18 21:53:33 +0000 2008",
+				"favourites_count": 39738,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15229,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905059712202412032/Fct3r_jo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905059712202412032/Fct3r_jo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14172854/1506099892",
+				"profile_link_color": "052480",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 931589000371978200,
+			"quoted_status_id_str": "931589000371978241",
+			"retweet_count": 6,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 17 17:56:59 +0000 2017",
+		"id": 931581949579284500,
+		"id_str": "931581949579284481",
+		"text": "RT @DrPsyBuffy: As a community college professor who sees everyday the multitude of reasons students have to drop out of college--most of w…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrPsyBuffy",
+					"name": "Buffy the Psych Prof",
+					"id": 225446584,
+					"id_str": "225446584",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893,
+			"friends_count": 966,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3664,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7706,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 17 16:34:50 +0000 2017",
+			"id": 931561276727353300,
+			"id_str": "931561276727353344",
+			"text": "As a community college professor who sees everyday the multitude of reasons students have to drop out of college--m… https://t.co/jgniG3612A",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jgniG3612A",
+						"expanded_url": "https://twitter.com/i/web/status/931561276727353344",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 225446584,
+				"id_str": "225446584",
+				"name": "Buffy the Psych Prof",
+				"screen_name": "DrPsyBuffy",
+				"location": "",
+				"description": "Psych prof & occasional funny girl. Political junkie. Like a lot of stuff. Also dislike a lot of stuff. Swear too much. Views are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6480,
+				"friends_count": 1347,
+				"listed_count": 83,
+				"created_at": "Sat Dec 11 15:40:03 +0000 2010",
+				"favourites_count": 15761,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22394,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/801202563320193024/EhWPuWCn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/801202563320193024/EhWPuWCn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/225446584/1509893691",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 931529346233323500,
+			"quoted_status_id_str": "931529346233323520",
+			"quoted_status": {
+				"created_at": "Fri Nov 17 14:27:57 +0000 2017",
+				"id": 931529346233323500,
+				"id_str": "931529346233323520",
+				"text": "A bill was introduced in the House earlier this week that would require students who don't complete a program of st… https://t.co/O14FjdipBX",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/O14FjdipBX",
+							"expanded_url": "https://twitter.com/i/web/status/931529346233323520",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 85764133,
+					"id_str": "85764133",
+					"name": "adam harris",
+					"screen_name": "AdamHSays",
+					"location": "Washington, DC",
+					"description": "higher ed reporter @chronicle. native southerner. @ProPublica and @aamuedu alum. tips: aharris@chronicle.com",
+					"url": "https://t.co/jKu9sPQQVa",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/jKu9sPQQVa",
+									"expanded_url": "https://www.clippings.me/adamharris",
+									"display_url": "clippings.me/adamharris",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 13086,
+					"friends_count": 1393,
+					"listed_count": 317,
+					"created_at": "Wed Oct 28 07:21:57 +0000 2009",
+					"favourites_count": 27436,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 54945,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/823765151639859201/xehJ7_lV_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/823765151639859201/xehJ7_lV_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/85764133/1508559753",
+					"profile_link_color": "123542",
+					"profile_sidebar_border_color": "A8C7F7",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 127,
+				"favorite_count": 56,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 201,
+			"favorite_count": 253,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 931529346233323500,
+		"quoted_status_id_str": "931529346233323520",
+		"retweet_count": 201,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 17 17:56:25 +0000 2017",
+		"id": 931581808944255000,
+		"id_str": "931581808944254976",
+		"text": "RT @KeeganSLW: Excited to lead a @twinethreads #gamejam about Community w/ @jstew511 later tonight at @OUDunhamCollege!\n\nhttps://t.co/Ev9Dr…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gamejam",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan🦔Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "twinethreads",
+					"name": "Twine",
+					"id": 1342166828,
+					"id_str": "1342166828",
+					"indices": [
+						33,
+						46
+					]
+				},
+				{
+					"screen_name": "jstew511",
+					"name": "John Stewart",
+					"id": 73977188,
+					"id_str": "73977188",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"screen_name": "OUDunhamCollege",
+					"name": "OU Dunham College",
+					"id": 4858690145,
+					"id_str": "4858690145",
+					"indices": [
+						102,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893,
+			"friends_count": 966,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3664,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7706,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 17 17:52:41 +0000 2017",
+			"id": 931580869592182800,
+			"id_str": "931580869592182787",
+			"text": "Excited to lead a @twinethreads #gamejam about Community w/ @jstew511 later tonight at @OUDunhamCollege!\n\nhttps://t.co/Ev9Drw16EA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "gamejam",
+						"indices": [
+							32,
+							40
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "twinethreads",
+						"name": "Twine",
+						"id": 1342166828,
+						"id_str": "1342166828",
+						"indices": [
+							18,
+							31
+						]
+					},
+					{
+						"screen_name": "jstew511",
+						"name": "John Stewart",
+						"id": 73977188,
+						"id_str": "73977188",
+						"indices": [
+							60,
+							69
+						]
+					},
+					{
+						"screen_name": "OUDunhamCollege",
+						"name": "OU Dunham College",
+						"id": 4858690145,
+						"id_str": "4858690145",
+						"indices": [
+							87,
+							103
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ev9Drw16EA",
+						"expanded_url": "https://gamejam.experienceplay.education/dunham/",
+						"display_url": "gamejam.experienceplay.education/dunham/",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 117573509,
+				"id_str": "117573509",
+				"name": "Keegan🦔Long-Wheeler",
+				"screen_name": "KeeganSLW",
+				"location": "",
+				"description": "Educator | Open Practitioner | Web Creator | Design Dabbler | Instructional Hacker/Remixer | Game Maker | Ed Technologist/Problem solver of last resort @TeachOU",
+				"url": "https://t.co/EgzQxvc8T4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EgzQxvc8T4",
+								"expanded_url": "http://keeganslw.com",
+								"display_url": "keeganslw.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1032,
+				"friends_count": 1121,
+				"listed_count": 103,
+				"created_at": "Thu Feb 25 23:44:57 +0000 2010",
+				"favourites_count": 5000,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5614,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/613768692216655872/hr77NEM1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/613768692216655872/hr77NEM1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/117573509/1445487160",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 17 02:45:58 +0000 2017",
+		"id": 931352686368317400,
+		"id_str": "931352686368317441",
+		"text": "RT @davidfrum: Don’t tell Breitbart/Bannon about this important new book that v convincingly links Roman crisis to climate change https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davidfrum",
+					"name": "David Frum",
+					"id": 18686907,
+					"id_str": "18686907",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893,
+			"friends_count": 966,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3664,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7706,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 14 16:15:15 +0000 2017",
+			"id": 930469184630292500,
+			"id_str": "930469184630292481",
+			"text": "Don’t tell Breitbart/Bannon about this important new book that v convincingly links Roman crisis to climate change https://t.co/CqVG80uGgC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 930469182579380200,
+						"id_str": "930469182579380226",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DOmwyq4XkAIN8nv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOmwyq4XkAIN8nv.jpg",
+						"url": "https://t.co/CqVG80uGgC",
+						"display_url": "pic.twitter.com/CqVG80uGgC",
+						"expanded_url": "https://twitter.com/davidfrum/status/930469184630292481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 930469182579380200,
+						"id_str": "930469182579380226",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DOmwyq4XkAIN8nv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOmwyq4XkAIN8nv.jpg",
+						"url": "https://t.co/CqVG80uGgC",
+						"display_url": "pic.twitter.com/CqVG80uGgC",
+						"expanded_url": "https://twitter.com/davidfrum/status/930469184630292481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18686907,
+				"id_str": "18686907",
+				"name": "David Frum",
+				"screen_name": "davidfrum",
+				"location": "",
+				"description": "Senior Editor, The Atlantic. Author, \"Trumpocracy: The Corruption of the American Republic\" (HarperCollins, Jan. 2018)",
+				"url": "http://t.co/yJqiV6HJ4u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yJqiV6HJ4u",
+								"expanded_url": "http://www.theatlantic.com/david-frum/",
+								"display_url": "theatlantic.com/david-frum/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 561237,
+				"friends_count": 747,
+				"listed_count": 10031,
+				"created_at": "Tue Jan 06 18:03:36 +0000 2009",
+				"favourites_count": 1707,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 51944,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DD2E44",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/513294362730450944/-5RKEAYL.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/513294362730450944/-5RKEAYL.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930905542851252224/dbfa8FlT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930905542851252224/dbfa8FlT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18686907/1509455672",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 125,
+			"favorite_count": 468,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 16 01:52:52 +0000 2017",
 		"id": 930976934196019200,
 		"id_str": "930976934196019202",
