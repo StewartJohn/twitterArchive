@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 19 15:42:39 +0000 2017",
+		"id": 932272921762058200,
+		"id_str": "932272921762058240",
+		"text": "RT @DrTerriC: This was on Facebook from #marchforscience.  The end of Innovation in higher Ed is the new tax bill - no one will be able to…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "marchforscience",
+					"indices": [
+						40,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrTerriC",
+					"name": "Dr Theresa Cullen",
+					"id": 466078904,
+					"id_str": "466078904",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893,
+			"friends_count": 966,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3664,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 19 02:05:56 +0000 2017",
+			"id": 932067384453627900,
+			"id_str": "932067384453627906",
+			"text": "This was on Facebook from #marchforscience.  The end of Innovation in higher Ed is the new tax bill - no one will b… https://t.co/BOPRnrvS5E",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "marchforscience",
+						"indices": [
+							26,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BOPRnrvS5E",
+						"expanded_url": "https://twitter.com/i/web/status/932067384453627906",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 466078904,
+				"id_str": "466078904",
+				"name": "Dr Theresa Cullen",
+				"screen_name": "DrTerriC",
+				"location": "Norman, Oklahoma",
+				"description": "Assoc Prof @OUEducation Coord Ugrad tech, 21st Century Masters https://t.co/l26q6h9Ps4 #ADE2015 #CSM #SCRUM #AppleTeacher",
+				"url": "https://t.co/1TOsxV9NHX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1TOsxV9NHX",
+								"expanded_url": "http://www.drterric.com",
+								"display_url": "drterric.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/l26q6h9Ps4",
+								"expanded_url": "http://bit.ly/21stcenturyteaching",
+								"display_url": "bit.ly/21stcenturytea…",
+								"indices": [
+									63,
+									86
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3829,
+				"friends_count": 5001,
+				"listed_count": 249,
+				"created_at": "Tue Jan 17 01:36:36 +0000 2012",
+				"favourites_count": 4527,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14971,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860301852243632128/6UUUb9sr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860301852243632128/6UUUb9sr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/466078904/1485652406",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 758,
+			"favorite_count": 748,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 758,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Nov 19 15:41:04 +0000 2017",
+		"id": 932272520358744000,
+		"id_str": "932272520358744065",
+		"text": "RT @ATG_NewsChannel: Pearson Closes DRM-Free eBookstore, Will Delete All eBooks From Customers’ Account https://t.co/9qaywVtOrg https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ATG_NewsChannel",
+					"name": "Against the Grain",
+					"id": 321399832,
+					"id_str": "321399832",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9qaywVtOrg",
+					"expanded_url": "https://buff.ly/2zGFqw9",
+					"display_url": "buff.ly/2zGFqw9",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893,
+			"friends_count": 966,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3664,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 18 20:05:03 +0000 2017",
+			"id": 931976568582402000,
+			"id_str": "931976568582402050",
+			"text": "Pearson Closes DRM-Free eBookstore, Will Delete All eBooks From Customers’ Account https://t.co/9qaywVtOrg https://t.co/YI2fXqPmrS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9qaywVtOrg",
+						"expanded_url": "https://buff.ly/2zGFqw9",
+						"display_url": "buff.ly/2zGFqw9",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 931976566493425700,
+						"id_str": "931976566493425664",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DO8Lv9jUMAAzsVj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DO8Lv9jUMAAzsVj.jpg",
+						"url": "https://t.co/YI2fXqPmrS",
+						"display_url": "pic.twitter.com/YI2fXqPmrS",
+						"expanded_url": "https://twitter.com/ATG_NewsChannel/status/931976568582402050/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 606,
+								"h": 701,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 606,
+								"h": 701,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 588,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 931976566493425700,
+						"id_str": "931976566493425664",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DO8Lv9jUMAAzsVj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DO8Lv9jUMAAzsVj.jpg",
+						"url": "https://t.co/YI2fXqPmrS",
+						"display_url": "pic.twitter.com/YI2fXqPmrS",
+						"expanded_url": "https://twitter.com/ATG_NewsChannel/status/931976568582402050/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 606,
+								"h": 701,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 606,
+								"h": 701,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 588,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 321399832,
+				"id_str": "321399832",
+				"name": "Against the Grain",
+				"screen_name": "ATG_NewsChannel",
+				"location": "Charleston, SC, USA",
+				"description": "ATG is your key to the latest news about libraries, publishers and vendors. Our online edition includes the full text of every journal and weekly bonus content.",
+				"url": "http://t.co/m0sxwrU6uR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/m0sxwrU6uR",
+								"expanded_url": "http://www.against-the-grain.com",
+								"display_url": "against-the-grain.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2435,
+				"friends_count": 2212,
+				"listed_count": 87,
+				"created_at": "Tue Jun 21 14:24:25 +0000 2011",
+				"favourites_count": 292,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2178,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/863967801559699456/wACdJGRd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/863967801559699456/wACdJGRd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/321399832/1494820937",
+				"profile_link_color": "69813C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Nov 18 20:17:33 +0000 2017",
 		"id": 931979712196481000,
 		"id_str": "931979712196481024",
