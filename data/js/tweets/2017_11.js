@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Wed Nov 22 02:44:04 +0000 2017",
+		"id": 933164145221840900,
+		"id_str": "933164145221840897",
+		"text": "@jbarro https://t.co/fQC7hS7pEH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jbarro",
+					"name": "Josh Barro",
+					"id": 16244449,
+					"id_str": "16244449",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fQC7hS7pEH",
+					"expanded_url": "https://twitter.com/rokhanna/status/923701871092441088",
+					"display_url": "twitter.com/rokhanna/statu…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 16244449,
+		"in_reply_to_user_id_str": "16244449",
+		"in_reply_to_screen_name": "jbarro",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 966,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3670,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7724,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 923701871092441100,
+		"quoted_status_id_str": "923701871092441088",
+		"quoted_status": {
+			"created_at": "Fri Oct 27 00:04:22 +0000 2017",
+			"id": 923701871092441100,
+			"id_str": "923701871092441088",
+			"text": "In Portugal, with no net neutrality, internet providers are starting to split the net into packages. https://t.co/TlLYGezmv6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 923701556746133500,
+						"id_str": "923701556746133504",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DNGlrABUIAAr9RO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNGlrABUIAAr9RO.jpg",
+						"url": "https://t.co/TlLYGezmv6",
+						"display_url": "pic.twitter.com/TlLYGezmv6",
+						"expanded_url": "https://twitter.com/RoKhanna/status/923701871092441088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1185,
+								"h": 813,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 467,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1185,
+								"h": 813,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 923701556746133500,
+						"id_str": "923701556746133504",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DNGlrABUIAAr9RO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNGlrABUIAAr9RO.jpg",
+						"url": "https://t.co/TlLYGezmv6",
+						"display_url": "pic.twitter.com/TlLYGezmv6",
+						"expanded_url": "https://twitter.com/RoKhanna/status/923701871092441088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1185,
+								"h": 813,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 467,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1185,
+								"h": 813,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 771152516,
+				"id_str": "771152516",
+				"name": "Ro Khanna",
+				"screen_name": "RoKhanna",
+				"location": "Silicon Valley, CA",
+				"description": "Working to create tech & manufacturing jobs locally & across America. Refuse all PAC contributions. Obama alum. Represent SV in Congress (campaign account).",
+				"url": "https://t.co/V5WcBNpxZj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V5WcBNpxZj",
+								"expanded_url": "http://RoKhanna.com",
+								"display_url": "RoKhanna.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25121,
+				"friends_count": 4917,
+				"listed_count": 423,
+				"created_at": "Tue Aug 21 09:10:20 +0000 2012",
+				"favourites_count": 2813,
+				"utc_offset": -25200,
+				"time_zone": "Arizona",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6819,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "001447",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000146473671/vDkcLOUe.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000146473671/vDkcLOUe.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530907007746703360/-mIRE-wq_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530907007746703360/-mIRE-wq_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/771152516/1428987775",
+				"profile_link_color": "0A1237",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 60351,
+			"favorite_count": 48111,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Tue Nov 21 23:34:46 +0000 2017",
 		"id": 933116507994783700,
 		"id_str": "933116507994783744",
