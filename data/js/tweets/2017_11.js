@@ -1,6 +1,1133 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 23 06:00:32 +0000 2017",
+		"id": 933575975719395300,
+		"id_str": "933575975719395328",
+		"text": "RT @michaelwhitney: There's no coming back for a country where \"person died after his GoFundMe campaign to pay for insulin came up $50 shor…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michaelwhitney",
+					"name": "Michael Whitney",
+					"id": 785137,
+					"id_str": "785137",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 966,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3672,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7727,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 22 13:06:06 +0000 2017",
+			"id": 933320687678382100,
+			"id_str": "933320687678382085",
+			"text": "There's no coming back for a country where \"person died after his GoFundMe campaign to pay for insulin came up $50… https://t.co/kd7if0VPwE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kd7if0VPwE",
+						"expanded_url": "https://twitter.com/i/web/status/933320687678382085",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 785137,
+				"id_str": "785137",
+				"name": "Michael Whitney",
+				"screen_name": "michaelwhitney",
+				"location": "¯\\_(ツ)_/¯",
+				"description": "I used to be Digital Fundraising Manager for @BernieSanders. Now I help other people raise money. 🌹",
+				"url": "https://t.co/u9sRfhZX1B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u9sRfhZX1B",
+								"expanded_url": "https://michaelwhitney.org",
+								"display_url": "michaelwhitney.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7430,
+				"friends_count": 1184,
+				"listed_count": 277,
+				"created_at": "Wed Feb 21 01:42:00 +0000 2007",
+				"favourites_count": 85156,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44926,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3423356/2275338266_291c505741_o2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3423356/2275338266_291c505741_o2.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875712874189959169/L9yGmzxE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875712874189959169/L9yGmzxE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/785137/1437595307",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 933196946683994100,
+			"quoted_status_id_str": "933196946683994112",
+			"quoted_status": {
+				"created_at": "Wed Nov 22 04:54:24 +0000 2017",
+				"id": 933196946683994100,
+				"id_str": "933196946683994112",
+				"text": "https://t.co/F2F9unUZf0 https://t.co/8UaEkWwCgh",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/F2F9unUZf0",
+							"expanded_url": "https://www.thenation.com/article/alex-azar-trumps-hhs-pick-has-already-been-a-disaster-for-people-with-diabetes/",
+							"display_url": "thenation.com/article/alex-a…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 933196863532134400,
+							"id_str": "933196863532134400",
+							"indices": [
+								24,
+								47
+							],
+							"media_url": "http://pbs.twimg.com/media/DPNhmmRXcAAzuLz.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DPNhmmRXcAAzuLz.jpg",
+							"url": "https://t.co/8UaEkWwCgh",
+							"display_url": "pic.twitter.com/8UaEkWwCgh",
+							"expanded_url": "https://twitter.com/MattBruenig/status/933196946683994112/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 932,
+									"h": 736,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 537,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 932,
+									"h": 736,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 933196863532134400,
+							"id_str": "933196863532134400",
+							"indices": [
+								24,
+								47
+							],
+							"media_url": "http://pbs.twimg.com/media/DPNhmmRXcAAzuLz.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DPNhmmRXcAAzuLz.jpg",
+							"url": "https://t.co/8UaEkWwCgh",
+							"display_url": "pic.twitter.com/8UaEkWwCgh",
+							"expanded_url": "https://twitter.com/MattBruenig/status/933196946683994112/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 932,
+									"h": 736,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 537,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 932,
+									"h": 736,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 327337127,
+					"id_str": "327337127",
+					"name": "Matt Bruenig",
+					"screen_name": "MattBruenig",
+					"location": "",
+					"description": "Founder @PplPolicyProj. Law and welfare knower.",
+					"url": "https://t.co/P29dBwmaJm",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/P29dBwmaJm",
+									"expanded_url": "https://www.patreon.com/peoplespolicyproject",
+									"display_url": "patreon.com/peoplespolicyp…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 280946,
+					"friends_count": 836,
+					"listed_count": 1004,
+					"created_at": "Fri Jul 01 11:57:02 +0000 2011",
+					"favourites_count": 15530,
+					"utc_offset": -21600,
+					"time_zone": "Central Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 289,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/426540189171728384/xoM37yiN_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/426540189171728384/xoM37yiN_normal.jpeg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3263,
+				"favorite_count": 4388,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "und"
+			},
+			"retweet_count": 24854,
+			"favorite_count": 36713,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 933196946683994100,
+		"quoted_status_id_str": "933196946683994112",
+		"retweet_count": 24854,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 23 05:46:28 +0000 2017",
+		"id": 933572435001126900,
+		"id_str": "933572435001126912",
+		"text": "RT @MsWegter: @ArcGISOnline for the win! Geoinquiries really make students think with exploration! #StormPride https://t.co/9jcJ1vRDKZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StormPride",
+					"indices": [
+						99,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MsWegter",
+					"name": "Brianne",
+					"id": 4826789970,
+					"id_str": "4826789970",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "ArcGISOnline",
+					"name": "ArcGIS Online",
+					"id": 2314451911,
+					"id_str": "2314451911",
+					"indices": [
+						14,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9jcJ1vRDKZ",
+					"expanded_url": "https://twitter.com/irvspanish/status/933403244134633473",
+					"display_url": "twitter.com/irvspanish/sta…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 966,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3672,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7727,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 23 05:04:22 +0000 2017",
+			"id": 933561840919040000,
+			"id_str": "933561840919040000",
+			"text": "@ArcGISOnline for the win! Geoinquiries really make students think with exploration! #StormPride https://t.co/9jcJ1vRDKZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StormPride",
+						"indices": [
+							85,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ArcGISOnline",
+						"name": "ArcGIS Online",
+						"id": 2314451911,
+						"id_str": "2314451911",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/9jcJ1vRDKZ",
+						"expanded_url": "https://twitter.com/irvspanish/status/933403244134633473",
+						"display_url": "twitter.com/irvspanish/sta…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 2314451911,
+			"in_reply_to_user_id_str": "2314451911",
+			"in_reply_to_screen_name": "ArcGISOnline",
+			"user": {
+				"id": 4826789970,
+				"id_str": "4826789970",
+				"name": "Brianne",
+				"screen_name": "MsWegter",
+				"location": "",
+				"description": "A proud teacher who loves to engage in all aspects of my school community!!! My tweets display just a fraction of my Storm Pride at SRRHS!!!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52,
+				"friends_count": 70,
+				"listed_count": 1,
+				"created_at": "Thu Jan 28 19:46:26 +0000 2016",
+				"favourites_count": 200,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 178,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/782066177107341313/GyI-GuDA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/782066177107341313/GyI-GuDA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4826789970/1475294080",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 933403244134633500,
+			"quoted_status_id_str": "933403244134633473",
+			"quoted_status": {
+				"created_at": "Wed Nov 22 18:34:09 +0000 2017",
+				"id": 933403244134633500,
+				"id_str": "933403244134633473",
+				"text": "Loving the use of @ArcGISPro to create Geoinquiry engaging, interactive activities happening @isd47 to find out mor… https://t.co/rS5MTbdoBE",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "ArcGISPro",
+							"name": "ArcGIS Pro",
+							"id": 1586154734,
+							"id_str": "1586154734",
+							"indices": [
+								18,
+								28
+							]
+						},
+						{
+							"screen_name": "isd47",
+							"name": "SaukRapidsRiceSchool",
+							"id": 235250389,
+							"id_str": "235250389",
+							"indices": [
+								93,
+								99
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/rS5MTbdoBE",
+							"expanded_url": "https://twitter.com/i/web/status/933403244134633473",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 472044692,
+					"id_str": "472044692",
+					"name": "Irvspanish",
+					"screen_name": "irvspanish",
+					"location": "Sauk Rapids, MN",
+					"description": "Schoology Educator of Year & Ambassador - Technology Integrationist @isd47 - Minecraft Mentor https://t.co/aXZvHc1ZVB #MinecraftEdu",
+					"url": "https://t.co/GOEE7bAiXb",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/GOEE7bAiXb",
+									"expanded_url": "http://about.me/glenirvin",
+									"display_url": "about.me/glenirvin",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/aXZvHc1ZVB",
+									"expanded_url": "https://sites.google.com/view/gamebasedspanish/home",
+									"display_url": "sites.google.com/view/gamebased…",
+									"indices": [
+										94,
+										117
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 5878,
+					"friends_count": 6324,
+					"listed_count": 437,
+					"created_at": "Mon Jan 23 14:56:22 +0000 2012",
+					"favourites_count": 37252,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 24414,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/927912546975195136/0hHALV8H_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/927912546975195136/0hHALV8H_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/472044692/1481208972",
+					"profile_link_color": "4A913C",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 5,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 933403244134633500,
+		"quoted_status_id_str": "933403244134633473",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 23 05:43:55 +0000 2017",
+		"id": 933571796133130200,
+		"id_str": "933571796133130241",
+		"text": "RT @the_lynx_eyed: A great gift for that #HistSci person on your list, *hint hint* https://t.co/uSJNN3pvUd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HistSci",
+					"indices": [
+						41,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "the_lynx_eyed",
+					"name": "Cassandra Hatton",
+					"id": 620189035,
+					"id_str": "620189035",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uSJNN3pvUd",
+					"expanded_url": "https://twitter.com/darwinsbulldog/status/910567354593042432",
+					"display_url": "twitter.com/darwinsbulldog…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 896,
+			"friends_count": 966,
+			"listed_count": 110,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3672,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7727,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 23 05:16:46 +0000 2017",
+			"id": 933564963368599600,
+			"id_str": "933564963368599557",
+			"text": "A great gift for that #HistSci person on your list, *hint hint* https://t.co/uSJNN3pvUd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HistSci",
+						"indices": [
+							22,
+							30
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uSJNN3pvUd",
+						"expanded_url": "https://twitter.com/darwinsbulldog/status/910567354593042432",
+						"display_url": "twitter.com/darwinsbulldog…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 620189035,
+				"id_str": "620189035",
+				"name": "Cassandra Hatton",
+				"screen_name": "the_lynx_eyed",
+				"location": "New York, NY",
+				"description": "VP, Senior Specialist books & mss @sothebys  Expert in history of science/tech/space exploration #SothebysBooks #SothebysInSpace #HistSci #HistTech Views my own",
+				"url": "https://t.co/6xVwSVdnCD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6xVwSVdnCD",
+								"expanded_url": "http://www.sothebys.com/en/specialists/cassandra-hatton/bio.html",
+								"display_url": "sothebys.com/en/specialists…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1385,
+				"friends_count": 2090,
+				"listed_count": 33,
+				"created_at": "Wed Jun 27 17:28:57 +0000 2012",
+				"favourites_count": 746,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 955,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590065434/rxb4at0thzrxg4dak7nb.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590065434/rxb4at0thzrxg4dak7nb.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793164369106505728/3XfkrNQA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793164369106505728/3XfkrNQA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/620189035/1498271240",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 910567354593042400,
+			"quoted_status_id_str": "910567354593042432",
+			"quoted_status": {
+				"created_at": "Wed Sep 20 18:12:29 +0000 2017",
+				"id": 910567354593042400,
+				"id_str": "910567354593042432",
+				"text": "My friend's historical #WomeninScience coloring book is now available for pre-order: https://t.co/2YPqPjpFGZ… https://t.co/BhzRU09WkC",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "WomeninScience",
+							"indices": [
+								23,
+								38
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/2YPqPjpFGZ",
+							"expanded_url": "http://amzn.to/2xoazVD",
+							"display_url": "amzn.to/2xoazVD",
+							"indices": [
+								85,
+								108
+							]
+						},
+						{
+							"url": "https://t.co/BhzRU09WkC",
+							"expanded_url": "https://twitter.com/i/web/status/910567354593042432",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 21664633,
+					"id_str": "21664633",
+					"name": "Michael Barton",
+					"screen_name": "darwinsbulldog",
+					"location": "Portland, OR",
+					"description": "Dad, nature explorer, advocate for connecting children to nature. #playoutdoors https://t.co/m9FWbnkhJt (Darwin & #histsci blog: https://t.co/R8NohOgDGu)",
+					"url": "https://t.co/7t0l1uNi90",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/7t0l1uNi90",
+									"expanded_url": "http://exploreportlandnature.wordpress.com/",
+									"display_url": "exploreportlandnature.wordpress.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/m9FWbnkhJt",
+									"expanded_url": "http://natureplaysign.com",
+									"display_url": "natureplaysign.com",
+									"indices": [
+										80,
+										103
+									]
+								},
+								{
+									"url": "https://t.co/R8NohOgDGu",
+									"expanded_url": "http://bit.ly/ibSxjH",
+									"display_url": "bit.ly/ibSxjH",
+									"indices": [
+										129,
+										152
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 4100,
+					"friends_count": 4696,
+					"listed_count": 417,
+					"created_at": "Mon Feb 23 16:17:56 +0000 2009",
+					"favourites_count": 5207,
+					"utc_offset": -28800,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 22680,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C6E2EE",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000167285139/j5je4Wfe.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000167285139/j5je4Wfe.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/827556900413730816/C21G9MAz_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/827556900413730816/C21G9MAz_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/21664633/1422221825",
+					"profile_link_color": "1F98C7",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DAECF4",
+					"profile_text_color": "A25A16",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 33,
+				"favorite_count": 68,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 910567354593042400,
+		"quoted_status_id_str": "910567354593042432",
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 22 02:44:04 +0000 2017",
 		"id": 933164145221840900,
 		"id_str": "933164145221840897",
