@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 05 18:01:44 +0000 2018",
+		"id": 949340152060629000,
+		"id_str": "949340152060628992",
+		"text": "RT @ananny: Developed &amp; taught this seminar last semester with the fabulous @cmac: \"Media, Algorithms, &amp; Platform Publics\".  We had a fanta…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ananny",
+					"name": "Mike Ananny",
+					"id": 14702822,
+					"id_str": "14702822",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "cmac",
+					"name": "colin maclay",
+					"id": 1308251,
+					"id_str": "1308251",
+					"indices": [
+						80,
+						85
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 968,
+			"listed_count": 112,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3713,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7797,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 04 20:20:42 +0000 2018",
+			"id": 949012736389894100,
+			"id_str": "949012736389894144",
+			"text": "Developed &amp; taught this seminar last semester with the fabulous @cmac: \"Media, Algorithms, &amp; Platform Publics\".  We… https://t.co/7cXdAQnr2K",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cmac",
+						"name": "colin maclay",
+						"id": 1308251,
+						"id_str": "1308251",
+						"indices": [
+							68,
+							73
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7cXdAQnr2K",
+						"expanded_url": "https://twitter.com/i/web/status/949012736389894144",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14702822,
+				"id_str": "14702822",
+				"name": "Mike Ananny",
+				"screen_name": "ananny",
+				"location": "",
+				"description": "Asst Professor, Annenberg School for Comm & Journalism; Faculty Affiliate, Science, Technology & Society | University of Southern California | @F_Trudeau_F alum",
+				"url": "https://t.co/cG3TZ94xd0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cG3TZ94xd0",
+								"expanded_url": "http://ananny.org",
+								"display_url": "ananny.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2590,
+				"friends_count": 981,
+				"listed_count": 195,
+				"created_at": "Thu May 08 17:13:54 +0000 2008",
+				"favourites_count": 3437,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1966,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "232E4D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/700725910/d62cef6fa80fdab596d4abc9e81fa86c.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/700725910/d62cef6fa80fdab596d4abc9e81fa86c.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810952661134520320/o0RjYwUV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810952661134520320/o0RjYwUV_normal.jpg",
+				"profile_link_color": "0E3244",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99BFCF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jan 05 18:00:47 +0000 2018",
+		"id": 949339910057709600,
+		"id_str": "949339910057709570",
+		"text": "RT @mynameispurpose: To create a @HistoryFootnote episode, I take about a month for research and usually end up with one full notebook wort…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mynameispurpose",
+					"name": "Christine",
+					"id": 21380209,
+					"id_str": "21380209",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "HistoryFootnote",
+					"name": "Footnoting History",
+					"id": 1078031515,
+					"id_str": "1078031515",
+					"indices": [
+						33,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 968,
+			"listed_count": 112,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3713,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7797,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 05 02:40:13 +0000 2018",
+			"id": 949108243317579800,
+			"id_str": "949108243317579777",
+			"text": "To create a @HistoryFootnote episode, I take about a month for research and usually end up with one full notebook w… https://t.co/LTQQF6iger",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HistoryFootnote",
+						"name": "Footnoting History",
+						"id": 1078031515,
+						"id_str": "1078031515",
+						"indices": [
+							12,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/LTQQF6iger",
+						"expanded_url": "https://twitter.com/i/web/status/949108243317579777",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21380209,
+				"id_str": "21380209",
+				"name": "Christine",
+				"screen_name": "mynameispurpose",
+				"location": "New York",
+				"description": "Writer/Host/Assistant Producer for the podcast  @historyfootnote. Loves Bonapartes, Plantagenets, elephants, theatre, and the Mets.",
+				"url": "https://t.co/e36OzSjiHS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e36OzSjiHS",
+								"expanded_url": "http://www.christinecaccipuoti.com/",
+								"display_url": "christinecaccipuoti.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 581,
+				"friends_count": 543,
+				"listed_count": 49,
+				"created_at": "Fri Feb 20 06:42:57 +0000 2009",
+				"favourites_count": 7953,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14265,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/944280212186923009/A1DfeOu7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/944280212186923009/A1DfeOu7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21380209/1513968704",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 949103722931552300,
+			"quoted_status_id_str": "949103722931552256",
+			"quoted_status": {
+				"created_at": "Fri Jan 05 02:22:15 +0000 2018",
+				"id": 949103722931552300,
+				"id_str": "949103722931552256",
+				"text": "This is key. Podcasts are a serious form of historical scholarship and deserve recognition from the profession as s… https://t.co/EE4qK1XIG7",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/EE4qK1XIG7",
+							"expanded_url": "https://twitter.com/i/web/status/949103722931552256",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 312229664,
+					"id_str": "312229664",
+					"name": "Liz Covart",
+					"screen_name": "lizcovart",
+					"location": "Boston, MA, USA",
+					"description": "Historian. Knowledge Seeker. Host of Ben Franklin's World: A Podcast About Early American History. Digital Projects Editor @OIEAHC. Mint Chip Lover. Red Sox Fan",
+					"url": "https://t.co/cRFWwwFjFK",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/cRFWwwFjFK",
+									"expanded_url": "http://www.lizcovart.com",
+									"display_url": "lizcovart.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 8708,
+					"friends_count": 825,
+					"listed_count": 572,
+					"created_at": "Mon Jun 06 19:51:40 +0000 2011",
+					"favourites_count": 5044,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 68434,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EBEBEB",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434825065163550720/SpoHHtGE.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434825065163550720/SpoHHtGE.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/917558957471825920/OfNnXcpu_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/917558957471825920/OfNnXcpu_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/312229664/1451390101",
+					"profile_link_color": "990000",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F3F3F3",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 949027615259709400,
+				"quoted_status_id_str": "949027615259709441",
+				"retweet_count": 41,
+				"favorite_count": 206,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 17,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 949103722931552300,
+		"quoted_status_id_str": "949103722931552256",
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jan 04 20:19:00 +0000 2018",
 		"id": 949012305441951700,
 		"id_str": "949012305441951748",
