@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 10 00:49:44 +0000 2018",
+		"id": 950892379170631700,
+		"id_str": "950892379170631681",
+		"text": "RT @kawulf: Big, wonderful news for @OIEAHC and #VastEarlyAmerica! Thrilled to welcome our new Editor of Books: respected scholar, incisive…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VastEarlyAmerica",
+					"indices": [
+						48,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kawulf",
+					"name": "Karin Wulf",
+					"id": 2513822461,
+					"id_str": "2513822461",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "OIEAHC",
+					"name": "OIEAHC",
+					"id": 1901545160,
+					"id_str": "1901545160",
+					"indices": [
+						36,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 897,
+			"friends_count": 969,
+			"listed_count": 112,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3716,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7808,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 18:24:23 +0000 2018",
+			"id": 950795403666083800,
+			"id_str": "950795403666083840",
+			"text": "Big, wonderful news for @OIEAHC and #VastEarlyAmerica! Thrilled to welcome our new Editor of Books: respected schol… https://t.co/kuVNU9K0Qv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VastEarlyAmerica",
+						"indices": [
+							36,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OIEAHC",
+						"name": "OIEAHC",
+						"id": 1901545160,
+						"id_str": "1901545160",
+						"indices": [
+							24,
+							31
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kuVNU9K0Qv",
+						"expanded_url": "https://twitter.com/i/web/status/950795403666083840",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2513822461,
+				"id_str": "2513822461",
+				"name": "Karin Wulf",
+				"screen_name": "kawulf",
+				"location": "",
+				"description": "Historian of #VastEarlyAmerica. Director @OIEAHC. Prof. @williamandmary. Blogger @scholarlykitchn.  Neurodiversity.",
+				"url": "https://t.co/0aQe1CsXIT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0aQe1CsXIT",
+								"expanded_url": "http://karinwulf.com",
+								"display_url": "karinwulf.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4150,
+				"friends_count": 720,
+				"listed_count": 103,
+				"created_at": "Wed May 21 22:11:31 +0000 2014",
+				"favourites_count": 9332,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7022,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/665933461702619138/PCfX_zHv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/665933461702619138/PCfX_zHv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2513822461/1434312854",
+				"profile_link_color": "343A34",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 82,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 08 19:53:46 +0000 2018",
 		"id": 950455508154101800,
 		"id_str": "950455508154101766",
