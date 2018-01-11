@@ -1,6 +1,563 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 10 05:04:16 +0000 2018",
+		"id": 950956434715537400,
+		"id_str": "950956434715537408",
+		"text": "RT @captain_primate: News!  Very exited that we can announce this project! https://t.co/SIBUMu2elI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "captain_primate",
+					"name": "Ethan Watrall",
+					"id": 12877652,
+					"id_str": "12877652",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SIBUMu2elI",
+					"expanded_url": "https://twitter.com/Matrix_MSU/status/950737433695531009",
+					"display_url": "twitter.com/Matrix_MSU/sta…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 969,
+			"listed_count": 112,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3722,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 14:37:46 +0000 2018",
+			"id": 950738374331174900,
+			"id_str": "950738374331174913",
+			"text": "News!  Very exited that we can announce this project! https://t.co/SIBUMu2elI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SIBUMu2elI",
+						"expanded_url": "https://twitter.com/Matrix_MSU/status/950737433695531009",
+						"display_url": "twitter.com/Matrix_MSU/sta…",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12877652,
+				"id_str": "12877652",
+				"name": "Ethan Watrall",
+				"screen_name": "captain_primate",
+				"location": "Michigan",
+				"description": "Asst Prof, @MSUAnthropology. Assoc Dir, @matrix_msu. Director, @chi_initiative. Digital archaeology & heritage. Predynastic Egypt. Pseudoarchaeology. Canadian.",
+				"url": "http://t.co/9HIWet2VSH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9HIWet2VSH",
+								"expanded_url": "http://www.captainprimate.com",
+								"display_url": "captainprimate.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4329,
+				"friends_count": 689,
+				"listed_count": 402,
+				"created_at": "Wed Jan 30 17:23:55 +0000 2008",
+				"favourites_count": 1926,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 66287,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/455762986062209024/L12yst2R_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/455762986062209024/L12yst2R_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12877652/1358014056",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 950737433695531000,
+			"quoted_status_id_str": "950737433695531009",
+			"quoted_status": {
+				"created_at": "Tue Jan 09 14:34:02 +0000 2018",
+				"id": 950737433695531000,
+				"id_str": "950737433695531009",
+				"text": "We are very pleased to announce that MATRIX has been awarded a $1.5M grant from the @MellonFdn to build a linked op… https://t.co/eAVzNALkdN",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "MellonFdn",
+							"name": "Mellon Foundation",
+							"id": 4048787009,
+							"id_str": "4048787009",
+							"indices": [
+								84,
+								94
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/eAVzNALkdN",
+							"expanded_url": "https://twitter.com/i/web/status/950737433695531009",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 42950393,
+					"id_str": "42950393",
+					"name": "Matrix",
+					"screen_name": "Matrix_MSU",
+					"location": "Michigan State University",
+					"description": "MATRIX: The Center for Digital Humanities & Social Sciences",
+					"url": "http://t.co/6I5L5wDBSQ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/6I5L5wDBSQ",
+									"expanded_url": "http://matrix.msu.edu",
+									"display_url": "matrix.msu.edu",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1600,
+					"friends_count": 1306,
+					"listed_count": 118,
+					"created_at": "Wed May 27 19:16:36 +0000 2009",
+					"favourites_count": 106,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1018,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/378800000142808798/cdb4a2894668310a885e7f5ed9f4f7ac_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000142808798/cdb4a2894668310a885e7f5ed9f4f7ac_normal.png",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 99,
+				"favorite_count": 180,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 24,
+			"favorite_count": 126,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 950737433695531000,
+		"quoted_status_id_str": "950737433695531009",
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 10 04:51:31 +0000 2018",
+		"id": 950953223887650800,
+		"id_str": "950953223887650817",
+		"text": "RT @tulsaworld: Oklahoma topples again in education funding, trails regional states on per-pupil spending #oklaed\nhttps://t.co/mrd2F0r5ee h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oklaed",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tulsaworld",
+					"name": "Tulsa World",
+					"id": 14709647,
+					"id_str": "14709647",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mrd2F0r5ee",
+					"expanded_url": "http://ow.ly/qYyF30hGq5F",
+					"display_url": "ow.ly/qYyF30hGq5F",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 898,
+			"friends_count": 969,
+			"listed_count": 112,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3722,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jan 10 02:29:30 +0000 2018",
+			"id": 950917485422940200,
+			"id_str": "950917485422940165",
+			"text": "Oklahoma topples again in education funding, trails regional states on per-pupil spending #oklaed… https://t.co/JbbhcaMzEg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oklaed",
+						"indices": [
+							90,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JbbhcaMzEg",
+						"expanded_url": "https://twitter.com/i/web/status/950917485422940165",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14709647,
+				"id_str": "14709647",
+				"name": "Tulsa World",
+				"screen_name": "tulsaworld",
+				"location": "Tulsa, Okla.",
+				"description": "The latest news from the Tulsa World, powered by the largest newsroom in Northeastern Oklahoma.",
+				"url": "http://t.co/0tGoHV8GQi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0tGoHV8GQi",
+								"expanded_url": "http://www.tulsaworld.com",
+								"display_url": "tulsaworld.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 107926,
+				"friends_count": 8566,
+				"listed_count": 1060,
+				"created_at": "Fri May 09 04:13:58 +0000 2008",
+				"favourites_count": 790,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 77099,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "324F5E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/64645993/Night-Aerials-of-Downtown2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/64645993/Night-Aerials-of-Downtown2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/938405222040440833/HJuXjR-I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/938405222040440833/HJuXjR-I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14709647/1470058777",
+				"profile_link_color": "274C96",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "7BB0BD",
+				"profile_text_color": "050505",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jan 10 00:49:44 +0000 2018",
 		"id": 950892379170631700,
 		"id_str": "950892379170631681",
