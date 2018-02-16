@@ -1,6 +1,1599 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 15 04:18:00 +0000 2018",
+		"id": 963990753910444000,
+		"id_str": "963990753910444032",
+		"text": "RT @ChrisBHaynes: Steve Kerr’s powerful message on the shooting massacre in Florida. https://t.co/Lo4k66JG4G",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisBHaynes",
+					"name": "Chris Haynes",
+					"id": 57710919,
+					"id_str": "57710919",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 963957856432111600,
+					"id_str": "963957856432111616",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/963957856432111616/pu/img/Q6xjWQlpxZ91PadV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/963957856432111616/pu/img/Q6xjWQlpxZ91PadV.jpg",
+					"url": "https://t.co/Lo4k66JG4G",
+					"display_url": "pic.twitter.com/Lo4k66JG4G",
+					"expanded_url": "https://twitter.com/ChrisBHaynes/status/963958043904851968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963958043904852000,
+					"source_status_id_str": "963958043904851968",
+					"source_user_id": 57710919,
+					"source_user_id_str": "57710919"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 963957856432111600,
+					"id_str": "963957856432111616",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/963957856432111616/pu/img/Q6xjWQlpxZ91PadV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/963957856432111616/pu/img/Q6xjWQlpxZ91PadV.jpg",
+					"url": "https://t.co/Lo4k66JG4G",
+					"display_url": "pic.twitter.com/Lo4k66JG4G",
+					"expanded_url": "https://twitter.com/ChrisBHaynes/status/963958043904851968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963958043904852000,
+					"source_status_id_str": "963958043904851968",
+					"source_user_id": 57710919,
+					"source_user_id_str": "57710919",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 104665,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/963957856432111616/pu/vid/320x180/YJU-U2yXSyLv0Ca-.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/963957856432111616/pu/vid/1280x720/JhGaSx-DyG8vIL07.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/963957856432111616/pu/pl/GCu038_krHBQ4e70.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/963957856432111616/pu/vid/640x360/ycF7b4n9Du2icPqI.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 57710919,
+							"id_str": "57710919",
+							"name": "Chris Haynes",
+							"screen_name": "ChrisBHaynes",
+							"location": "",
+							"description": "ESPN NBA reporter. Fresno!!! Instagram: ChrisBHaynesNBA. Email: cbhaynes6@gmail.com. Reps: https://t.co/LBedLDmNLH",
+							"url": "https://t.co/WbTqJG1FhZ",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/WbTqJG1FhZ",
+											"expanded_url": "https://www.facebook.com/ChrisBHaynesNBA",
+											"display_url": "facebook.com/ChrisBHaynesNBA",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/LBedLDmNLH",
+											"expanded_url": "http://www.maxxtalent.com/chrishaynes/",
+											"display_url": "maxxtalent.com/chrishaynes/",
+											"indices": [
+												91,
+												114
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 83499,
+							"friends_count": 300,
+							"listed_count": 2879,
+							"created_at": "Fri Jul 17 18:05:20 +0000 2009",
+							"favourites_count": 2377,
+							"utc_offset": -28800,
+							"time_zone": "Pacific Time (US & Canada)",
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 20281,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433285013476352000/g9Pul9CI.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433285013476352000/g9Pul9CI.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/855613510570483712/X-121OSG_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/855613510570483712/X-121OSG_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/57710919/1487988593",
+							"profile_link_color": "303970",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 916,
+			"friends_count": 994,
+			"listed_count": 111,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3812,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 15 02:08:01 +0000 2018",
+			"id": 963958043904852000,
+			"id_str": "963958043904851968",
+			"text": "Steve Kerr’s powerful message on the shooting massacre in Florida. https://t.co/Lo4k66JG4G",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 963957856432111600,
+						"id_str": "963957856432111616",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/963957856432111616/pu/img/Q6xjWQlpxZ91PadV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/963957856432111616/pu/img/Q6xjWQlpxZ91PadV.jpg",
+						"url": "https://t.co/Lo4k66JG4G",
+						"display_url": "pic.twitter.com/Lo4k66JG4G",
+						"expanded_url": "https://twitter.com/ChrisBHaynes/status/963958043904851968/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 963957856432111600,
+						"id_str": "963957856432111616",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/963957856432111616/pu/img/Q6xjWQlpxZ91PadV.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/963957856432111616/pu/img/Q6xjWQlpxZ91PadV.jpg",
+						"url": "https://t.co/Lo4k66JG4G",
+						"display_url": "pic.twitter.com/Lo4k66JG4G",
+						"expanded_url": "https://twitter.com/ChrisBHaynes/status/963958043904851968/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 104665,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/963957856432111616/pu/vid/320x180/YJU-U2yXSyLv0Ca-.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/963957856432111616/pu/vid/1280x720/JhGaSx-DyG8vIL07.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/963957856432111616/pu/pl/GCu038_krHBQ4e70.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/963957856432111616/pu/vid/640x360/ycF7b4n9Du2icPqI.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57710919,
+				"id_str": "57710919",
+				"name": "Chris Haynes",
+				"screen_name": "ChrisBHaynes",
+				"location": "",
+				"description": "ESPN NBA reporter. Fresno!!! Instagram: ChrisBHaynesNBA. Email: cbhaynes6@gmail.com. Reps: https://t.co/LBedLDmNLH",
+				"url": "https://t.co/WbTqJG1FhZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WbTqJG1FhZ",
+								"expanded_url": "https://www.facebook.com/ChrisBHaynesNBA",
+								"display_url": "facebook.com/ChrisBHaynesNBA",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LBedLDmNLH",
+								"expanded_url": "http://www.maxxtalent.com/chrishaynes/",
+								"display_url": "maxxtalent.com/chrishaynes/",
+								"indices": [
+									91,
+									114
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 83499,
+				"friends_count": 300,
+				"listed_count": 2879,
+				"created_at": "Fri Jul 17 18:05:20 +0000 2009",
+				"favourites_count": 2377,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20281,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433285013476352000/g9Pul9CI.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433285013476352000/g9Pul9CI.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855613510570483712/X-121OSG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855613510570483712/X-121OSG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57710919/1487988593",
+				"profile_link_color": "303970",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41318,
+			"favorite_count": 82182,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 41318,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 15 03:55:15 +0000 2018",
+		"id": 963985028014399500,
+		"id_str": "963985028014399489",
+		"text": "RT @bessbell: $4,418,012.00\nFour million four hundred eighteen thousand and twelve dollars from the NRA. https://t.co/kPZQIPTg42",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bessbell",
+					"name": "Bess Kalb",
+					"id": 36712233,
+					"id_str": "36712233",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kPZQIPTg42",
+					"expanded_url": "https://twitter.com/SenThomTillis/status/963900580707098625",
+					"display_url": "twitter.com/SenThomTillis/…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 916,
+			"friends_count": 994,
+			"listed_count": 111,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3812,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 14 23:35:40 +0000 2018",
+			"id": 963919702727651300,
+			"id_str": "963919702727651328",
+			"text": "$4,418,012.00\nFour million four hundred eighteen thousand and twelve dollars from the NRA. https://t.co/kPZQIPTg42",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kPZQIPTg42",
+						"expanded_url": "https://twitter.com/SenThomTillis/status/963900580707098625",
+						"display_url": "twitter.com/SenThomTillis/…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36712233,
+				"id_str": "36712233",
+				"name": "Bess Kalb",
+				"screen_name": "bessbell",
+				"location": "LA",
+				"description": "I'm a girl TV writer and a real piece of work.",
+				"url": "https://t.co/FU0reyrk6B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FU0reyrk6B",
+								"expanded_url": "http://www.besskalb.com/",
+								"display_url": "besskalb.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 182041,
+				"friends_count": 737,
+				"listed_count": 1486,
+				"created_at": "Thu Apr 30 17:01:15 +0000 2009",
+				"favourites_count": 19763,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7909,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/869617938/51f27f7f8c34c94fff8bf5079fac687b.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/869617938/51f27f7f8c34c94fff8bf5079fac687b.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/812167800831741952/DEG5AL2n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/812167800831741952/DEG5AL2n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36712233/1476116398",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 963900580707098600,
+			"quoted_status_id_str": "963900580707098625",
+			"quoted_status": {
+				"created_at": "Wed Feb 14 22:19:41 +0000 2018",
+				"id": 963900580707098600,
+				"id_str": "963900580707098625",
+				"text": "Tragic news out of Florida. Please keep the victims, their families, first responders and the community in your thoughts and prayers.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2964174789,
+					"id_str": "2964174789",
+					"name": "Senator Thom Tillis",
+					"screen_name": "SenThomTillis",
+					"location": "Washington, D.C.",
+					"description": "Official Twitter account of North Carolina U.S. Senator Thom Tillis.",
+					"url": "https://t.co/mLVkKiULqh",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/mLVkKiULqh",
+									"expanded_url": "http://tillis.senate.gov",
+									"display_url": "tillis.senate.gov",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 49380,
+					"friends_count": 4601,
+					"listed_count": 1122,
+					"created_at": "Tue Jan 06 14:22:18 +0000 2015",
+					"favourites_count": 858,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 3128,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/748878588896768000/sjSP8Rlt_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/748878588896768000/sjSP8Rlt_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2964174789/1513621335",
+					"profile_link_color": "89C9FA",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 85,
+				"favorite_count": 277,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 27315,
+			"favorite_count": 56555,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 963900580707098600,
+		"quoted_status_id_str": "963900580707098625",
+		"retweet_count": 27315,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 15 03:28:47 +0000 2018",
+		"id": 963978367354667000,
+		"id_str": "963978367354667008",
+		"text": "RT @JiaweiLi1945: Dr. Velazquez's speech about Puerto Rico is very meaningful for us today. I hope that one day, public will consciously ca…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JiaweiLi1945",
+					"name": "Jiawei Li",
+					"id": 918429587301982200,
+					"id_str": "918429587301982209",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 916,
+			"friends_count": 994,
+			"listed_count": 111,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3812,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 14 23:22:16 +0000 2018",
+			"id": 963916329441951700,
+			"id_str": "963916329441951744",
+			"text": "Dr. Velazquez's speech about Puerto Rico is very meaningful for us today. I hope that one day, public will consciou… https://t.co/rtfdBYlltb",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rtfdBYlltb",
+						"expanded_url": "https://twitter.com/i/web/status/963916329441951744",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 918429587301982200,
+				"id_str": "918429587301982209",
+				"name": "Jiawei Li",
+				"screen_name": "JiaweiLi1945",
+				"location": "Norman, OK",
+				"description": "A very common student.",
+				"url": "https://t.co/bHEuZA4yOS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bHEuZA4yOS",
+								"expanded_url": "http://itisjiawei.weebly.com",
+								"display_url": "itisjiawei.weebly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4,
+				"friends_count": 32,
+				"listed_count": 0,
+				"created_at": "Thu Oct 12 10:54:12 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918430613442510848/dt1Lda_P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918430613442510848/dt1Lda_P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/918429587301982209/1507806044",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 15 03:20:39 +0000 2018",
+		"id": 963976323239735300,
+		"id_str": "963976323239735297",
+		"text": "RT @pronounced_ing: Maybe instead of praying, you should have refused money from the NRA and acted to make it harder to get guns instead of…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pronounced_ing",
+					"name": "Celeste Ng",
+					"id": 956163518,
+					"id_str": "956163518",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 916,
+			"friends_count": 994,
+			"listed_count": 111,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3812,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 15 00:13:10 +0000 2018",
+			"id": 963929139135811600,
+			"id_str": "963929139135811585",
+			"text": "Maybe instead of praying, you should have refused money from the NRA and acted to make it harder to get guns instea… https://t.co/DGBSDDHP40",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DGBSDDHP40",
+						"expanded_url": "https://twitter.com/i/web/status/963929139135811585",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 956163518,
+				"id_str": "956163518",
+				"name": "Celeste Ng",
+				"screen_name": "pronounced_ing",
+				"location": "Cambridge, MA",
+				"description": "Fiction writer, science nerd; ex-Clevelander. Embarrassingly sincere. Novels: EVERYTHING I NEVER TOLD YOU; LITTLE FIRES EVERYWHERE.",
+				"url": "https://t.co/QuNa225TPq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QuNa225TPq",
+								"expanded_url": "http://celesteng.com",
+								"display_url": "celesteng.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48128,
+				"friends_count": 1409,
+				"listed_count": 817,
+				"created_at": "Sun Nov 18 20:20:07 +0000 2012",
+				"favourites_count": 143895,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 77328,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000144494379/vLif8Qeu.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000144494379/vLif8Qeu.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923235960346771456/PTfOYqpy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923235960346771456/PTfOYqpy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/956163518/1493680052",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 963889141149823000,
+			"quoted_status_id_str": "963889141149822976",
+			"quoted_status": {
+				"created_at": "Wed Feb 14 21:34:14 +0000 2018",
+				"id": 963889141149823000,
+				"id_str": "963889141149822976",
+				"text": "Just spoke to Broward School Superintendent. Today is that terrible day you pray never comes.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 15745368,
+					"id_str": "15745368",
+					"name": "Marco Rubio",
+					"screen_name": "marcorubio",
+					"location": "United States",
+					"description": "US Senator for Florida. Follow @SenRubioPress for more updates.",
+					"url": "https://t.co/xm4vZLmGV0",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/xm4vZLmGV0",
+									"expanded_url": "http://marcorubio.com",
+									"display_url": "marcorubio.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3477601,
+					"friends_count": 2428,
+					"listed_count": 14865,
+					"created_at": "Wed Aug 06 03:07:06 +0000 2008",
+					"favourites_count": 1792,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 7614,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/953778314057015296/PwOvxEQ-_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/953778314057015296/PwOvxEQ-_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/15745368/1516292717",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "EEEEEE",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1392,
+				"favorite_count": 6855,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 394,
+			"favorite_count": 1688,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 963889141149823000,
+		"quoted_status_id_str": "963889141149822976",
+		"retweet_count": 394,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Feb 15 03:02:08 +0000 2018",
+		"id": 963971663359602700,
+		"id_str": "963971663359602689",
+		"text": "RT @Alt_Walt: Gov. Rick Scott signed 5 Pro-gun bills in 2014 making Nicolas Cruz fully able to purchase a gas mask, smoke grenade and an AK…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Alt_Walt",
+					"name": "Alt Walter",
+					"id": 880264747882471400,
+					"id_str": "880264747882471425",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 916,
+			"friends_count": 994,
+			"listed_count": 111,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3812,
+			"utc_offset": -21600,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7978,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 15 01:30:55 +0000 2018",
+			"id": 963948705383460900,
+			"id_str": "963948705383460864",
+			"text": "Gov. Rick Scott signed 5 Pro-gun bills in 2014 making Nicolas Cruz fully able to purchase a gas mask, smoke grenade… https://t.co/2dlIHBrrxX",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2dlIHBrrxX",
+						"expanded_url": "https://twitter.com/i/web/status/963948705383460864",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 880264747882471400,
+				"id_str": "880264747882471425",
+				"name": "Alt Walter",
+				"screen_name": "Alt_Walt",
+				"location": "",
+				"description": "Grumpy old man who has no patience for BS.\nMy favorite acronym is RICO",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 741,
+				"friends_count": 484,
+				"listed_count": 7,
+				"created_at": "Thu Jun 29 03:20:45 +0000 2017",
+				"favourites_count": 9869,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14918,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880267139160068096/bLWXBS7f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880267139160068096/bLWXBS7f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/880264747882471425/1517247543",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 963914990179713000,
+			"quoted_status_id_str": "963914990179713029",
+			"quoted_status": {
+				"created_at": "Wed Feb 14 23:16:56 +0000 2018",
+				"id": 963914990179713000,
+				"id_str": "963914990179713029",
+				"text": "6.2014: Florida Governor Rick Scott Makes History Signing 5 Pro-gun Bills \nFrom the #NRA-ILA Institute for Legislat… https://t.co/eG8tN9licC",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "NRA",
+							"indices": [
+								84,
+								88
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/eG8tN9licC",
+							"expanded_url": "https://twitter.com/i/web/status/963914990179713029",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 742855314,
+					"id_str": "742855314",
+					"name": "Mass Disturbance",
+					"screen_name": "MassD",
+					"location": "Massachusetts",
+					"description": "Writer. Patriot. Resistance. Pissed.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 11924,
+					"friends_count": 11604,
+					"listed_count": 20,
+					"created_at": "Tue Aug 07 12:57:39 +0000 2012",
+					"favourites_count": 9599,
+					"utc_offset": -18000,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 23628,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/2546730588/mdf1dprfaes9f42kz6rm_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/2546730588/mdf1dprfaes9f42kz6rm_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/742855314/1512083849",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 904,
+				"favorite_count": 536,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 15352,
+			"favorite_count": 19201,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 963914990179713000,
+		"quoted_status_id_str": "963914990179713029",
+		"retweet_count": 15352,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 14 22:22:19 +0000 2018",
 		"id": 963901244405370900,
 		"id_str": "963901244405370880",
