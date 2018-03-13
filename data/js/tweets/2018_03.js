@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Mon Mar 12 03:05:59 +0000 2018",
+		"id": 973032328057507800,
+		"id_str": "973032328057507840",
+		"text": "RT @jonathanchait: After taunting Republicans for being afraid of the NRA, Trump gives in to the NRA https://t.co/VcHFXiQPww https://t.co/k…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonathanchait",
+					"name": "Jonathan Chait",
+					"id": 50446226,
+					"id_str": "50446226",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VcHFXiQPww",
+					"expanded_url": "http://nymag.com/daily/intelligencer/2018/03/after-taunting-gop-as-afraid-of-nra-trump-gives-in-to-nra.html",
+					"display_url": "nymag.com/daily/intellig…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 922,
+			"friends_count": 1006,
+			"listed_count": 111,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3935,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8081,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 12 01:11:13 +0000 2018",
+			"id": 973003443723030500,
+			"id_str": "973003443723030529",
+			"text": "After taunting Republicans for being afraid of the NRA, Trump gives in to the NRA https://t.co/VcHFXiQPww https://t.co/k1NZvHQErI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VcHFXiQPww",
+						"expanded_url": "http://nymag.com/daily/intelligencer/2018/03/after-taunting-gop-as-afraid-of-nra-trump-gives-in-to-nra.html",
+						"display_url": "nymag.com/daily/intellig…",
+						"indices": [
+							82,
+							105
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 973003438106857500,
+						"id_str": "973003438106857472",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/DYDNeMWX0AAR4LH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYDNeMWX0AAR4LH.jpg",
+						"url": "https://t.co/k1NZvHQErI",
+						"display_url": "pic.twitter.com/k1NZvHQErI",
+						"expanded_url": "https://twitter.com/jonathanchait/status/973003443723030529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 710,
+								"h": 473,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 710,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 973003438106857500,
+						"id_str": "973003438106857472",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/DYDNeMWX0AAR4LH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYDNeMWX0AAR4LH.jpg",
+						"url": "https://t.co/k1NZvHQErI",
+						"display_url": "pic.twitter.com/k1NZvHQErI",
+						"expanded_url": "https://twitter.com/jonathanchait/status/973003443723030529/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 710,
+								"h": 473,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 710,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50446226,
+				"id_str": "50446226",
+				"name": "Jonathan Chait",
+				"screen_name": "jonathanchait",
+				"location": "Washington, D.C.",
+				"description": "Writer for New York magazine.  Notifications turned off.",
+				"url": "http://t.co/P2yVPAMdBp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/P2yVPAMdBp",
+								"expanded_url": "http://nymag.com/author/jonathan%20chait",
+								"display_url": "nymag.com/author/jonatha…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 148405,
+				"friends_count": 351,
+				"listed_count": 3791,
+				"created_at": "Wed Jun 24 21:26:30 +0000 2009",
+				"favourites_count": 7828,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 36241,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963763294447263745/bJM-uo4C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963763294447263745/bJM-uo4C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50446226/1442284248",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 74,
+			"favorite_count": 134,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 12 03:02:16 +0000 2018",
+		"id": 973031391788261400,
+		"id_str": "973031391788261379",
+		"text": "RT @AntonioCasilli: It's almost Spring. This winter's best #privacy-related Twitter thread was... https://t.co/HYemmIBkYp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "privacy",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AntonioCasilli",
+					"name": "Casilli",
+					"id": 87671968,
+					"id_str": "87671968",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HYemmIBkYp",
+					"expanded_url": "https://twitter.com/hypervisible/status/946822278582603777",
+					"display_url": "twitter.com/hypervisible/s…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 922,
+			"friends_count": 1006,
+			"listed_count": 111,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 3935,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8081,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 11 09:26:36 +0000 2018",
+			"id": 972765725050986500,
+			"id_str": "972765725050986496",
+			"text": "It's almost Spring. This winter's best #privacy-related Twitter thread was... https://t.co/HYemmIBkYp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "privacy",
+						"indices": [
+							39,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HYemmIBkYp",
+						"expanded_url": "https://twitter.com/hypervisible/status/946822278582603777",
+						"display_url": "twitter.com/hypervisible/s…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87671968,
+				"id_str": "87671968",
+				"name": "Casilli",
+				"screen_name": "AntonioCasilli",
+				"location": "Paris, France",
+				"description": "Pan-European digital sociologist, associate prof. @TelecomPTech+@EHESS_fr ~ Fellow @nexacenter ~ People study my books, bots actually read them.",
+				"url": "https://t.co/rcJZKs019l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rcJZKs019l",
+								"expanded_url": "http://www.casilli.fr/",
+								"display_url": "casilli.fr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12333,
+				"friends_count": 1161,
+				"listed_count": 1017,
+				"created_at": "Thu Nov 05 12:14:01 +0000 2009",
+				"favourites_count": 13333,
+				"utc_offset": 3600,
+				"time_zone": "Paris",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 43342,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "141212",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/944287641859739649/5h0nPVxz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/944287641859739649/5h0nPVxz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87671968/1513981302",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 946822278582603800,
+			"quoted_status_id_str": "946822278582603777",
+			"quoted_status": {
+				"created_at": "Fri Dec 29 19:16:36 +0000 2017",
+				"id": 946822278582603800,
+				"id_str": "946822278582603777",
+				"text": "What’s the most absurd/invasive thing that tech platforms do or have done that sounds made-up but is actually true?",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 175292337,
+					"id_str": "175292337",
+					"name": "chris g",
+					"screen_name": "hypervisible",
+					"location": "",
+					"description": "Professor & snowboarder. I spend a lot of time thinking (& not enough time writing) about algorithms, personalization & big data in education. #digitalredlining",
+					"url": "https://t.co/AZ81IRjWwC",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/AZ81IRjWwC",
+									"expanded_url": "http://hypervisible.com",
+									"display_url": "hypervisible.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4083,
+					"friends_count": 931,
+					"listed_count": 249,
+					"created_at": "Fri Aug 06 05:44:19 +0000 2010",
+					"favourites_count": 58418,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 28405,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1275064805/wrist3_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275064805/wrist3_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4856,
+				"favorite_count": 7772,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 946822278582603800,
+		"quoted_status_id_str": "946822278582603777",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Mar 10 19:50:15 +0000 2018",
 		"id": 972560283427319800,
 		"id_str": "972560283427319810",
