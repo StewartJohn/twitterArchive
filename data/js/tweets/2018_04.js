@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 07 01:34:36 +0000 2018",
+		"id": 982431414149963800,
+		"id_str": "982431414149963776",
+		"text": "RT @benmarwick: The future of scholarly publishing in archaeology is sketched out by @BlckheathHopper in https://t.co/BkMK4qMCa6 and includ…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benmarwick",
+					"name": "Ben Marwick",
+					"id": 15871746,
+					"id_str": "15871746",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "BlckheathHopper",
+					"name": "Jeremy Huggett",
+					"id": 897514144362106900,
+					"id_str": "897514144362106880",
+					"indices": [
+						85,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BkMK4qMCa6",
+					"expanded_url": "http://introspectivedigitalarchaeology.com/2018/04/06/hypedertextual-archaeology/",
+					"display_url": "introspectivedigitalarchaeology.com/2018/04/06/hyp…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 924,
+			"friends_count": 1015,
+			"listed_count": 111,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 4068,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8167,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 21:31:07 +0000 2018",
+			"id": 982370138371444700,
+			"id_str": "982370138371444736",
+			"text": "The future of scholarly publishing in archaeology is sketched out by @BlckheathHopper in https://t.co/BkMK4qMCa6 an… https://t.co/ulz0AU9W8l",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BlckheathHopper",
+						"name": "Jeremy Huggett",
+						"id": 897514144362106900,
+						"id_str": "897514144362106880",
+						"indices": [
+							69,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BkMK4qMCa6",
+						"expanded_url": "http://introspectivedigitalarchaeology.com/2018/04/06/hypedertextual-archaeology/",
+						"display_url": "introspectivedigitalarchaeology.com/2018/04/06/hyp…",
+						"indices": [
+							89,
+							112
+						]
+					},
+					{
+						"url": "https://t.co/ulz0AU9W8l",
+						"expanded_url": "https://twitter.com/i/web/status/982370138371444736",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15871746,
+				"id_str": "15871746",
+				"name": "Ben Marwick",
+				"screen_name": "benmarwick",
+				"location": "",
+				"description": "Archaeologist at the @UW & @UOW",
+				"url": "https://t.co/cb5ZzU9H2I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cb5ZzU9H2I",
+								"expanded_url": "http://faculty.washington.edu/bmarwick/",
+								"display_url": "faculty.washington.edu/bmarwick/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1362,
+				"friends_count": 1649,
+				"listed_count": 102,
+				"created_at": "Sat Aug 16 07:03:38 +0000 2008",
+				"favourites_count": 21234,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4455,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/658229128689127424/K-UXJ3ir.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/658229128689127424/K-UXJ3ir.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000076303406/c92c40ebbd31c9fd6a2413893c2ca6fc_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000076303406/c92c40ebbd31c9fd6a2413893c2ca6fc_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15871746/1445769544",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Apr 06 20:51:01 +0000 2018",
 		"id": 982360049766019100,
 		"id_str": "982360049766019072",
