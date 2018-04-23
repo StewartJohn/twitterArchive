@@ -1,6 +1,1030 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 22 19:39:07 +0000 2018",
+		"id": 988140160679280600,
+		"id_str": "988140160679280640",
+		"text": "RT @iammoshow: Black cats are the least to be adopted due to them being black, stereotypes, people believing they’re black luck or because…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iammoshow",
+					"name": "iAmMoshow",
+					"id": 2185519721,
+					"id_str": "2185519721",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 964,
+			"friends_count": 1035,
+			"listed_count": 112,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 4236,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8266,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 21 16:51:56 +0000 2018",
+			"id": 987735698244493300,
+			"id_str": "987735698244493312",
+			"text": "Black cats are the least to be adopted due to them being black, stereotypes, people believing they’re black luck or… https://t.co/BOQuuyxB0v",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BOQuuyxB0v",
+						"expanded_url": "https://twitter.com/i/web/status/987735698244493312",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2185519721,
+				"id_str": "2185519721",
+				"name": "iAmMoshow",
+				"screen_name": "iammoshow",
+				"location": "Portland, OR",
+				"description": "I'm The Cat Rapper...",
+				"url": "https://t.co/7zm22nqFvo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7zm22nqFvo",
+								"expanded_url": "https://www.amazon.com/dp/B0762Q991H/ref=cm_sw_r_tw_api_6uq2zbH53CV4B",
+								"display_url": "amazon.com/dp/B0762Q991H/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34117,
+				"friends_count": 141,
+				"listed_count": 184,
+				"created_at": "Mon Nov 18 05:01:23 +0000 2013",
+				"favourites_count": 4598,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9223,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/916539990078758913/IeObLphM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/916539990078758913/IeObLphM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2185519721/1498264394",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7000,
+			"favorite_count": 13252,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7000,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 22 18:29:35 +0000 2018",
+		"id": 988122662340788200,
+		"id_str": "988122662340788225",
+		"text": "RT @Bali_Maha: This week we're using @hypothes_is to annotate the @NMCorg 2nd #DigitalLiteracy Strategic Brief - anyone welcome to join. Th…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalLiteracy",
+					"indices": [
+						78,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi مها بالي 🌷",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "hypothes_is",
+					"name": "Hypothesis",
+					"id": 325100970,
+					"id_str": "325100970",
+					"indices": [
+						37,
+						49
+					]
+				},
+				{
+					"screen_name": "NMCorg",
+					"name": "New Media Consortium",
+					"id": 6511252,
+					"id_str": "6511252",
+					"indices": [
+						66,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 964,
+			"friends_count": 1035,
+			"listed_count": 112,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 4236,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8266,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 22 11:39:14 +0000 2018",
+			"id": 988019393031561200,
+			"id_str": "988019393031561216",
+			"text": "This week we're using @hypothes_is to annotate the @NMCorg 2nd #DigitalLiteracy Strategic Brief - anyone welcome to… https://t.co/eCejbYah5g",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DigitalLiteracy",
+						"indices": [
+							63,
+							79
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hypothes_is",
+						"name": "Hypothesis",
+						"id": 325100970,
+						"id_str": "325100970",
+						"indices": [
+							22,
+							34
+						]
+					},
+					{
+						"screen_name": "NMCorg",
+						"name": "New Media Consortium",
+						"id": 6511252,
+						"id_str": "6511252",
+						"indices": [
+							51,
+							58
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eCejbYah5g",
+						"expanded_url": "https://twitter.com/i/web/status/988019393031561216",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1535273520,
+				"id_str": "1535273520",
+				"name": "ℳąhą Bąℓi مها بالي 🌷",
+				"screen_name": "Bali_Maha",
+				"location": "AUC, Cairo, #Egypt",
+				"description": "Writaholic/Learnaholic. Assoc Prof prac #facdev @cltauc. Part of @VConnecting @HybridPed @ProfHacker @WokeKidsOrg Was #PhDmum @SheffieldUni #DigitalGuardiansEg",
+				"url": "https://t.co/pjHqig6ctM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pjHqig6ctM",
+								"expanded_url": "http://blog.mahabali.me",
+								"display_url": "blog.mahabali.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5833,
+				"friends_count": 4764,
+				"listed_count": 449,
+				"created_at": "Thu Jun 20 23:42:32 +0000 2013",
+				"favourites_count": 65334,
+				"utc_offset": 7200,
+				"time_zone": "Cairo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 52217,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457652639686090754/OQUJ2Nt9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457652639686090754/OQUJ2Nt9.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/987051622583947266/K5fB7i97_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/987051622583947266/K5fB7i97_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1535273520/1380017817",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 22 17:24:38 +0000 2018",
+		"id": 988106313967300600,
+		"id_str": "988106313967300608",
+		"text": "RT @ASlavitt: BREAKING: Trump Admin to force those in tribal communities who lose their jobs off of Medicaid.\n\nThis is a promise broken and…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ASlavitt",
+					"name": "Andy Slavitt",
+					"id": 1383272101,
+					"id_str": "1383272101",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 964,
+			"friends_count": 1035,
+			"listed_count": 112,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 4236,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8266,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 22 14:52:50 +0000 2018",
+			"id": 988068116075720700,
+			"id_str": "988068116075720704",
+			"text": "BREAKING: Trump Admin to force those in tribal communities who lose their jobs off of Medicaid.\n\nThis is a promise… https://t.co/dr7eOen0eA",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dr7eOen0eA",
+						"expanded_url": "https://twitter.com/i/web/status/988068116075720704",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1383272101,
+				"id_str": "1383272101",
+				"name": "Andy Slavitt",
+				"screen_name": "ASlavitt",
+				"location": "Edina, MN and Washington, DC",
+				"description": "Ran Medicare/caid & ACA for Obama. Board Chair, @usofcare. Investing in solutions for under-served populations. @usatoday, columnist. My opinions.",
+				"url": "https://t.co/iPF82cS0sr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iPF82cS0sr",
+								"expanded_url": "http://www.unitedstatesofcare.org",
+								"display_url": "unitedstatesofcare.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 196340,
+				"friends_count": 628,
+				"listed_count": 2615,
+				"created_at": "Sat Apr 27 01:21:12 +0000 2013",
+				"favourites_count": 19062,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19971,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918645127396118529/r76iFmRt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918645127396118529/r76iFmRt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1383272101/1523233151",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 988015583051558900,
+			"quoted_status_id_str": "988015583051558913",
+			"quoted_status": {
+				"created_at": "Sun Apr 22 11:24:06 +0000 2018",
+				"id": 988015583051558900,
+				"id_str": "988015583051558913",
+				"text": "NEW: Native Americans say they should be exempt from Medicaid work requirements. The Trump admin disagrees — an att… https://t.co/88uC9mZaFz",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/88uC9mZaFz",
+							"expanded_url": "https://twitter.com/i/web/status/988015583051558913",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 16868756,
+					"id_str": "16868756",
+					"name": "Dan Diamond",
+					"screen_name": "ddiamond",
+					"location": "Washington, D.C.",
+					"description": "I write @POLITICO Pulse — the morning briefing on health care politics and policy — and host the PULSE CHECK podcast. Got tips? DM me for Signal.",
+					"url": "https://t.co/7QYKGBnpyX",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/7QYKGBnpyX",
+									"expanded_url": "http://www.politico.com/politicopulse",
+									"display_url": "politico.com/politicopulse",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 101549,
+					"friends_count": 910,
+					"listed_count": 2608,
+					"created_at": "Mon Oct 20 15:24:07 +0000 2008",
+					"favourites_count": 42139,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 48382,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "709397",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/903517610431713280/rB7vk8be_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/903517610431713280/rB7vk8be_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/16868756/1398374401",
+					"profile_link_color": "0213CF",
+					"profile_sidebar_border_color": "86A4A6",
+					"profile_sidebar_fill_color": "A0C5C7",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "01fbe706f872cb32",
+					"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+					"place_type": "city",
+					"name": "Washington",
+					"full_name": "Washington, DC",
+					"country_code": "US",
+					"country": "United States",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									-77.119401,
+									38.801826
+								],
+								[
+									-76.909396,
+									38.801826
+								],
+								[
+									-76.909396,
+									38.9953797
+								],
+								[
+									-77.119401,
+									38.9953797
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 533,
+				"favorite_count": 472,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3226,
+			"favorite_count": 4744,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 988015583051558900,
+		"quoted_status_id_str": "988015583051558913",
+		"retweet_count": 3226,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 22 17:15:59 +0000 2018",
+		"id": 988104138398535700,
+		"id_str": "988104138398535682",
+		"text": "@KeeganSLW https://t.co/Zkxg1j0NM7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan🦔Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Zkxg1j0NM7",
+					"expanded_url": "https://twitter.com/jamie_woodward_/status/988049016851238912",
+					"display_url": "twitter.com/jamie_woodward…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 117573509,
+		"in_reply_to_user_id_str": "117573509",
+		"in_reply_to_screen_name": "KeeganSLW",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 964,
+			"friends_count": 1035,
+			"listed_count": 112,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 4236,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8266,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 988049016851238900,
+		"quoted_status_id_str": "988049016851238912",
+		"quoted_status": {
+			"created_at": "Sun Apr 22 13:36:57 +0000 2018",
+			"id": 988049016851238900,
+			"id_str": "988049016851238912",
+			"text": "A delightful little hedgehog from the #IceAge carved in woolly mammoth ivory around 40,000 years ago. It was excava… https://t.co/d4f2y7wwum",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IceAge",
+						"indices": [
+							38,
+							45
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d4f2y7wwum",
+						"expanded_url": "https://twitter.com/i/web/status/988049016851238912",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41582030,
+				"id_str": "41582030",
+				"name": "The Ice Age",
+				"screen_name": "Jamie_Woodward_",
+				"location": "Manchester, UK",
+				"description": "Prof @GeographyUOM: #IceAgeEarth, cold places, #IceAgeArt, the human past, rivers, #microplastics. Author of The Ice Age VSI & other books. Trustee @RGS_IBG",
+				"url": "https://t.co/Sm4RZAGmEH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Sm4RZAGmEH",
+								"expanded_url": "http://www.amazon.co.uk/Jamie-Woodward/e/B00EYG2SC4/ref=ntt_dp_epwbk_0",
+								"display_url": "amazon.co.uk/Jamie-Woodward…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40907,
+				"friends_count": 352,
+				"listed_count": 980,
+				"created_at": "Thu May 21 13:08:04 +0000 2009",
+				"favourites_count": 16790,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12294,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181461752/XKxRtSot.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181461752/XKxRtSot.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/463266682287321088/HouW1-eH_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/463266682287321088/HouW1-eH_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41582030/1390253986",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 377,
+			"favorite_count": 939,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Apr 21 17:37:44 +0000 2018",
 		"id": 987747222925336600,
 		"id_str": "987747222925336577",
