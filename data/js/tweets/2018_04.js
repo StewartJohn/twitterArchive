@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 29 23:59:23 +0000 2018",
+		"id": 990742371007647700,
+		"id_str": "990742371007647745",
+		"text": "@timklapdor @KelpieApp @NotionHQ Let me know what you think of Notion. I’ve been using it for personal organization… https://t.co/iOwG3HZT2F",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timklapdor",
+					"name": "Tim Klapdor",
+					"id": 174124175,
+					"id_str": "174124175",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "KelpieApp",
+					"name": "Kelpie App",
+					"id": 894010772337999900,
+					"id_str": "894010772337999872",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "NotionHQ",
+					"name": "Notion",
+					"id": 708915428454576100,
+					"id_str": "708915428454576128",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iOwG3HZT2F",
+					"expanded_url": "https://twitter.com/i/web/status/990742371007647745",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 990739461599256600,
+		"in_reply_to_status_id_str": "990739461599256576",
+		"in_reply_to_user_id": 174124175,
+		"in_reply_to_user_id_str": "174124175",
+		"in_reply_to_screen_name": "timklapdor",
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 974,
+			"friends_count": 1041,
+			"listed_count": 113,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 4317,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 29 13:38:48 +0000 2018",
+		"id": 990586199982182400,
+		"id_str": "990586199982182400",
+		"text": "RT @k8shep: I worry from day one. Esp as my colleagues are also confused and dismayed at the nasty comments I regularly receive, simply b/c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k8shep",
+					"name": "Kate Sheppard",
+					"id": 193669227,
+					"id_str": "193669227",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 974,
+			"friends_count": 1041,
+			"listed_count": 113,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 4317,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 29 13:01:29 +0000 2018",
+			"id": 990576805093544000,
+			"id_str": "990576805093543936",
+			"text": "I worry from day one. Esp as my colleagues are also confused and dismayed at the nasty comments I regularly receive… https://t.co/XV7cFurBme",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XV7cFurBme",
+						"expanded_url": "https://twitter.com/i/web/status/990576805093543936",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 193669227,
+				"id_str": "193669227",
+				"name": "Kate Sheppard",
+				"screen_name": "k8shep",
+				"location": "Rolla, Missouri",
+				"description": "Mom, #Oisellevolee runner, triathlete, historian of science. Contributing editor @ladyxscience.",
+				"url": "https://t.co/4IFoTECsI7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4IFoTECsI7",
+								"expanded_url": "http://doctorkate.wordpress.com",
+								"display_url": "doctorkate.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 460,
+				"friends_count": 653,
+				"listed_count": 32,
+				"created_at": "Wed Sep 22 12:12:06 +0000 2010",
+				"favourites_count": 2650,
+				"utc_offset": -18000,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4121,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1259621544/IMG_0041.1_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259621544/IMG_0041.1_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/193669227/1484849375",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 990575717846077400,
+			"quoted_status_id_str": "990575717846077442",
+			"quoted_status": {
+				"created_at": "Sun Apr 29 12:57:09 +0000 2018",
+				"id": 990575717846077400,
+				"id_str": "990575717846077442",
+				"text": "https://t.co/Xb87jo7kyF",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/Xb87jo7kyF",
+							"expanded_url": "https://ift.tt/2vIAetj",
+							"display_url": "ift.tt/2vIAetj",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 13499472,
+					"id_str": "13499472",
+					"name": "Heather Munro Prescott",
+					"screen_name": "hmprescott",
+					"location": "Connecticut, USA",
+					"description": "Professor of History at Central CT State University",
+					"url": "https://t.co/4eaQPXSPCy",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/4eaQPXSPCy",
+									"expanded_url": "http://about.me/hmprescott",
+									"display_url": "about.me/hmprescott",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 773,
+					"friends_count": 561,
+					"listed_count": 94,
+					"created_at": "Fri Feb 15 01:53:13 +0000 2008",
+					"favourites_count": 5553,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 11268,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EDECE9",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/902580852764184577/HP0MLsfM_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/902580852764184577/HP0MLsfM_normal.jpg",
+					"profile_link_color": "088253",
+					"profile_sidebar_border_color": "D3D2CF",
+					"profile_sidebar_fill_color": "E3E2DE",
+					"profile_text_color": "634047",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "und"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 990575717846077400,
+		"quoted_status_id_str": "990575717846077442",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 29 02:37:12 +0000 2018",
+		"id": 990419700206260200,
+		"id_str": "990419700206260227",
+		"text": "Watching @AlannaRoyale for the second time in a week. She’s fantastic. @daniellynds @taevans @amcollier",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlannaRoyale",
+					"name": "ALANNA ROYALE",
+					"id": 759817850,
+					"id_str": "759817850",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "daniellynds",
+					"name": "Daniel Lynds",
+					"id": 12069412,
+					"id_str": "12069412",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "taevans",
+					"name": "Tom Evans",
+					"id": 17996583,
+					"id_str": "17996583",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"screen_name": "amcollier",
+					"name": "Anne of Green Mountains",
+					"id": 17300374,
+					"id_str": "17300374",
+					"indices": [
+						93,
+						103
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC",
+			"url": "http://t.co/iCl6AAUPBN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/iCl6AAUPBN",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 974,
+			"friends_count": 1041,
+			"listed_count": 113,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 4317,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 28 22:36:37 +0000 2018",
 		"id": 990359156283584500,
 		"id_str": "990359156283584512",
