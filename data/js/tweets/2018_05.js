@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 16 23:27:40 +0000 2018",
+		"id": 996894985445404700,
+		"id_str": "996894985445404672",
+		"text": "RT @Gaohmee: “This isn’t a president. This is a Nazi.” https://t.co/i6OTqcgrym",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gaohmee",
+					"name": "Jennifer Scheurle",
+					"id": 3226765068,
+					"id_str": "3226765068",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/i6OTqcgrym",
+					"expanded_url": "https://twitter.com/cspan/status/996845374819192833",
+					"display_url": "twitter.com/cspan/status/9…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC. he/him/his",
+			"url": "https://t.co/iCl6AADeKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCl6AADeKf",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 987,
+			"friends_count": 1061,
+			"listed_count": 115,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 4468,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8421,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 16 21:30:32 +0000 2018",
+			"id": 996865507860009000,
+			"id_str": "996865507860008960",
+			"text": "“This isn’t a president. This is a Nazi.” https://t.co/i6OTqcgrym",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/i6OTqcgrym",
+						"expanded_url": "https://twitter.com/cspan/status/996845374819192833",
+						"display_url": "twitter.com/cspan/status/9…",
+						"indices": [
+							42,
+							65
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3226765068,
+				"id_str": "3226765068",
+				"name": "Jennifer Scheurle",
+				"screen_name": "Gaohmee",
+				"location": "Melbourne, Victoria",
+				"description": "Game Design Lead at @OPXSpace making games in collab with NASA. GOTY Winner, #AGDA17. Ship builder @objectsgame. Chair of @IGDA_WIGSIG. Fear not. 🏹 She/Her",
+				"url": "https://t.co/6rphyYJkFd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6rphyYJkFd",
+								"expanded_url": "http://www.gaohmee.com/",
+								"display_url": "gaohmee.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18981,
+				"friends_count": 1787,
+				"listed_count": 355,
+				"created_at": "Tue May 26 05:17:55 +0000 2015",
+				"favourites_count": 51628,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28156,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/996537701074485248/aUCGVeyw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/996537701074485248/aUCGVeyw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3226765068/1522735187",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 996845374819192800,
+			"quoted_status_id_str": "996845374819192833",
+			"quoted_status": {
+				"created_at": "Wed May 16 20:10:32 +0000 2018",
+				"id": 996845374819192800,
+				"id_str": "996845374819192833",
+				"text": "President Trump during California #SanctuaryCities Roundtable: \"These aren't people. These are animals.\"\n\nFull vide… https://t.co/LeFNM3A4hd",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "SanctuaryCities",
+							"indices": [
+								34,
+								50
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/LeFNM3A4hd",
+							"expanded_url": "https://twitter.com/i/web/status/996845374819192833",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 15675138,
+					"id_str": "15675138",
+					"name": "CSPAN",
+					"screen_name": "cspan",
+					"location": "Washington, D.C.",
+					"description": "Capitol Hill. The White House. National Politics.",
+					"url": "https://t.co/L3A4afzX6T",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/L3A4afzX6T",
+									"expanded_url": "http://www.c-span.org",
+									"display_url": "c-span.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1926717,
+					"friends_count": 8856,
+					"listed_count": 13330,
+					"created_at": "Thu Jul 31 14:29:10 +0000 2008",
+					"favourites_count": 997,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 34206,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "04005F",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/315586625/twitter_cspan_icon_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/315586625/twitter_cspan_icon_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/15675138/1481304696",
+					"profile_link_color": "04007D",
+					"profile_sidebar_border_color": "00012B",
+					"profile_sidebar_fill_color": "FFFFFF",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3084,
+				"favorite_count": 1913,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 26,
+			"favorite_count": 84,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 996845374819192800,
+		"quoted_status_id_str": "996845374819192833",
+		"retweet_count": 26,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 14 21:45:25 +0000 2018",
 		"id": 996144476962902000,
 		"id_str": "996144476962902016",
