@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Tue May 29 21:48:34 +0000 2018",
+		"id": 1001581087267721200,
+		"id_str": "1001581087267721217",
+		"text": "RT @drgong: If you're interested in adding to the body of research on open education, open pedagogy, #OER, please consider applying. You'll…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OER",
+					"indices": [
+						101,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drgong",
+					"name": "Regina Gong",
+					"id": 19430162,
+					"id_str": "19430162",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC. he/him/his",
+			"url": "https://t.co/iCl6AADeKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCl6AADeKf",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 991,
+			"friends_count": 1062,
+			"listed_count": 116,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 4537,
+			"utc_offset": -18000,
+			"time_zone": "Central Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8455,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 29 13:16:38 +0000 2018",
+			"id": 1001452256548532200,
+			"id_str": "1001452256548532225",
+			"text": "If you're interested in adding to the body of research on open education, open pedagogy, #OER, please consider appl… https://t.co/Vw2BuTr5fv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OER",
+						"indices": [
+							89,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Vw2BuTr5fv",
+						"expanded_url": "https://twitter.com/i/web/status/1001452256548532225",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19430162,
+				"id_str": "19430162",
+				"name": "Regina Gong",
+				"screen_name": "drgong",
+				"location": "Okemos, MI",
+				"description": "Librarian, #OER leader, Open Education Group Research Fellow, mother of two teens, foodie who wants to make this world a better place. Calls 🇺🇸🇨🇦🇵🇭🇨🇳 home.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 867,
+				"friends_count": 1365,
+				"listed_count": 37,
+				"created_at": "Sat Jan 24 03:30:02 +0000 2009",
+				"favourites_count": 8543,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3259,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/993543868514619392/zXu4bqTb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/993543868514619392/zXu4bqTb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19430162/1502214804",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1001114845427716100,
+			"quoted_status_id_str": "1001114845427716096",
+			"quoted_status": {
+				"created_at": "Mon May 28 14:55:53 +0000 2018",
+				"id": 1001114845427716100,
+				"id_str": "1001114845427716096",
+				"text": "Only three more days until the deadline for the 2018-2019 #OER Research Fellows! If you live in the U.S. or Canada… https://t.co/pZwgfxEyss",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "OER",
+							"indices": [
+								58,
+								62
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/pZwgfxEyss",
+							"expanded_url": "https://twitter.com/i/web/status/1001114845427716096",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 45002394,
+					"id_str": "45002394",
+					"name": "John Hilton III",
+					"screen_name": "johnhiltoniii",
+					"location": "",
+					"description": "",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 540,
+					"friends_count": 161,
+					"listed_count": 26,
+					"created_at": "Fri Jun 05 21:32:35 +0000 2009",
+					"favourites_count": 532,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 482,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/575680770137722881/WkkQhBdO_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/575680770137722881/WkkQhBdO_normal.jpeg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 15,
+				"favorite_count": 12,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1001114845427716100,
+		"quoted_status_id_str": "1001114845427716096",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 28 18:27:19 +0000 2018",
 		"id": 1001168052187271200,
 		"id_str": "1001168052187271168",
