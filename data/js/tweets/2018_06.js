@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 13 01:34:11 +0000 2018",
+		"id": 1006711296493006800,
+		"id_str": "1006711296493006849",
+		"text": "RT @amahnke: If you vote GOP in November, THIS is what you’re voting for—concentration camps for kids. https://t.co/tk4WZBT8QA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amahnke",
+					"name": "Aaron Mahnke",
+					"id": 14519030,
+					"id_str": "14519030",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tk4WZBT8QA",
+					"expanded_url": "https://twitter.com/WesleyLowery/status/1006665631134076929",
+					"display_url": "twitter.com/WesleyLowery/s…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 73977188,
+			"id_str": "73977188",
+			"name": "John Stewart",
+			"screen_name": "jstew511",
+			"location": "Norman, OK",
+			"description": "Father, husband, historian of chemistry, Office of Digital Learning at OU. Interested in #edtech, #gamification, #OER, #GBL, & learning! #goblinFLC. he/him/his",
+			"url": "https://t.co/iCl6AADeKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iCl6AADeKf",
+							"expanded_url": "http://johnastewart.org",
+							"display_url": "johnastewart.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1000,
+			"friends_count": 1069,
+			"listed_count": 116,
+			"created_at": "Sun Sep 13 21:17:20 +0000 2009",
+			"favourites_count": 4649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8538,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/530569043489468416/LQfviQ7s_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/73977188/1400003593",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 13 00:10:54 +0000 2018",
+			"id": 1006690337367248900,
+			"id_str": "1006690337367248903",
+			"text": "If you vote GOP in November, THIS is what you’re voting for—concentration camps for kids. https://t.co/tk4WZBT8QA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tk4WZBT8QA",
+						"expanded_url": "https://twitter.com/WesleyLowery/status/1006665631134076929",
+						"display_url": "twitter.com/WesleyLowery/s…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14519030,
+				"id_str": "14519030",
+				"name": "Aaron Mahnke",
+				"screen_name": "amahnke",
+				"location": "New England",
+				"description": "Writer of dark tales, creator of @lorepodcast, @lore_tv on Amazon, and @theworldoflore from @penguinrandom. Listen for free: https://t.co/tDM1FI8DSm",
+				"url": "https://t.co/ThypYH5Mfx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ThypYH5Mfx",
+								"expanded_url": "http://www.lorepodcast.com/about",
+								"display_url": "lorepodcast.com/about",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/tDM1FI8DSm",
+								"expanded_url": "http://ApplePodcasts.com/Lore",
+								"display_url": "ApplePodcasts.com/Lore",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 37107,
+				"friends_count": 380,
+				"listed_count": 410,
+				"created_at": "Thu Apr 24 22:44:44 +0000 2008",
+				"favourites_count": 21794,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 58590,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "336699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/996010035829530624/8VMIlp9E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/996010035829530624/8VMIlp9E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14519030/1524777606",
+				"profile_link_color": "336699",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1006665631134076900,
+			"quoted_status_id_str": "1006665631134076929",
+			"quoted_status": {
+				"created_at": "Tue Jun 12 22:32:44 +0000 2018",
+				"id": 1006665631134076900,
+				"id_str": "1006665631134076929",
+				"text": "The President of the United States reportedly considering construction of a prison camp to hold up to 5,000 children https://t.co/H1ovc4I7pv",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/H1ovc4I7pv",
+							"expanded_url": "http://www.mcclatchydc.com/news/politics-government/white-house/article213026379.html",
+							"display_url": "mcclatchydc.com/news/politics-…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 14849562,
+					"id_str": "14849562",
+					"name": "Wesley",
+					"screen_name": "WesleyLowery",
+					"location": "wesley.lowery@washpost.com",
+					"description": "National reporter at The Washington Post",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 601501,
+					"friends_count": 8025,
+					"listed_count": 4743,
+					"created_at": "Tue May 20 22:42:46 +0000 2008",
+					"favourites_count": 30371,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 136,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "220907",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/958332319789658112/OAPmZghq_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/958332319789658112/OAPmZghq_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/14849562/1404225034",
+					"profile_link_color": "2FC2EF",
+					"profile_sidebar_border_color": "181A1E",
+					"profile_sidebar_fill_color": "252429",
+					"profile_text_color": "666666",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 7403,
+				"favorite_count": 4375,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 40,
+			"favorite_count": 107,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1006665631134076900,
+		"quoted_status_id_str": "1006665631134076929",
+		"retweet_count": 40,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jun 13 00:04:59 +0000 2018",
 		"id": 1006688850272546800,
 		"id_str": "1006688850272546817",
